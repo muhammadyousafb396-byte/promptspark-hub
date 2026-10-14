@@ -2547,7 +2547,238 @@ const PROMPTS = [
       "trending": false,
       "popularity": 90
   }
-
+,
+  {
+      "id": "miniature-world-asmr-veo3",
+      "title": "Miniature World ASMR — Veo 3 Prompt for Viral TikTok Niche Pages",
+      "category": "Video Prompts",
+      "tool": "Veo 3",
+      "difficulty": "Beginner",
+      "desc": "Veo 3 builds hyper-detailed miniature worlds — tiny construction sites, pocket-sized ramen shops — in seamless loops that rack up massive TikTok watch time.",
+      "prompt": "You are a miniature-world director. Generate a hyper-detailed MINIATURE WORLD video loop in Veo 3. The scene: [SCENE, for example a tiny construction site building a skyscraper, a pocket-sized ramen kitchen with steam rising, a miniature harbor with tiny cargo ships]. Camera: locked-off macro close-up, shallow depth of field, warm cozy lighting. Motion: continuous satisfying activity — tiny workers hammering, mini cranes lifting, chopsticks lifting noodles — every element moving in a natural loop. Texture: extreme detail — dust particles, tiny reflections, realistic materials. Audio mood: soft ASMR — tapping, sizzling, gentle clinks. Rules: no humans at normal scale, no text on screen, no camera cuts — one perfect continuous loop. Aspect ratio 9:16 for TikTok. The loop point must be invisible: the last frame flows into the first. Make it so satisfying that viewers watch it five times without noticing.",
+      "howto": [
+          "Open Veo 3, paste the prompt, and set aspect ratio to 9:16.",
+          "Pick one scene per video — tiny worlds work best when the concept is instantly readable.",
+          "Generate 2-3 variations and keep the one with the cleanest loop point.",
+          "Add trending ASMR audio in TikTok's editor — soft tapping sounds boost completion rate.",
+          "Post with a caption that asks a question ('What should the tiny workers build next?') to drive comments."
+      ],
+      "tips": [
+          "Loop videos earn 2-3x the watch time of linear clips — the invisible loop point is your whole strategy.",
+          "Series framing ('Tiny World #12') turns one viral loop into a binge-watching habit.",
+          "Zoom crops of the same clip make 3 different posts — reuse every render."
+      ],
+      "tags": ["tiktok", "asmr", "miniature", "loops", "creator-niche"],
+      "trending": false,
+      "popularity": 93
+  },
+  {
+      "id": "talking-food-characters-kling",
+      "title": "Talking Food Characters — Kling Prompt for Funny TikTok Food Pages",
+      "category": "Video Prompts",
+      "tool": "Kling",
+      "difficulty": "Beginner",
+      "desc": "Kling animates funny talking food characters with big personalities — a grumpy avocado, a dramatic pizza slice — the comedy format pulling 100M+ views on TikTok.",
+      "prompt": "You are a comedy animator. Create a TALKING FOOD CHARACTER skit in Kling. Character: [FOOD, for example an avocado] with personality [PERSONALITY, for example grumpy old man]. Scene: [SETTING, for example a kitchen counter at night, the inside of a fridge, a restaurant table]. The food item has expressive cartoon eyes and a mouth that syncs to this dialogue: '[DIALOGUE LINE, for example: I have been sitting in this fridge for nine days and nobody respects me.]'. Animation: bouncy, exaggerated squash-and-stretch motion; the character gestures with tiny arms while talking. Camera: medium close-up, slight handheld wobble for comedy energy. Lighting: bright and colorful, the food looks delicious and glossy. Comedy rule: the joke must land in the first 2 seconds — lead with the funniest line, then the setup. No subtitles — the character's voice carries it. 9:16 vertical, 8 seconds, punchy and rewatchable.",
+      "howto": [
+          "Open Kling, paste the prompt, and fill in your food, personality and dialogue line.",
+          "Write the dialogue line first — the whole clip hangs on one funny sentence.",
+          "Keep clips under 10 seconds; comedy dies with length.",
+          "Add a trending comedic sound or voice filter in TikTok to match the character.",
+          "Post daily — talking-food pages win on volume; one character can star in 50 skits."
+      ],
+      "tips": [
+          "Give every food a catchphrase — recurring characters build followers faster than one-off jokes.",
+          "Duet and stitch other food videos with your character reacting; free reach from their audience."
+      ],
+      "tags": ["tiktok", "comedy", "food", "characters", "creator-niche"],
+      "trending": false,
+      "popularity": 91
+  },
+  {
+      "id": "ai-house-restoration-sora",
+      "title": "AI House Restoration Before/After — Sora Prompt for YouTube Niche Channels",
+      "category": "Video Prompts",
+      "tool": "Sora",
+      "difficulty": "Intermediate",
+      "desc": "Sora generates cinematic before/after house restorations — decayed rooms transforming into dream interiors — a 100M+ view faceless YouTube niche with insane retention.",
+      "prompt": "You are a restoration filmmaker. Create a BEFORE/AFTER house restoration sequence in Sora. The room: [ROOM, for example a Victorian living room, a farmhouse kitchen, a 1970s basement]. Opening shot (0-3s): the room in decay — peeling paint, broken windows, dust in shafts of light, slow push-in. Middle (3-8s): the transformation — paint brightening on walls, furniture materializing, light warming up — a smooth magical time-lapse effect, no cuts, one continuous camera move. Final (8-12s): the restored room in full glory — golden hour light, cozy details, slow orbit revealing every corner. Style: cinematic real estate photography, 24fps feel, rich color grade. Sound mood: satisfying whooshes and warm ambient tones. Rule: the transformation must feel earned — keep the camera moving through the whole 12 seconds so viewers cannot look away. 16:9 for YouTube.",
+      "howto": [
+          "Open Sora, paste the prompt, and set 16:9 for YouTube (9:16 for Shorts).",
+          "Describe the decay vividly — the worse the before, the more satisfying the after.",
+          "Generate the full 12-second clip in one pass so the transformation stays continuous.",
+          "Pair with a voiceover naming each change ('the floors were rotten...') to hold retention.",
+          "Title every video with the format: 'Abandoned [ROOM] to Dream Home'."
+      ],
+      "tips": [
+          "Before/after is the highest-retention format on YouTube — the payoff at the end keeps viewers glued.",
+          "End every video teasing the next room; restoration channels binge like TV series."
+      ],
+      "tags": ["youtube", "restoration", "before-after", "creator-niche"],
+      "trending": false,
+      "popularity": 94
+  },
+  {
+      "id": "secret-bunker-restoration-runway",
+      "title": "Secret Bunker Restoration — Runway Prompt for High-Retention YouTube",
+      "category": "Video Prompts",
+      "tool": "Runway",
+      "difficulty": "Intermediate",
+      "desc": "Runway renders secret bunker restorations — a hidden underground shelter rebuilt step by step — the high-retention storytelling format dominating faceless YouTube.",
+      "prompt": "You are a cinematic storyteller. Create a SECRET BUNKER RESTORATION scene in Runway. Discovery: [ENTRANCE, for example a rusted hatch behind an abandoned farmhouse, a trapdoor in a forest floor, a sealed door in a basement wall]. Camera descends into darkness — flashlight beam revealing concrete walls, old bunks, dust-covered supplies. Restoration sequence: lights flickering on one by one, rust scrubbing itself off metal, fresh paint spreading across walls, the bunker transforming into a cozy survival retreat — warm lamps, stocked shelves, a glowing fireplace. Style: documentary realism, handheld camera feel, dramatic chiaroscuro lighting. Pacing: discovery slow and mysterious (4s), restoration fast and satisfying (8s), reveal slow and triumphant (4s). 16:9. Sound mood: echoing footsteps, metallic clanks, then warm ambient hum. No people on screen — the bunker is the character.",
+      "howto": [
+          "Open Runway, paste the prompt, and generate at 16:9.",
+          "Story beats matter more than visuals — discovery, transformation, reveal in that order.",
+          "Chain 2-3 generated scenes into one 45-60 second video for maximum watch time.",
+          "Add a mystery voiceover ('Nobody has opened this hatch in 40 years...') before the reveal.",
+          "Use consistent bunker details across episodes so viewers recognize your series."
+      ],
+      "tips": [
+          "Mystery plus transformation is the retention double-punch — viewers stay for both the secret and the payoff.",
+          "Number your episodes ('Bunker #7') — serialized restorations outperform one-offs."
+      ],
+      "tags": ["youtube", "restoration", "storytelling", "creator-niche"],
+      "trending": false,
+      "popularity": 90
+  },
+  {
+      "id": "primitive-tech-builds-flow",
+      "title": "Primitive Tech Builds — Google Flow Prompt for YouTube Niche Channels",
+      "category": "Video Prompts",
+      "tool": "Google Flow",
+      "difficulty": "Intermediate",
+      "desc": "Google Flow breaks primitive-tech builds into multi-scene clips — mud huts, bamboo water wheels, stone furnaces — the viral faceless survival niche on YouTube.",
+      "prompt": "You are a primitive-technology documentarian. Plan a multi-scene BUILD sequence in Google Flow. The build: [PROJECT, for example a mud-brick hut with thatched roof, a bamboo water wheel, a stone furnace]. Scene 1 (establishing): lush jungle clearing, the builder's hands gathering materials — mud, bamboo, stone. Scene 2 (process): hands shaping bricks, lashing bamboo with vine rope, stacking stones — satisfying close-ups, no faces. Scene 3 (progress): the structure rising, time-lapse feel, camera slowly orbiting. Scene 4 (payoff): the finished build in golden light — smoke from the furnace, water flowing from the wheel. Style: hyper-realistic, nature documentary cinematography, warm earthy grade. Rule: hands only, never faces — the craft is the star. Each scene 6-8 seconds, seamless cuts between them. 16:9 for YouTube. Sound mood: nature ambience, squelching mud, snapping bamboo.",
+      "howto": [
+          "Open Google Flow, paste the prompt, and generate each of the 4 scenes separately.",
+          "Keep 'hands only' in every prompt — faceless is the niche's whole identity.",
+          "Stitch scenes in order with simple hard cuts; the build's progress is the transition.",
+          "Add text overlays naming each step ('Day 3: firing the bricks') for retention.",
+          "Release builds as multi-part series — part 1 discovery drives parts 2 and 3."
+      ],
+      "tips": [
+          "Google Flow's multi-scene strength fits builds perfectly — one prompt per phase keeps quality high.",
+          "The 'no talking, just building' format travels globally — no language barrier, worldwide audience."
+      ],
+      "tags": ["youtube", "survival", "diy", "creator-niche"],
+      "trending": false,
+      "popularity": 89
+  },
+  {
+      "id": "nature-quote-reels-veo3",
+      "title": "Inspirational Nature Quote Reels — Veo 3 Prompt for Instagram & Facebook",
+      "category": "Video Prompts",
+      "tool": "Veo 3",
+      "difficulty": "Beginner",
+      "desc": "Veo 3 creates breathtaking nature scenes for inspirational quote reels — waterfalls, sunrises, misty forests — the evergreen format dominating Instagram and Facebook.",
+      "prompt": "You are a nature cinematographer. Generate a CINEMATIC NATURE scene in Veo 3 for a quote reel. The landscape: [LANDSCAPE, for example a waterfall in a misty rainforest, a sunrise over mountain peaks, ocean waves under a pink sky]. Camera: slow majestic push-in or gentle aerial drift, 8-10 seconds, no cuts. Lighting: golden hour or soft dawn glow, volumetric light rays, rich saturated colors. Atmosphere: mist, floating particles, birds or water in motion — the scene must feel alive and emotional. Composition: leave the upper third of the frame as clean sky or soft blur — space for quote text overlay. Style: National Geographic realism, ultra-detailed, 24fps cinematic feel. Rule: no people, no buildings, no text in the video itself — pure nature. 9:16 for Reels. The mood should make a viewer stop scrolling in under one second.",
+      "howto": [
+          "Open Veo 3, paste the prompt, and generate at 9:16.",
+          "Leave headroom in the frame — the quote text needs clean space to sit on.",
+          "Overlay your quote in a bold, readable font; keep it under 12 words.",
+          "Post at sunrise/sunset times in your audience's timezone — quote reels peak with the mood.",
+          "Batch 7 scenes in one sitting and schedule a full week of daily posts."
+      ],
+      "tips": [
+          "Quote reels are the lowest-effort, highest-consistency niche — one scene plus one quote, every day.",
+          "Ask a question in the caption ('Tag someone who needs this today') to trigger shares and tags."
+      ],
+      "tags": ["instagram", "facebook", "quotes", "reels", "creator-niche"],
+      "trending": false,
+      "popularity": 87
+  },
+  {
+      "id": "cozy-autumn-wallpapers-midjourney",
+      "title": "Cozy Autumn Phone Wallpapers — Midjourney Prompt for Instagram Theme Pages",
+      "category": "Image Prompts",
+      "tool": "Midjourney",
+      "difficulty": "Beginner",
+      "desc": "Midjourney generates cozy autumn phone wallpapers — pumpkin-spice palettes, rainy windows, warm cabins — a seasonal viral category for Instagram theme pages.",
+      "prompt": "Cozy autumn phone wallpaper: [SCENE, for example a rain-streaked window overlooking orange maple trees, a warm cabin porch with pumpkins and a steaming mug, a forest path covered in golden leaves]. Style: dreamy photorealism, rich amber and burnt-orange palette, soft bokeh, gentle film grain. Lighting: warm window glow or soft overcast daylight, volumetric mist. Composition: vertical 9:16, strong focal point in the lower two-thirds, soft blurred upper area for clock and widgets. Details: falling leaves, glowing string lights, knitted textures, steam rising — maximum coziness. Mood: nostalgic, calm, the feeling of a perfect October afternoon. Ultra-high detail, no people, no text, no watermark --ar 9:16 --v 6 --style raw",
+      "howto": [
+          "Open Midjourney, paste the prompt, and pick your scene.",
+          "Generate 4 variations and upscale the coziest one.",
+          "Post as a carousel — 5 wallpapers in one post outperforms singles.",
+          "Add 'comment WALLPAPER for the HD link' to drive engagement.",
+          "Repeat weekly with new scenes — seasonal pages grow on freshness."
+      ],
+      "tips": [
+          "Wallpaper accounts grow through saves — saves are Instagram's strongest ranking signal.",
+          "October is peak season; start posting autumn content in late September."
+      ],
+      "tags": ["instagram", "wallpaper", "autumn", "creator-niche"],
+      "trending": false,
+      "popularity": 86
+  },
+  {
+      "id": "facebook-niche-finder-chatgpt",
+      "title": "Facebook Page Niche Finder — ChatGPT Prompt for Underserved FB Niches",
+      "category": "Text Prompts",
+      "tool": "ChatGPT",
+      "difficulty": "Intermediate",
+      "desc": "ChatGPT finds underserved Facebook niches in 2026 — hungry audiences with weak competition — before you spend a month posting into the void.",
+      "prompt": "You are a Facebook niche analyst. Find me UNDERSERVED page niches for 2026. My constraints: [LANGUAGE], [CONTENT TYPE I can make, for example AI videos, quote images, short clips], [HOURS PER WEEK I can post]. Step 1: list 15 Facebook page niches with strong 2026 demand — use audience signals like group sizes, comment velocity and share rates, not guesses. Step 2: for each niche, score competition 1-10 by checking how many active pages post daily and how original their content is. Step 3: shortlist the 5 niches with the best demand-to-competition ratio and explain WHY each is underserved in one sentence. Step 4: for my top pick, give me a 30-day launch plan — page name ideas, first 20 post concepts, posting times for my timezone, and the exact metrics that tell me to double down or pivot at day 30. Be brutally honest about which niches are saturated traps.",
+      "howto": [
+          "Open ChatGPT, paste the prompt, and fill in your language, content type and hours.",
+          "Verify the top 3 niches yourself — search Facebook and check the biggest pages' posting frequency.",
+          "Pick the niche where top pages look lazy — weak competition is your opening.",
+          "Launch with the 30-day plan, but judge only at day 30 — Facebook needs time to find your audience.",
+          "Re-run with your real metrics monthly to sharpen the strategy."
+      ],
+      "tips": [
+          "Facebook rewards consistency over virality — 2 good posts daily beats 1 viral post weekly.",
+          "Niches with active Facebook Groups are gold — built-in audiences you can learn from before launching."
+      ],
+      "tags": ["facebook", "niche discovery", "creator-niche", "chatgpt"],
+      "trending": false,
+      "popularity": 88
+  },
+  {
+      "id": "tiktok-hook-opener-pack-gemini",
+      "title": "TikTok Hook Script Pack — Gemini Prompt for 7-Second Viral Openers",
+      "category": "Text Prompts",
+      "tool": "Gemini",
+      "difficulty": "Beginner",
+      "desc": "Gemini writes 7-second viral openers tailored to your niche — the first 3 seconds decide everything on TikTok, and this prompt hands you 30 of them.",
+      "prompt": "You are a TikTok hook writer. Write me 30 VIRAL OPENERS for my niche. My niche: [NICHE]. My typical video: [FORMAT, for example talking-head tips, AI animation clips, screen recordings]. My audience's biggest pain or curiosity: [PAIN POINT]. Rules for every opener: under 7 seconds spoken, one single idea, no greetings, no 'welcome back'. Mix these 5 proven hook types: 1) the bold claim ('This [thing] is lying to you'), 2) the curiosity gap ('Nobody talks about the 3rd one'), 3) the negative hook ('Stop doing [X]'), 4) the number hook ('3 [things] that...'), 5) the story hook ('I tried [X] for 30 days'). For each opener, add the first visual to show on screen and one line explaining why it stops the scroll. End by ranking your top 5 and telling me which to test first this week.",
+      "howto": [
+          "Open Gemini, paste the prompt, and fill in your niche, format and audience pain point.",
+          "Film the top 5 openers first — test all five before writing more.",
+          "Read each opener out loud; if it takes more than 7 seconds, cut words.",
+          "Track which hook type wins and ask Gemini for 20 more of that type.",
+          "Recycle winning openers across new topics — hooks are reusable assets."
+      ],
+      "tips": [
+          "The opener IS the video on TikTok — 80% of viewers decide in the first 3 seconds.",
+          "Negative hooks ('stop doing X') consistently outperform positive ones — use them, but deliver real value after."
+      ],
+      "tags": ["tiktok", "hooks", "scripts", "creator-niche"],
+      "trending": false,
+      "popularity": 92
+  },
+  {
+      "id": "blue-ocean-niche-scanner-claude",
+      "title": "Blue-Ocean Niche Scanner — Claude Prompt for Zero-Competition Creator Niches",
+      "category": "Text Prompts",
+      "tool": "Claude",
+      "difficulty": "Advanced",
+      "desc": "Claude scans for zero-competition creator niches — scoring empty lanes by demand, difficulty and monetization — so you launch where nobody else is.",
+      "prompt": "You are a blue-ocean strategist for content creators. Find me ZERO-COMPETITION niches. My skills: [SKILLS, for example AI video generation, scriptwriting]. My platforms: [PLATFORMS]. My monetization goal: [GOAL, for example ad revenue, digital products, sponsorships]. Step 1: brainstorm 25 niche candidates at the intersection of my skills and 2026 demand — include weird, specific micro-niches, not broad categories. Step 2: score each 1-10 on three axes: proven audience demand, current competition density, and monetization fit for my goal. Step 3: eliminate anything scoring above 5 on competition — I only want empty lanes. Step 4: for the top 3 survivors, write a full opportunity brief: why the lane is empty, who the audience is, 10 starter video ideas, the format that fits best, and the realistic 90-day milestones. Step 5: name the single biggest risk for each niche and how I would kill the channel fast if the risk materializes. Think like an investor, not a cheerleader.",
+      "howto": [
+          "Open Claude, paste the prompt, and be specific about your real skills — vague inputs get vague niches.",
+          "Manually verify the top 3 lanes are actually empty — search each platform for 15 minutes.",
+          "Pick the niche with the clearest monetization path, not just the emptiest lane.",
+          "Commit to 30 videos before judging — blue-ocean niches need time for the audience to find you.",
+          "Re-run quarterly; today's empty lane is tomorrow's gold rush."
+      ],
+      "tips": [
+          "The best blue-ocean niches look boring to everyone but the audience — weird specificity is a moat.",
+          "Document your niche-finding process as content — 'how I found an empty niche' videos perform."
+      ],
+      "tags": ["niche discovery", "youtube", "tiktok", "creator-niche"],
+      "trending": false,
+      "popularity": 90
+  }
 ];
 
 if (typeof module !== "undefined") {
