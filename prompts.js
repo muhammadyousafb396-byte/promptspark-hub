@@ -2778,6 +2778,236 @@ const PROMPTS = [
       "tags": ["niche discovery", "youtube", "tiktok", "creator-niche"],
       "trending": false,
       "popularity": 90
+  },
+  {
+    id: "hidden-miniature-doorways-veo3",
+    title: "Hidden Miniature Doorways Video Prompt for Veo 3",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Beginner",
+    desc: "Tiny glowing miniature doorways hidden at the base of real-world walls — a magical macro concept built for TikTok's viral curiosity niche.",
+    prompt: "Extreme macro video shot of a tiny wooden miniature doorway glowing warm light from within, set at the base of a giant weathered brick wall in a real European old-town street, morning mist drifting past, a miniature iron lantern flickering beside the door, the door slowly creaks open revealing a cozy golden-lit interior with tiny furniture silhouettes, a curious cat's paw reaches in from the edge of frame, dust particles sparkle in a ray of dawn light, shallow depth of field keeping the doorway razor sharp while the giant street blurs dreamily behind, rich warm and cool color contrast, cinematic 24fps motion, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark, no humans",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt exactly as written — the macro framing details matter most.",
+      "Set the aspect ratio to 9:16 for TikTok, Shorts and Reels before generating.",
+      "Generate 3-4 variations and keep the one with the smoothest door movement.",
+      "Add a curiosity hook caption like 'Someone lives under this wall...' with trending ambient audio, then post."
+    ],
+    tips: [
+      "Swap the street for a forest floor, garden wall or bookshelf to start a whole series.",
+      "Post a 'making of' version showing the miniature set — behind-the-scenes posts double engagement."
+    ],
+    tags: ["creator-niche", "tiktok", "youtube", "miniatures", "viral"],
+    trending: true,
+    popularity: 94
+  },
+  {
+    id: "parkour-animals-stunts-kling",
+    title: "Parkour Animals Stunts Video Prompt for Kling",
+    category: "Video Prompts",
+    tool: "Kling",
+    difficulty: "Beginner",
+    desc: "Athletic animals performing jaw-dropping parkour stunts in slow motion — a comedy-action niche made for viral TikTok animal pages.",
+    prompt: "Slow-motion video of an athletic tabby cat performing a parkour stunt, sprinting up a brick wall in a sunny backyard, launching off the wall mid-air with all four paws extended, then landing gracefully on a wooden fence, tiny dust particles bursting on impact, camera tracks alongside the jump in smooth side-profile motion, joyful golden-hour lighting, backyard slightly blurred with colorful children's toys visible, the cat's fur rippling with motion, comedic timing as a surprised dog watches from a window in the background, exaggerated cinematic sports-commentary energy, vibrant saturated colors, photorealistic fur detail, 24fps smooth motion, 9:16 vertical, no text, no watermark, no humans in frame",
+    howto: [
+      "Open Kling and start a new text-to-video generation.",
+      "Paste the full prompt and keep every motion detail — Kling handles fast action best with explicit direction.",
+      "Set aspect ratio to 9:16 and duration to the longest clip for a full stunt arc.",
+      "Generate several takes and pick the one with the cleanest landing frame.",
+      "Add a sports-commentator voiceover or dramatic music and post with animal-comedy hashtags."
+    ],
+    tips: [
+      "Rotate animals and stunts — dogs, squirrels, raccoons — to keep the page fresh.",
+      "Slow the best landing frame into a freeze-frame thumbnail; it boosts click-through."
+    ],
+    tags: ["creator-niche", "tiktok", "animals", "comedy"],
+    trending: true,
+    popularity: 96
+  },
+  {
+    id: "city-reclaimed-by-nature-sora",
+    title: "City Reclaimed by Nature Video Prompt for Sora",
+    category: "Video Prompts",
+    tool: "Sora",
+    difficulty: "Intermediate",
+    desc: "An abandoned city street reclaimed by nature in flowing time-lapse — a cinematic what-if niche that hooks faceless YouTube audiences.",
+    prompt: "Stunning AI time-lapse video of an abandoned modern city street being reclaimed by nature, seasons flashing by as vines creep up glass skyscrapers, moss swallows cracked asphalt, wildflowers burst through car roofs, flocks of birds reclaim the sky above broken billboards, rain washes clean then sun dries the scene in fast flowing cycles, camera slowly pushes forward down the empty boulevard in one continuous glide, dramatic shifting light from dawn to storm to dusk, rich greens against grey concrete, hyper-detailed foliage growth, cinematic documentary realism, 24fps, 16:9, no text, no watermark, no people",
+    howto: [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the prompt in full — Sora's strength is smooth temporal transitions, so keep the season-cycle wording.",
+      "Use 16:9 for YouTube and generate the longest duration available.",
+      "Generate 2-3 versions and choose the one with the most natural growth motion.",
+      "Add a documentary-style narration asking 'what if we all left?' and chapter the video by seasons."
+    ],
+    tips: [
+      "Pair the clip with eerie ambient music — the contrast drives watch time.",
+      "Turn it into a series: reclaimed malls, schools, highways each as their own episode."
+    ],
+    tags: ["creator-niche", "youtube", "nature", "timelapse"],
+    trending: false,
+    popularity: 91
+  },
+  {
+    id: "retro-fake-commercials-runway",
+    title: "Retro Fake Commercials Video Prompt for Runway",
+    category: "Video Prompts",
+    tool: "Runway",
+    difficulty: "Intermediate",
+    desc: "Hilarious fake 1950s commercials for absurd products — a retro comedy niche that goes viral on Facebook nostalgia pages.",
+    prompt: "Hilarious fake 1950s TV commercial for an absurd product, a robot vacuum cleaner that also makes toast, shot on grainy vintage film with slightly flickering black-and-white-to-color transition, cheerful overly-enthusiastic actor in a period suit demonstrating the toaster vacuum in a retro kitchen, exaggerated smiling family watching in amazement, classic mid-century announcer energy captured in the visuals, corny period styling, jumpy frame rate and film scratches for authenticity, bold pastel color grade, 4:3 framing, comedic timing with a surprising punchline ending, 24fps, no modern elements, no watermark",
+    howto: [
+      "Open Runway and start a new text-to-video generation.",
+      "Paste the prompt and pick your absurd product — the weirder the combo, the funnier the result.",
+      "Keep 4:3 framing and film grain cues for the authentic retro look.",
+      "Generate a few takes until the punchline moment lands clearly.",
+      "Add a retro announcer voiceover in post and post with nostalgia-comedy hashtags."
+    ],
+    tips: [
+      "Write 5 product combos first and shoot them as a weekly series — recurring formats build subscribers.",
+      "End every ad with a deadpan fine-print disclaimer; viewers replay it and comment."
+    ],
+    tags: ["creator-niche", "facebook", "comedy", "retro"],
+    trending: false,
+    popularity: 88
+  },
+  {
+    id: "reverse-destruction-satisfying-flow",
+    title: "Reverse Destruction Video Prompt for Google Flow",
+    category: "Video Prompts",
+    tool: "Google Flow",
+    difficulty: "Beginner",
+    desc: "Destruction played in reverse — smashed objects rebuilding themselves — the ultimate satisfying niche for Instagram Reels.",
+    prompt: "Hypnotically satisfying video of destruction played in reverse, a smashed ceramic vase flying apart then reassembling piece by piece in mid-air, shards spiraling back together, paint flowing back onto the surface, final vase spinning perfectly restored on a marble table, camera orbits slowly around the scene in one fluid motion, crisp studio lighting against a soft gradient background, macro details of cracks sealing themselves, gentle motion blur on the flying pieces, pastel color palette, clean minimal aesthetic, smooth 24fps motion, photorealistic, 9:16 vertical, no text, no watermark, no humans",
+    howto: [
+      "Open Google Flow and start a new text-to-video generation.",
+      "Paste the prompt — the reverse-timeline wording gives Flow clear motion direction.",
+      "Set 9:16 vertical for Reels and TikTok.",
+      "Generate 2-3 takes and keep the one where the rebuild reads as one continuous flow.",
+      "Loop the clip seamlessly and post with satisfying-ASMR hashtags."
+    ],
+    tips: [
+      "Alternate materials — glass, fruit, pottery — so each post feels like a new episode.",
+      "The frame where the object is fully restored makes a perfect loop point."
+    ],
+    tags: ["creator-niche", "instagram", "satisfying", "reels"],
+    trending: false,
+    popularity: 93
+  },
+  {
+    id: "luxury-travel-broll-veo3",
+    title: "Luxury Travel B-Roll Video Prompt for Veo 3",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Intermediate",
+    desc: "Cinematic luxury travel B-roll for faceless travel pages — infinity pools, yachts and golden-hour villas that sell the dream.",
+    prompt: "Cinematic luxury travel B-roll sequence for a faceless travel page, drone soaring over a turquoise infinity pool overlooking a tropical ocean at golden hour, slow push-in on a private villa terrace with champagne and fresh fruit, camera glides through a candle-lit beach dinner setup, then rises to reveal a private yacht at sunset, rich cinematic color grade with teal shadows and golden highlights, smooth gimbal-like motion, lens flare kisses, distant palm trees swaying, no people, aspirational quiet-luxury mood, photorealistic, ultra detailed, 24fps, 16:9, no text, no watermark",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the prompt and keep the color-grade wording — it sells the luxury mood.",
+      "Generate in 16:9 for YouTube, then crop a 9:16 version for Reels and TikTok.",
+      "Generate multiple scene variations and stitch 3-4 into a 30-second montage.",
+      "Add a trending luxury-lifestyle audio track and a dreamy caption with travel hashtags."
+    ],
+    tips: [
+      "Batch-generate 10 scenes at once — a week of posts from one session.",
+      "End each video with a text CTA for a travel deal or newsletter signup to monetize."
+    ],
+    tags: ["creator-niche", "instagram", "tiktok", "travel"],
+    trending: true,
+    popularity: 95
+  },
+  {
+    id: "miniature-food-art-midjourney",
+    title: "Miniature Food Art Image Prompt for Midjourney",
+    category: "Image Prompts",
+    tool: "Midjourney",
+    difficulty: "Beginner",
+    desc: "Hyper-realistic miniature food-art dioramas — tiny chefs on giant food landscapes — a scroll-stopping niche for Facebook food pages.",
+    prompt: "Hyper-realistic macro photograph of a miniature food art diorama, a tiny chef figurine decorating a giant strawberry cake slice that looks like a mountain, ladders and scaffolding against the cake, tiny workers carrying blueberry boulders, glossy syrup waterfalls, morning light glowing through fresh mint leaves, shallow depth of field, vibrant appetizing colors, studio-quality food photography, ultra detailed, no text, no watermark",
+    howto: [
+      "Open Midjourney and paste the prompt above into the imagine bar.",
+      "Add --ar 3:2 for Facebook posts or --ar 4:5 for Instagram.",
+      "Generate 4 variations and upscale the one with the sharpest tiny-figure detail.",
+      "Swap the food — burgers, sushi, pancakes — to build a full series.",
+      "Post with a playful caption like 'The world's smallest bakery' and food-niche hashtags."
+    ],
+    tips: [
+      "Keep one consistent 'tiny chef' character across posts so followers recognize the series.",
+      "Behind-the-scenes prompts showing the 'construction site' angle get huge shares."
+    ],
+    tags: ["creator-niche", "facebook", "food", "art"],
+    trending: false,
+    popularity: 89
+  },
+  {
+    id: "pain-point-niche-miner-chatgpt",
+    title: "Audience Pain-Point Niche Miner Prompt for ChatGPT",
+    category: "Text Prompts",
+    tool: "ChatGPT",
+    difficulty: "Advanced",
+    desc: "ChatGPT mines real audience pain points to surface creator niches with proven hungry demand — niche discovery before you post a single video.",
+    prompt: "You are a niche-discovery researcher for content creators. Your job: find content niches with PROVEN hungry audiences by mining real pain points. Step 1: ask me my interests, skills, and the platforms I prefer. Step 2: brainstorm 30 specific audience pain points in 2026 (frustrations people actively complain about online) that match my skills — phrase each as something a real person would type into Google, YouTube, or Reddit. Step 3: for each pain point, rate 1-10 on three axes: how many people feel it, how badly they want it solved, and how few creators serve it. Step 4: convert the top 10 into content niche concepts with: niche name, target viewer, 10 starter video ideas, the winning format, and one monetization angle per niche. Step 5: rank the top 3 and write a one-paragraph launch thesis for each. Be brutally specific — no broad 'motivation' or 'fitness' niches, only sharp, ownable angles.",
+    howto: [
+      "Open ChatGPT and paste the full prompt — the five-step structure is what makes it work.",
+      "Answer its questions honestly about your real skills; vague inputs get vague niches.",
+      "Cross-check the top 3 niches with real searches on YouTube, TikTok and Reddit.",
+      "Pick the niche with the strongest pain score, not the most fun one.",
+      "Re-run every quarter — pain points shift and new ones appear constantly."
+    ],
+    tips: [
+      "Feed it screenshots of real complaints from Reddit or comments for sharper results.",
+      "Ask it to compare two niches head-to-head before you commit."
+    ],
+    tags: ["creator-niche", "niche-discovery", "youtube", "strategy"],
+    trending: false,
+    popularity: 92
+  },
+  {
+    id: "trend-remix-generator-gemini",
+    title: "Trend Remix Generator Prompt for Gemini",
+    category: "Text Prompts",
+    tool: "Gemini",
+    difficulty: "Intermediate",
+    desc: "Gemini remixes proven viral formats into 10 fresh platform-specific versions — ride trends without looking like a copycat.",
+    prompt: "You are a viral format analyst. I will give you a trending content format or niche, and you will REMIX it into 10 fresh formats for a different platform. Rules: keep the psychology that makes the original viral (curiosity gap, loop, surprise), but change the subject, setting, or execution so it feels brand new. For each remix give: the original format it borrows from, the platform it is built for (TikTok, Instagram Reels, YouTube Shorts, or Facebook), the 3-second hook, the exact video structure, and why this remix avoids saturation. Then rank all 10 by speed-to-first-viral-video for a brand-new page. End by drafting the first 3 videos of the winning format with full scripts or shot lists. Be concrete and platform-aware — TikTok rewards loops, YouTube rewards retention, Facebook rewards shareability.",
+    howto: [
+      "Open Gemini and paste the prompt, then name a format you saw going viral this week.",
+      "Read all 10 remixes before judging — the best one is rarely the first.",
+      "Pick the remix with the fastest path to a first viral video on YOUR platform.",
+      "Ask Gemini to expand the winning format's 3 starter videos into full shot lists.",
+      "Film the first 3 videos within 48 hours — trends expire fast."
+    ],
+    tips: [
+      "Run this weekly with that week's top trend; it becomes your format factory.",
+      "Save winning remixes in a doc — they become your channel's signature series."
+    ],
+    tags: ["creator-niche", "tiktok", "instagram", "viral"],
+    trending: false,
+    popularity: 90
+  },
+  {
+    id: "one-video-ten-platforms-claude",
+    title: "One Video to Ten Platforms Prompt for Claude",
+    category: "Text Prompts",
+    tool: "Claude",
+    difficulty: "Advanced",
+    desc: "Claude turns one video idea into a 10-piece cross-platform content system — maximum reach from minimum filming.",
+    prompt: "You are a content repurposing strategist. I will describe ONE long-form video idea (topic, length, key points), and you will turn it into a 10-piece cross-platform content system. Output: 1) the anchor YouTube video with title, chapters, and retention checkpoints, 2) three YouTube Shorts cut from it with hooks and timestamps, 3) three TikToks adapted with trend sounds and text overlays, 4) one Instagram Reel with caption and hashtag set, 5) one Facebook post version with a share-bait hook, 6) a posting schedule across 7 days, and 7) how each piece links back to grow the others. Keep the creator's voice consistent and avoid duplicate content penalties by rewriting hooks per platform. End with the 3 metrics to track per platform for the first week.",
+    howto: [
+      "Open Claude and paste the prompt, then describe your one video idea in detail.",
+      "Review the full 10-piece system before filming — adjust any piece that feels forced.",
+      "Film the anchor video first, then cut the Shorts and TikToks from the same footage.",
+      "Follow the 7-day posting schedule exactly for the compounding effect.",
+      "Track the 3 metrics per platform and double down on whatever wins."
+    ],
+    tips: [
+      "Batch 4 anchor ideas at once and you get a month of content in one session.",
+      "Rewrite hooks per platform in your own voice — identical hooks underperform."
+    ],
+    tags: ["creator-niche", "youtube", "facebook", "repurposing"],
+    trending: false,
+    popularity: 91
   }
 ];
 
