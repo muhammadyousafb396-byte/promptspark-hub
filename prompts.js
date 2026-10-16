@@ -3008,7 +3008,294 @@ const PROMPTS = [
     tags: ["creator-niche", "youtube", "facebook", "repurposing"],
     trending: false,
     popularity: 91
-  }
+  },
+{
+  "id": "micro-farm-timelapse-veo3",
+  "title": "Micro Farm Timelapse — Veo 3 Prompt for TikTok & YouTube Shorts",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Grow a tiny thriving farm from seed to harvest in one hyperlapse — the oddly satisfying farm niche pulling millions of views on TikTok and Shorts.",
+  "prompt": "Cinematic hyperlapse of a miniature farm on a wooden tabletop, tiny seeds sprouting in fast motion, miniature wheat growing tall and turning golden, a tiny red barn and farmhouse appearing piece by piece, miniature cows and chickens animating into the scene, a small pond filling with sparkling blue water, morning mist drifting over the fields, warm sunrise light shifting to golden afternoon, camera slowly orbiting overhead in one smooth 360-degree arc, tilt-shift miniature effect, ultra-detailed textures, vibrant greens and warm ambers, photorealistic, 9:16 vertical, no text, no watermark, no people",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt above, keeping every farm-building stage in order.",
+    "Set aspect ratio to 9:16 for TikTok, Shorts and Reels.",
+    "Generate 2-3 takes and pick the smoothest orbiting motion.",
+    "Add a satisfying harvest sound and a farm-niche caption, then post."
+  ],
+  "tips": [
+    "Swap 'farm' for a tiny city or forest for a whole mini-world series.",
+    "Post a 'part 2' adding livestock — sequels double this niche's retention."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "youtube",
+    "farm",
+    "timelapse"
+  ],
+  "trending": true,
+  "popularity": 94
+},
+{
+  "id": "glitch-transition-pack-kling",
+  "title": "Glitch Transition Pack — Kling Prompt for Viral TikTok Edits",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Intermediate",
+  "desc": "Generate seamless glitch and morph transitions for niche content — the editing style that keeps viewers watching to the very last frame.",
+  "prompt": "Dynamic digital glitch transition, a creator snapping fingers in front of the camera, the frame shatters into glowing RGB pixels that swirl and reassemble, seamless morph into the same person wearing a different outfit in a new background, vibrant neon blue and magenta digital particles, motion blur on the snap, camera locked off and center-framed, high energy, ultra-smooth 60fps motion, vertical 9:16, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new video generation.",
+    "Paste the prompt and describe your own outfit or scene swap.",
+    "Keep the camera lock-off cue — it is what makes the morph seamless.",
+    "Generate twice and keep the take with the cleanest pixel reassembly.",
+    "Cut the clip into your niche video at the 3-second mark for max retention."
+  ],
+  "tips": [
+    "Batch 5 outfit swaps in one session for a full transition pack.",
+    "Pair with a trending sound — transitions ride audio trends hardest."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "transitions",
+    "editing"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "deep-sea-creature-reveal-sora",
+  "title": "Deep Sea Creature Reveal — Sora Prompt for YouTube Niche Videos",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "Reveal a mysterious deep-sea creature emerging from the dark — high-retention faceless ocean content built for YouTube's documentary niche.",
+  "prompt": "Dark abyssal ocean trench, a faint blue bioluminescent glow in the distance growing brighter, a colossal ghostly deep-sea creature with glowing eyes slowly emerging from the black water toward the camera, drifting plankton particles catching the light, subtle currents moving strange tentacled organisms, cinematic volumetric lighting, eerie documentary atmosphere, slow dramatic push-in, photorealistic, 16:9, no text, no watermark, nature documentary style",
+  "howto": [
+    "Open Sora and start a new text-to-video generation.",
+    "Paste the full prompt — the slow push-in is the retention engine.",
+    "Set 16:9 for YouTube and generate a 10-second clip.",
+    "Generate 3 creature variants to build a 'top 5' compilation video.",
+    "Add deep-ocean narration audio and chapters for SEO watch time."
+  ],
+  "tips": [
+    "Name a fictional-but-plausible species in the title to spark comments.",
+    "Cross-post the best frame to Facebook — ocean pages share heavily."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "ocean",
+    "documentary"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "lantern-festival-loop-runway",
+  "title": "Lantern Festival Loop — Runway Prompt for Instagram Reels",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A seamless loop of glowing lanterns rising into a starry sky — the perfect aesthetic background for Instagram Reels and quote pages.",
+  "prompt": "Seamless infinite loop of hundreds of glowing paper lanterns rising into a deep indigo night sky, each lantern trailing soft golden light, silhouettes of ancient temple rooftops below, a gentle breeze swaying the lanterns, stars twinkling, lantern glow reflecting on a calm river surface, dreamy warm color palette, slow upward camera drift matching the lantern motion, ultra detailed, cinematic, 9:16 vertical, no text, no watermark, loopable",
+  "howto": [
+    "Open Runway and start a text-to-video generation.",
+    "Paste the prompt and set duration to 10 seconds for a clean loop.",
+    "Use 9:16 vertical for Reels and TikTok.",
+    "Check the loop point — regenerate if the last and first frames jump.",
+    "Layer motivational text or quotes on top and post daily."
+  ],
+  "tips": [
+    "Quote pages post 2-3 of these daily — consistency wins this niche.",
+    "Slow the clip to 0.75x for a dreamier, more premium feel."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "loop",
+    "aesthetic"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "volcano-eruption-cinematic-google-flow",
+  "title": "Volcano Eruption Cinematic — Google Flow Prompt for Viral Shorts",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Advanced",
+  "desc": "A jaw-dropping cinematic volcano eruption with rivers of lava — disaster-niche content that dominates YouTube Shorts and TikTok.",
+  "prompt": "Epic cinematic volcano eruption at dusk, a massive plume of ash rising into a purple-orange sky, rivers of glowing molten lava flowing down dark rocky slopes, lightning crackling inside the ash cloud, slow-motion embers and sparks drifting toward the camera, dramatic low-angle drone shot sweeping over the lava flows, intense orange glow against deep blue twilight, photorealistic, hyper-detailed, 9:16 vertical, no text, no watermark, no people",
+  "howto": [
+    "Open Google Flow and start a new video generation.",
+    "Paste the full prompt with all atmosphere and lighting details.",
+    "Choose 9:16 vertical for Shorts and TikTok.",
+    "Generate 2-3 takes — keep the one with the most dramatic ash cloud.",
+    "Add a shocking fact caption and disaster-niche hashtags before posting."
+  ],
+  "tips": [
+    "First frame must show lava — thumbnails with fire get the highest CTR.",
+    "Follow with an 'eruption aftermath' clip for a viral two-part series."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "cinematic",
+    "nature"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "pet-reaction-compilation-veo3",
+  "title": "Pet Reaction Compilation — Veo 3 Prompt for TikTok Pet Pages",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Hilarious slow-motion pet reaction clips — the funny-animal niche formula powering the biggest pet pages on TikTok and Instagram.",
+  "prompt": "Funny slow-motion close-up of a golden retriever's face reacting to a squeaky toy, ears flopping upward, eyes widening comically, mouth open in surprise, bright sunny living room behind, shallow depth of field, 120fps slow-motion feel, vibrant colors, joyful energy, vertical 9:16, photorealistic, ultra-detailed fur, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the prompt and swap in your own pet breed and trigger toy.",
+    "Generate in 9:16 vertical for TikTok and Reels.",
+    "Make 4-5 reaction variants and edit them into a compilation.",
+    "Caption it with a relatable question to drive comments."
+  ],
+  "tips": [
+    "Post during US evening hours — pet content peaks after dinner.",
+    "The 'before the toy / after the toy' split format triples shares."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "instagram",
+    "pets",
+    "funny"
+  ],
+  "trending": true,
+  "popularity": 95
+},
+{
+  "id": "viral-quote-card-pack-midjourney",
+  "title": "Viral Quote Card Pack — Midjourney Prompt for Facebook & Instagram",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Generate scroll-stopping quote card backgrounds for motivation and money pages — the image format with the highest share rate on Facebook.",
+  "prompt": "Minimalist viral quote card background, deep navy gradient with a soft golden light glow in the top corner, elegant empty center space reserved for typography, subtle film grain texture, premium social-media aesthetic, centered composition with generous negative space for text overlay, 4:5 portrait, ultra clean, professional design --ar 4:5 --style raw --v 6.1",
+  "howto": [
+    "Open Midjourney and paste the prompt into the imagine bar.",
+    "Generate 4 variants and upscale the cleanest background.",
+    "Add your quote text in Canva using a bold serif font.",
+    "Keep text under 12 words — short quotes get shared most.",
+    "Post to Facebook and Instagram with the page's branded hashtag."
+  ],
+  "tips": [
+    "Dark backgrounds with gold accents outperform bright ones for money quotes.",
+    "Make a 30-card pack in one sitting and schedule a month of posts."
+  ],
+  "tags": [
+    "creator-niche",
+    "facebook",
+    "instagram",
+    "quotes",
+    "design"
+  ],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "niche-hook-angle-generator-chatgpt",
+  "title": "Niche Hook Angle Generator — ChatGPT Prompt for Untapped Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Discover 10 untapped content angles in any niche with ready-to-film viral hooks — the niche-discovery prompt every faceless creator needs.",
+  "prompt": "Act as a YouTube and TikTok growth strategist. I want to start a faceless content channel in this niche: [NICHE]. Do the following: 1) Identify 10 UNDERSERVED sub-niches with high demand and low competition, ranked by opportunity score. 2) For each sub-niche, give 3 specific video ideas with a 5-second viral hook written out word-for-word. 3) Estimate the competition level and the fastest way to stand out. 4) Recommend which platform (YouTube, TikTok, Instagram, Facebook) fits each sub-niche best and why. 5) Give me a 30-day posting plan using only the top 3 sub-niches. Be specific — no generic advice. I need actionable, 2026-ready tactics.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above.",
+    "Replace [NICHE] with a broad topic like 'personal finance' or 'true crime'.",
+    "Review the 10 sub-niches and pick the best demand-to-competition ratio.",
+    "Ask follow-ups to expand the top sub-niche into 30 video ideas.",
+    "Save the hooks and pair them with your video-generation prompts."
+  ],
+  "tips": [
+    "Run this for 3 different niches and compare opportunity scores.",
+    "Feed the winning sub-niche into the niche-validation scorecard prompt next."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "niche-discovery",
+    "strategy"
+  ],
+  "trending": true,
+  "popularity": 96
+},
+{
+  "id": "faceless-channel-planner-gemini",
+  "title": "Faceless Channel Planner — Gemini Prompt for 90-Day Content Maps",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Turn one niche idea into a full 90-day faceless content calendar with hooks, scripts and posting schedules — built for YouTube and TikTok.",
+  "prompt": "You are a content strategist for faceless channels. My niche is [NICHE], my platform is [PLATFORM], and I post [X] times per week. Create a complete 90-day content plan: 1) Define 4 content pillars with a description of each. 2) Build a week-by-week calendar of video titles — every title must be keyword-rich and curiosity-driven. 3) For each video, write the first 15 seconds of the script (the hook) word-for-word. 4) Suggest the ideal video length and format per platform. 5) Add 2 trend-jacking opportunities per month based on 2026 trends in this niche. Output everything in a clean table format I can copy into a spreadsheet.",
+  "howto": [
+    "Open Gemini and paste the full prompt above.",
+    "Fill in [NICHE], [PLATFORM] and [X] posting frequency.",
+    "Copy the calendar into a spreadsheet and sort by week.",
+    "Generate the video assets for week 1 before filming or editing.",
+    "Review and re-plan every 30 days based on what performed."
+  ],
+  "tips": [
+    "Ask Gemini to re-rank the calendar after your first month of analytics.",
+    "The 4-pillar structure keeps channels from drifting off-niche."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "content-planner",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 89
+},
+{
+  "id": "niche-persona-matcher-claude",
+  "title": "Niche Persona Matcher — Claude Prompt to Find Your Profitable Niche",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Match your skills and interests to the most profitable creator niche — Claude's deep analysis finds the overlap between passion and money.",
+  "prompt": "I want you to act as a niche-market analyst. Interview me first: ask me 10 questions about my skills, interests, available time, budget, equipment, and income goals. Wait for my answers, then analyze them and recommend the 5 most profitable content niches for me in 2026, ranked with: 1) Why each niche fits my profile, 2) Realistic revenue models and earning timelines, 3) Competition level and how to differentiate, 4) Best platform and format (long-form, shorts, reels), 5) A concrete 60-day launch plan for the number-one niche. Be brutally honest about which niches I should AVOID and why. Start by asking me the 10 questions now.",
+  "howto": [
+    "Open Claude and paste the full prompt above.",
+    "Answer all 10 interview questions honestly and in detail.",
+    "Review the 5 recommended niches and their revenue timelines.",
+    "Pick the number-one niche and ask Claude to expand the 60-day plan.",
+    "Combine with the faceless channel planner for a full launch system."
+  ],
+  "tips": [
+    "Redo this quarterly — your skills and the market both change.",
+    "The 'niches to avoid' list saves months of wasted effort."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "niche-discovery",
+    "strategy",
+    "facebook"
+  ],
+  "trending": false,
+  "popularity": 90
+}
 ];
 
 if (typeof module !== "undefined") {
