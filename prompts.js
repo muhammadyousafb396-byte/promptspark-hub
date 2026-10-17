@@ -3295,6 +3295,296 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 90
+},
+{
+  "id": "frozen-splash-macro-veo3",
+  "title": "Frozen Splash Macro — Veo 3 Prompt for Slow-Motion TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Ultra-slow-motion water splash macro clips that stop thumbs mid-scroll — perfect for a faceless satisfying-content TikTok niche.",
+  "prompt": "Ultra-slow-motion macro video of a single water droplet hitting a still pool, crown-shaped splash rising in extreme detail, filmed at 960fps, backlit with a warm sunset glow, jewel-toned blue and amber colors, crystalline droplets suspended mid-air, dark elegant background, liquid sculpture aesthetic, photorealistic 4K, satisfying physics, seamless loop-friendly composition.",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Vary the liquid in each render: water, milk, ink, melted chocolate.",
+    "Ask Veo 3 for a 5-8 second clip so it loops cleanly on TikTok.",
+    "Generate 10 variations in one batch — this is a volume niche.",
+    "Post 1-3 clips daily with a trending satisfying-audio sound."
+  ],
+  "tips": [
+    "Swap the background color weekly (black, deep teal, warm gold) to keep the feed fresh.",
+    "Alternate liquids keep viewers commenting 'what liquid is next?' — reply to every one."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "slow-motion",
+    "satisfying",
+    "faceless"
+  ],
+  "trending": false,
+  "popularity": 92
+},
+{
+  "id": "impossible-elevator-reveal-kling",
+  "title": "Impossible Elevator Reveal — Kling Prompt for Viral TikTok Transitions",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Intermediate",
+  "desc": "Seamless 'impossible space' elevator transition clips — the format behind the fastest-growing TikTok transition pages.",
+  "prompt": "First-person video: camera stands inside a small vintage elevator as the doors close, ding, doors reopen onto an impossible location — a tropical waterfall cave, neon cyberpunk alley, zero-gravity space station. Smooth camera push-in through the doorway, realistic motion, cinematic lighting matching the new world, 4K, hyper-smooth transition moment, vertical 9:16 framing, viral reveal energy.",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Swap the 'impossible location' for each clip — keep a list of 20 locations.",
+    "Set vertical 9:16 output for TikTok and Reels.",
+    "Time the reveal to hit exactly on a music drop.",
+    "Post a series: 'Elevator to impossible places #7' — numbering drives follows."
+  ],
+  "tips": [
+    "Use Kling's image-to-video mode with a real elevator photo as the start frame for extra realism.",
+    "The weirder the location swap, the higher the watch-through — caves and underwater worlds win."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "transitions",
+    "viral-format"
+  ],
+  "trending": false,
+  "popularity": 95
+},
+{
+  "id": "foggy-abandoned-park-sora",
+  "title": "Foggy Abandoned Amusement Park — Sora Prompt for Mystery YouTube Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "Eerie slow drone-style shots of abandoned theme parks in morning fog — the look that powers mystery and urbex-adjacent faceless channels.",
+  "prompt": "Slow aerial drone shot drifting through an abandoned amusement park at dawn, thick fog rolling between a rusted Ferris wheel and collapsed roller coaster tracks, vines and moss reclaiming the rides, moody desaturated teal and gray palette with one warm sunbeam breaking through, crows flying across frame, hauntingly beautiful atmosphere, cinematic 24fps, photorealistic, mystery-documentary tone, no people.",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Request a slow, continuous drift — no cuts — so it reads as drone footage.",
+    "Vary the location each time: waterparks, malls, cruise ships, zoos.",
+    "Pair with soft ambient narration or dark piano audio.",
+    "Publish as 60-90 second shorts with a text teaser: 'This place shut down in 1998.'"
+  ],
+  "tips": [
+    "Add a one-line fictional backstory per park in the caption — comments explode with theories.",
+    "The fog is the star: ask Sora for 'thick atmospheric fog' in every render."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "mystery",
+    "faceless",
+    "aerial"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "living-vintage-travel-posters-runway",
+  "title": "Living Vintage Travel Posters — Runway Prompt for Instagram Theme Pages",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "Retro travel posters that come alive with gentle motion — a scroll-stopping aesthetic for Instagram theme pages.",
+  "prompt": "A vintage 1950s travel poster of the Swiss Alps come to life: painted clouds drift slowly, the mountain train puffs gentle steam, birds cross the painted sky, subtle film grain and paper texture, warm nostalgic color palette of teal, cream and burnt orange, the poster's bold title typography stays crisp and static, elegant looping motion, stylized illustration aesthetic, 4K.",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Start from a real vintage poster image (image-to-video) for the authentic texture.",
+    "Keep motion subtle — 20% of what you think is enough.",
+    "Caption each post with the poster's year and destination.",
+    "Post 1 daily at the same hour to train the algorithm."
+  ],
+  "tips": [
+    "Ask Runway to 'keep the typography perfectly still' so the poster stays readable.",
+    "Rotate continents weekly — Japan posters consistently get the most saves."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "travel",
+    "vintage",
+    "theme-page"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "galaxy-paint-pour-macro-flow",
+  "title": "Galaxy Paint Pour Macro — Google Flow Prompt for Satisfying Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Hypnotic galaxy-colored paint pours in extreme macro — the satisfying-content format that dominates Reels and TikTok saves.",
+  "prompt": "Extreme macro video of metallic galaxy paint pouring in slow motion: deep purple, electric blue and molten gold acrylic swirling together into nebula-like patterns, glossy surface reflections, tiny iridescent glitter particles drifting through, studio lighting on a black canvas, mesmerizing fluid dynamics, ultra-detailed 4K, oddly satisfying, loop-friendly ending.",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Change the color palette every clip — viewers collect their favorites.",
+    "Ask for 6-10 second clips that loop seamlessly.",
+    "Layer a satisfying ASMR-style audio track underneath.",
+    "End each caption with a question: 'Ocean or galaxy palette?'"
+  ],
+  "tips": [
+    "Neon-on-black palettes get the highest save rates in this niche.",
+    "Batch-render 15 clips on Sunday, drip-feed them all week."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "tiktok",
+    "satisfying",
+    "art"
+  ],
+  "trending": false,
+  "popularity": 91
+},
+{
+  "id": "sunrise-ancient-ruins-drone-veo3",
+  "title": "Sunrise Over Ancient Ruins — Veo 3 Prompt for Faceless YouTube Channels",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Intermediate",
+  "desc": "Golden-hour drone flyovers of ancient ruins — premium-looking B-roll for faceless history and travel channels.",
+  "prompt": "Cinematic drone flyover of ancient Roman ruins at sunrise: camera glides low over broken marble columns toward a grand half-standing temple, golden light flaring through the arches, mist lifting off wild grass, distant mountains turning pink, birds scattering as the drone passes, epic scale, photorealistic, 24fps film look, sweeping orchestral mood, no people, 4K.",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Swap the civilization per video: Rome, Egypt, Maya, Angkor, Petra.",
+    "Request a low, slow push-in — it reads as professional drone work.",
+    "Use these as the opening 8 seconds of history explainer videos.",
+    "Add a location name and year in on-screen text for authority."
+  ],
+  "tips": [
+    "Always keep 'no people' in the prompt — empty ruins feel more epic.",
+    "Egypt and Petra variants pull the strongest click-through in testing."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "history",
+    "travel",
+    "faceless"
+  ],
+  "trending": false,
+  "popularity": 90
+},
+{
+  "id": "cute-monster-cafe-midjourney",
+  "title": "Cute Monster Café Characters — Midjourney Prompt for Instagram Character Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Adorable monster baristas in a cozy café world — the character-IP niche that turns followers into a collectible fandom.",
+  "prompt": "Pixar-style character portrait of a cute fluffy monster barista with big round eyes and tiny horns, wearing a miniature apron, pouring a latte with a tiny heart in the foam, cozy warm café interior with wooden counters and hanging plants, soft morning light, ultra-detailed fur, kawaii aesthetic, warm color palette, 8k illustration, character sheet consistency, --ar 4:5 --style cute --v 6",
+  "howto": [
+    "Open Midjourney and paste the full prompt above.",
+    "Generate a recurring cast: keep the same monster species across posts.",
+    "Vary the scenario daily: latte art, baking, rainy day café, holiday specials.",
+    "Post as carousels — 4 monsters per carousel multiplies engagement.",
+    "Name each monster and pin a 'meet the crew' post."
+  ],
+  "tips": [
+    "Add '--cref' with your first monster's image URL to keep the character consistent across posts.",
+    "Give the café a name and hashtag it — fandoms form around places, not just faces."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "characters",
+    "cute",
+    "theme-page"
+  ],
+  "trending": false,
+  "popularity": 87
+},
+{
+  "id": "niche-crossover-machine-chatgpt",
+  "title": "Niche Crossover Machine — ChatGPT Prompt to Fuse Two Niches Into One Viral Channel",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Advanced",
+  "desc": "A niche-discovery engine that fuses two unrelated niches into one original channel concept with zero direct competition.",
+  "prompt": "Act as a viral-content strategist. I will give you TWO niches, and you will fuse them into 10 original channel concepts that have never existed. For each concept: 1) The fusion name and one-line premise. 2) Exactly why the crossover creates novelty (the psychological hook). 3) Three content series that could run forever. 4) The target audience overlap and where to find them. 5) A competition check — why no existing channel owns this. 6) Monetization paths unique to this crossover. My two niches are: [NICHE 1] and [NICHE 2]. Rank the 10 concepts from most to least viable for 2026, and for the top 3 give me 5 video titles each that would work as the launch videos.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above.",
+    "Fill in two niches you genuinely like — passion fuels consistency.",
+    "Run the fusion twice with different niche pairs and compare outputs.",
+    "Pick the top concept and ask ChatGPT for a 30-video launch calendar.",
+    "Launch with the 5 recommended launch videos, one per day."
+  ],
+  "tips": [
+    "Fuse one big niche with one tiny one — the tiny one brings the novelty.",
+    "Ask ChatGPT to re-rank after you share your first month's analytics."
+  ],
+  "tags": [
+    "creator-niche",
+    "niche-discovery",
+    "youtube",
+    "tiktok",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 96
+},
+{
+  "id": "viral-sound-forecaster-gemini",
+  "title": "Viral Sound Forecaster — Gemini Prompt to Predict the Next TikTok Audio Trend",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Turn Gemini into a trend-spotting radar that predicts which audios will blow up on TikTok before they peak.",
+  "prompt": "Act as a TikTok trend analyst with real-time pattern recognition. I will describe 5 audios that are currently rising on my For You page. For each: 1) Identify the audio's emotional hook and which creator niches it fits. 2) Estimate its trend stage: emerging, climbing, peaked, or dying. 3) Predict which niches will adopt it next and in what video format. 4) Give me 3 video concepts for MY niche that use this audio while it is still climbing. My niche is: [MY NICHE]. Here are the 5 audios: [DESCRIBE EACH — lyrics, vibe, how creators are using it]. Output a ranked list of which audio I should film for TODAY, with the reasoning for each rank.",
+  "howto": [
+    "Open Gemini and paste the full prompt above.",
+    "Describe the audios accurately — include lyrics, mood, and usage patterns.",
+    "Run this every 2-3 days; audio trends move fast.",
+    "Film for the #1 ranked audio within hours of the analysis.",
+    "Track which predictions hit and feed results back to Gemini to sharpen it."
+  ],
+  "tips": [
+    "Rising audios with under 10K uses are the sweet spot — early enough to ride the wave.",
+    "Ask Gemini to explain its trend-stage reasoning so you learn the pattern yourself."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "trends",
+    "audio",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 94
+},
+{
+  "id": "competitor-gap-autopsy-claude",
+  "title": "Competitor Gap Autopsy — Claude Prompt to Find What Top Channels Miss",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "A deep competitor audit that finds the exact gaps top channels in your niche leave open — then hands you a plan to fill them.",
+  "prompt": "Act as a competitive-intelligence analyst for content creators. I will list 5 top channels/pages in my niche with a short description of what each does. Your job: 1) Map each competitor's content pillars, posting cadence, and audience engagement style. 2) Identify the GAPS — topics, formats, audience segments, and platforms all 5 are ignoring. 3) Rank the gaps by opportunity size for a new creator in 2026. 4) For the top 3 gaps, design a 10-video content sprint I could run in the first month. 5) Write the positioning statement for my channel that owns the biggest gap. 6) List the 3 traps to avoid that these competitors fell into. My niche is [NICHE]. Here are the 5 competitors: [NAME + DESCRIPTION each]. Be specific and evidence-based, not generic.",
+  "howto": [
+    "Open Claude and paste the full prompt above.",
+    "Fill in 5 real competitors with accurate descriptions of their content.",
+    "Study the gap ranking — pick ONE gap, not all three, to start.",
+    "Ask Claude to expand the winning gap into a 30-day calendar.",
+    "Re-run the autopsy quarterly as competitors evolve."
+  ],
+  "tips": [
+    "Include one competitor from a DIFFERENT platform — cross-platform gaps are the biggest opportunities.",
+    "The 'traps to avoid' section is gold — it keeps you from copying their ceiling."
+  ],
+  "tags": [
+    "creator-niche",
+    "niche-discovery",
+    "youtube",
+    "facebook",
+    "instagram",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 97
 }
 ];
 
