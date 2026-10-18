@@ -3585,6 +3585,306 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 97
+},
+{
+  "id": "tiny-chef-giant-kitchen-veo3",
+  "title": "Tiny Chef's Giant Kitchen — Veo 3 Prompt for Viral TikTok Food Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A thumb-sized chef cooking a feast inside a giant human kitchen — the mini-world food niche viewers can't stop watching.",
+  "prompt": "A tiny miniature chef, no taller than a coffee mug, cooking in a giant human kitchen. He climbs a towering stack of pancakes like stairs, flips a colossal burger patty with a spatula bigger than his body, and slides down a giant wooden spoon like a slide. Warm golden kitchen lighting, steam rising from a huge pot, photorealistic detail, cozy and whimsical, vertical 9:16 framing, camera follows the chef's every move, ultra sharp macro cinematography, satisfying miniature food action, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new video generation.",
+    "Paste the full prompt above into the prompt box.",
+    "Set aspect ratio to 9:16 and duration to 8 seconds for TikTok.",
+    "Generate 3-4 variations with different dishes (pizza, ramen, pancakes).",
+    "Chain the best clips into a 20-second mini-story: prep, cook, serve.",
+    "Post with a trending food audio and niche hashtags like #tinyfood."
+  ],
+  "tips": [
+    "Mini-world food clips average 3x the watch time of normal cooking videos — lean into the scale contrast.",
+    "Keep the chef's outfit consistent across clips so viewers recognize your series."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "food",
+    "miniature",
+    "viral-content"
+  ],
+  "trending": true,
+  "popularity": 96
+},
+{
+  "id": "slowmo-skatepark-stunts-kling",
+  "title": "Slow-Mo Skatepark Stunts — Kling Prompt for Viral TikTok Sports Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Intermediate",
+  "desc": "Cinematic slow-motion skateboard tricks with dust, drama, and perfect landings — built for sports niche TikTok pages.",
+  "prompt": "Ultra slow-motion skateboarder landing a massive kickflip down a concrete stair set at a sunlit skatepark. Dust explodes from the wheels, the board spins frozen mid-air, the rider's face shows total focus. Golden hour light, low camera angle, gritty urban energy, shallow depth of field, 120fps look, 9:16 vertical, cinematic sports-documentary color grade, no logos, no text overlays",
+  "howto": [
+    "Open Kling and create a new text-to-video generation.",
+    "Paste the prompt above and set duration to 5 seconds.",
+    "Set aspect ratio to 9:16 for TikTok and Reels.",
+    "Generate 5 variations: different tricks (ollie, 360 shuvit, heelflip).",
+    "Cut the best moments into a rapid 15-second compilation.",
+    "Add a heavy bass drop sound effect on each landing for impact."
+  ],
+  "tips": [
+    "Kling renders fast motion best in short 5-second generations — don't stretch one trick too long.",
+    "Pair with trending sports audios; the algorithm loves sports-niche content."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "sports",
+    "slow-motion",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "microbial-world-safari-sora",
+  "title": "Microbial World Safari — Sora Prompt for YouTube Science Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Advanced",
+  "desc": "A cinematic expedition through a microscopic world — glowing organisms, drifting particles, documentary narration feel.",
+  "prompt": "Cinematic nature-documentary footage of a microscopic world: glowing amoeba-like creatures pulsing with bioluminescent light, tiny hair-like cilia rippling in waves, drifting golden particles floating like dust in sunlight. Camera glides slowly through the alien landscape as if on a safari, deep-focus macro cinematography, rich teal and amber color palette, sense of wonder and scale, 16:9, photorealistic CGI-quality detail, calm and hypnotic, no narration text on screen",
+  "howto": [
+    "Open Sora and start a new video generation.",
+    "Paste the prompt above and choose 16:9 aspect ratio.",
+    "Generate at the longest duration available for smooth gliding shots.",
+    "Make 3-4 clips exploring different 'regions' of the microscopic world.",
+    "Assemble into a 60-second safari with chapter-style text overlays.",
+    "Add your own documentary-style voiceover naming each 'species'."
+  ],
+  "tips": [
+    "Science niches have loyal audiences — a 'micro safari' series gives viewers a reason to subscribe.",
+    "Keep camera movement slow; fast motion breaks the documentary illusion."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "science",
+    "documentary",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 91
+},
+{
+  "id": "graffiti-wall-come-alive-runway",
+  "title": "Graffiti Wall Come Alive — Runway Prompt for Urban Art TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "Street art that wakes up and moves — spray-painted characters climbing off the brick wall in vivid urban color.",
+  "prompt": "A colorful graffiti mural on a city brick wall slowly comes to life: a spray-painted dragon peels off the bricks and flies in a loop, painted drips flow like water, a cartoon character waves at the camera then steps back into the wall. Raw urban texture, wet-paint shine, vibrant neon and pastel colors, handheld camera energy, slight film grain, 9:16 vertical, magical-realism street art fantasy, photorealistic brick detail, no text",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the prompt above and set aspect ratio to 9:16.",
+    "Generate at medium duration for smooth character motion.",
+    "Try 3 variations with different mural subjects (dragon, astronaut, robot).",
+    "Trim the best 6-second loop and export.",
+    "Post with urban hip-hop audio for maximum niche engagement."
+  ],
+  "tips": [
+    "The 'art comes alive' effect performs best when the wall texture stays photorealistic — don't let it go cartoonish.",
+    "Film the first frame like a normal street photo so the reveal hits harder."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "art",
+    "animation",
+    "viral-content"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "fishbowl-ocean-storm-flow",
+  "title": "Fishbowl Ocean Storm — Google Flow Prompt for Satisfying Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A whole ocean storm raging inside a glass fishbowl — tiny waves, lightning flashes, pure satisfying-loop material.",
+  "prompt": "A round glass fishbowl sitting on a wooden table contains an entire miniature ocean storm: tiny crashing waves, flashes of lightning illuminating the water from inside, miniature rain streaking down the glass. Cozy room background softly blurred, dramatic contrast between the calm room and the raging storm in the bowl, hyper-detailed water physics, cinematic lighting, vertical 9:16, mesmerizing and satisfying, loopable motion, no text, no people",
+  "howto": [
+    "Open Google Flow and start a new video generation.",
+    "Paste the prompt above and select 9:16 vertical output.",
+    "Generate a 5-second clip designed to loop seamlessly.",
+    "Test the loop by playing the clip on repeat — waves should cycle cleanly.",
+    "Create variations: storm, calm sunset ocean, frozen arctic sea in the bowl.",
+    "Post as a series — viewers binge-watch miniature-world content."
+  ],
+  "tips": [
+    "Seamless loops get rewatched automatically, which the algorithm reads as high retention.",
+    "Keep the room background identical across the series for a recognizable brand look."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "satisfying",
+    "loops",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 89
+},
+{
+  "id": "desert-dune-surfing-veo3",
+  "title": "Desert Dune Surfing — Veo 3 Prompt for Adventure TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Intermediate",
+  "desc": "Sandboarders carving giant golden dunes at sunset — cinematic adventure content for outdoor niche pages.",
+  "prompt": "Epic cinematic shot of sandboarders carving down massive golden desert dunes at sunset, sand spraying like ocean spray, dramatic long shadows, drone-follow camera chasing the lead rider, deep orange and purple sky, sense of speed and freedom, 9:16 vertical, action-sports documentary style, ultra detailed sand texture, warm cinematic color grade, adrenaline and beauty, no text overlays, no logos",
+  "howto": [
+    "Open Veo 3 and start a new video generation.",
+    "Paste the prompt above and set aspect ratio to 9:16.",
+    "Generate 4-5 clips at different times of day (sunset, sunrise, midday).",
+    "Pick the most dramatic carve and trim to 7 seconds.",
+    "Add a cinematic whoosh sound on every turn.",
+    "Caption with the location vibe — adventure niches thrive on place fantasy."
+  ],
+  "tips": [
+    "Sunset generations have richer color than midday — always prefer golden hour in your prompt.",
+    "Adventure niches convert viewers to followers fast; pin your best dune clip."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "adventure",
+    "travel",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 90
+},
+{
+  "id": "surreal-floating-islands-midjourney",
+  "title": "Surreal Floating Islands — Midjourney Prompt for Instagram Fantasy Art Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Dreamlike floating islands with waterfalls, tiny cabins, and glowing skies — art that stops the scroll.",
+  "prompt": "Surreal floating island drifting in a pastel sky, a tiny glowing cabin perched on green moss, a waterfall pouring off the island's edge into clouds below, flocks of small birds circling, soft pink and lavender sunset light, dreamlike fantasy digital art, ultra detailed, volumetric lighting, intricate tiny details to discover, 4:5 portrait composition, breathtaking and serene, no text, no watermark",
+  "howto": [
+    "Open Midjourney and paste the prompt into the imagine bar.",
+    "Add --ar 4:5 for Instagram portrait format.",
+    "Generate 4 variations and upscale your favorite.",
+    "Create a series: 5 islands with different moods (sunset, storm, dawn, night, autumn).",
+    "Post one island per day as a collectible series.",
+    "Ask followers in the caption which island they'd live on — drives comments."
+  ],
+  "tips": [
+    "Floating-island art gets saved at very high rates — saves are Instagram's strongest ranking signal.",
+    "Keep the cabin small in frame; tiny details make viewers zoom in and stare."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "fantasy",
+    "wallpaper",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 87
+},
+{
+  "id": "low-competition-shorts-niches-chatgpt",
+  "title": "Low-Competition Shorts Niches — ChatGPT Prompt for Underserved 2026 Niche Ideas",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "A niche-discovery prompt that hunts down underserved YouTube Shorts niches with real demand and weak competition.",
+  "prompt": "Act as a YouTube Shorts niche strategist with deep knowledge of the 2026 creator landscape. Your task: find me 10 underserved Shorts niches I could launch this month. For each niche, provide: 1) The niche name and a one-line concept. 2) Why it has real viewer demand right now (what trend or curiosity gap drives it). 3) Evidence the competition is weak (what's missing from existing channels). 4) Whether it's faceless-friendly and what tools I'd need (AI video, stock, filming). 5) 5 video ideas that would work in the first week. 6) A competition score from 1-10 and a demand score from 1-10. My constraints: [FACELESS or ON-CAMERA], [LANGUAGES I SPEAK], [TOPICS I LIKE / DISLIKE], [TIME PER WEEK]. Rank the 10 niches by opportunity score and tell me which ONE to pick and why. Be specific — no generic niches like 'motivation' or 'facts'.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above.",
+    "Fill in your constraints honestly — the output is only as good as your inputs.",
+    "Study the opportunity scores; shortlist the top 3 niches.",
+    "For each finalist, ask ChatGPT for 30 channel-name ideas.",
+    "Search each niche on YouTube to verify the competition really is weak.",
+    "Pick ONE niche and commit to 30 Shorts before judging it."
+  ],
+  "tips": [
+    "Niches with demand 8+ and competition under 4 are rare — treat them like gold and move fast.",
+    "Re-run this prompt every quarter; underserved niches fill up quickly."
+  ],
+  "tags": [
+    "creator-niche",
+    "niche-discovery",
+    "youtube",
+    "shorts",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 95
+},
+{
+  "id": "retention-architect-gemini",
+  "title": "Retention Architect — Gemini Prompt to Engineer High-Retention Scripts",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Advanced",
+  "desc": "Turn Gemini into a retention engineer that rewrites your scripts beat-by-beat for maximum watch time.",
+  "prompt": "Act as a video retention engineer who has studied thousands of viral short-form and long-form videos. I will paste my video script. Your job: 1) Score the script's retention strength from 1-100 with reasoning. 2) Rewrite the opening 3 seconds into 3 alternative hooks — each under 12 words, each creating an open loop. 3) Mark every line where viewers are likely to swipe away, and explain why. 4) Insert a pattern interrupt (visual cue, question, or twist) every 5-8 seconds in the rewrite. 5) Add one curiosity gap in the middle that pays off only at the end. 6) Rewrite the call-to-action so it feels like a natural continuation, not an ad. 7) Give me a second-by-second retention curve prediction for the rewritten script. My niche is [NICHE] and my platform is [YOUTUBE / TIKTOK / INSTAGRAM]. Here is my script: [PASTE SCRIPT]. Be ruthless — cut anything that doesn't earn the next second of attention.",
+  "howto": [
+    "Open Gemini and paste the full prompt above with your script.",
+    "Fill in your niche and platform so the rewrite matches the format.",
+    "Compare the original and rewritten retention curves.",
+    "Apply the top 3 fixes even if you don't use the full rewrite.",
+    "Film the 3 alternative hooks as separate videos and test which wins.",
+    "Build a checklist from Gemini's feedback and apply it to every future script."
+  ],
+  "tips": [
+    "The 3-second hook test is the highest-leverage use — test hooks before filming the whole video.",
+    "Ask Gemini to explain each swipe-away point so you learn the pattern, not just the fix."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "scripts",
+    "viral-content"
+  ],
+  "trending": false,
+  "popularity": 98
+},
+{
+  "id": "audience-avatar-builder-claude",
+  "title": "Audience Avatar Builder — Claude Prompt to Define Your Niche's Perfect Viewer",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Beginner",
+  "desc": "Build a crystal-clear picture of your ideal viewer so every video, thumbnail, and title speaks to one real person.",
+  "prompt": "Act as an audience researcher for content creators. I will describe my niche and content style. Your job: build my perfect viewer's avatar. 1) Give them a name, age, location, and daily routine. 2) Describe the 3 biggest frustrations or curiosities that make them watch videos like mine. 3) List the 5 YouTube channels or TikTok accounts they already follow and what each gives them that I don't yet. 4) Write the exact words they'd type into search when they're bored at 11pm — 10 search phrases. 5) Describe the thumbnail style that would make THEM stop scrolling (colors, faces, text style). 6) Tell me the 3 topics I should NEVER make because this viewer wouldn't care. 7) Give me 10 video titles written exactly how this viewer thinks. My niche is [NICHE]. My content style is [FACELESS / ON-CAMERA / AI-GENERATED]. Be specific and vivid — this person should feel real enough to picture in the room.",
+  "howto": [
+    "Open Claude and paste the full prompt above.",
+    "Describe your niche and content style in detail.",
+    "Read the avatar like a character sheet — print it or pin it.",
+    "Use the 10 search phrases as your next 10 video titles.",
+    "Check every thumbnail against the avatar's taste before posting.",
+    "Rebuild the avatar when you pivot niches or platforms."
+  ],
+  "tips": [
+    "Channels that speak to ONE specific viewer grow faster than channels speaking to 'everyone'.",
+    "The 'never make' list saves you months of wasted videos — respect it."
+  ],
+  "tags": [
+    "creator-niche",
+    "niche-discovery",
+    "youtube",
+    "audience",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 92
 }
 ];
 
