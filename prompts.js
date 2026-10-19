@@ -3885,7 +3885,303 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 92
-}
+},
+  {
+    "id": "crystal-cave-bloom-veo3",
+    "title": "Crystal Cave Bloom — Veo 3 Prompt for Satisfying TikTok Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A glowing crystal cave blooming like a living flower — neon mineral formations pulsing with light. Pure satisfying-loop material for faceless TikTok pages.",
+    "prompt": "Breathtaking macro time-lapse inside a glowing crystal cave, translucent amethyst and quartz crystals blooming outward like flowers, their facets pulsing with shifting neon light — violet, cyan, and rose-gold. Camera drifts slowly through the cavern in one hypnotic glide, dewdrop-like light refractions dancing across the rock walls, tiny crystal shards glittering as they form. Volumetric god-rays cutting through soft mist, ultra-detailed mineral textures, surreal otherworldly glow, seamless loop motion, photorealistic, 9:16 vertical, no people, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above and set aspect ratio to 9:16 vertical.",
+      "Generate 3 variations with different color palettes (violet, emerald, ruby).",
+      "Pick the clip whose bloom motion feels the smoothest and trim to a seamless 6-second loop.",
+      "Post with satisfying/ASMR hashtags and pin the best-performing colorway."
+    ],
+    "tips": [
+      "Seamless loops get watched 3-5x on autoplay — that repeated view time is exactly what pushes satisfying clips viral.",
+      "Run a color series (one new crystal color per week) so viewers come back to collect them all."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "satisfying",
+      "crystal",
+      "viral-content"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "rubber-hose-cartoon-kling",
+    "title": "Rubber-Hose Cartoon Revival — Kling Prompt for Nostalgia YouTube Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "A bouncy 1930s rubber-hose cartoon clip — pie eyes, noodle limbs, ragtime energy. The nostalgia niche that boomers and Gen Z both binge.",
+    "prompt": "Vintage 1930s rubber-hose cartoon animation: a cheerful pie-eyed mouse character with noodle arms dances across a grainy black-and-white stage, bouncing to an invisible ragtime beat, oversized white gloves spinning a cane while a mischievous cat bandmate toots a trumpet. Choppy hand-drawn frame wobble, flickering film grain and dust scratches, iris-in opening, exaggerated squash-and-stretch motion, monochrome with warm sepia tint, joyful nostalgic energy, 16:9, no modern elements, no text, no watermark",
+    "howto": [
+      "Open Kling and start a new text-to-video generation.",
+      "Paste the prompt and set 16:9 for YouTube (or 9:16 for Shorts).",
+      "Generate 3-4 clips and scrub frame by frame — the character design must stay consistent.",
+      "Layer public-domain ragtime audio under the clip so the bounce syncs to the beat.",
+      "Add a subtle film-grain overlay in your editor for authentic vintage texture.",
+      "Post as the first episode of a weekly 'one gag per week' cartoon series."
+    ],
+    "tips": [
+      "Keep exactly ONE character on screen per clip — extra characters are where AI cartoon generations break.",
+      "Nostalgia content gets shared by older viewers to their kids, doubling your reach across generations."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "nostalgia",
+      "cartoon",
+      "viral-content"
+    ],
+    "trending": false,
+    "popularity": 88
+  },
+  {
+    "id": "deserted-mall-decay-sora",
+    "title": "Deserted Mall Decay — Sora Prompt for Mystery YouTube Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A dead shopping mall slowly decaying in hyperlapse — sunlight creeping across the empty food court as plants take over. Mystery channels eat this up.",
+    "prompt": "Haunting cinematic hyperlapse inside a deserted 1990s shopping mall, dawn light creeping through the skylights across an empty food court, plastic chairs stacked and dusty, ferns and moss pushing through cracked tiles, a collapsed ceiling panel letting a waterfall of vines hang down. Camera glides slowly through the atrium in one continuous move, floating dust glowing in the light shafts, faded store signs, eerie quiet grandeur, overgrown liminal beauty, photorealistic, 16:9, no people, no text, no readable logos, no watermark",
+    "howto": [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the prompt and set aspect ratio to 16:9 with a 10-second duration.",
+      "Emphasize 'slow glide' so the camera move stays cinematic and controlled.",
+      "Check for readable brand logos on storefronts — regenerate if any appear.",
+      "Layer hollow echo ambience (footsteps, distant drips) under the clip.",
+      "Chain a dawn clip with a dusk variant for a before/after decay mini-series."
+    ],
+    "tips": [
+      "Abandoned-places content has obsessive watch time — pair it with calm lo-fi narration for maximum retention.",
+      "Never imply a real location is abandoned if it isn't — keep it fictional to avoid defamation issues."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "mystery",
+      "urbex",
+      "viral-content"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "neon-rain-cyberpunk-runway",
+    "title": "Neon Rain Cyberpunk Streets — Runway Prompt for TikTok Aesthetic Pages",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A rain-soaked cyberpunk street glowing with neon reflections — cinematic loop clips for aesthetic TikTok pages.",
+    "prompt": "Cinematic rain-soaked cyberpunk street at night, neon signs in pink and cyan reflecting off wet asphalt, steam rising from a grate, a lone figure with an umbrella crossing in the distance. Camera pushes slowly forward through the rain, bokeh light orbs floating, holographic billboards flickering above noodle bars and lantern-lit alleys, rain streaks catching the light, moody synthwave atmosphere, ultra-detailed reflections, photorealistic, 9:16 vertical, seamless loop motion, no readable text, no watermark",
+    "howto": [
+      "Open Runway and start a new text-to-video generation.",
+      "Paste the prompt and set 9:16 vertical with a 5-second duration.",
+      "Generate 4 weather variants: heavy rain, light drizzle, thick fog, distant storm.",
+      "Pick the cleanest loop and check the seam by playing it on repeat.",
+      "Layer trending synthwave or phonk audio under the clip.",
+      "Post the 4 variants as an aesthetic loop series across the week."
+    ],
+    "tips": [
+      "Loopable rain clips get infinite replays — the algorithm reads replays as deep retention.",
+      "Keep neon colors to two (pink + cyan) for a signature look viewers recognize instantly."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "aesthetic",
+      "cyberpunk",
+      "viral-content"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "zero-gravity-paint-pour-flow",
+    "title": "Zero-Gravity Paint Pour — Google Flow Prompt for Satisfying Instagram Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Liquid paint blooming in zero gravity — ribbons of color colliding mid-air. The satisfying Reels niche's newest obsession.",
+    "prompt": "Mesmerizing zero-gravity paint pour in a dark studio: thick ribbons of iridescent turquoise, magenta, and gold paint blooming and colliding in mid-air, droplets suspended and slowly merging into marbled spheres. Camera orbits the floating paint in a slow 360 arc, studio rim lighting catching every glossy swirl, deep black background, macro detail of colors folding into each other, hypnotic weightless motion, photorealistic, 9:16 vertical, loopable, no hands, no text, no watermark",
+    "howto": [
+      "Open Google Flow and start a new video generation.",
+      "Paste the prompt and select 9:16 vertical output.",
+      "Generate 3 clips with different color trios (turquoise-magenta-gold, violet-lime-silver, coral-teal-copper).",
+      "Trim each to a seamless 5-second loop.",
+      "Post the 3 colorways as a carousel so viewers swipe through all of them.",
+      "Repeat weekly with a new palette — paint-pour pages thrive on series consistency."
+    ],
+    "tips": [
+      "The deep black background makes colors explode on phone screens — never use a light background for this niche.",
+      "Batch 5 palettes in one sitting so you always have a week of content banked."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "satisfying",
+      "paint",
+      "viral-content"
+    ],
+    "trending": false,
+    "popularity": 90
+  },
+  {
+    "id": "golden-age-ocean-liner-sora",
+    "title": "Golden-Age Ocean Liner POV — Sora Prompt for TikTok History Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A golden-age 1920s ocean liner deck at sunset — brass railings, vintage deck chairs, the romance of old travel. History TikTok's next big niche.",
+    "prompt": "Nostalgic POV walk along the first-class deck of a 1920s ocean liner at sunset: gleaming brass railings, striped deck chairs, a string quartet playing on the far deck, passengers in vintage dress strolling past, seagulls over the wake, the vast ocean stretching to a blazing orange horizon. Camera glides forward in a smooth slow dolly, warm film glow, gentle film grain, art-deco elegance, photorealistic, 9:16 vertical, no modern elements, no text, no watermark",
+    "howto": [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the prompt and set 9:16 vertical with a 10-second duration.",
+      "Scrub the clip for anachronisms — modern railings, sneakers, or phones mean regenerate.",
+      "Add vintage jazz or swing audio from a copyright-free library.",
+      "Caption it with a real ship-era hook (e.g. 'this is how the rich crossed the Atlantic in 1927').",
+      "Post as episode one of a 'golden age of travel' series covering trains, airships, and liners."
+    ],
+    "tips": [
+      "Naming a real liner era in the caption triggers comment debates — comments are free reach.",
+      "'Golden age' content gets saved and shared heavily; ask viewers which ship to feature next."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "history",
+      "travel",
+      "viral-content"
+    ],
+    "trending": false,
+    "popularity": 89
+  },
+  {
+    "id": "kawaii-food-mascots-midjourney",
+    "title": "Kawaii Food Mascots — Midjourney Prompt for Cute Facebook Sticker Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Adorable kawaii food mascots — a smiling sushi roll, a blushing bubble-tea cup. Cute-character pages that Facebook's algorithm loves.",
+    "prompt": "Adorable kawaii food mascot character lineup, chibi style: a smiling sushi roll with rosy cheeks, a blushing bubble-tea cup with a straw arm waving, a happy croissant wearing a tiny chef hat, a giggling strawberry milk carton. Soft pastel background with floating sparkles, big glossy eyes, thick clean outlines, sticker-sheet composition with 4 characters in a 2x2 grid, glossy 3D render, ultra cute, vibrant candy colors --ar 1:1 --v 6",
+    "howto": [
+      "Open Midjourney and paste the full prompt including the --ar 1:1 --v 6 parameters.",
+      "Generate 4 grids and pick the one with the most consistent art style.",
+      "Upscale your favorite grid, then crop each character into its own square.",
+      "Remove the backgrounds to turn each mascot into a sticker or page avatar.",
+      "Post one mascot per day as a 'meet the crew' reveal series.",
+      "Run a 'name the mascot' contest in the comments once all four are revealed."
+    ],
+    "tips": [
+      "Sticker-style cute characters are Facebook's most-shared image format — saves and shares beat likes here.",
+      "Keep the same eye style and outline thickness across every character or the set won't feel like a family."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "kawaii",
+      "characters",
+      "viral-content"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "comment-gold-miner-chatgpt",
+    "title": "Comment Gold Miner — ChatGPT Prompt to Discover Niches From Viral Comments",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "Mine viral-video comments to discover niches nobody is serving yet — the comments are a free focus group telling you exactly what to make.",
+    "prompt": "You are a niche-discovery strategist. I will paste the comment sections from 5 viral videos in my niche. Your job: (1) extract the 20 most-repeated questions and requests hiding in the comments, (2) cluster them into 5 underserved content themes, (3) for each theme, propose 3 specific video or channel ideas with a working title and one line explaining why the comments prove demand, (4) rank the 5 themes by competition level and revenue potential, (5) give me a 30-day validation plan to test the top theme before I commit. Format everything as a clean report with tables. If I have not told you my niche yet, ask me first.",
+    "howto": [
+      "Open ChatGPT and paste the prompt above.",
+      "Tell it your niche (or answer its question if it asks).",
+      "Copy the comment sections from 5 viral videos in that niche and paste them in — summaries work if comments are huge.",
+      "Review the ranked themes table and pick the top theme with low competition.",
+      "Validate it with 3 test Shorts before building a full channel around it."
+    ],
+    "tips": [
+      "Comments saying 'I wish someone made...' or 'nobody covers...' are pure gold — treat them as direct orders from your future audience.",
+      "Repeat this monthly — comment demand shifts fast, and catching a wave early beats having the best production."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "niche-discovery",
+      "comments",
+      "strategy"
+    ],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "viral-series-bible-gemini",
+    "title": "Viral Series Bible — Gemini Prompt to Design Bingeable Shorts Formats",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "Design a bingeable recurring series format for Shorts — the 'episode' structure that turns casual viewers into subscribers.",
+    "prompt": "You are a short-form series architect. Help me design a repeatable viral series for TikTok and YouTube Shorts in my niche. First ask me my niche and 3 reference creators. Then deliver a 'Series Bible': (1) a sticky series name plus 5 episode title templates, (2) the exact 3-beat structure every episode follows — hook beat, escalation beat, payoff beat — with timestamps, (3) a signature recurring element viewers will anticipate (a sound, catchphrase, or visual gag), (4) the first 10 episode ideas with hooks, (5) why this format is bingeable — the open loop that pulls viewers into the next episode, (6) the metrics to watch after episode 5 to decide whether to double down or pivot. Make it faceless-friendly with every episode under 60 seconds.",
+    "howto": [
+      "Open Gemini and paste the prompt above.",
+      "Answer its questions: your niche and 3 reference creators.",
+      "Save the full Series Bible it returns — this is your format playbook.",
+      "Produce episodes 1-3 in one week on a fixed posting schedule.",
+      "After episode 5, check the metrics it told you to watch and decide: double down or pivot."
+    ],
+    "tips": [
+      "The signature recurring element is what fans quote and stitch — never skip it, it is the series' brand.",
+      "Post episodes on a fixed schedule so both viewers and the algorithm learn when to expect the next one."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "youtube",
+      "series",
+      "viral-content"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "evergreen-content-vault-claude",
+    "title": "Evergreen Content Vault — Claude Prompt for 100 Never-Die Niche Ideas",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Intermediate",
+    "desc": "Turn one niche into 100 evergreen video ideas that rank and get watched for years — the search-driven vault strategy.",
+    "prompt": "You are an evergreen content strategist. I will name my niche. Build me an 'Evergreen Content Vault': (1) 100 video ideas that will still be searched in 3 years, grouped into 10 pillar clusters, (2) each idea with a search-optimized working title and the exact question it answers, (3) label each idea as beginner, intermediate, or advanced viewer intent, (4) a 12-month publishing order starting with the 20 highest-search-volume pillars, (5) for the top 10 ideas, add a 5-point outline I can hand to a scriptwriter, (6) 5 ideas most likely to attract brand sponsors in this niche and why. No trend-chasing topics — only ideas with durable search demand.",
+    "howto": [
+      "Open Claude and paste the prompt above.",
+      "Name your niche and let it build the full vault.",
+      "Review the 10 pillar clusters and start with cluster 1's highest-volume titles.",
+      "Use the 5-point outlines to brief a scriptwriter or to write scripts yourself.",
+      "Publish in the 12-month order given — search volume compounds when pillars interlink."
+    ],
+    "tips": [
+      "Evergreen means compound growth: video #1 still earns views and revenue in year 3 while you sleep.",
+      "Refresh titles and thumbnails once a year — updated packaging keeps old videos winning the click."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "niche-discovery",
+      "evergreen",
+      "strategy"
+    ],
+    "trending": false,
+    "popularity": 88
+  }
 ];
 
 if (typeof module !== "undefined") {
