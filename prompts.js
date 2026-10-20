@@ -5152,7 +5152,237 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 90
-  }
+  },
+  {
+    id: "viral-channel-trailer-veo3",
+    title: "Viral Faceless Channel Trailer — Veo 3 Prompt for New YouTube Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Intermediate",
+    desc: "Launch any faceless niche channel with an 8-second cinematic trailer that sells the whole niche in one glance — the fastest way to look established from day one.",
+    prompt: "Create a cinematic 8-second channel trailer for a brand-new faceless YouTube niche channel. Open on a black screen with a deep bass hit, then smash-cut through three 2-second hyper-detailed scenes that define the niche: [NICHE — e.g. abandoned places / ocean mysteries / luxury tech]. Scene 1: extreme close-up macro shot pulling back to reveal the full scene, dramatic rim lighting, slow motion. Scene 2: sweeping aerial drone move, golden-hour haze, particles drifting through the air. Scene 3: slow push-in on the most iconic object of the niche, lens flare, shallow depth of field. Final beat: a bold 3D chrome channel name slams into center frame with a shockwave ring and glowing embers. Photorealistic, 16:9, ultra-detailed textures, film grain, dramatic color grade, epic trailer energy, no people, no watermarks, smooth deliberate camera moves.",
+    howto: [
+      "Open Veo 3 and start a new 16:9 video generation.",
+      "Replace [NICHE] with your channel's exact niche and [channel name] with your brand.",
+      "Paste the full prompt and generate 2-3 variations.",
+      "Pick the variation with the strongest final title-slam frame.",
+      "Upload it as your YouTube channel trailer and pin it to your homepage."
+    ],
+    tips: [
+      "Swap the three scenes to match any niche — the trailer formula works for history, tech, animals, or mysteries.",
+      "Add a 1-second black flash between scenes for extra trailer punch and higher perceived production value."
+    ],
+    tags: ["youtube", "creator-niche", "channel trailer", "veo 3", "faceless"],
+    trending: true,
+    popularity: 96
+  },
+  {
+    id: "satisfying-repair-loop-kling",
+    title: "Satisfying Object Restoration Loop — Kling Prompt for Viral TikTok Niche Pages",
+    category: "Video Prompts",
+    tool: "Kling",
+    difficulty: "Beginner",
+    desc: "A rusty vintage object restored to gleaming new in a seamless 5-second loop — the restoration niche is one of TikTok's most rewatchable formats.",
+    prompt: "Generate a seamless 5-second vertical loop of a satisfying object restoration for a TikTok niche page. Subject: a rusty vintage [OBJECT — e.g. pocket watch / lantern / bicycle bell] centered on a dark wooden workbench under warm workshop lighting. The loop: rust and grime visibly dissolve and flake away in waves as polished metal gleams through beneath, tiny sparks and dust particles floating upward, the object slowly rotating 360 degrees. Start and end frames must be identical so the loop is invisible. Hyper-detailed macro textures — brushed steel, oil sheen, wood grain. Cinematic warm color grade, shallow depth of field, subtle camera drift, 9:16 vertical, photorealistic, no hands, no text, no watermark, mesmerizing satisfying-loop energy built for endless replays.",
+    howto: [
+      "Open Kling and choose a 5-second 9:16 vertical generation.",
+      "Replace [OBJECT] with any rusty vintage item that fits your niche.",
+      "Paste the prompt and generate until the loop point is seamless.",
+      "Post with restoration and satisfying hashtags plus your niche tag.",
+      "Reply to 'how did you do this?' comments with a link to your page for follower conversion."
+    ],
+    tips: [
+      "Batch-generate 5 different objects in one sitting to stock a full week of daily posts.",
+      "Objects with moving parts (gears, hinges, lids) get 2-3x more saves than static ones."
+    ],
+    tags: ["tiktok", "creator-niche", "restoration", "kling", "satisfying"],
+    trending: false,
+    popularity: 91
+  },
+  {
+    id: "lost-city-documentary-sora",
+    title: "Lost City Documentary Opener — Sora Prompt for Mystery YouTube Niche Channels",
+    category: "Video Prompts",
+    tool: "Sora",
+    difficulty: "Intermediate",
+    desc: "A fog-shrouded lost city revealed at dawn — a premium documentary-style opener that gives mystery niche channels instant authority.",
+    prompt: "Create a 10-second cinematic documentary opener for a mystery YouTube niche channel. Aerial shot: a fog-shrouded ancient lost city at dawn — crumbling stone temples, overgrown plazas, a river of mist winding between ruins, birds scattering as the camera glides low over broken rooftops. The camera slowly descends through the fog layer, revealing carved stone faces and collapsed colonnades in golden-pink sunrise light, dust motes drifting. The visual rhythm builds like a score: a slow ominous push-in, growing scale, an eerie calm before the title reveal. Photorealistic, 16:9, ultra-detailed stone and foliage textures, volumetric fog, cinematic color grade, film grain, no people, no modern objects, no text — mysterious and awe-inspiring, the kind of opener viewers associate with premium documentary channels.",
+    howto: [
+      "Open Sora and start a new 16:9 generation at maximum duration.",
+      "Paste the prompt exactly, keeping the fog and sunrise lighting cues.",
+      "Generate 2 variations and pick the one with the cleanest descent through the fog.",
+      "Add your channel title card over the final 2 seconds in your editor.",
+      "Reuse the same opener across videos to build a recognizable series brand."
+    ],
+    tips: [
+      "Pair this opener with a whispered voiceover hook for a 40%+ average view duration lift.",
+      "Change 'lost city' to any location — sunken ships, desert ruins, ice caves — for a whole mystery series."
+    ],
+    tags: ["youtube", "creator-niche", "documentary", "sora", "mystery"],
+    trending: false,
+    popularity: 88
+  },
+  {
+    id: "neon-product-loop-runway",
+    title: "Neon Product Ad Loop — Runway Prompt for Instagram Reels Niche Pages",
+    category: "Video Prompts",
+    tool: "Runway",
+    difficulty: "Beginner",
+    desc: "A product floating in pulsing neon light trails — a scroll-stopping 6-second loop built for Instagram Reels product and gadget niche pages.",
+    prompt: "Generate a 6-second seamless vertical product loop for an Instagram Reels niche page. A sleek [PRODUCT — e.g. perfume bottle / smartwatch / sneaker] floats and slowly rotates at the center of a dark studio void, wrapped in pulsing neon light trails — electric blue and hot magenta — that orbit the product like energy ribbons. Tiny light particles sparkle off the product's reflective surfaces; every 2 seconds a soft shockwave ripple of color washes across the frame. Background: pure black with a faint neon grid floor reflection. Loop point invisible — start and end frames identical. Hyper-glossy product rendering, cinematic lighting, 9:16 vertical, ultra-smooth motion, no hands, no text, no watermark — built to stop thumbs mid-scroll and loop endlessly in Reels.",
+    howto: [
+      "Open Runway and start a 6-second 9:16 text-to-video generation.",
+      "Replace [PRODUCT] with the item your niche page features.",
+      "Paste the prompt and generate until the loop is seamless.",
+      "Post as a Reel with trending audio underneath at low volume.",
+      "Pin your best-performing loop to your profile grid."
+    ],
+    tips: [
+      "Blue-magenta neon outperforms all other color pairs for gadget and beauty niches.",
+      "Add a price or 'link in bio' text overlay in Instagram's editor — never burn it into the AI video."
+    ],
+    tags: ["instagram", "creator-niche", "product", "runway", "ads"],
+    trending: false,
+    popularity: 85
+  },
+  {
+    id: "emotional-rescue-short-google-flow",
+    title: "Emotional Animal Rescue Short — Google Flow Prompt for Facebook Viral Pages",
+    category: "Video Prompts",
+    tool: "Google Flow",
+    difficulty: "Intermediate",
+    desc: "A complete cry-then-smile rescue story in 12 seconds — engineered for Facebook shares, comments, and the animal-niche algorithm.",
+    prompt: "Create a 12-second emotional animal-rescue short for a Facebook viral page, structured as a 3-beat story. Beat 1 (4s): a small shivering [ANIMAL — e.g. puppy / kitten / duckling] alone in the rain under a gray sky, slow push-in, muted colors, heartbreaking vulnerability. Beat 2 (4s): warm hands gently lift the animal; the camera follows upward as rain stops and golden sunlight breaks through clouds, the color grade warming dramatically. Beat 3 (4s): the now-clean, happy animal runs toward camera across a sunlit meadow, tail wagging, slow motion, lens flare, pure joy. Photorealistic, 16:9, cinematic emotional arc, film grain, no text overlays, no watermarks, no dialogue — a complete cry-then-smile story in 12 seconds, engineered for Facebook shares and comments.",
+    howto: [
+      "Open Google Flow and generate in 16:9 for Facebook feed placement.",
+      "Replace [ANIMAL] with the rescue animal your page features.",
+      "Generate each 4-second beat separately for maximum control, then join them.",
+      "Post with a caption asking viewers to name the animal — comments explode reach.",
+      "Share to relevant animal-lover Facebook groups for the first-hour push."
+    ],
+    tips: [
+      "The rain-to-sunlight color shift is the share trigger — make beat 2's transition as dramatic as possible.",
+      "End on a freeze-frame of the happy animal for a perfect shareable thumbnail."
+    ],
+    tags: ["facebook", "creator-niche", "animals", "google flow", "story"],
+    trending: false,
+    popularity: 90
+  },
+  {
+    id: "underwater-city-drone-veo3",
+    title: "Underwater Ruins Drone Flyover — Veo 3 Prompt for TikTok Discovery Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Beginner",
+    desc: "A drone dives beneath turquoise water into a sunken ancient city — pure wonder-bait for TikTok discovery and mystery niche pages.",
+    prompt: "Generate a breathtaking 8-second vertical drone flyover of sunken ancient ruins for a TikTok discovery niche. The camera skims just above crystal-clear turquoise water, then dives beneath the surface in one continuous move — revealing a vast submerged city: toppled marble columns, a half-buried temple, schools of silver fish streaming through broken archways, sunbeams piercing the water in god rays. The drone weaves between columns, tiny bubbles trailing, then rises back above the waves as seabirds scatter. Photorealistic, 9:16 vertical, ultra-detailed underwater caustics and marble textures, cinematic teal-and-gold grade, smooth continuous camera motion, no people, no text, no watermark — pure wonder-bait built for the 'wait, what is this place?' comment section.",
+    howto: [
+      "Open Veo 3 and start a 9:16 vertical generation.",
+      "Paste the prompt exactly — the continuous dive move is the viral mechanic.",
+      "Generate 3 variations and keep the one with the smoothest water transition.",
+      "Post with a curiosity caption like 'Archaeologists don't want you to see this'.",
+      "Duet or stitch the top comment asking 'where is this?' to double the video's life."
+    ],
+    tips: [
+      "God rays and fish schools are the two details viewers screenshot — make sure both are prominent.",
+      "Swap 'sunken city' for 'ice cave' or 'lava tube' to spin off a whole discovery series."
+    ],
+    tags: ["tiktok", "creator-niche", "drone", "veo 3", "ruins"],
+    trending: false,
+    popularity: 87
+  },
+  {
+    id: "niche-thumbnail-pack-midjourney",
+    title: "Viral Niche Thumbnail Pack — Midjourney Prompt for YouTube CTR in Any Niche",
+    category: "Image Prompts",
+    tool: "Midjourney",
+    difficulty: "Intermediate",
+    desc: "A reusable Midjourney thumbnail formula — peak emotion, clean negative space, 3-element rule — that lifts CTR for any YouTube niche channel.",
+    prompt: "Design a viral YouTube thumbnail concept in Midjourney that works for ANY niche: a hyper-expressive [SUBJECT — e.g. shocked explorer / giant product / dramatic animal] filling the right two-thirds of frame, mouth open or eyes wide in peak emotion, dramatic rim lighting, ultra-detailed skin/fur/metal textures. Background: a bold, simple, high-contrast scene hinting at the video's payoff — explosion of color, glowing portal, before/after split. Leave the left third as clean negative space in a solid punchy color for the title text you'll add later. Style: --ar 16:9 --style raw --v 6.1, punchy saturated colors, crisp edges readable at 120px wide, 3-element maximum rule — subject, background payoff, empty space. No text in the image itself. Render 4 variations, pick the one with the strongest single emotion, and reuse the seed for a consistent channel look.",
+    howto: [
+      "Open Midjourney and replace [SUBJECT] with the emotional focal point of your video.",
+      "Paste the prompt and render 4 variations in 16:9.",
+      "Pick the variation with the single strongest emotion, readable at thumbnail size.",
+      "Add 3-5 words of bold title text in the left-third negative space with your editor.",
+      "A/B test two thumbnail variants per video using YouTube's Test & Compare."
+    ],
+    tips: [
+      "Never put text inside the Midjourney image — AI text renders badly and kills CTR.",
+      "Reuse the same seed across a series so your channel grid looks instantly recognizable."
+    ],
+    tags: ["youtube", "creator-niche", "thumbnails", "midjourney", "ctr"],
+    trending: false,
+    popularity: 93
+  },
+  {
+    id: "hidden-niche-goldmine-chatgpt",
+    title: "Hidden Niche Goldmine — ChatGPT Prompt to Find Underserved Creator Niches",
+    category: "Text Prompts",
+    tool: "ChatGPT",
+    difficulty: "Beginner",
+    desc: "A ruthless niche-market analyst prompt that scores 25 sub-niches and hands you the top 7 underserved, monetizable creator niches with a 30-day content plan.",
+    prompt: "You are a ruthless niche-market analyst for faceless content creators. My goal: find UNDERSERVED, monetizable creator niches for [PLATFORM: YouTube / TikTok / Facebook / Instagram] in 2026. Step 1: list 25 candidate sub-niches inside the broad topic of [BROAD TOPIC — e.g. history / finance / animals / DIY]. Step 2: for each, score 1-10 on: search demand, competition level (inverse), advertiser value (CPM potential), content repeatability, and AI-production feasibility. Step 3: rank them and present the top 7 as a table with scores, why each is underserved, and the exact viewer it attracts. Step 4: for the #1 niche, give me a 30-day content calendar: 12 video ideas with titles, hooks (first 3 seconds), and the AI tool to produce each (Veo 3, Kling, Sora, Runway, Google Flow, Midjourney). Step 5: list 5 existing channels in adjacent niches I can study, and what each one gets wrong that I can exploit. Be brutally honest — kill weak ideas, don't flatter me.",
+    howto: [
+      "Open ChatGPT and replace [PLATFORM] and [BROAD TOPIC] with your targets.",
+      "Paste the full prompt and let it complete all 5 steps before interrupting.",
+      "Copy the top-7 table into a doc — this is your niche shortlist.",
+      "Run the prompt again with a different broad topic to compare opportunity sets.",
+      "Validate the #1 pick by searching the platform for existing competition before committing."
+    ],
+    tips: [
+      "Run it once per platform — the same broad topic produces totally different winners on TikTok vs YouTube.",
+      "Ask ChatGPT to 'steelman the case AGAINST the #1 niche' to catch blind spots before you invest."
+    ],
+    tags: ["youtube", "creator-niche", "niche discovery", "chatgpt", "research"],
+    trending: true,
+    popularity: 97
+  },
+  {
+    id: "platform-niche-ranker-gemini",
+    title: "Platform Niche Ranker — Gemini Prompt to Pick the Best Niche for Each Platform",
+    category: "Text Prompts",
+    tool: "Gemini",
+    difficulty: "Intermediate",
+    desc: "Score one niche idea across YouTube, TikTok, Facebook, and Instagram — get a GO/ADAPT/SKIP verdict per platform plus a ranked launch order.",
+    prompt: "You are a cross-platform content strategist. I have a niche idea: [YOUR NICHE — e.g. AI-restored historical photos / miniature cooking / urban exploration]. Score this ONE niche separately for YouTube, TikTok, Facebook, and Instagram on: audience size for the niche, competition density, algorithm fit (does the platform reward this format?), monetization paths, and growth speed in 2026. Present a 4-column comparison table with scores out of 10 and a verdict per platform: GO / ADAPT / SKIP. For every GO or ADAPT platform, specify the exact format to post (video length, aspect ratio, posting frequency), the first 10 video/post ideas tailored to that platform's culture, and the AI tool chain to produce them (Veo 3, Kling, Sora, Runway, Google Flow, Midjourney). End with a ranked launch order — which platform first, second, third — and the one metric per platform that tells me within 30 days whether to double down or pivot.",
+    howto: [
+      "Open Gemini and replace [YOUR NICHE] with your concrete niche idea.",
+      "Paste the full prompt and review the 4-column comparison table.",
+      "Start with the #1 ranked platform only — don't launch everywhere at once.",
+      "Use the 10 platform-tailored ideas as your first month of content.",
+      "Re-run monthly: platform algorithms shift, and verdicts change."
+    ],
+    tips: [
+      "An ADAPT verdict usually means 'right niche, wrong format' — the format fix is in the prompt's output.",
+      "Save the launch order — creators who chase all four platforms at once burn out by week three."
+    ],
+    tags: ["tiktok", "creator-niche", "strategy", "gemini", "platforms"],
+    trending: false,
+    popularity: 89
+  },
+  {
+    id: "viral-format-deconstructor-claude",
+    title: "Viral Format Deconstructor — Claude Prompt to Reverse-Engineer Winning Niche Formats",
+    category: "Text Prompts",
+    tool: "Claude",
+    difficulty: "Advanced",
+    desc: "Feed Claude 3-5 viral videos from your niche and get back their viral DNA plus a reusable format blueprint with 10 original video ideas.",
+    prompt: "You are a viral-content forensic analyst. I will paste [LINKS or DESCRIPTIONS of 3-5 top-performing videos/posts] in my niche: [NICHE]. Deconstruct each one into its viral DNA: the exact hook mechanism in the first 3 seconds, the retention curve (what happens at 0:05, 0:15, 0:30 to stop the swipe), the emotional payload, the comment-bait element, the share trigger, and the loop/replay mechanic. Then build me a FORMAT BLUEPRINT: a reusable template combining the strongest DNA from all examples — with fill-in-the-blank slots for my own topics, timing markers, and the visual/audio beats an AI video tool (Veo 3, Kling, Sora, Runway, Google Flow) needs to execute it. Finally, give me 10 original video ideas using this blueprint that none of the analyzed creators have done, each with a predicted-virality score and the single biggest risk that could make it flop. No generic advice — everything must trace back to the examples I gave you.",
+    howto: [
+      "Open Claude and replace [NICHE] plus paste your 3-5 example videos or detailed descriptions.",
+      "Paste the full prompt and study the viral DNA breakdown for patterns.",
+      "Save the FORMAT BLUEPRINT as your channel's production template.",
+      "Produce the highest predicted-virality idea first using the listed AI tool chain.",
+      "After each video, feed Claude the results to refine the blueprint."
+    ],
+    tips: [
+      "Pick examples from the last 90 days only — viral mechanics decay fast.",
+      "The 'biggest risk' section is the real gold: it tells you what to fix before you publish."
+    ],
+    tags: ["youtube", "creator-niche", "analysis", "claude", "formats"],
+    trending: false,
+    popularity: 92
+  },
 ];
 
 if (typeof module !== "undefined") {
