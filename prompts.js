@@ -5383,6 +5383,104 @@ const PROMPTS = [
     trending: false,
     popularity: 92
   },
+  {
+    "id": "niche-spotlight-ai-dark-psychology-reels",
+    "title": "Dark Psychology Mind Tricks (Instagram Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Your brain is wired to seek self-knowledge — mind-blowing psychology facts trigger the information-gap curiosity loop, and they get saved 3-5x more than talking-head videos because viewers bookmark them to re-read. Is niche ki videos 96.2M/74.8M/58.3M/42.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-dark-psychology-reels.jpg",
+    "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: cinematic scene illustrating [MIND TRICK: the 'doorway effect' making you forget why you entered a room / the Zeigarnik effect keeping unfinished tasks in your mind / mirroring body language to build instant trust / the foot-in-the-door technique / scarcity making objects feel more valuable / the Baader-Meinhof phenomenon / the 'Ben Franklin effect'], visual style: [VISUAL STYLE: glowing brain neurons in purple and gold / puppet-master chessboard with golden strings / hypnotic galaxy spiral reflected in an eye / silhouetted figure among frozen statues], lighting: [LIGHTING: neon magenta-cyan glow on dark / dramatic spotlight / moonlit blue vs warm amber], suspenseful cinematic camera drift, the [KEY MOMENT: the realization hits at second 8 — a visual punch like the strings snapping], mysterious, curiosity-driving, no text, no watermark, no people speaking",
+    "howto": [
+      "Pick one mind trick per Reel; generate the cinematic visual in Veo 3, then add a voice-over explaining the trick (AI voice or your own) — voice + visuals = the full package.",
+      "Hook formula: on-screen text 'Your brain is lying to you. Here's how:' in the first 1.5 seconds — psychology content lives or dies on the hook.",
+      "Batch 7 tricks per week from one listicle ('12 Dark Psychology Tricks') so content never runs dry.",
+      "Use Reels' native text-on-screen tool (not baked-in text) so Instagram indexes the keywords.",
+      "Post in the evening (7-10 PM local) when curiosity-driven scroll mode peaks."
+    ],
+    "tips": [
+      "Caption trick: end with 'Save this — you'll need trick #3 tomorrow.' Saves are Instagram's strongest ranking signal.",
+      "Never reveal the trick's name in the first 3 seconds — name it only at the end so viewers watch through (open loop).",
+      "Cross-post the same Reel to Shorts/TikTok with platform-native captions for triple distribution."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "psychology",
+      "reels",
+      "faceless"
+    ],
+    "trending": true,
+    "popularity": 95
+  }
+,
+  {
+    "id": "niche-spotlight-ai-horror-storytime",
+    "title": "AI Horror Storytime Parts (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Fear is the strongest retention drug — cliffhanger horror storytime turns viewers into binge-watchers, and TikTok reads the resulting completion rate as elite quality. Is niche ki videos 198.4M/167.2M/143.8M/115.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-horror-storytime.jpg",
+    "prompt": "AI video, [DURATION: 45-60 seconds], vertical 9:16: [SCENE: abandoned asylum corridor with flickering lights / child's bedroom at midnight with a dark silhouette in the closet / foggy forest road with a handprint on the windshield / flooded basement with a rocking chair moving alone], [STORY BEAT: the narrator reaches the twist — the figure steps closer / the silhouette's head turns / the handprint appears FROM INSIDE / the chair stops as the light swings to reveal...], [MOOD: found-footage realism / slow cinematic dread / sudden jump-scare payoff], desaturated [COLOR GRADE: blue-grey with blood-red accent / cold moonlight blue vs sickly amber], camera moves like a frightened person backing away slowly, pure dread, no text, no watermark, no visible actors' faces",
+    "howto": [
+      "Split each story into 3-5 'Part' videos (60s each); end every part on a cliffhanger ('...and that's when the light went out. Part 4?').",
+      "Script the narration with a simple 3-beat arc: normal setup, one wrong detail, implication of danger.",
+      "Generate one key visual per story beat in Veo 3, then assemble in CapCut: slow zooms + heartbeat SFX + sudden silence.",
+      "Record the narration in a calm, almost-bored voice — the contrast between a calm voice and scary visuals amplifies fear (the Mr. Nightmare technique).",
+      "Pin Part 1 on your profile and link parts in comments so new viewers binge the whole story."
+    ],
+    "tips": [
+      "Hook = the scariest line of the story spoken in the first 2 seconds ('The rocking chair was moving. Nobody was in the room.') — never start with 'welcome back'.",
+      "Title formula: 'PART [N] — the [OBJECT] [DID SOMETHING IMPOSSIBLE]' — the impossible action is the curiosity gap.",
+      "Post at 9-11 PM when viewers are alone in the dark — horror retention spikes at night."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "horror",
+      "storytelling",
+      "faceless"
+    ],
+    "trending": true,
+    "popularity": 96
+  }
+,
+  {
+    "id": "niche-spotlight-ai-fantasy-mini-movies",
+    "title": "AI Fantasy Mini-Movies (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI erased Hollywood's budget barrier — bedroom creators now make blockbuster fantasy mini-movies that trigger awe, the rarest and most shareable emotion on YouTube. Is niche ki videos 61.4M/48.7M/35.2M/27.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-fantasy-mini-movies.jpg",
+    "prompt": "AI video, [DURATION: 8-12 seconds per shot, chain 6-10 shots], 16:9 cinematic: [SHOT: a colossal dragon with emerald scales circling a moonlit cliffside castle / a mermaid warrior in pearl armor riding a giant seahorse through bioluminescent coral arches / a lone hero raising a flaming sword before a colossal stone golem awakening / luminous sky whales gliding past floating islands and a tiny airship], [FANTASY WORLD DETAIL: ancient runes glowing on stone / waterfalls pouring off floating islands / star-waterfalls in the night sky], [LIGHTING: moonlit teal and gold / bioluminescent blue-magenta / ember-lit orange and purple / pink-violet sunset], epic blockbuster cinematography, slow majestic camera moves, orchestral-scale grandeur, no text, no watermark, no modern objects",
+    "howto": [
+      "Write a 60-90s micro-story first (hero, impossible wonder, twist) — the fantasy visuals only work with a real narrative spine.",
+      "Generate each shot in Veo 3 with the SAME [FANTASY WORLD DETAIL] phrase repeated so all shots share one coherent world.",
+      "Assemble 6-10 shots in CapCut/Premiere, add royalty-free epic music, one title card at the start: '[WORLD NAME] — Part 1'.",
+      "Publish as Shorts AND long-form: the same mini-movie as a 60s Short funnels viewers to the 5-8 min 'full movie' upload.",
+      "End every mini-movie mid-moment ('the golem opened its eyes —') and pin a comment: 'Full story drops Friday' to build returning viewers."
+    ],
+    "tips": [
+      "Thumbnail rule: one impossible creature + one tiny human for scale — scale contrast is the #1 CTR driver in fantasy.",
+      "Title formula: '[SHE/HE] [DID THE IMPOSSIBLE] — AI Fantasy Film' — the impossible claim is the click.",
+      "Publish 2-3x/week on a schedule: the channel that posts fantasy worlds on time builds a fandom, not just views."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "fantasy",
+      "ai-film",
+      "faceless"
+    ],
+    "trending": true,
+    "popularity": 94
+  }
 ];
 
 if (typeof module !== "undefined") {
