@@ -1480,6 +1480,7 @@ const PROMPTS = [
     "tool": "Midjourney",
     "difficulty": "Beginner",
     "desc": "ASMR satisfaction triggers an involuntary \"one more watch\" loop — the brain rewards prediction (where will the knife land?) and completion (the clean slice). Every loop is a retention event Instagram's algorithm reads as high quality. Is niche ki videos 112.5M/89.3M/64.7M/48.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-soap-cutting-asmr.jpg",
     "prompt": "Generate a hyper-detailed [CAMERA ANGLE: extreme close-up/macro/top-down] photo of a [SOAP TYPE: layered pastel soap/glitter gold soap/neon swirl soap/flower-shaped soap] being sliced by a [TOOL: metal wire cutter/sharp knife], [ACTION DETAIL: one clean cut lifting a translucent petal curl / perfect cube slices falling / thin slices fanning like petals], [COLOR PALETTE: pastel rainbow pink-lavender-mint / gold and champagne / electric blue-teal swirls / pink-orange-purple], [LIGHTING: soft studio light / dramatic dark background], oddly satisfying ASMR aesthetic, no text, no watermark",
     "howto": [
       "Post 1–2 Reels per day: one soap per video keeps the visual fresh and the edit loopable.",
@@ -1509,6 +1510,7 @@ const PROMPTS = [
     "tool": "Veo 3",
     "difficulty": "Beginner",
     "desc": "Kinetic sand slicing hits three dopamine levers at once: sensory ASMR (visual + sound), pattern completion (the perfect slice), and novelty (a new shape every video). TikTok's algorithm reads the resulting replays as elite retention. Is niche ki videos 214.6M/176.2M/158.8M/93.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-kinetic-sand-cutting.jpg",
     "prompt": "AI video, [DURATION: 8-15 seconds], vertical 9:16: close-up of [SAND TYPE: rainbow layered kinetic sand / metallic black-gold sand / giant fruit-shaped sand block / pastel galaxy swirl tower] being sliced by a [BLADE: sharp chef knife / wire slicer], [CUT STYLE: perfect cube slices / thin shimmering ribbons / clean halves revealing a patterned interior], [COLOR PALETTE: neon rainbow stripes / black and gold metallic / watermelon red-green / purple-pink-teal galaxy], [LIGHTING: soft studio light / dramatic dark background], synchronized slicing sound, oddly satisfying ASMR aesthetic, seamless loop ending, no text, no watermark",
     "howto": [
       "Open with the blade mid-cut — TikTok's first 2 seconds decide everything.",
@@ -1538,6 +1540,7 @@ const PROMPTS = [
     "tool": "Veo 3",
     "difficulty": "Beginner",
     "desc": "Urbex is curiosity you can't resolve by scrolling — a place frozen in time triggers the \"what happened here?\" gap, and viewers keep watching to close it. High average view duration is YouTube's core ranking signal, and this niche manufactures it. Is niche ki videos 38.6M/52.3M/24.1M/15.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-urbex-abandoned-places.jpg",
     "prompt": "Cinematic AI video sequence, [SHOT STYLE: explorer POV with flashlight / aerial drone sweep / slow interior dolly], of [LOCATION: abandoned grand hotel lobby / derelict hospital corridor / overgrown amusement park at golden hour / sunken shipwreck ballroom], key detail: [HAUNTING ELEMENT: cobwebbed chandelier / rusted wheelchair / empty ferris wheel silhouette / diver's light through a broken porthole], [ATMOSPHERE: dust particles in light shafts / vines creeping through broken windows / dramatic sunset], found-footage-realistic textures, subtle camera shake, no people shown fully, no text, no watermark",
     "howto": [
       "Title every video as a place + mystery: \"I Explored [LOCATION] — Nobody Has Been Here in [X] Years\".",
@@ -4181,6 +4184,974 @@ const PROMPTS = [
     ],
     "trending": false,
     "popularity": 88
+  },
+  {
+    "id": "viral-niche-animal-rescue-heartwarming",
+    "title": "Heartwarming Animal Rescues — Before & After (Facebook Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Redemption arc + empathy overload: viewers feel the animal's pain, then get the dopamine payoff of the transformation — and sharing it signals kindness, so every view recruits the next viewer. Is niche ki videos 96.4M/72.8M/55.2M/41.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-animal-rescue-heartwarming.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Sora / Kling) — paste as-is:\n\n\"Create a 15-second emotional vertical video of a [ANIMAL] rescue story in three beats. BEAT 1 (0-4s): the [ANIMAL] found [LOCATION], looking [EMOTION: scared / injured / abandoned], desaturated cold tones, shaky handheld camera. BEAT 2 (4-9s): a rescuer's hands gently [ACTION: lifting it out / bottle-feeding / wrapping it in a blanket], warm light slowly rising, hopeful music swell. BEAT 3 (9-15s): full transformation — the [ANIMAL] [HAPPY ENDING: running on a beach / playing with its new family / thriving at a sanctuary], saturated golden colors, pure joy. Photorealistic, cinematic, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [ANIMAL], [LOCATION], [EMOTION], [ACTION], [HAPPY ENDING]",
+    "howto": [
+      "Step 1 — Generate the 3 beats: use one master prompt per beat (found → rescued → transformed) so the arc is crystal clear in a single clip.",
+      "Step 2 — Edit for emotion: cold desaturated grade on beat 1, warm golden grade on beat 3; add a swelling royalty-free music track and one on-screen text line per beat ('Day 1: found on the roadside' → 'Day 30: unrecognizable').",
+      "Step 3 — Post with a question caption: 'Would you have stopped to help? 💔→❤️' and reply to every comment in the first hour to push shares."
+    ],
+    "tips": [
+      "Hook rule (Facebook): the first 2 seconds must show the shocking 'before' frame — cold, sad, scroll-stopping. The payoff (transformed animal) comes last to force watch-through.",
+      "Caption/title trick: captions are searchable on FB — lead with keywords like 'animal rescue before and after' then a comment-bait question ('Rate this rescue 1-10 🥹').",
+      "Post US evening time (7-9pm ET); share the Reel into 2-3 animal-lover groups for the first-push effect."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "animal-rescue",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 86
+  },
+  {
+    "id": "viral-niche-ai-fashion-lookbook",
+    "title": "AI Fashion Lookbook — Outfit Transformations (Instagram Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Identity projection + aspirational dressing: everyone imagines THEMSELVES in the outfit, and extreme swaps trigger the 'how did it change so fast?!' replay loop — fashion content is also the most saved category on Instagram. Is niche ki videos 88.9M/67.3M/54.6M/39.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-fashion-lookbook.jpg",
+    "prompt": "IMAGE PROMPT (Midjourney) — paste as-is:\n\n\"/imagine prompt: full-body fashion lookbook photograph of a model wearing [OUTFIT], [ERA/STYLE: cyberpunk streetwear / 70s disco glam / avant-garde couture], photographed at [LOCATION: neon night street / golden sunset rooftop / minimalist white gallery], hyper-detailed fabric textures, dramatic [LIGHTING: neon rim light / warm sun flare / studio spotlight], high-fashion editorial photography, vibrant saturated colors, shot on 85mm --ar 4:5 --style raw\"\n\n[VARIABLE] slots to remix: [OUTFIT], [ERA/STYLE], [LOCATION], [LIGHTING]. Generate 6-10 variations per theme, then animate into a reel.",
+    "howto": [
+      "Step 1 — Pick one theme per post (cyberpunk, 70s disco glam, avant-garde couture) and generate 6-8 outfit variations with the master prompt, swapping only the [OUTFIT] and [LOCATION] slots.",
+      "Step 2 — Build the reel: stitch looks with a CapCut/Kling morph or beat-synced hard cuts on a trending sound, 4:5 portrait, the single most shocking transformation as frame 1.",
+      "Step 3 — Caption it with the look formula: 'POV: you asked AI to dress you for [OCCASION] ✨' + hashtags #aifashion #lookbook #ootd #fashionreels — then pin the best comment."
+    ],
+    "tips": [
+      "Hook rule (Instagram): frame 1 must be the most extreme outfit swap — a streetwear look exploding into couture. No slow build; the swipe decision happens in 1 second.",
+      "Caption/title trick: use the 'POV' opener + one searchable keyword line ('AI fashion lookbook 2026') and 5-8 niche hashtags; add the location tag of a fashion capital for Explore reach.",
+      "Post as a Reel (not just carousel) and also add the 4 best frames to Stories with a poll sticker ('Which look? 1/2/3/4') to double engagement."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "fashion",
+      "creator-niche",
+      "image-prompts"
+    ],
+    "trending": true,
+    "popularity": 85
+  },
+  {
+    "id": "viral-niche-deep-sea-fishing-catch",
+    "title": "Deep Sea Fishing Catches — Giant Fish Reveals (TikTok Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Scale shock + primal thrill: a fish bigger than the fisherman breaks the brain's size expectations, and the 'how big is it really?!' curiosity gap forces full watch-through plus comment guessing — TikTok's favorite engagement combo. Is niche ki videos 189.5M/164.2M/131.7M/98.3M views tak gayi hain.",
+    "image": "images/niches/niche-grid-deep-sea-fishing-catch.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling) — paste as-is:\n\n\"Create a 15-second adrenaline vertical video of a deep-sea fishing catch in three beats. BEAT 1 (0-3s): POV of a fishing line straining hard over deep blue open ocean, rod bent double, tense. BEAT 2 (3-8s): the water EXPLODES as a giant [FISH: bluefin tuna / marlin / glowing squid] [ACTION: breaches the surface in slow motion / is hauled aboard the deck], massive splash frozen in the air. BEAT 3 (8-15s): the angler's stunned face next to the massive catch — full-body scale comparison shot proving how huge it is, [SETTING: golden sunrise boat deck / night deck under floodlights]. Hyper-realistic, high adrenaline, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [FISH], [ACTION], [SETTING]",
+    "howto": [
+      "Step 1 — Generate the catch moment first (beat 2, the water explosion) — it's the clip that carries the whole video; generate 2-3 fish variations and pick the most massive-looking.",
+      "Step 2 — Cut ruthlessly: line strain (1s) → explosion (4s slow-mo) → stunned face + scale shot (6s). Add a deep bass 'boom' SFX on the breach and ONE text line: 'Guess the weight 👀'.",
+      "Step 3 — Caption with a curiosity gap: 'This fish fought for 40 minutes 😱🎣' + pin your own comment revealing the weight to pull viewers into the comments."
+    ],
+    "tips": [
+      "Hook rule (TikTok): start mid-explosion — the first frame must already be the splash. Any slow 'we're going fishing' intro kills retention before 2s.",
+      "Caption/title trick: never reveal the weight in the caption — 'Guess how heavy?!' in text-on-screen + pinned comment keeps the curiosity gap open.",
+      "Sound strategy: use a trending sound at low volume under the real audio — TikTok boosts videos riding two audio signals, and the bass-drop-on-breach sync drives replays."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "fishing",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "viral-niche-tiny-house-timelapse",
+    "title": "Tiny House Build Timelapses — From Empty Lot to Cozy Home (YouTube Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Transformation arc + money curiosity: viewers get the dopamine of a full build in minutes, then the cost reveal triggers comments ('no way that's $22K!') — aspiration plus an argument equals watch time and shares. Is niche ki videos 18.4M/12.7M/9.3M/6.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-tiny-house-timelapse.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Sora / Kling) — paste as-is:\n\n\"Create a cinematic timelapse-style video of a [HOUSE_STYLE: A-frame / container / cabin-on-wheels] tiny house being built in [LOCATION: pine forest / desert / lakeside]. PHASE 1: empty lot at dawn, foundation going down. PHASE 2: rapid timelapse of framing and walls rising under [DAY_PHASE: golden-hour light]. PHASE 3: interior fit-out — [DETAIL: wood stove glowing / loft bed with fairy lights / tiny marble kitchen]. PHASE 4 (the money shot): slow drone glide around the finished tiny home at sunset, warm light in every window, cozy and aspirational. Photorealistic, 16:9, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [HOUSE_STYLE], [LOCATION], [DETAIL], [DAY_PHASE]",
+    "howto": [
+      "Step 1 — Generate 4-5 build-phase clips with the master prompt below: foundation/framing → walls+roof → interior fit-out → the money-shot reveal. Keep every clip the same [HOUSE_STYLE] and [LOCATION] for continuity.",
+      "Step 2 — Edit into an 8-10 minute video: fast timelapse for construction, slow cinematic glide for the reveal; add chapter timestamps starting at 0:00 (Foundation, Framing, Interior, Final Tour).",
+      "Step 3 — Publish with a keyword-first title under 60 chars and a thumbnail with 1-5 words max (e.g. '$22K TINY HOUSE')."
+    ],
+    "tips": [
+      "Hook rule (YouTube): open with 5 seconds of the FINISHED house at sunset, then cut to 'here's how we built it for $[COST]' — the finished product first forces the click to pay off.",
+      "Title trick: always include the build cost + size — 'We Built a Tiny House for $22K (380 sq ft)' outranks 'Tiny House Tour' every time.",
+      "Chapters from 0:00 + a pinned comment asking 'Which phase would you DIY first?' to drive comments."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "tiny-house",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 81
+  },
+  {
+    "id": "viral-niche-diy-home-hacks",
+    "title": "5-Minute DIY Home Hacks — Quick Transformations (Facebook Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Instant payoff + self-efficacy: the viewer thinks 'I could do that this weekend' — that feeling drives saves, and saves are the #1 share trigger on Facebook home content. Is niche ki videos 88.2M/64.5M/51.9M/37.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-diy-home-hacks.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling) — paste as-is:\n\n\"Create a vertical 20-second DIY home hack video. FIRST HALF (0-8s): a [ROOM] in [BEFORE_STATE: cluttered / dated / dark and dull], slightly desaturated, handheld camera panning across the mess. SECOND HALF (8-20s): instant magical transformation using [HACK: peel-and-stick wallpaper / LED strip lighting / tension-rod storage / spray-paint refresh] — bright saturated colors, smooth glide shot of the finished space, sunlight streaming in, [PROP: fresh flowers / styled shelf / new cushion] as the hero detail. Satisfying, hyper-clean, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [ROOM], [BEFORE_STATE], [HACK], [PROP]",
+    "howto": [
+      "Step 1 — Generate one continuous before→after clip per hack with the master prompt: ugly 'before' first, satisfying reveal last, same camera angle both halves.",
+      "Step 2 — Edit: hard cut on the beat drop of a trending sound, one big on-screen text line ('$0 hack!'), total length 15-30 seconds.",
+      "Step 3 — Post with a searchable keyword caption + comment-bait question ('Which room needs this first? 🏠')."
+    ],
+    "tips": [
+      "Hook rule (Facebook): the first 2 seconds MUST show the ugliest 'before' frame possible — the worse it looks, the further the reveal travels.",
+      "Caption/title trick: FB search indexes captions — lead with keywords ('5 minute kitchen hack before and after') then a save-bait line ('Save this for your weekend project 📌').",
+      "Post 7-9pm ET US time and share the Reel into 2-3 home-decor groups for the first-push effect."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "diy-home",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 85
+  },
+  {
+    "id": "viral-niche-luxury-lifestyle-reels",
+    "title": "Luxury Lifestyle Reels — Cars, Watches & Mansions (Instagram Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Aspiration + status signaling: viewers project themselves into the life, and sharing it signals taste — every share is a free ad to a lookalike audience that wants the same dream. Is niche ki videos 96.7M/74.2M/58.6M/42.1M views tak gayi hain.",
+    "image": "images/niches/niche-grid-luxury-lifestyle-reels.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Runway) — paste as-is:\n\n\"Create a glossy 7-second vertical luxury lifestyle clip: a [LUXURY_ITEM: black supercar / gold chronograph watch / modern mansion with infinity pool / private yacht deck] in [SETTING: neon city street at night / marble penthouse / tropical coastline at dusk], shot in [LIGHTING: cinematic rim light / golden-hour glow / moody neon reflections], with [MOVEMENT: slow push-in / smooth orbit / elegant pan]. Ultra-premium, high contrast, rich colors, aspirational mood, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [LUXURY_ITEM], [SETTING], [LIGHTING], [MOVEMENT]",
+    "howto": [
+      "Step 1 — Generate 3-4 glossy 5-8 second clips with the master prompt: one hero [LUXURY_ITEM] per clip, same color grade across all of them.",
+      "Step 2 — Edit as a fast-cut carousel Reel: hard cuts every 2-3 seconds on a trending luxury audio, text overlay with the price tag.",
+      "Step 3 — Post daily at 12pm + 7pm ET; pin the best performer to your profile. Reply to every 'how much?' comment."
+    ],
+    "tips": [
+      "Hook rule (Instagram): the VERY first frame is the money shot — the car already gleaming, the watch already sparkling. No build-up, Reels punish slow starts.",
+      "Caption/title trick: price-tag text overlay ('This watch: $48,000 ⌚') + a caption question ('Rent it or own it?') — price numbers stop thumbs and start comment wars.",
+      "Hashtags: 3 broad (#luxury #lifestyle #reels) + 3 niche (#supercarlife #watchcollector #mansiongoals) + rotate 1-2 per post; never the same set twice in a row."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "luxury",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 87
+  },
+  {
+    "id": "viral-niche-ai-baby-animal-rescue",
+    "title": "AI Baby Animal Rescue Stories — Emotional Mini-Stories (TikTok Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Rescue arc = instant empathy + relief dopamine: viewers stay for the happy ending (retention) and share to spread the 'good feeling' — emotional shares are TikTok's strongest viral fuel. Is niche ki videos 182.4M/147.9M/119.3M/86.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-baby-animal-rescue.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling / Sora) — paste as-is:\n\n\"Create a vertical 25-second emotional baby animal rescue story. SCENE 1 (0-6s): a tiny [ANIMAL: elephant calf / panda cub / kitten / duckling] stuck in [DANGER: mud / rain / a cardboard box / a shallow stream], trembling, big sad eyes, close-up, soft morning light. SCENE 2 (6-16s): gentle human hands rescue it, wrap it in a [ITEM: colorful blanket / warm towel], it slowly stops shaking. SCENE 3 (16-25s): the same baby now clean, fed and playing happily in [HAPPY_PLACE: sunny meadow / cozy shelter], tail wagging, pure joy. Photorealistic, warm vibrant colors, emotional storytelling, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [ANIMAL], [DANGER], [ITEM], [HAPPY_PLACE]",
+    "howto": [
+      "Step 1 — Generate the 3 scenes separately with the master prompt below, keeping the SAME [ANIMAL] description in every scene so the character stays consistent.",
+      "Step 2 — Edit in order danger → rescue → happy ending, 20-30 seconds total; add soft emotional piano music and a single text overlay only at the end: 'He's safe now ❤️'.",
+      "Step 3 — Post with a story caption ('Day 1 of his new life…') and pin a comment asking viewers to name the baby — naming drives comments hard."
+    ],
+    "tips": [
+      "Hook rule (TikTok): first 2 seconds MUST be the saddest close-up — big eyes, trembling. The rescue payoff only lands if the pain hits instantly.",
+      "Caption trick: write it like a diary ('Day 1: he finally ate 🥺') — series framing makes viewers follow for Day 2, 3, 4.",
+      "Post 6-9pm ET US time; reply to top comments with a 5-second update clip to feed the algorithm a second video."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "animal-rescue",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "viral-niche-animated-battle-maps",
+    "title": "Historical Battles Animated Maps — Troop Movements Explained (YouTube Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "Maps turn chaos into a story the brain can follow: every arrow is a mini cliffhanger, so viewers keep watching 'just to see the next move' — strategy curiosity plus clear visuals equals long retention. Is niche ki videos 42.7M/31.5M/24.8M/17.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-animated-battle-maps.jpg",
+    "prompt": "VIDEO PROMPT (Kling / Veo 3 / Sora) — paste as-is:\n\n\"Create a stylized animated strategy-map video of the Battle of [BATTLE] in [YEAR]. Start with a detailed illustrated map of [REGION] with mountains, rivers and castles. Animate [SIDE_A: red] troop blocks advancing along glowing arrows from the [DIRECTION_A], while [SIDE_B: blue] forces reposition from the [DIRECTION_B]. Show the flanking move, the clash at [KEY_LOCATION], and the final encirclement with flags falling. Clean flat-cartoon map style, rich colors, smooth camera zooms into each turning point, no on-screen text inside the video (add labels in editing).\"\n\n[VARIABLE] slots to remix: [BATTLE], [YEAR], [REGION], [SIDE_A], [SIDE_B], [DIRECTION_A], [DIRECTION_B], [KEY_LOCATION]",
+    "howto": [
+      "Step 1 — Generate 4-5 map clips with the master prompt below: setup → advance → clash → turning point → final encirclement, one clip per phase.",
+      "Step 2 — Narrate over it with a calm documentary voice-over; add map labels, dates and chapter timestamps in editing (0:00 Setup, Advance, The Trap, Aftermath).",
+      "Step 3 — Publish 8-12 minutes, keyword-first title under 60 chars, thumbnail = map + 2-3 bold words + the year (e.g. '1944 — THE TRAP')."
+    ],
+    "tips": [
+      "Hook rule (YouTube): first 15 seconds show the FINAL encirclement map, then say 'How did 300,000 soldiers get trapped? It started here…' — open loop forces the watch.",
+      "Title trick: battle name + year + curiosity gap — 'The Battle That Changed Europe in 11 Minutes' beats a plain documentary title every time.",
+      "End screen to your previous battle video + a pinned poll ('Which battle next?') — series bingeing is where this niche prints watch hours."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "history",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 82
+  },
+  {
+    "id": "viral-niche-village-cooking-big",
+    "title": "Village Cooking Big Portions — Fire, Feast & Giant Pots (Facebook Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Scale + generosity: a meal cooked for everyone triggers comfort, nostalgia and 'food for the soul' sharing — older Facebook audiences share village-cooking videos to family groups more than almost any other food format. Is niche ki videos 134.6M/98.2M/76.4M/53.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-village-cooking-big.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling) — paste as-is:\n\n\"Create a vibrant 30-second village cooking video. SCENE 1: a giant [VESSEL: iron pot / huge wok / clay oven] over a roaring open wood fire in a rural courtyard, flames and sparks rising. SCENE 2: a smiling village cook adds a MOUNTAIN of [DISH: biryani rice / flatbreads / stir-fry vegetables / roasted meats] — steam exploding, spices in bright colors, close-ups of sizzling oil. SCENE 3: the finished feast served on huge platters to a happy crowd of [PEOPLE: village families / children / elders] outdoors at golden hour. Photorealistic, warm saturated colors, mouth-watering close-ups, no on-screen text inside the video.\"\n\n[VARIABLE] slots to remix: [VESSEL], [DISH], [PEOPLE]",
+    "howto": [
+      "Step 1 — Generate the fire, cooking and serving scenes with the master prompt below; keep portions EXAGGERATED — giant is the whole point.",
+      "Step 2 — Edit fire → sizzle close-ups → feast reveal; add natural ASMR cooking sounds loud in the mix, total 30-60 seconds for Reels or 3+ minutes for Facebook video.",
+      "Step 3 — Caption with searchable keywords ('village cooking big portions') + a share-bait question ('How many people could this feed? 🍲')."
+    ],
+    "tips": [
+      "Hook rule (Facebook): open on the biggest sizzle/steam close-up, not the setup — Facebook's feed rewards instant sensory payoff in the first 2 seconds.",
+      "Caption/title trick: lead with quantity — 'Cooking 50KG Biryani for the Whole Village!' Numbers + scale stop scrollers and FB search indexes the caption keywords.",
+      "Share the post into 2-3 food/cooking groups right after posting and reply to every comment in the first hour — early engagement decides the push."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "cooking",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 87
+  },
+  {
+    "id": "viral-niche-home-makeover-before-after",
+    "title": "Before/After Home Makeovers — Instant Transformation Reels (Instagram Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Before/after = instant curiosity gap + transformation payoff: the brain cannot scroll away mid-change, and the satisfying reveal triggers saves and shares — the two signals Instagram pushes hardest. Is niche ki videos 94.3M/71.8M/56.2M/38.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-home-makeover-before-after.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling / Sora) — paste as-is:\n\n\"Create a vertical 12-second home makeover transformation. Start in a dull, messy [ROOM: living room / kitchen / bedroom / backyard] with [OLD FLAWS: peeling paint / cramped clutter / dim yellow light]. Camera pushes in slowly. At second 4, a golden light sweep wipes across the frame and the SAME room instantly transforms into a stunning [NEW STYLE: modern luxury / cozy boho / marble chef kitchen / dream garden patio] with [HERO FEATURE: floor-to-ceiling windows / marble island / fairy lights and plants / glowing pool]. End with a slow reveal pan, bright sunlight, vibrant colors, photorealistic, no text inside the video.\"\n\n[VARIABLE] slots to remix: [ROOM], [OLD FLAWS], [NEW STYLE], [HERO FEATURE]",
+    "howto": [
+      "Step 1 — Generate the BEFORE and AFTER as two clips with the exact same camera angle and room description — only the style words change, so the transformation lines up perfectly.",
+      "Step 2 — Join them in CapCut with a light-sweep / wipe transition at the beat drop (around second 4); total length 10-14 seconds, loop the end frame back to the BEFORE frame.",
+      "Step 3 — Post as a Reel with the AFTER frame as cover, caption starting with the cost/time hook (see tips), and pin a comment: 'Which room should I do next?'"
+    ],
+    "tips": [
+      "Hook rule (Instagram): the FIRST frame must be the ugliest BEFORE shot — the contrast is the hook; never start with the pretty room.",
+      "Caption trick: lead with a number — 'This kitchen cost $0 to imagine…' or '48 hours in AI, would you live here?' — numbers stop thumbs and spark saves/shares.",
+      "Post 7-9pm local; Reels that loop seamlessly get replayed — replays are Instagram's strongest ranking signal in this niche."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "home-makeover",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 86
+  },
+  {
+    "id": "viral-niche-magnetic-ball-sculptures",
+    "title": "Magnetic Ball Sculptures — Satisfying Timelapse Builds (TikTok Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Order-from-chaos is pure brain candy: clicking sounds + watching a shape complete itself holds retention to the last second, and the seamless loop quietly doubles watch time — TikTok's favorite metric. Is niche ki videos 203.4M/168.9M/142.5M/97.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-magnetic-ball-sculptures.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling / Sora) — paste as-is:\n\n\"Create a vertical 18-second hyper-satisfying magnetic ball build in timelapse. Hundreds of tiny shiny [COLOR SCHEME: rainbow / neon / gold-and-silver] magnetic balls roll, click and snap together on their own, rapidly forming a [SCULPTURE: Eiffel Tower / castle / dragon / giant cube]. Macro close-ups, balls clicking with crisp ASMR sounds, sparkling light reflections. Final 3 seconds: the finished sculpture collapses in slow motion and instantly rebuilds into a perfect spinning sphere — seamless loop, vibrant colors, no text inside the video.\"\n\n[VARIABLE] slots to remix: [COLOR SCHEME], [SCULPTURE]",
+    "howto": [
+      "Step 1 — Generate the build in 2-3 short clips with the same [COLOR SCHEME] and table background in every prompt, so the sculpture looks consistent.",
+      "Step 2 — Speed-ramp the build (2x-4x), keep the natural click sounds loud in the mix, and loop the collapse-rebuild ending back to frame one.",
+      "Step 3 — Post with an on-screen question only in the caption/title ('Guess how many balls? 👇') — never burn text into the video itself."
+    ],
+    "tips": [
+      "Hook rule (TikTok): first 2 seconds must already show balls MOVING and clicking — motion + sound in frame one is what stops the scroll in satisfying niches.",
+      "Caption trick: ask for a guess ('How many balls? Wrong answers only 😂') — guess-comments are the cheapest comment-bait that actually works on TikTok.",
+      "Post 6-10pm ET US; reply to the top guess with a Part 2 build the same week — series sculptures compound fast."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "satisfying",
+      "asmr",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "viral-niche-luxury-hotel-tours",
+    "title": "Luxury Hotel Room Tours — Cinematic Walkthroughs (YouTube Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "Aspirational escapism: viewers get a free taste of a life they cannot afford (yet), so they watch long, save for 'one day', and share as a dream — high watch time plus high-intent travel audience equals strong CPM. Is niche ki videos 47.8M/33.4M/26.1M/18.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-luxury-hotel-tours.jpg",
+    "prompt": "VIDEO PROMPT (Kling / Veo 3 / Sora) — paste as-is:\n\n\"Create a cinematic 8-10 minute luxury hotel tour in smooth gimbal walkthrough style. Open the door of a [ROOM TYPE: penthouse suite / overwater villa / skyline spa suite / mountain lodge suite] in [LOCATION: Dubai / Maldives / New York / Swiss Alps]. Slow push-in reveal of [HERO VIEW: glittering sunset skyline / turquoise ocean and infinity pool / marble tub with tower view / fireplace facing snowy peaks]. Glide room to room: bed, bathroom, balcony, hidden details (minibar, lighting, textures). Golden warm light, ultra-detailed, aspirational mood, gentle piano music, no people, no text inside the video.\"\n\n[VARIABLE] slots to remix: [ROOM TYPE], [LOCATION], [HERO VIEW]",
+    "howto": [
+      "Step 1 — Generate the tour as 8-12 short clips, one per room/space, keeping the same [LOCATION] light and style words in every prompt for a believable single hotel.",
+      "Step 2 — Edit in walkthrough order (door → living → bed → bath → balcony finale), add calm narration with the room's 'price per night' revealed only near the end.",
+      "Step 3 — Upload with the most extreme room as thumbnail, chapters per room, and pin a comment asking: 'Worth $___ a night? Yes or no?'"
+    ],
+    "tips": [
+      "Hook rule (YouTube): first 15 seconds = door opening + the single most jaw-dropping view. Never start with the hallway or lobby.",
+      "Title trick: put the price in the title — 'Inside a $25,000/Night Hotel Suite in [LOCATION]' — price + place is the proven CTR formula in this niche (keep under 60 characters where possible).",
+      "Upload Thu/Fri for weekend travel-dreaming traffic; end screen to your previous hotel tour to build binge sessions."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "luxury-travel",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 83
+  },
+  {
+    "id": "viral-niche-glass-fruit-cutting-asmr",
+    "title": "Glass Fruit Cutting ASMR — Crystal-Clear Slicing Satisfying Reels (Facebook Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "Two cravings collide — food and the impossible: glass you can slice triggers a curiosity gap ('how does that even sound?'), and the crisp slice sound delivers the ASMR payoff that keeps viewers replaying. Is niche ki videos 187.3M/142.8M/118.5M/86.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-glass-fruit-cutting-asmr.jpg",
+    "prompt": "VIDEO PROMPT (Runway / Kling / Veo 3) — paste as-is:\n\n\"Create a vertical 15-second ultra-macro glass fruit ASMR clip. A razor-sharp chef's knife slowly slices a translucent crystal-clear glass [FRUIT: watermelon / strawberry / orange / pineapple] on a dark reflective cutting board. Sparkling crystal shards scatter in slow motion, rainbow light refractions dance through the glass fruit, crisp slicing sounds, hyper-detailed, glossy, vibrant colors, satisfying loop ending — no text inside the video.\"\n\n[VARIABLE] slots to remix: [FRUIT]",
+    "howto": [
+      "Step 1 — Generate 4 clips, one per [FRUIT], with the exact same dark board + lighting words in every prompt, so the series looks like one account's signature style.",
+      "Step 2 — Edit: knife touches the glass fruit in the FIRST second, slow-mo slice through the middle, end on the sparkling cross-section held for 1 second — loop-friendly; keep the real slicing sound loud.",
+      "Step 3 — Post as a Facebook Reel, caption asks a question ('Which fruit should be glass next? 🍉'), and reshare to your Page story in the same hour for the distribution boost."
+    ],
+    "tips": [
+      "Hook rule (Facebook): knife must TOUCH the glass fruit within the first second — the scrape sound is the hook; never open with a static fruit shot.",
+      "Caption trick: 'Wait for the sound 🔊' + a question — Facebook pushes Reels with active comment threads, and sound-on viewers retain longer.",
+      "Post 6–9pm US; repost the best performer as a Story the next morning — Facebook counts Story reshares as a distribution signal."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "asmr",
+      "satisfying",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "viral-niche-ai-mini-workers",
+    "title": "AI Mini Workers — Tiny People, Giant Jobs Whimsical Reels (Instagram Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Scale contrast is instant visual candy — the brain loves spotting tiny details, so people zoom, screenshot and tag friends; every tag is free distribution. Is niche ki videos 156.4M/121.7M/98.3M/74.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-mini-workers.jpg",
+    "prompt": "IMAGE PROMPT (Midjourney) — paste as-is:\n\n\"Whimsical miniature photography scene: tiny workers in [UNIFORM: yellow hard hats / chef whites / painter overalls / repair jumpsuits] doing a [JOB: building / cooking / painting / repairing] on top of a giant [OBJECT: sneaker / pizza slice / strawberry / smartphone], ladders, ropes and scaffolding, extreme scale contrast, vibrant colors, playful, ultra-detailed, cinematic lighting, vertical 4:5 composition --ar 4:5 --style raw, no text\"\n\n[VARIABLE] slots to remix: [UNIFORM], [JOB], [OBJECT]",
+    "howto": [
+      "Step 1 — Pick 3–4 JOB/OBJECT combos and generate each with the same 'extreme scale contrast, vibrant colors' style words, so the feed looks like one consistent world.",
+      "Step 2 — Build a 7–10 slide carousel: odd slides show the full scene, even slides zoom into a single tiny worker — carousels earn double swipe-throughs.",
+      "Step 3 — Also post as a Reel (slow Ken Burns zoom on the stills + trending audio), caption: 'Spot the worker who gave up 👇'."
+    ],
+    "tips": [
+      "Hook rule (Instagram): the FIRST frame must show the giant object WITH tiny workers visible — scale shock in frame one, never a slow zoom-in.",
+      "Caption trick: 'Which one are you today? 👇' — relatable-identification comments explode on this format; add #aivideo #miniature in the first comment.",
+      "Post 11am–1pm or 7–9pm; trending audio with a comedic drop timed to a worker 'falling' doubles shares."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "miniature",
+      "ai-art",
+      "creator-niche",
+      "image-prompts"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "viral-niche-night-market-street-food",
+    "title": "Night Market Street Food — Sizzling Mega Portions (TikTok Viral Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Hunger is a physiological hook — sizzling mega portions at night fire mirror-neurons for taste and smell, so viewers save it for later, and saves are TikTok's #1 virality lever. Is niche ki videos 231.8M/198.4M/164.2M/129.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-night-market-street-food.jpg",
+    "prompt": "VIDEO PROMPT (Veo 3 / Kling) — paste as-is:\n\n\"Create a vertical 12-second sizzling street food money-shot. [DISH: giant meat skewers / loaded noodle wok / towering fried chicken stack / steaming soup dumplings] cooking over roaring open flames at a neon-lit Asian night market. Sparks flying, steam billowing, glistening mega portions, slow-motion flip at the peak sizzle, ultra-detailed food cinematography, vibrant night colors, mouth-watering — no text inside the video\"\n\n[VARIABLE] slots to remix: [DISH]",
+    "howto": [
+      "Step 1 — Generate 3–4 clips per [DISH], always with 'neon-lit night market' in the prompt, so the channel feels like one consistent world.",
+      "Step 2 — Edit: start ON the sizzle (never the menu board), 12–15 seconds, bass-heavy sizzle sound, end on the juiciest frame so it loops cleanly.",
+      "Step 3 — Post with a location-style caption ('Bangkok night market hits different 🌙'), pin a comment: 'Part 2 if this hits 100K 🔥'."
+    ],
+    "tips": [
+      "Hook rule (TikTok): first frame = fire + sizzle already happening — the craving fires before the swipe reflex; start with flames, never with talking.",
+      "Caption trick: 'POV: you can smell this video 🤤' — sensory captions trigger saves ('must-try' lists), TikTok's strongest food-niche signal.",
+      "Post 7–10pm local when people are hungry; reply to 'recipe?' comments with a Part 2 — comment threads keep the video alive for days."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "street-food",
+      "food",
+      "creator-niche",
+      "video-prompts"
+    ],
+    "trending": true,
+    "popularity": 97
+  },
+  {
+    "id": "ns-20261014-youtube",
+    "title": "Primitive Technology Builds — Viral Mud & Bamboo Engineering Niche (YouTube)",
+    "category": "Viral Niches",
+    "tool": "Veo 3 / Kling",
+    "difficulty": "Beginner",
+    "desc": "Completionism + curiosity: viewers cannot stop watching until they see the finished build. Pure process content with no narration creates an ASMR-like loop effect and huge retention — YouTube's algorithm rewards watch time directly. Is niche ki videos 58.9M/46.3M/38.7M/29.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-primitive-tech-builds.jpg",
+    "prompt": "Hyper-realistic cinematic video of a [CRAFTSMAN] building a [STRUCTURE] from scratch using only [MATERIALS: mud / bamboo / stone], in a [LOCATION: lush tropical clearing / jungle riverbank / mountain valley]. Sequence: 1) gathering raw materials with bare hands, 2) shaping and molding [MATERIALS] in close-up, 3) assembling the structure brick-by-brick or pole-by-pole, 4) testing the finished [STRUCTURE] — water flowing / fire lit / tool working. Natural sunlight, no narration, pure process sounds, satisfying build payoff.",
+    "howto": [
+      "Generate 5-8 scene images (material gathering, shaping, assembly, final reveal) with Midjourney image-to-image consistency.",
+      "Animate each scene in Veo 3 / Kling with 'no talking, only natural process sounds' in the prompt; keep shots 8-12s.",
+      "Edit in sequence, add a satisfying payoff shot at the end, title keyword-first ('I Built a [STRUCTURE] From Mud With My Hands')."
+    ],
+    "tips": [
+      "Open with the finished build for 2 seconds, then rewind to the raw materials — payoff-first hooks win on YouTube.",
+      "Add chapters for each build phase — chapters lift average view duration, YouTube's core ranking signal."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "faceless",
+      "primitive-technology",
+      "builds"
+    ],
+    "trending": true,
+    "popularity": 83
+  },
+  {
+    "id": "ns-20261014-facebook",
+    "title": "Inspirational Quotes over Nature — Viral Quote Reels Niche (Facebook)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Emotional resonance + shareability: quotes over beautiful nature trigger a micro-emotional moment that people forward to friends. Facebook's share-first audience multiplies reach, and shares are the strongest ranking signal on Reels. Is niche ki videos 147.2M/118.6M/92.3M/71.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-nature-quote-reels.jpg",
+    "prompt": "Breathtaking [LANDSCAPE: mountain sunrise / misty forest / ocean sunset / desert night sky] at [TIME: golden hour / dawn / twilight], ultra detailed, dramatic vibrant colors, awe-inspiring serene mood, negative space in the upper third for [QUOTE TEXT]. Generate the [QUOTE TEXT]: '[SHORT INSPIRATIONAL QUOTE about perseverance / gratitude / fresh starts — max 12 words]'. Cinematic, photorealistic, 9:16 vertical.",
+    "howto": [
+      "Generate the nature image with Midjourney using the prompt above; keep 9:16 aspect and empty sky space for text.",
+      "Add the quote in CapCut with a bold, readable font + subtle shadow; animate text-in only.",
+      "Publish as a Facebook Reel with trending audio, caption ending in a question, 3-5 hashtags incl. #motivation."
+    ],
+    "tips": [
+      "Post at 7-9 PM in your audience's timezone — quote reels peak in the evening scroll window.",
+      "Pin a comment asking 'Which line hit you hardest?' — comments are Facebook's ranking fuel."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "quotes",
+      "reels",
+      "nature"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "ns-20261014-instagram",
+    "title": "Lofi Anime Aesthetic Videos — Viral Peaceful Loop Niche (Instagram)",
+    "category": "Viral Niches",
+    "tool": "Midjourney / Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Calm loops = infinite replays: viewers rewatch peaceful anime loops 3-5x while the music plays, which reads as extreme retention. Instagram pushes high-completion Reels hard, and the aesthetic audience saves and shares for mood boards. Is niche ki videos 61.2M/48.7M/39.5M/28.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-lofi-anime-aesthetic.jpg",
+    "prompt": "Cozy lofi anime aesthetic illustration of [SCENE: rainy window with city lights / midnight tram / autumn train station / cliffside lighthouse] at [TIME: night / dusk], featuring [CHARACTER: girl with cat / traveler with backpack / empty nostalgic space], [WEATHER: soft rain / drifting leaves / glowing fog]. Hand-painted style, vibrant cozy colors, peaceful dreamy vibe. Animate in Veo 3: gentle 8-second loop — [MOTION: rain sliding down glass / lanterns flickering / leaves falling], seamless return to frame one.",
+    "howto": [
+      "Generate the base illustration with Midjourney ('hand-painted lofi anime style'); upscale for crispness.",
+      "Animate 8s in Veo 3 with subtle looping motion; make the last frame match the first for a perfect loop.",
+      "Post as an Instagram Reel with a lofi track, caption with 1-2 niche hashtags (#lofi #animeaesthetic), post at 7-9 PM."
+    ],
+    "tips": [
+      "Loop the animation seamlessly so Reels auto-replay — replays count as watch time.",
+      "Post daily at the same golden-hour slot — aesthetic pages grow on rhythm, not one-offs."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "lofi",
+      "anime",
+      "aesthetic",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 84
+  },
+  {
+    "id": "ns-20261015-tiktok",
+    "title": "AI Miniature Worlds ASMR — Viral Tiny Diorama Loop Niche (TikTok)",
+    "category": "Viral Niches",
+    "tool": "Kling / Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Tiny worlds trigger awe and protectiveness; the seamless loop turns every re-watch into retention gold. TikTok's algorithm reads looped replays as high watch time and pushes the video to the FYP automatically. Is niche ki videos 208.3M/174.6M/149.2M/118.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-miniature-world-asmr.jpg",
+    "prompt": "Hyper-detailed miniature world diorama video: [WORLD_TYPE: glowing night city / underwater coral reef / enchanted forest / cozy tiny kitchen / tiny desert oasis]. Macro photography style, extreme detail on every tiny element, slow cinematic camera orbit, subtle ambient motion (flickering lights, flowing water, rising steam), vibrant saturated colors, magical lighting. Loop the motion seamlessly so the ending matches the beginning — a perfect natural loop. Vertical 9:16, [DURATION: 8-12 seconds]. No text on screen.",
+    "howto": [
+      "Generate 4-6 diorama stills in Midjourney/Flux (vary [WORLD_TYPE] per video; keep the same macro style).",
+      "Animate each still in Kling / Veo 3 image-to-video with 'seamless loop, gentle continuous motion' — ending frame must match the start.",
+      "Layer ASMR ambience in CapCut (rain / water / fireplace sounds); hook = the tiniest surprising detail in second 1 (a tiny person waves); caption trick = comment-bait question like 'Which tiny world would YOU live in?' — comments push the video onto the FYP."
+    ],
+    "tips": [
+      "Start with the ASMR sound inside second 1 — no intro frame, the sound IS the hook.",
+      "Keep loops seamless so TikTok compounds watch time on every replay."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "faceless",
+      "asmr",
+      "miniature",
+      "ai-video"
+    ],
+    "trending": true,
+    "popularity": 96
+  },
+  {
+    "id": "ns-20261015-youtube",
+    "title": "AI House Restoration Before/After — Viral Morph Transformation Niche (YouTube)",
+    "category": "Viral Niches",
+    "tool": "Google Flow / Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Transformation content hijacks the brain's completion instinct — viewers physically cannot scroll before seeing the finished result. Before/after is one of YouTube's highest-retention formats, and the algorithm rewards that watch time directly. Is niche ki videos 64.7M/52.1M/41.9M/34.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-house-restoration.jpg",
+    "prompt": "Take this [BEFORE_PHOTO] of a [ROOM_TYPE: living room / kitchen / bedroom / house facade] — dilapidated, damaged, overgrown. Create a seamless before/after restoration transformation video: same camera angle throughout, the scene gradually morphs — debris dissolves, walls rebuild, paint freshens, furniture appears — ending on a stunning fully renovated [RESTORED_STYLE: modern luxury / farmhouse / Victorian] result with warm inviting light. Smooth 6-second morph, photorealistic, cinematic slow dolly push-in. No text on screen.",
+    "howto": [
+      "Source before-photos (abandoned-house listings, Reddit r/AbandonedPorn, old real-estate photos) — same angle and framing matter most.",
+      "Generate the restored after-version in Midjourney/Flux image-to-image, keeping the exact composition of the before-photo.",
+      "Animate the morph in Google Flow / Veo 3 image-to-video; narrate what got fixed each beat. Hook rule = show the AFTER for 1 second first, then 'yeh kaise bana?' open loop; title keyword-first: 'Abandoned Since [YEAR] → Dream [STYLE] Home (AI Restoration)'."
+    ],
+    "tips": [
+      "Title formula: '[Room] Restoration — You Won't Believe the After' — the before/after gap is the click.",
+      "Add chapters for each restoration stage; viewers skip ahead but stay longer overall."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "faceless",
+      "restoration",
+      "before-after",
+      "ai-video"
+    ],
+    "trending": true,
+    "popularity": 84
+  },
+  {
+    "id": "ns-20261015-facebook",
+    "title": "AI Miniature Cooking Videos — Viral Tiny Chef Niche (Facebook)",
+    "category": "Viral Niches",
+    "tool": "Kling / Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Scale contrast (tiny chef, real food) creates instant delight, and food is Facebook's highest-share category. Every share pushes the reel into new feeds, and Facebook search indexes captions — keyword-rich captions keep it discoverable for months. Is niche ki videos 196.7M/161.3M/138.9M/109.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-miniature-cooking.jpg",
+    "prompt": "Ultra-realistic AI miniature cooking video: a tiny chef [CHEF_ACTION: flipping a coin-sized pancake / grilling a thumb-sized burger / piping frosting on a thimble cake / plating a matchbox sushi set] in a hyper-detailed miniature [KITCHEN_STYLE: rustic farmhouse kitchen / modern chef kitchen / outdoor BBQ]. Sizzle implied through visible steam and bubbling, extreme close-up macro shots, shallow depth of field, warm appetizing lighting, satisfying slow-motion final reveal of the finished tiny [DISH]. Square or vertical format, 20-35 seconds. No text on screen.",
+    "howto": [
+      "Generate the miniature kitchen and tiny chef stills in Midjourney/Flux — keep the scale contrast extreme (tiny chef, real-looking food).",
+      "Animate the cooking action in Kling / Veo 3 image-to-video; add sizzling ASMR audio in CapCut.",
+      "Caption = the dish name + searchable keywords (miniature cooking, tiny food, satisfying ASMR) + question CTA ('Would you eat this tiny burger?'). Hook rule = the tiny food must be visibly sizzling within the first 2 seconds — a pattern interrupt."
+    ],
+    "tips": [
+      "Hook: the tiny chef's first sizzle inside 2 seconds.",
+      "End with 'Part 2 tomorrow?' — episode numbers build a follow-back loop."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "faceless",
+      "cooking",
+      "miniature",
+      "ai-video",
+      "food"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "ns-20261016-instagram",
+    "title": "AI Floor Transformation Reels — Viral Wrecked-to-Luxury Floor Niche (Instagram)",
+    "category": "Viral Niches",
+    "tool": "Midjourney / Kling",
+    "difficulty": "Beginner",
+    "desc": "The brain can't resist 'ugly → beautiful' contrast — it's the same dopamine loop as power-washing videos. The seamless morph makes viewers rewatch to catch the exact moment it changes, and replays count as retention that Instagram's algorithm rewards. Is niche ki videos 162.4M/128.7M/104.2M/81.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-floor-transformation.jpg",
+    "prompt": "Seamless AI floor transformation reel: a room interior where the [FLOOR_TYPE: glossy white marble with gold veins / herringbone parquet / emerald epoxy resin / blue-and-white ornate tiles] materializes and replaces a cracked, stained old floor in one continuous camera sweep. First frame = wrecked, dirty floor; last frame = the same room with the pristine new floor gleaming. Hyper-realistic interior photography, warm vibrant sunlight, smooth single-take camera move, vertical 9:16. No text on screen.\n\n[VARIABLES]: [FLOOR_TYPE] (pick one per reel), [ROOM_TYPE: living room / bedroom / kitchen / hallway], [LIGHTING: golden morning / bright noon / warm sunset].",
+    "howto": [
+      "STEP 1 — Generate the two states in Midjourney: same room, same angle, one 'before' (wrecked floor) and one 'after' (luxury floor with your chosen [FLOOR_TYPE]). Keep camera angle identical — consistency sells the transformation.",
+      "STEP 2 — Animate the transition in Kling / Veo 3 (image-to-video, 'seamless morph transition'): start on the 'before' frame, morph into the 'after' frame over 5-7 seconds.",
+      "STEP 3 — PRO TIP (Instagram hook rule): the wrecked floor must fill the FIRST 0.5 seconds — viewers stop scrolling for 'ugly → beautiful' contrast. Caption trick: 'Wait for the floor 😍' + ask 'Which floor is your favorite? 1, 2, 3 or 4?' — comments = shares = Explore page push."
+    ],
+    "tips": [
+      "Hook = the wrecked floor in frame 1, luxury reveal at second 5.",
+      "Post the same project as a Reel AND a carousel — Reels for reach, carousels for saves."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "faceless",
+      "ai-video",
+      "transformation",
+      "before-after",
+      "home-design"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "ns-20261016-tiktok",
+    "title": "Talking Food Characters — Viral Funny AI Food Personality Niche (TikTok)",
+    "category": "Viral Niches",
+    "tool": "Veo 3 + TTS",
+    "difficulty": "Beginner",
+    "desc": "Food is universal and faces are magnetic — a talking burger hijacks both. Relatable dialogue in a food's voice ('the pizza judges your diet') makes people tag friends, and tags are TikTok's strongest organic growth signal. Is niche ki videos 178.9M/145.3M/119.8M/92.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-talking-food.jpg",
+    "prompt": "Talking food character comedy short: a [FOOD_ITEM: cheeseburger with sunglasses / pair of tacos / mischievous donut / ramen bowl with noodle hair] with big expressive cartoon eyes and an animated mouth, delivering a funny 6-second monologue in a [PERSONALITY: sarcastic teenager / dramatic soap-opera diva / overly confident gym bro / anxious overthinker]. 3D animation style, vibrant colors, expressive lip-sync and exaggerated facial reactions, colorful matching food background, vertical 9:16.\n\nDIALOGUE (copy/paste into your TTS): \"[DIALOGUE: 1-2 short funny lines, relatable complaint or boast — e.g. 'You say diet starts Monday. I've seen 14 Mondays.']\"\n\n[VARIABLES]: [FOOD_ITEM], [PERSONALITY], [DIALOGUE].",
+    "howto": [
+      "STEP 1 — Generate the character still in Veo 3 / Midjourney (expressive eyes + big mouth are mandatory — they're what carries the comedy).",
+      "STEP 2 — Animate + lip-sync in Veo 3 / Kling, then add a character voice in ElevenLabs (exaggerated tone matching [PERSONALITY]). The joke must LAND within 3 seconds.",
+      "STEP 3 — PRO TIP (TikTok hook rule): start mid-sentence on the funniest word — no setup, pure punchline. Caption trick: duet/stitch bait like 'POV: your lunch has opinions' — stitches are TikTok's fastest growth lever."
+    ],
+    "tips": [
+      "Give the food character a catchphrase — catchphrases get copied, and copies spread the niche.",
+      "Post 2x per day — character niches explode on volume, not single hits."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "faceless",
+      "ai-video",
+      "comedy",
+      "talking-food",
+      "animation"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "ns-20261016-youtube",
+    "title": "Secret Bunker Restorations — Viral High-Retention Restoration Storytelling (YouTube)",
+    "category": "Viral Niches",
+    "tool": "Midjourney + Kling / Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Secret spaces + transformation + discovery = three of YouTube's strongest retention triggers stacked in one video. Viewers stay for the 'what's behind the next door' loop, and long watch time is exactly what the YouTube algorithm pays for with recommendations. Is niche ki videos 47.3M/35.8M/28.4M/19.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-secret-bunker.jpg",
+    "prompt": "Secret bunker restoration video: a hidden underground bunker [BUNKER_TYPE: Cold-War military shelter / luxury doomsday apartment / forest-cabin hidden vault / glass-ceiling sky bunker] discovered behind [ENTRANCE: a bookshelf door / a floor hatch / a rock panel], restored room-by-room into a cinematic luxury hideout. Story arc: mysterious entrance reveal → dusty derelict rooms → satisfying restoration montage → final golden-lit reveal walkthrough. Cinematic hyper-realistic, dramatic lighting contrast, 16:9, slow push-in camera moves. No on-screen text; narration-driven.\n\nNARRATION STYLE: [TONE: documentary / mysterious whisper / survival-guide].\n\n[VARIABLES]: [BUNKER_TYPE], [ENTRANCE], [TONE], [THEME: military / luxury / cozy / futuristic].",
+    "howto": [
+      "STEP 1 — Generate the scene set in Midjourney: entrance reveal shot, 3-4 'derelict' room shots, then the same rooms 'restored' with warm lighting. Keep room geometry consistent.",
+      "STEP 2 — Animate slow push-ins in Kling / Google Flow; edit into a 8-12 min arc with chapter markers (entrance → rooms → reveal). Add deep documentary narration via ElevenLabs.",
+      "STEP 3 — PRO TIP (YouTube hook rule): open with the most jaw-dropping restored room for 5 seconds BEFORE the title card — YouTube's first-30-seconds retention decides promotion. Title trick: 'I Found a SECRET Bunker... What Was Inside Is Insane' — curiosity gap + 'I' framing = clicks."
+    ],
+    "tips": [
+      "Keyword-first titles under 60 chars: 'Abandoned Bunker Restoration — Sealed for 40 Years'.",
+      "Tease the final reveal inside the first 30 seconds — the title's promise must appear on screen."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "faceless",
+      "ai-video",
+      "restoration",
+      "bunker",
+      "storytelling"
+    ],
+    "trending": true,
+    "popularity": 82
+  },
+  {
+    "id": "niche-drama-fruit-videos",
+    "title": "AI Drama Fruit Videos — Animated Fruit Soap-Opera Mini-Dramas",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Insaan ka dimaagh unfinished stories ko bhool nahi sakta (Zeigarnik effect) — cliffhanger + cute fruit characters = share + follow ka cocktail. Is niche ki videos 168.9M/134.2M/109.7M/83.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-drama-fruit-videos.jpg",
+    "prompt": "Create a 45-second cinematic 3D-animated soap-opera scene: expressive Pixar-style fruit characters in a dramatic moment — [FRUIT CHARACTER A] and [FRUIT CHARACTER B] in a [RELATIONSHIP: lovers / rivals / family] at a [SETTING: restaurant / stage / home]. The story beat is [PLOT TWIST: betrayal / secret revealed / love confession / shocking return]. Exaggerated facial expressions, tears, gasps, dramatic slow-motion close-ups, soap-opera lighting with warm spotlights, emotional orchestral music swells. End on a cliffhanger freeze-frame with the twist unresolved.",
+    "howto": [
+      "Veo 3 me master prompt paste karo — [VARIABLE] slots apni story se fill karo (har video nayi mini-drama: 'banana ne apple ko dhokha diya!').",
+      "CapCut/ElevenLabs AI voice me dramatic narration add karo — 8–10 sec setup, phir twist: 'lekin phir...'.",
+      "Facebook Reels me upload karo — caption me episode number + 'Part 2 chahiye? Comment karo' (comments = algorithm boost)."
+    ],
+    "tips": [
+      "HOOK RULE: pehle 3 second me twist ka glimpse dikhao (reverse-engineered hook).",
+      "CAPTION TRICK: story ke 2 possible endings likho, viewers ko vote karne do.",
+      "SERIES FORMAT: episode numbers — followers binge karte hain, watch time explode hota hai."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "video",
+      "veo-3",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "niche-spiritual-philosophy-shorts",
+    "title": "Faceless Spiritual Philosophy Shorts — Illuminated Wisdom Reels",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Log spiritual quotes ko save aur share karte hain — saves + shares Instagram algorithm ke do sab se powerful signals hain; beautiful visuals = instant stop-scroll. Is niche ki videos 142.6M/118.4M/94.2M/72.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-spiritual-philosophy-shorts.jpg",
+    "prompt": "Ancient illuminated manuscript style artwork: [SYMBOL: golden tree of life / cosmic temple / meditating sage / glowing orb] rendered in gold leaf and intricate detail, luminous mystical glow, [COLOR PALETTE: sunrise gold / deep teal / rose dawn], serene and awe-inspiring, ultra-detailed, cinematic lighting, no text. On-screen text overlay (added in edit): '[ANCIENT WISDOM QUOTE — 1 to 2 lines]'.",
+    "howto": [
+      "Midjourney me master prompt chalao — har video ke liye naya symbol + color palette.",
+      "CapCut me quote text overlay lagao — serif font, gold color, slow zoom-in.",
+      "Instagram Reels me post karo — caption me quote + 'Save karo, kal phir yaad aayega' (saves = reach)."
+    ],
+    "tips": [
+      "HOOK RULE: pehli line aisi jo dil ko lage ('Tumhari sab se badi taqat...').",
+      "CAPTION TRICK: comment me poochho 'Part 2 me kaunsi wisdom chahiye?'.",
+      "POSTING TIME: subah 7–9 AM PKT (US evening) — spiritual content ka golden hour."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "image",
+      "midjourney",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "niche-ai-reddit-storytime",
+    "title": "AI Reddit Storytime Videos — Narrated Drama Stories That Explode Comments",
+    "category": "Viral Niches",
+    "tool": "Kling / Sora",
+    "difficulty": "Beginner",
+    "desc": "Moral dilemmas dimaagh ko judge karne pe majboor karte hain — log comment kiye baghair reh nahi sakte; healthy controversy + storytelling = comment-section explosion = algorithm push. Is niche ki videos 201.4M/176.9M/152.3M/124.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-reddit-storytime.jpg",
+    "prompt": "Cinematic 3D-animated looping background scene for a narrated Reddit story: [SCENE TYPE: courtroom drama / rainy night window / detective desk with mysterious letter / wedding plot twist], moody dramatic lighting, rich colors, subtle looping motion (rain falling / embers rising / clouds moving), no people speaking, no text, vertical 9:16. The story being narrated: '[STORY HOOK: AITA for ___ / I caught my ___ / My wedding was ruined when ___]'.",
+    "howto": [
+      "Kling/Sora me master prompt se 8-second looping background generate karo.",
+      "Reddit se gripping story uthao (r/AITA, r/confession) — apne words me summarize karo, AI voice me narrate karo, 60–90 sec.",
+      "TikTok pe post karo — on-screen captions ON (85% log mute pe dekhte hain), hook text first 2 sec me."
+    ],
+    "tips": [
+      "HOOK RULE: story ki sab se shocking line pehle bolo.",
+      "CAPTION TRICK: 'Am I wrong? Comments me batao' (comments = viral fuel).",
+      "LENGTH: 60–90 sec = Creator Rewards eligible."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "video",
+      "kling",
+      "sora",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-ai-time-traveller-history",
+    "title": "AI Time-Traveller History Vlogs — Cinematic Historical Reenactments",
+    "category": "Viral Niches",
+    "tool": "Veo 3 / Sora",
+    "difficulty": "Beginner",
+    "desc": "Insaan history ko textbook se nahi, aankhon se dekhna chahta hai — 'time travel' ka fantasy + vlog ka personal connection = parasocial bond; har episode nayi era = binge-watching. Is niche ki videos 14.8M/11.2M/8.6M/5.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-time-traveller-history.jpg",
+    "prompt": "Cinematic first-person AI time-traveller vlog scene: [MAIN CHARACTER: young explorer in modern jacket, holding a camera — keep identical across episodes] arriving in [HISTORICAL ERA + YEAR: e.g. ancient Rome 44 BC / Tudor London 1536 / Titanic 1912], at [LOCATION: e.g. Colosseum arena / bustling market / grand ship deck]. Period-accurate details: [COSTUMES], [ARCHITECTURE], [DAILY ACTIVITY: gladiators training / merchants shouting / passengers strolling]. The character reacts with wonder and curiosity, vlog-style. Golden cinematic lighting, photorealistic, immersive wide shots + close-up reactions. NO modern objects accidentally in frame.",
+    "howto": [
+      "Veo 3 / Sora me master prompt paste karo — [VARIABLE] slots apni kahani se fill karo (Titanic ka deck? Cleopatra ka darbaar? Har episode nayi era).",
+      "Consistent main character rakho — same time-traveller ka reference image har episode me reuse karo (character consistency = series feel, followers return).",
+      "YouTube pe 8–12 min video banao — title me 'I Time Travelled to...' format, pehle 15 sec me era reveal (hook). Chapters add karo (0:00 Arrival, 2:00 The Market...)."
+    ],
+    "tips": [
+      "HOOK RULE: pehle 15 sec me sab se shocking visual dikhao (jaise 'yeh hai Titanic ka asli deck!').",
+      "TITLE TRICK: 'I Time Travelled to [Era]' format — curiosity gap unbeatable.",
+      "DESCRIPTION: history hashtags (#AlternateHistory #TimeTravel) + pinned comment me 'Next era kaunsi ho?' (comments = ranking signal)."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "video",
+      "veo-3",
+      "sora",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 80
+  },
+  {
+    "id": "niche-ghibli-style-stories",
+    "title": "Ghibli-Style AI Story Videos — Cozy Fantasy Mini-Stories",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Nostalgia sab se powerful emotion hai — cozy fantasy scenes viewers ko bachpan wali safe feeling deti hain; log aise content ko share karte hain taake doosre bhi khush hon. Is niche ki videos 214.8M/176.3M/149.7M/121.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ghibli-style-stories.jpg",
+    "prompt": "Cozy hand-painted anime fantasy style illustration, Studio Ghibli inspired charm: [SUBJECT: little girl with red umbrella / sleepy baby dragon / tiny witch on broomstick] in a [MAGICAL SETTING: glowing flower meadow at dusk / cloud-top cottage / cherry blossom train tunnel / sparkling ocean at sunset]. Add a [MAGICAL ELEMENT: drifting fireflies / floating lanterns / falling petals / leaping dolphins]. Warm nostalgic color palette, soft magical light, dreamy and heartwarming, ultra-detailed, no text.",
+    "howto": [
+      "Midjourney me master prompt chalao — [VARIABLE] slots fill karke har video ke liye naya magical scene (4–6 second ke cozy clips ki series).",
+      "CapCut me soft piano + fireflies/fireplace SFX add karo — emotional 60-sec mini-story (discovery → wonder → warm payoff).",
+      "Facebook Reels pe upload karo — caption me 'Yeh dekh kar dil khush ho gaya 🥺 Tag someone who needs this' (shares = reach)."
+    ],
+    "tips": [
+      "HOOK RULE: pehle 2 sec me sab se magical frame (glow + wonder) — scroller ruk jaye.",
+      "CAPTION TRICK: 'POV: tumhari childhood wali khushboo' + tag-a-friend line.",
+      "SHARE BAIT: cozy content log apne pyaron ko bhejte hain — shares Facebook ka kingmaker signal hai."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "image",
+      "midjourney",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 96
+  },
+  {
+    "id": "niche-ai-cryptid-sightings",
+    "title": "AI Cryptid Sighting Reels — Found-Footage Mystery Encounters",
+    "category": "Viral Niches",
+    "tool": "Veo 3 / Kling",
+    "difficulty": "Beginner",
+    "desc": "Ambiguity dimaagh ko pareshan karti hai — 'real hai ya fake?' ka sawaal logon ko comment karne pe majboor karta hai; mystery + debate = comments + shares ka double engine. Is niche ki videos 188.2M/152.6M/127.9M/99.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-cryptid-sightings.jpg",
+    "prompt": "Realistic found-footage style cryptid encounter frame: [CRYPTID: massive hairy Bigfoot / long-necked lake monster / glowing-eyed winged mothman / hovering desert orbs] spotted in a [LOCATION: dense redwood forest / misty mountain lake at dawn / dark pine woods / desert ranch at dusk], captured in [FOOTAGE STYLE: trail camera still / night-vision with flashlight beam / dashcam at night]. Tense mysterious atmosphere, slightly grainy and candid like real wildlife footage, no people speaking, no text.",
+    "howto": [
+      "Veo 3 / Kling me master prompt se 8–10 sec realistic encounter clip generate karo — [VARIABLE] slots se har video naya cryptid + location.",
+      "Trail-cam / night-vision aesthetic rakho — thodi grain, thodi shakiness; zyada perfect mat banao (imperfection = believability).",
+      "Instagram Reels pe post karo — caption: 'REAL ya AI? 🤔 Comments me vote karo' + suspenseful audio. AI label lagana mat bhoolo (platform policy)."
+    ],
+    "tips": [
+      "HOOK RULE: pehle 1.5 sec me cryptid ka glimpse — 'did I just see that?' moment.",
+      "CAPTION TRICK: 'Real ya AI?' debate bait — comments explode hote hain, saves bhi.",
+      "TRENDING AUDIO: creepy ambient sounds use karo — watch time barhta hai."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "video",
+      "veo-3",
+      "kling",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-spotlight-silent-pov-travel-asmr",
+    "title": "Silent POV Travel ASMR — 4K First-Person Tours With Pure ASMR Sound (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Wanderlust plus ASMR triggers a genuine relaxation response, and with no spoken language the audience is the entire planet. Seamless loops inflate average watch time — the single metric TikTok's algorithm rewards hardest. Is niche ki videos 184.2M/156.7M/132.4M/98.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-silent-pov-travel-asmr.jpg",
+    "prompt": "AI video prompt: \"[VARIABLE: LOCATION] first-person POV [VARIABLE: WALKING / DRIVING / BOAT RIDE], no people visible, no talking, no text overlays. Golden-hour cinematic lighting, ultra-detailed 4K. Natural ASMR soundscape only: [VARIABLE: SOUNDSCAPE — e.g. footsteps on gravel / waves lapping / market ambience / tires on snow]. Slow steady camera movement, 45-60 seconds, ending that loops seamlessly back to the start.\"",
+    "howto": [
+      "Generate the POV clip in Veo 3 / Kling / Sora with a [LOCATION] + [SOUNDSCAPE] combo; keep camera motion slow and steady — fast pans break the ASMR spell.",
+      "Strip all music and voice; keep only raw ambient audio. Crossfade the tail into the head so the video loops invisibly and watch time compounds.",
+      "Post daily with the location in the caption plus #asmr #povtravel #satisfying — one location series per week builds returning viewers."
+    ],
+    "tips": [
+      "TikTok hook rule: the FIRST frame must be a 'where is this?!' vista — no intro, no logo.",
+      "Caption trick: ask 'Guess the country 👇' to trigger comment floods (comments = reach).",
+      "Post 7-9 PM in your target audience's timezone; leave duets/stitches on so viewers guess locations on camera."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "faceless",
+      "asmr",
+      "travel"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "niche-spotlight-ai-horror-story-docs",
+    "title": "AI Horror Story Narrations — Mr. Nightmare-Style Creepy True Stories (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "Fear plus curiosity is the strongest retention cocktail on YouTube — horror audiences binge late at night in long sessions, feeding the session-time metric the algorithm optimizes for. Stories are infinite, free to source, and never go out of season. Is niche ki videos 29.4M/24.8M/19.6M/14.3M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-horror-story-docs.jpg",
+    "prompt": "AI visual prompt (Kling / Sora image mode): \"Dark cinematic horror-documentary still for a true scary story video. Scene: [VARIABLE: LOCATION — e.g. abandoned school hallway / foggy forest road / Victorian mansion in a thunderstorm]. One flickering light source, deep shadows, subtle film grain, no text, no faces looking at camera. Mood: [VARIABLE: MOOD — e.g. oppressive silence before a scream / something watching from the dark]. 16:9, photorealistic.\" Voiceover prompt (ElevenLabs / TTS): \"Narrate this true horror story in a slow, low, calm documentary voice: [VARIABLE: STORY — 800-1200 words, first-person witness account, open-loop cliffhanger every 3 minutes].\"",
+    "howto": [
+      "Source one 10-15 minute true-story script per video (r/nosleep, r/letsnotmeet, local urban legends) with a cliffhanger planted every ~3 minutes.",
+      "Generate 8-12 dark AI visuals matching each story beat; animate with slow Ken Burns zooms in CapCut so no frame ever sits still.",
+      "Narrate with a deep calm AI voice, layer a low drone + heartbeat SFX underneath, and title it '3 Creepy True [VARIABLE] Stories'."
+    ],
+    "tips": [
+      "YouTube hook rule: the first 15 seconds must deliver the story's scariest single line ('He was standing at the foot of my bed.') — never open with channel intros.",
+      "Add chapters per story for retention graphs; thumbnail = one terrified face or glowing doorway, never repeating the title text; end-screen straight into the next story for session time."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "faceless",
+      "horror",
+      "storytelling"
+    ],
+    "trending": true,
+    "popularity": 81
+  },
+  {
+    "id": "niche-spotlight-did-you-know-fact-reels",
+    "title": "Did-You-Know Fact Reels — Mind-Blowing Facts With Vivid AI Visuals (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Curiosity gaps are neurologically irresistible — the brain hates an unanswered question and watches to close it. Facts are universally shareable across Facebook's 35-55 core demographic, and every share is free distribution to a lookalike audience. Is niche ki videos 168.5M/142.3M/117.8M/89.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-did-you-know-fact-reels.jpg",
+    "prompt": "AI visual prompt (Midjourney / Veo 3): \"Hyper-vivid documentary-style visual for a mind-blowing fact. Subject: [VARIABLE: FACT SUBJECT — e.g. blue whale next to a scuba diver for scale / pyramids of Giza at sunset / giant octopus on a glowing coral reef]. Extreme detail, saturated colors, awe-inspiring composition, vertical 9:16, no text. The fact to visualize: '[VARIABLE: FACT — one shocking true sentence]'.\"",
+    "howto": [
+      "Pick ONE shocking-but-true fact per Reel (science, animals, history, space) and verify it in 30 seconds — a single false fact kills audience trust permanently.",
+      "Generate the visual, then add the fact as bold on-screen text in CapCut plus a curiosity-gap voiceover ('A blue whale's heart is the size of a car...').",
+      "Post 1-2 per day, share winners to niche Facebook Groups, and pin your best performer to the top of the page."
+    ],
+    "tips": [
+      "Facebook hook rule: the fact itself must land in the first 1.5 seconds — on screen AND in voiceover, no buildup.",
+      "Caption trick: end every post with 'Tag someone who didn't know this 🤯' — shares are Facebook's real currency and this niche earns them.",
+      "At $15+ RPM this is a monetization niche: enable in-stream ads from day one."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "faceless",
+      "facts",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 90
   }
 ];
 
