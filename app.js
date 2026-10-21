@@ -36,11 +36,11 @@
         '<span class="badge badge-tool">' + esc(p.tool) + '</span>' +
         '<span class="badge badge-diff ' + esc(p.difficulty) + '">' + esc(p.difficulty) + '</span>' +
       '</div>' +
-      '<h3><a href="/prompts/' + esc(p.id) + '/">' + esc(p.title) + '</a></h3>' +
+      '<h3><a href="prompts/' + esc(p.id) + '/">' + esc(p.title) + '</a></h3>' +
       '<p>' + esc(p.desc) + '</p>' +
       '<div class="pcard-foot">' +
         '<button class="copy-btn" data-copy="' + esc(p.id) + '">📋 Copy Prompt</button>' +
-        '<a class="view-link" href="/prompts/' + esc(p.id) + '/">Details →</a>' +
+        '<a class="view-link" href="prompts/' + esc(p.id) + '/">Details →</a>' +
       '</div>' +
     '</article>';
   }
@@ -71,7 +71,7 @@
       .sort(function (a, b) { return b.popularity - a.popularity; })
       .slice(0, 4);
     $('trendStrip').innerHTML = tr.map(function (p, i) {
-      return '<a class="trend-card" href="/prompts/' + esc(p.id) + '/">' +
+      return '<a class="trend-card" href="prompts/' + esc(p.id) + '/">' +
         '<div class="trend-rank">🔥 #' + (i + 1) + ' trending</div>' +
         '<strong>' + esc(p.title) + '</strong>' +
         '<div class="trend-meta">' + esc(p.tool) + ' · ' + esc(p.difficulty) + '</div>' +
