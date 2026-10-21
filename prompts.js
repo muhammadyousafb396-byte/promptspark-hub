@@ -5783,6 +5783,105 @@ const PROMPTS = [
   "popularity": 87
 }
 
+,
+  {
+    "id": "niche-spotlight-ai-diy-craft-builds",
+    "title": "AI DIY Craft Builds (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Realistic AI craftsman videos so lifelike viewers can't tell they're AI — pages in this niche run 9.8M+ followers on pure AI content. Is niche ki videos 189.4M/164.8M/141.2M/117.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-diy-craft-builds.jpg",
+    "prompt": "Realistic AI video, [DURATION: 6-8 seconds], 9:16 vertical: [SCENE: a skilled craftsman assembling a miniature wooden cabin in a warm workshop / the same craftsman repairing a vintage radio on a cluttered workbench / hands carving an ornate wooden owl, wood curls flying / tiny craftsmen building a tiny house on a giant workbench], [CHARACTER: describe once and reuse in EVERY video, e.g. 'weathered man in a brown leather apron, rolled-up sleeves, silver-streaked beard'], warm tungsten workshop lighting, shallow depth of field, hyper-detailed wood grain and tool textures, subtle camera push-in, photorealistic, no text, no watermark, no cartoon look, no morphing",
+    "howto": [
+      "Create ONE consistent craftsman character first (ChatGPT image: describe him once, save the description) — reuse it in every prompt so viewers follow a 'person', not random clips.",
+      "Generate 6-8s clips in Google Flow with the master prompt above, swapping only [SCENE] each time.",
+      "Add an ElevenLabs voiceover: one curiosity sentence per video — 'He spent 40 days building this…'",
+      "Edit in CapCut: hard cuts every 2-3 seconds, real workshop ASMR sounds under the voiceover.",
+      "Post 1-2x/day as Reels + in-page video; pin 'Full build on the page' to grow followers, not just views."
+    ],
+    "tips": [
+      "Hook rule: first frame must show the FINISHED object, then rewind to the build — 'Wait till you see how he made this…'",
+      "Caption trick: '100% AI — can you believe it? 🤯' sparks comment debates that the algorithm rewards.",
+      "Keep the same apron/character across 30+ videos — consistency turns casual viewers into subscribers."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "diy",
+      "crafts",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 93
+  }
+,
+  {
+    "id": "niche-spotlight-ai-dream-home-tours",
+    "title": "AI Dream Home Tours (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Impossible AI-generated luxury homes — floating mansions, cave villas, treehouse estates — the most-saved content format on Reels. Is niche ki posts 148.3M/121.9M/103.7M/84.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-dream-home-tours.jpg",
+    "prompt": "Cinematic architectural photograph, [HOME: a glass mansion floating above a waterfall at sunset, infinity pool merging into the sky / a luxury villa carved inside a glowing cave with a turquoise underground pool, lanterns and tropical plants / an extravagant multi-level treehouse mansion at dusk, glowing windows, rope bridges / a futuristic glass dome home in a desert at twilight, purple-orange sky, stars appearing], [LIGHTING DETAIL: dramatic sunset clouds / warm lantern glow / magical dusk light / violet twilight], ultra-luxury interior design visible, 8k architectural photography, dramatic composition --ar 4:5 --style raw",
+    "howto": [
+      "Generate 4-6 dream-home images in Midjourney with the master prompt above, swapping only [HOME] each time.",
+      "Animate each image in Runway or Kling (slow push-in, 5 seconds each) to turn them into Reels-ready clips.",
+      "Build a 20-30s Reel: 4 homes, one on-screen hook: 'Which one would you pick? 🏡'",
+      "Caption with a question + 3 luxury hashtags + #aidreamhome for discovery.",
+      "Post daily at 7-9 PM; reply to every 'where is this?' comment with 'All AI — which should I build next?'"
+    ],
+    "tips": [
+      "Hook rule: lead the Reel with the MOST impossible home — saves happen in the first 3 seconds.",
+      "Title trick: 'Houses that don't exist (yet)' outperforms 'dream homes' because of the curiosity gap.",
+      "Repost the same 4 homes as a carousel — carousels get 2x the saves of Reels in this niche."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "luxury",
+      "real-estate",
+      "architecture",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 91
+  }
+,
+  {
+    "id": "niche-spotlight-ai-true-crime-cold-cases",
+    "title": "AI True Crime Cold Cases (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Unsolved-mystery retellings with dark cinematic AI visuals — the faceless storytelling format that dominates TikTok's top Creator Rewards RPM. Is niche ki videos 173.6M/149.8M/126.4M/98.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-true-crime-cold-cases.jpg",
+    "prompt": "Dark cinematic AI video, [DURATION: 7-10 seconds], 9:16 vertical: [SCENE: an abandoned cabin in a foggy forest at night, one window glowing / a detective's evidence board with pinned photos and red string in a lamplit dark room / an empty foggy highway at night, distant headlights approaching / old case files, a magnifying glass and a flickering candle on a desk in a dark archive], eerie unresolved mood, single strong light source, dramatic shadows, film-noir teal-and-amber grade, slow creeping camera push-in, no people in close-up, no text, no watermark",
+    "howto": [
+      "Pick a real unsolved case (public records/Wikipedia) — never name living suspects or present theories as fact.",
+      "Write a 45-60s script: the mystery in 15s, three creepy facts, end mid-question ('…and the door was locked from the INSIDE.').",
+      "Generate 4-5 clips in Veo 3 with the master prompt above, matching one clip to each script beat.",
+      "ElevenLabs narration, slow and low; burn captions ON (most viewers watch muted first).",
+      "Post 1-2x/day; pin 'Part 2 tomorrow' and reply to comments with the next clue to pull followers back."
+    ],
+    "tips": [
+      "Hook rule: open with the single creepiest fact — never with 'this is the story of…'",
+      "Caption trick: 'Nobody has solved this in 40 years 😨' — open loops drive profile visits and follows.",
+      "Always add 'case files are public record' in the caption to avoid misinformation flags."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "true-crime",
+      "mystery",
+      "storytelling",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 94
+  }
 ];
 
 if (typeof module !== "undefined") {
