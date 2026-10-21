@@ -5480,7 +5480,309 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 94
-  }
+  },
+{
+  "id": "abandoned-space-station-flythrough-veo3",
+  "title": "Abandoned Space Station Flythrough — Veo 3 Prompt for Sci-Fi TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Derelict space stations are TikTok's newest 'liminal horror' obsession — slow flythroughs of flickering mega-structures pull millions of views because viewers cannot look away from beautiful decay.",
+  "prompt": "Slow cinematic flythrough of an abandoned space station interior in zero gravity. The camera drifts down a vast corridor lit only by flickering red emergency lights, dust motes and drifting paper floating in the air. It pushes through a torn bulkhead into a colossal observation dome cracked open to a swirling violet nebula, sparks drifting lazily from severed cables. Finally it glides onto the dark command deck where a single monitor still blinks green in the darkness. Liminal-space horror atmosphere, eerie and silent, ultra-detailed sci-fi cinematography, volumetric god rays, 9:16 vertical, photorealistic, no people, no text.",
+  "howto": [
+    "Open Veo 3 and paste the prompt above into the prompt box.",
+    "Set aspect ratio to 9:16 and duration to 10-12 seconds for TikTok.",
+    "Generate 3 clips (corridor, dome, command deck) and join them in CapCut.",
+    "Add a low ambient drone sound or trending space audio — keep it quiet, the silence is the hook.",
+    "Post with a curiosity caption ('NASA deleted this footage 👀') and reply to comments with Part 2."
+  ],
+  "tips": [
+    "Never show people or text on screen — liminal horror works because the viewer's brain fills the emptiness.",
+    "Swap 'space station' for 'underwater lab' or 'Antarctic station' to run the same format as a series.",
+    "Post between 9-11 PM local time; late-night scrollers retain 2-3x longer on horror."
+  ],
+  "tags": [
+    "sci-fi",
+    "space",
+    "horror",
+    "tiktok",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 94
+},
+{
+  "id": "tiny-bug-barber-shop-kling",
+  "title": "Tiny Bug Barber Shop — Kling Prompt for Comedy TikTok Niche Pages",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Tiny-world comedy is a retention machine: a miniature barbershop for insects gives viewers a joke, a world, and a 'wait, what happens next?' loop in 12 seconds.",
+  "prompt": "Vertical 12-second comedy clip: a tiny barbershop built inside a hollow glowing mushroom, serving INSECTS. A beetle barber in a tiny apron carefully trims the antennae of a nervous ladybug sitting on a thimble chair, a spider sweeps the floor with a matchstick broom, warm fairy-light bulbs strung overhead, shaving foam swirls made of morning dew. The camera does a slow push-in, then a quick whip-pan to a hand-painted 'NEXT CUSTOMER' sign where an impatient caterpillar taps its tiny watch. Pixar-style 3D animation, big expressive cartoon eyes, warm cozy lighting, 9:16 vertical, no text except the sign, ultra cute and detailed.",
+  "howto": [
+    "Open Kling, start a new text-to-video generation and paste the prompt.",
+    "Use 9:16 and the longest duration setting for a full mini-story arc.",
+    "Generate 2-3 variants and keep the one where the 'next customer' gag lands.",
+    "Add cartoon SFX (snip, boing, record-scratch) — silent cute clips underperform.",
+    "Build a series: new 'customers' (snail, ant, butterfly) each week for returning viewers."
+  ],
+  "tips": [
+    "The punchline lives in the last 2 seconds — the waiting customer gag is the loop bait.",
+    "Character consistency sells the series: keep 'the beetle barber' identical in every episode.",
+    "Pin a comment asking 'who should be next?' — comment answers become your episode queue."
+  ],
+  "tags": [
+    "comedy",
+    "tiny-world",
+    "tiktok",
+    "creator-niche",
+    "kling"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "lighthouse-keeper-storm-pov-sora",
+  "title": "Lighthouse Keeper Storm POV — Sora Prompt for Faceless YouTube Horror Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "First-person storm footage triggers primal awe: a lighthouse lantern room during a night storm delivers cinematic terror with zero filming, zero actors, zero budget.",
+  "prompt": "First-person POV from inside a lighthouse lantern room during a violent night storm. Rain hammers the curved glass in sheets, lightning splits the black sky and silhouettes towering waves crashing against the rocks below. The giant rotating lamp sweeps its beam across the chaos, the camera slowly creaking with the rotation to follow the light. A distant ship silhouette struggles in the swell. Salt mist blasts the windows, an oil lamp flickers warm inside the room. Gothic maritime horror atmosphere, oppressive and beautiful, ultra-realistic storm cinematography, 9:16 vertical, no people, no dialogue.",
+  "howto": [
+    "Open Sora, paste the prompt, set 9:16 and 10 seconds.",
+    "Generate 4-5 clips with the same 'lighthouse storm' seed words for consistency.",
+    "Layer real storm audio (rain, thunder, creaking metal) under the clips.",
+    "Chain clips into a 45-60s Short with escalating lightning strikes as the arc.",
+    "Title it like found footage: 'The keeper vanished in 1987 — this was his last shift'."
+  ],
+  "tips": [
+    "Never explain the story in the video — found-footage mystery doubles comment rates.",
+    "Add one jump-frame (a shadow passing the glass at 0:32) for replay value.",
+    "The same Sora workflow works for 'abandoned fire lookout' or 'ship bridge' variants."
+  ],
+  "tags": [
+    "horror",
+    "storm",
+    "youtube",
+    "creator-niche",
+    "sora",
+    "faceless"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "origami-world-buildup-runway",
+  "title": "Origami World Build-Up — Runway Prompt for Satisfying Instagram Reels",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "Watch-time gold: a blank table folding itself into a paper world triggers the 'must see the finished version' reflex that pushes Reels past 1M views.",
+  "prompt": "Satisfying build-up video on a clean white table: invisible hands fold a vast origami world from flat paper. A paper crane takes flight over folded paper mountains, an origami whale dives through a rippling paper sea, a cherry-blossom tree blooms from a single square of pink paper. The camera slowly orbits the table as each creation locks into place with a crisp snap. Paper rustle ASMR energy, crisp visible folds and textures, soft studio lighting, pastel color palette, clean minimal background, 9:16 vertical, hyper-satisfying, no text.",
+  "howto": [
+    "Open Runway, paste the prompt into text-to-video, 9:16, 10 seconds.",
+    "Generate one clip per 'creation' (crane, whale, tree) for a multi-shot build-up.",
+    "Cut on each 'snap' fold — hard cuts on the sound of paper keep retention high.",
+    "Add subtle paper-rustle and pop SFX timed to every fold.",
+    "Caption with a countdown ('wait for the tree 🌸') to force full watches."
+  ],
+  "tips": [
+    "Film-style rule: the finished world must be visible for at least 3 full seconds — the payoff IS the watch time.",
+    "Swap the theme monthly (origami ocean, origami city) and keep the same audio for brand recall.",
+    "Save the final frame as a carousel post — Reels viewers save build-ups, saves drive the algorithm."
+  ],
+  "tags": [
+    "origami",
+    "satisfying",
+    "instagram",
+    "creator-niche",
+    "runway"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "molten-metal-pour-macro-flow",
+  "title": "Molten Metal Pour Macro — Google Flow Prompt for Satisfying Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Intermediate",
+  "desc": "Liquid metal is ASMR for the eyes: extreme-macro slow-motion pours of glowing metal dominate satisfying compilations because nobody can scroll past liquid fire.",
+  "prompt": "Extreme macro slow-motion of glowing molten metal pouring in a hypnotic orange stream into a dark mold. Sparks bloom like fireworks, the metal surface ripples like liquid sunlight, and glowing embers drift upward through the darkness. The camera pushes impossibly close until the molten glow fills the entire frame, then pulls back as the metal cools through cherry red to charcoal black, crackling with glowing fracture patterns. Mesmerizing ASMR visuals, deep blacks against blazing orange, dramatic contrast, 9:16 vertical, ultra detailed, no text, no watermark.",
+  "howto": [
+    "Open Google Flow, paste the prompt, generate at 9:16.",
+    "Generate the pour AND the cooling shot separately for a two-act clip.",
+    "Slow the cooling shot to 0.5x — the color shift red-to-black is the retention peak.",
+    "Layer deep metallic rumble audio under the pour; cut to silence at the final frame.",
+    "End on the cracked black surface — the texture makes viewers rewatch."
+  ],
+  "tips": [
+    "Never add music with lyrics — satisfying clips perform best with pure texture audio.",
+    "One color palette per clip: orange-on-black only; mixed palettes kill the hypnotic effect.",
+    "This prompt doubles as a YouTube Shorts 'oddly satisfying' channel pillar — batch 10 pours in one session."
+  ],
+  "tags": [
+    "macro",
+    "satisfying",
+    "instagram",
+    "creator-niche",
+    "google-flow"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "space-elevator-ride-veo3",
+  "title": "Space Elevator Ride POV — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Awe is the most shareable emotion on Shorts: a first-person space-elevator ride from cloud level to orbit gives viewers a wonder-hit no real footage can match.",
+  "prompt": "First-person ride up a space elevator: the camera looks out a glass pod window as the Earth curves below. Clouds shrink away, the sun rises in a razor-thin line of blue atmosphere, stars fade in above as the climber glides silently up the glowing ribbon cable. A slow tilt reveals the counterweight station gleaming in orbit above. The whole journey feels peaceful and awe-inspiring, like the quietest rollercoaster ever built. IMAX-quality space cinematography, photorealistic Earth, 9:16 vertical, no text, no people.",
+  "howto": [
+    "Open Veo 3, paste the prompt, 9:16, 10-12 seconds.",
+    "Generate 3 clips: ascent, the atmosphere line, the station reveal — same ribbon-cable description each time.",
+    "Join in CapCut with slow crossfades; no hard cuts — smoothness IS the aesthetic.",
+    "Use a swelling ambient track that peaks exactly at the station reveal.",
+    "Caption: 'One day this will be a real commute 🚀' — future-framing drives shares."
+  ],
+  "tips": [
+    "The reveal shot (station in orbit) must be the thumbnail frame — scale contrast drives CTR.",
+    "Add a tiny progress bar ('ALTITUDE: 100km → 36,000km') for educational channels.",
+    "Comment bait: pin 'Would you ride it? 👇' — yes/no questions get 3x the comments."
+  ],
+  "tags": [
+    "space",
+    "sci-fi",
+    "youtube",
+    "creator-niche",
+    "veo3"
+  ],
+  "trending": false,
+  "popularity": 90
+},
+{
+  "id": "chibi-profession-characters-midjourney",
+  "title": "Chibi Profession Character Pack — Midjourney Prompt for Instagram Theme Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Cute sells on autopilot: chibi profession characters are the backbone of sticker packs, merch, and theme pages with 500K+ followers — one prompt builds the whole cast.",
+  "prompt": "Chibi character illustration, kawaii anime style: a cheerful [PROFESSION] with an oversized round head tilted playfully, huge sparkling eyes, blushing cheeks, and a tiny body, wearing a detailed [UNIFORM OR KEY TOOL OF THE PROFESSION]. The character stands proudly in a miniature scene of their workplace with [3-4 SCENE ELEMENTS, e.g. stethoscope, medicine cabinet, potted plant for a nurse]. Soft pastel background with subtle sparkles, thick clean linework, vibrant happy colors, premium sticker-art style, centered composition, clean white margin around the character --ar 1:1 --niji 6",
+  "howto": [
+    "Open Midjourney, paste the prompt and replace [PROFESSION], [UNIFORM OR KEY TOOL], and [SCENE ELEMENTS].",
+    "Use --niji 6 for the kawaii anime look; --ar 1:1 keeps sticker proportions.",
+    "Generate 4 variants, upscale the cutest, then remove the background with any bg-remover.",
+    "Batch 20 professions in one session — you now own a full sticker pack.",
+    "Post as a carousel ('Rate these 1-10 👇') or sell the pack on Etsy/Redbubble."
+  ],
+  "tips": [
+    "Consistency trick: reuse the SAME seed phrase 'oversized round head, huge sparkling eyes' verbatim so the whole pack matches.",
+    "Professions with strong props (chef, astronaut, barista) outperform generic ones 3-to-1.",
+    "Facebook sticker-style pages pay real money for exclusive character packs — DM page admins with samples."
+  ],
+  "tags": [
+    "chibi",
+    "characters",
+    "instagram",
+    "facebook",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "no-film-niche-finder-chatgpt",
+  "title": "No-Film Niche Finder — ChatGPT Prompt to Find Creator Niches With Zero Filming",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "The biggest excuse is 'I have no camera': this ChatGPT prompt hands you 20 faceless niches ranked by competition, each runnable with AI visuals alone.",
+  "prompt": "Act as a faceless-content strategist who studies viral channels daily. List 20 content niches I can run on [PLATFORM] in 2026 without ever filming myself, showing my face, or buying physical products — using only AI-generated visuals plus my voice or an AI voiceover. For each niche give: (1) niche name, (2) why it works RIGHT NOW in 2026, (3) 3 specific video ideas I could post this week, (4) difficulty 1-5, (5) monetization potential (ads, affiliates, digital products). Rank all 20 from lowest competition to highest. Exclude niches needing on-camera talent, real-world filming, or physical inventory. Be specific — no generic answers like 'motivational videos'.",
+  "howto": [
+    "Open ChatGPT, paste the prompt and replace [PLATFORM] with YouTube, TikTok, or Instagram.",
+    "Copy the ranked list into a doc and highlight the 5 with difficulty 1-2.",
+    "For your top 3, ask a follow-up: 'Give me 30 video titles for niche #1'.",
+    "Validate each finalist: search the platform — under 50 serious channels means green light.",
+    "Pick ONE, commit to 30 videos in 60 days before judging it."
+  ],
+  "tips": [
+    "Run the prompt once per platform — the same niche can be low-competition on TikTok and saturated on YouTube.",
+    "Ask for the list twice and compare: niches appearing in both runs are the most robust.",
+    "The 'why it works RIGHT NOW' column is your content angle — turn it into your channel's pinned intro video."
+  ],
+  "tags": [
+    "niche-discovery",
+    "faceless",
+    "youtube",
+    "creator-niche",
+    "chatgpt"
+  ],
+  "trending": true,
+  "popularity": 96
+},
+{
+  "id": "platform-format-porter-gemini",
+  "title": "Platform Format Porter — Gemini Prompt to Clone One Viral Format Across YouTube, TikTok, Facebook & Instagram",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "One idea, four platforms, zero extra filming: this Gemini prompt reverse-engineers any viral video and rewrites it natively for YouTube, TikTok, Facebook, and Instagram.",
+  "prompt": "You are a multi-platform content strategist. Here is a viral [SOURCE PLATFORM] video format — [PASTE A DESCRIPTION OR TRANSCRIPT OF THE VIDEO]: First, break it down into its core mechanics: the hook structure, the pacing pattern, the visual pattern, and the sound strategy. Then give me the EXACT adaptation for each of YouTube Shorts, TikTok, Facebook Reels, and Instagram Reels — same idea, but with the rewritten hook, the ideal length, the on-screen text rules, and the posting nuance for EACH platform. Finish with 3 'same format, brand-new topic' variations I can produce this week without filming anything new.",
+  "howto": [
+    "Open Gemini, paste the prompt with a real viral video's description or transcript.",
+    "Save the 4-platform breakdown as your channel's format bible.",
+    "Produce the TikTok version first (fastest feedback), then port winners to the other three.",
+    "Keep the visual pattern identical across platforms; only the hook and length change.",
+    "Track which platform's version wins per format — double down on the winner's nuance."
+  ],
+  "tips": [
+    "Feed Gemini winners from SMALLER platforms — formats that win on TikTok often explode on Facebook Reels where competition is thinner.",
+    "The 'sound strategy' line is the hidden gold: audio trends rarely port automatically, so follow Gemini's per-platform sound swaps.",
+    "Re-run the prompt monthly with that month's viral format — your format library becomes a compounding asset."
+  ],
+  "tags": [
+    "youtube",
+    "tiktok",
+    "facebook",
+    "instagram",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 89
+},
+{
+  "id": "trend-to-evergreen-funnel-claude",
+  "title": "Trend-to-Evergreen Funnel — Claude Prompt to Build a 365-Day Niche Calendar",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Trends die, systems don't: this Claude prompt converts ONE viral trend into a full 365-day content calendar of pillars, trend-riders, and recycled winners.",
+  "prompt": "You are a senior content strategist for faceless creator channels. Take this trending topic in my niche: [TREND]. Build me a complete 365-day content system for a faceless [PLATFORM] channel where I can produce [X] hours per week. Deliver: (A) 12 'pillar' evergreen videos that will still get views in 2 years, (B) 36 'trend-riding' videos mapped to seasonal spikes through the year, (C) 12 'recycled' ideas that repackage my best performers with new angles. Output as a month-by-month table: month | video title | format | why this video compounds. Prioritize ideas I can make with AI-generated visuals and voiceover only. No filler — every row must earn its place.",
+  "howto": [
+    "Open Claude, paste the prompt, fill in [TREND], [PLATFORM], and [X] hours.",
+    "Export the calendar table into a spreadsheet — this is your year.",
+    "Start with the 3 pillar videos of the current quarter; they anchor everything.",
+    "Batch-produce each month's 3 trend-riders in one weekend session.",
+    "Review quarterly: promote the best performer into a pillar and recycle the worst."
+  ],
+  "tips": [
+    "The 'why this video compounds' column is your SEO brief — paste it into your title/description workflow.",
+    "Feed Claude your actual analytics after month 1 ('these 3 videos won') and ask it to re-rank the remaining calendar.",
+    "Pillar videos should be 20% longer than trend-riders — depth is what makes them rank for years."
+  ],
+  "tags": [
+    "trends",
+    "evergreen",
+    "youtube",
+    "creator-niche",
+    "claude"
+  ],
+  "trending": false,
+  "popularity": 87
+}
+
 ];
 
 if (typeof module !== "undefined") {
