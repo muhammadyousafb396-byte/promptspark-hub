@@ -5881,6 +5881,316 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 94
+  },
+  {
+    "id": "breakfast-rush-hyperlapse-veo3",
+    "title": "Breakfast Rush Hyperlapse — Veo 3 Prompt for Viral TikTok Food Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A dawn-to-brunch hyperlapse of a street-food breakfast stall — steam, sizzles and sunrise compressed into 8 loopable seconds. Food hyperlapses are TikTok's most rewatched niche: one pan, one camera move, infinite loops.",
+    "prompt": "Generate an 8-second vertical (9:16) hyperlapse video in Veo 3 of a bustling street-food breakfast stall from pre-dawn darkness to morning rush. Style: warm cinematic food cinematography, shallow depth of field, golden-hour glow. The camera slowly arcs right-to-left across the stall. SHOW: the vendor lighting the grill in blue dark (second 0-1), eggs cracking and sizzling in extreme close-up (1-2), steam billowing past the lens (2-3), a queue of hands receiving wrapped food at hyper-speed (3-5), sunrise flaring through the steam (5-6), then the frame freezing on one perfect steaming plate sliding toward the camera (6-8). Loop-friendly: the last frame must visually match the first frame's angle so it repeats seamlessly. Details: crackling oil sounds implied, vibrant orange-and-gold palette, film-grain texture, NO people faces in focus, NO text overlays, NO watermarks.",
+    "howto": [
+      "Open Veo 3, set output to 9:16 vertical, 8 seconds, and paste the prompt above.",
+      "Render 3 variations (change only the food: tacos, paratha, pancakes) and keep the most loopable one.",
+      "Export and upload to TikTok as a seamless loop with trending breakfast ASMR audio.",
+      "Caption format: 'POV: the stall that feeds 400 people before 8am 🍳'",
+      "Post between 7-9 AM local time; duet-stitch food creators commenting on technique.",
+      "Repeat weekly with a new stall/cuisine — the format IS the niche."
+    ],
+    "tips": [
+      "The loop point is everything: Veo's 'match last frame to first' instruction is what turns 8 seconds into infinite watch time.",
+      "Keep faces out of focus — faceless food loops get saved 3x more than vendor close-ups in this niche.",
+      "Test the same clip with 3 different trending sounds before declaring a winner; sound picks the winner more than the visual does."
+    ],
+    "tags": [
+      "tiktok",
+      "food",
+      "hyperlapse",
+      "viral-niche",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "mythical-beast-rescue-kling",
+    "title": "Mythical Beast Rescue — Kling Prompt for Fantasy YouTube Niche Channels",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "A cinematic rescue scene where a tiny dragon is freed from a crystal trap — the 'creature rescue' format that turned pet-rescue channels into multi-million-subscriber fantasy empires.",
+    "prompt": "Generate a 10-second 16:9 cinematic fantasy clip in Kling: a moonlit forest clearing, bioluminescent mist, and a small injured baby dragon (iridescent teal scales, torn wing) trapped inside a translucent crystal cage. The camera starts in a slow aerial push-in. At second 3, a cloaked figure steps forward and places a glowing hand on the crystal — cracks spiderweb outward in slow motion. At second 6 the crystal SHATTERS in crystalline slow-motion shards; the dragon's wing flutters free, and it looks directly into the camera with huge amber eyes. Final 2 seconds: the dragon hops onto the figure's outstretched hand as the mist swirls. Style: photorealistic fantasy film still, volumetric moonlight, shallow focus on the dragon's eyes at the end, particles of crystal dust hanging in the air. Sound-implied: a deep resonant crack, then a soft chime. NO dialogue, NO text, NO watermark, no cartoon look — strictly live-action cinematic realism.",
+    "howto": [
+      "Open Kling, set 16:9, 10 seconds, and paste the prompt — render the clip twice and keep the better eye-contact take.",
+      "Add a licensed fantasy orchestral swell in editing, timed to the crystal shatter.",
+      "Upload to YouTube as a Short AND a 60s looped 'creature rescue story' with a one-line narration hook.",
+      "Title format: 'He freed the last dragon of the crystal forest 🐉'",
+      "Batch 5 beasts (phoenix chick, moonfox kit, stone golem cub) — one universe, many uploads.",
+      "Pin a comment: 'Which beast should we rescue next?' to harvest comment ideas."
+    ],
+    "tips": [
+      "The money frame is second 8: direct eye contact from the creature — thumbnails cut from that frame double CTR in this niche.",
+      "Serializing one rescue per week builds a returning audience; viewers subscribe to see 'what gets rescued next'.",
+      "Kling nails creature fur/scale detail at 10s length — longer renders drift, so never stretch this prompt past 12 seconds."
+    ],
+    "tags": [
+      "youtube",
+      "fantasy",
+      "animals",
+      "storytelling",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "abandoned-asylum-descent-sora",
+    "title": "Abandoned Asylum Descent — Sora Prompt for Horror TikTok Niche Pages",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A slow flashlight descent down a decaying asylum stairwell — the found-footage dread format that dominates horror TikTok, no actors or sets needed.",
+    "prompt": "Generate a 10-second vertical (9:16) found-footage horror clip in Sora: first-person POV descending a crumbling concrete stairwell inside an abandoned asylum at night. Lighting: a single shaky flashlight beam cutting through dust motes, emergency-exit sign glowing red at the bottom landing. SHOW: the flashlight sweeps left to reveal peeling paint and a wheelchair silhouette covered in cobwebs (second 2), the beam jerks right as a door SLAMS somewhere below (second 4 — audio-implied thud), the descent continues, and at second 8 the beam lands on a child's shoe sitting alone on the bottom step. Hold on the shoe. Style: ultra-realistic bodycam aesthetic, lens flare from the flashlight, subtle camera shake, film grain, desaturated teal-and-black palette with only the red exit sign for color. NO jump-scare face, NO monster reveal, NO text overlays, NO watermark. The terror comes from what is NOT shown.",
+    "howto": [
+      "Open Sora, set 9:16 vertical, 10 seconds, paste the prompt, and render until you get the shoe frame perfectly centered.",
+      "Layer a faint heartbeat sound under the clip — it triples average watch time on horror clips.",
+      "Post as a 3-part series: 'Part 1: we went in. Part 2 is worse.' — episodic dread is this niche's growth engine.",
+      "Caption: 'Nobody claimed the building after 1987. The shoe is still there.'",
+      "Reply to every 'what was that' comment with the next part — comments ARE the algorithm fuel here.",
+      "Publish between 9 PM - midnight for maximum 'watching in the dark' shares."
+    ],
+    "tips": [
+      "Never show the monster: clips that END on an unexplained object outperform jump-scare clips 2:1 in saves.",
+      "The flashlight sweep is your retention curve — re-render if the beam lingers anywhere too long before second 4.",
+      "Sora's grain sells realism; don't 'clean up' the footage in editing — polish kills found-footage credibility."
+    ],
+    "tags": [
+      "tiktok",
+      "horror",
+      "urbex",
+      "pov",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 88
+  },
+  {
+    "id": "glass-marble-rollercoaster-runway",
+    "title": "Glass Marble Rollercoaster — Runway Prompt for Satisfying Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A glowing glass marble racing down an impossible spiral track — the oddly-satisfying physics loop that Instagram's algorithm can't stop recommending.",
+    "prompt": "Generate an 8-second vertical (9:16) satisfying-physics clip in Runway: a luminous amber glass marble rolling down an elaborate hand-built wooden rollercoaster track with spiral drops, see-saw levers, and chime bars, all on a dark walnut tabletop. Camera: smooth tracking shot glued to the marble, alternating with a top-down overview every 2 seconds. SHOW: the marble released at the top (second 0), spiraling down through a copper funnel that spins it faster (1-3), tripping a row of tiny brass bells in ascending pitch (3-5), launching off a final ramp and landing in a glass bowl with a soft *tink* (5-7), then the camera settles on the marble gently rocking to a stop (7-8). Loop-friendly: final resting position matches the release frame's composition for a seamless repeat. Style: warm studio lighting, macro-sharp focus on the marble, bokeh background, rich amber-and-walnut palette, ASMR-grade implied sound. NO hands visible, NO text, NO watermark.",
+    "howto": [
+      "Open Runway, set 9:16 vertical, 8 seconds, paste the prompt, and render 2-3 takes until the bowl landing is clean.",
+      "Add real marble-rolling ASMR audio or a trending 'satisfying' sound — audio is 50% of the satisfaction.",
+      "Post to Instagram Reels with a caption like 'Wait for the chime bars 🔊'",
+      "Make 3 variants (different marble colors/tracks) and post them as a carousel teaser + 3 Reels — a mini-series.",
+      "Cross-post to TikTok and YouTube Shorts; this niche ports perfectly across all three.",
+      "Pin the comment 'Track 4 was the hardest to build' to spark 'how is this real' debate."
+    ],
+    "tips": [
+      "The bell sequence at seconds 3-5 is the dopamine peak — re-render until the pitch ascent is clearly visible.",
+      "Dark tabletop + glowing marble is the highest-contrast combo in this niche; bright backgrounds underperform.",
+      "Series it: viewers who save one marble run follow to collect the whole 'track collection'."
+    ],
+    "tags": [
+      "instagram",
+      "satisfying",
+      "oddlysatisfying",
+      "viral-niche",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "jellyfish-bloom-timelapse-flow",
+    "title": "Jellyfish Bloom Timelapse — Google Flow Prompt for Ocean Facebook Niches",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Hundreds of jellyfish pulsing through a sunlit blue void in timelapse — the calming 'nature therapy' format Facebook's older audience shares endlessly.",
+    "prompt": "Generate a 10-second horizontal (16:9) cinematic timelapse in Google Flow: a massive bloom of moon jellyfish drifting upward through deep blue water toward a shimmering sunlit surface. SHOW: the frame opens dark and quiet (second 0-1), then dozens of translucent bells emerge from below, pulsing in synchronized waves (1-4), light rays pierce the water column as the swarm thickens (4-6), a single large jellyfish with trailing oral arms glides close past the camera in sharp focus (6-8), and the bloom dissolves into glowing particles rising into the light (8-10). Style: BBC-documentary underwater cinematography, bioluminescent edge glow on each bell, volumetric god rays, deep sapphire-to-cyan gradient, ultra-smooth slow drift. Implied sound: deep sub-bass swell. NO divers, NO text, NO watermark, no aquarium glass — pure open ocean.",
+    "howto": [
+      "Open Google Flow, set 16:9, 10 seconds, paste the prompt, and render until the close-pass jellyfish is tack-sharp.",
+      "Overlay gentle ambient piano or ocean sounds in editing — Facebook's 35+ audience watches these with sound ON.",
+      "Upload as a Facebook Reel AND a native 16:9 video post; the feed post gets the shares, the Reel gets the reach.",
+      "Caption: '500 million years of perfection. No thoughts, just pulse. 🪼'",
+      "Turn on 'loop' in the player description; calming loops get rewatched 4-6x on Facebook.",
+      "Series idea: 'One creature, one minute of calm' — daily ocean therapy builds a loyal share-base."
+    ],
+    "tips": [
+      "The second-6 close pass is the thumbnail AND the hook — nothing else in the frame should compete with it.",
+      "Facebook shares explode when you name the species in the caption; 'Moon jellyfish (Aurelia aurita)' beats 'jellyfish'.",
+      "Timelapse + pulse sync is the retention trick: viewers subconsciously breathe with the rhythm and stay."
+    ],
+    "tags": [
+      "facebook",
+      "ocean",
+      "nature",
+      "calming",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "viral-finance-thumbnail-pack-midjourney",
+    "title": "Viral Finance Thumbnail Pack — Midjourney Prompt for YouTube CTR in Finance Niches",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Intermediate",
+    "desc": "Cinematic money-visual thumbnails with shocked-expert energy — the exact thumbnail formula behind finance YouTube's highest-CTR videos, generated in one Midjourney batch.",
+    "prompt": "Create a YouTube thumbnail image in Midjourney --ar 16:9 --v 6 --style raw: a dramatic 3D-rendered scene of a golden hundred-dollar bill tornado spiraling upward from a cracked smartphone screen, a shocked businessman silhouette at the bottom edge reacting with hands on head, dark navy background with glowing green stock-chart lines rising behind the tornado, cinematic rim lighting on the bills, hyper-detailed currency texture, shallow depth of field, vibrant gold-and-emerald color pop against the dark background. Leave the TOP-RIGHT quadrant empty for title text. Composition rules: one dominant object (the money tornado), maximum 2 colors glowing, extreme contrast, readable at 120px wide, NO text rendered in the image, NO watermark, NO photorealistic faces (silhouette only). --chaos 15",
+    "howto": [
+      "Open Midjourney, paste the prompt, and generate 4 variants — swap only the object (tornado of coins, burning credit card, vault door) for a matching set.",
+      "Pick the variant with the strongest single focal point at 120px wide — shrink it to test before choosing.",
+      "Add 1-4 words of bold condensed text (e.g. '$10,000 TRUTH') in your editor using the empty top-right quadrant.",
+      "A/B test thumbnails on your 2 best-performing finance videos first — CTR lift shows within 48 hours.",
+      "Keep a 'winner gallery' of every thumbnail above 8% CTR; re-brief Midjourney on the winners monthly.",
+      "Reuse the formula across videos: same background system, new hero object = instant channel branding."
+    ],
+    "tips": [
+      "The empty-quadrant rule is what separates amateur thumbnails from pro ones — never let Midjourney fill the whole frame.",
+      "Silhouette > face: faceless thumbnails keep the mystery and outperform talking-head crops in finance by a wide margin.",
+      "'--chaos 15' gives you usable variety without breaking the composition; push it higher and the money tornado turns abstract."
+    ],
+    "tags": [
+      "youtube",
+      "finance",
+      "thumbnails",
+      "ctr",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "profitable-micro-niche-excavator-chatgpt",
+    "title": "Profitable Micro-Niche Excavator — ChatGPT Prompt to Find High-RPM Faceless Niches",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Advanced",
+    "desc": "Digs 50 layers deep past 'obvious' niches to surface micro-niches with high advertiser RPM, low competition, and AI-producible content — the research edge faceless channels pay consultants for.",
+    "prompt": "You are a YouTube niche researcher who has analyzed 10,000 faceless channels. I want to start a faceless [SHORTS or LONG-FORM] channel I can run with AI-generated visuals and voiceover only, working [X] hours per week. Excavate 10 MICRO-niches for me — each one must be a specific sub-niche (not 'finance' but '1950s diner menu recreations', not 'true crime' but 'unsolved lighthouse disappearances'). For EACH micro-niche give me: (1) the exact audience (age + why they watch), (2) the advertiser profile that pays high RPM here, (3) 3 reference channels under 100K subs already winning, (4) why it's UNDERSERVED right now, (5) the 5 first videos to publish in order, (6) a competition score /10 and an RPM estimate /10. Then rank all 10 by (RPM × ease-of-production ÷ competition) and tell me your #1 pick with the reason a consultant would charge $500 for. Be brutally honest about which picks are traps.",
+    "howto": [
+      "Open ChatGPT, paste the prompt, and fill in [SHORTS or LONG-FORM] and your weekly [X] hours.",
+      "Verify the #1 pick's competition score yourself: search the niche on YouTube and count quality competitors.",
+      "Check the 3 reference channels' Social Blade growth — declining views = dying niche, walk away.",
+      "Run the prompt again with a different X-hours value; niches change when your production capacity changes.",
+      "Pick ONE niche and commit 30 videos before judging — niche-hopping resets the algorithm's learning.",
+      "Save the full output as your channel bible; revisit the other 9 picks when you're ready to expand."
+    ],
+    "tips": [
+      "The 'why it's underserved' field is the real gold — it tells you your content angle before you make video one.",
+      "Ask ChatGPT 'which of these 10 will still work in 2028?' as a follow-up; longevity filters out fad traps.",
+      "High RPM + low competition + AI-producible is a triangle — if ChatGPT can't defend all three, it's not your niche."
+    ],
+    "tags": [
+      "youtube",
+      "faceless",
+      "niche-discovery",
+      "strategy",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 96
+  },
+  {
+    "id": "rival-niche-translator-gemini",
+    "title": "Rival Niche Translator — Gemini Prompt to Reverse-Engineer Competitors' Niches for YouTube, TikTok, Facebook & Instagram",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "Feed Gemini any competitor's channel and get their niche decoded — then translated into your own winnable version for YouTube, TikTok, Facebook, and Instagram.",
+    "prompt": "You are a competitive-intelligence analyst for creator channels. Here is a competitor I want to learn from: [CHANNEL NAME + LINK, or paste their 10 best video titles]: Decode their niche into a formula: (A) the exact audience psychographic, (B) the 3 content pillars they rotate, (C) their hook template (show me the sentence structure, not just examples), (D) their upload cadence and why it works, (E) the ONE thing they do badly that I can exploit. Then translate their formula into MY version for each platform: give me a differentiated channel angle for YouTube, TikTok, Facebook, and Instagram — same proven demand, but positioned so I'm not a clone. Finish with my first 10 video titles (2-3 per platform) using their hook template but my angle, and a 90-day plan to overtake them in their weakest pillar. Ethical framing throughout: reverse-engineer the strategy, never copy content.",
+    "howto": [
+      "Open Gemini, paste the prompt with a real competitor's channel link or their 10 top video titles.",
+      "Save the 'formula' section — it's a reusable template for analyzing ANY future competitor.",
+      "Pick ONE platform to attack first (the one where the rival's weakest pillar lives).",
+      "Write the 10 titles into your content calendar before making anything — strategy before production.",
+      "Track the rival's uploads for 2 weeks while you produce; timing your launch against their gaps doubles early traction.",
+      "Re-run the analysis quarterly — niches drift, and the exploitable weakness moves."
+    ],
+    "tips": [
+      "The 'what they do badly' section is your entire launch strategy — most creators never attack it, so the lane is open.",
+      "Don't pick the biggest competitor: mid-size channels (50K-500K) have proven formulas but haven't fortified their weak pillar yet.",
+      "Gemini's platform translations are the differentiator — a YouTube niche and a TikTok niche are never the same product."
+    ],
+    "tags": [
+      "youtube",
+      "tiktok",
+      "facebook",
+      "instagram",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 89
+  },
+  {
+    "id": "zero-competition-niche-validator-claude",
+    "title": "Zero-Competition Niche Validator — Claude Prompt to Score Any Niche Before You Commit",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A 10-point forensic audit that scores any niche idea on demand, competition, monetization, and AI-producibility — so you never waste 6 months on a dead-end channel again.",
+    "prompt": "You are a ruthless niche auditor. I am considering this niche: [NICHE IDEA]. Score it 0-100 across these 10 dimensions, with evidence and a verdict for each: (1) Search demand — is anyone actually looking for this? (2) Competition density — how many quality creators already own it? (3) Content durability — will these videos still get views in 3 years? (4) Production cost — can I make 100 videos with AI tools + [X] hours/week? (5) Monetization depth — ad RPM, affiliates, digital products, sponsors (rank each)? (6) Format repeatability — is there a template I can run 100 times without going stale? (7) Platform fit — rank YouTube/TikTok/Facebook/Instagram for this niche and explain the winner. (8) Trend risk — is this a wave or a foundation? (9) Audience loyalty — will viewers subscribe, or just watch and leave? (10) Exit options — could I sell this channel or brand later? Then give a final GO / NO-GO verdict, the 3 biggest risks, and the single experiment (one video, under $20) that would prove or kill the niche in 7 days.",
+    "howto": [
+      "Open Claude, paste the prompt, fill in [NICHE IDEA] and your weekly [X] hours.",
+      "Read the verdict last — read the 10 scores first so the verdict can't bias you.",
+      "Run the $20 experiment Claude prescribes before any branding, logos, or channel setup.",
+      "Score 3-5 niche ideas back-to-back and compare the totals — the winner usually surprises you.",
+      "Re-validate your CURRENT niche annually; a GO in 2024 can be a NO-GO in 2026.",
+      "Keep every audit in one doc — your future self will thank you when comparing expansion options."
+    ],
+    "tips": [
+      "Dimension 6 (format repeatability) kills more niches than competition does — a niche you can't templatize is a hobby, not a channel.",
+      "The $20 experiment is the whole prompt in one move: if you can't design a cheap test, the niche is too expensive to learn.",
+      "Ask Claude to argue AGAINST its own verdict as a follow-up; the counter-argument reveals the blind spots."
+    ],
+    "tags": [
+      "niche-discovery",
+      "strategy",
+      "youtube",
+      "validation",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "cozy-campfire-storytime-kling",
+    "title": "Cozy Campfire Storytime — Kling Prompt for Viral Facebook Story Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "A crackling campfire under a star-swept sky with drifting embers — the ultimate 'stop scrolling and breathe' background loop for Facebook storytelling pages.",
+    "prompt": "Generate a 10-second 16:9 cinematic loop in Kling: a cozy campfire burning in a stone fire-ring at night, deep in a pine forest clearing. SHOW: flames dancing in warm orange and gold (0-3), a shower of glowing embers rising and drifting toward a Milky-Way sky (3-6), the camera slowly pulling back to reveal a wooden log bench beside the fire with a folded blanket on it (6-8), then settling into a gentle hold on the flames (8-10). Style: ultra-realistic cinematic night photography, firelight flickering across nearby pine trunks, tack-sharp embers against soft bokeh, deep navy sky with visible stars, rich amber-and-navy palette. Loop-friendly: the final flame pattern must flow into the opening frame for a seamless repeat. Implied sound: crackling fire, distant owl. NO people, NO tents with logos, NO text, NO watermark — pure atmosphere.",
+    "howto": [
+      "Open Kling, set 16:9, 10 seconds, paste the prompt, and render until the ember shower is dense and golden.",
+      "Overlay a real campfire-crackle ASMR track — Facebook's storytelling audience keeps these loops running for minutes.",
+      "Use it as the evergreen background for narrated story videos: your voiceover + this loop = a whole niche format.",
+      "Post one 'campfire story' per evening (7-9 PM) with a one-line hook: 'The night the lights went out in our village...'",
+      "Loop it 6x for a 60-second Reel version — long loops rack up watch time on Facebook.",
+      "Seasonal variants (snow falling, autumn leaves, fireflies) keep the same page fresh year-round."
+    ],
+    "tips": [
+      "The empty log bench is a storytelling magnet — viewers imagine themselves there, and saves skyrocket.",
+      "Narration > music for this niche: a calm voice over the fire beats any soundtrack for watch time.",
+      "Never rush the ember shower (seconds 3-6): it's the visual hook that stops the scroll."
+    ],
+    "tags": [
+      "facebook",
+      "storytelling",
+      "cozy",
+      "ambience",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 84
   }
 ];
 
