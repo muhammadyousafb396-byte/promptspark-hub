@@ -6192,6 +6192,105 @@ const PROMPTS = [
     "trending": false,
     "popularity": 84
   }
+,
+  {
+    "id": "niche-spotlight-ai-kurzgesagt-style-explainers",
+    "title": "AI-Animated Educational Explainers (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Google Flow",
+    "difficulty": "Intermediate",
+    "desc": "Colourful Kurzgesagt-style AI explainer animations — black holes, deep oceans, dinosaur extinctions, DNA — the faceless niche with premium CPMs. Is niche ki videos 42.8M/31.5M/24.9M/18.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-kurzgesagt-style-explainers.jpg",
+    "prompt": "Colourful flat-vector explainer animation in Kurzgesagt style, 16:9: [TOPIC: a tiny astronaut drifting beside a giant swirling purple-orange black hole with cartoon planets / a tiny diver descending into a glowing deep-ocean trench beside a giant friendly whale shark / a giant blazing meteor streaking toward cartoon dinosaurs looking up in panic / a tiny lab-suited character walking across a giant twisting pink-cyan DNA bridge with cute round bacteria floating like balloons], minimalist geometric shapes, rich gradient backgrounds, tiny character for scale, calm curiosity mood, subtle parallax motion, no text, no watermark, no photorealism",
+    "howto": [
+      "Pick one big-question topic per video (black holes, oceans, extinctions, DNA) — the question itself is the hook.",
+      "Generate 4-6 animated scenes in Google Flow with the master prompt above, swapping only [TOPIC] each time; keep the same flat-vector style across all scenes.",
+      "Add an AI voiceover (ElevenLabs, calm clear tone): script the video as 'What if…' or 'Why does…' — one question per scene.",
+      "Edit at 6-10 min: pattern interrupts every 20-30s with a new visual gag (tiny characters, scale gags, duck-shaped satellites).",
+      "Title it like an explainer: 'Why [TOPIC] Is Stranger Than You Think' — YouTube search + suggested traffic compounds for years in this niche."
+    ],
+    "tips": [
+      "Hook rule: the first 15 seconds must deliver the title promise with a jaw-dropping visual (meteor hitting Earth in flat-vector style) — 71% of viewers decide in the first few seconds.",
+      "Title trick: keyword-first + curiosity ('Black Holes Explained in 6 Minutes') — educational search intent ranks for years.",
+      "Repurpose the same explainer into a 30s Short with the single craziest frame as the hook — YouTube's algorithm pushes shorts to a whole new audience."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "explainers",
+      "animation",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 91
+  }
+,
+  {
+    "id": "niche-spotlight-talking-pet-diaries",
+    "title": "AI Talking-Pet Diaries (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Anthropomorphic pets with first-person narration — pet confessions, sibling drama, treat heists; the most-shareable format on Facebook Reels. Is niche ki videos 148.6M/119.3M/96.8M/74.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-talking-pet-diaries.jpg",
+    "prompt": "Photorealistic funny AI video, 9:16 vertical, [PET + SCENE: golden retriever in a kitchen mid-confession, one paw raised like it's telling a story, confetti falling / sassy tabby cat at a tiny desk like a talk-show host, dramatic paw point at camera, spotlight / pug in a detective trench coat with a tiny magnifying glass, caught beside a giant cookie jar, tongue out / two fluffy kittens in a soap-opera showdown on a couch, one accusing paw pointed, spilled treat bowl between them], [PERSONALITY: overconfident golden retriever / judgmental tabby host / sneaky pug detective / dramatic kitten duo — reuse the SAME pet description in every video], expressive human-like gestures, warm cinematic lighting, natural lip-sync-ready pacing, no text, no watermark, no cartoon look",
+    "howto": [
+      "Lock ONE pet character (describe the golden retriever once — breed, colour, 'sweater or no sweater') and reuse the exact description in every prompt so viewers follow a 'personality', not random animals.",
+      "Generate 15-20s clips in Veo 3 with the master prompt above, swapping only [PET + SCENE]; each clip = one 'diary entry'.",
+      "Add first-person voiceover (ElevenLabs, playful voice): the pet 'talks' — 'Day 47: the humans still don't know I did it.'",
+      "Edit with word-by-word captions — most Facebook viewers watch on mute; captions carry the comedy.",
+      "Post 1-2x/day as Reels + page video; pin 'New episode daily' so followers return for the series, not just one clip."
+    ],
+    "tips": [
+      "Hook rule: first frame = the pet staring INTO the camera mid-gesture — eye contact stops the scroll on Facebook.",
+      "Caption trick: 'He finally told the truth' — curiosity-gap captions get saved AND shared; shares are this niche's growth engine.",
+      "Give the pet a recurring catchphrase ('The cookie jar was already like that.') — catchphrases turn casual viewers into subscribers."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "pets",
+      "comedy",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 95
+  }
+,
+  {
+    "id": "niche-spotlight-historical-what-if-reels",
+    "title": "Historical What If Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Counterfactual scenarios in cinematic AI imagery — Rome never falls, dinosaurs in modern cities, a 1969 moon colony — polarizing comments drive massive reach. Is niche ki reels 86.4M/69.7M/52.3M/38.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-historical-what-if-reels.jpg",
+    "prompt": "Cinematic photorealistic alternate-history scene, [SCENARIO: Roman soldiers in classical armour beside a futuristic glass skyscraper in a sunlit neo-Roman city, flying ships above marble temples, golden-hour light / giant brachiosaurus walking through a modern city street between glass skyscrapers, tiny amazed onlookers, dramatic sunset / 1969-style astronauts planting a flag outside a retro-futuristic glass moon colony dome, Earth rising over the lunar horizon / the ancient Library of Alexandria reimagined intact and vast, soaring marble halls, holographic star maps, warm god-rays], epic scale contrast, dramatic lighting, ultra-detailed, 8k, --ar 4:5 --style raw",
+    "howto": [
+      "Generate 4 'what if' scenes in Midjourney with the master prompt above, swapping only [SCENARIO] each time.",
+      "Animate each image in Kling or Runway (slow cinematic push-in, 4-5s each) — motion turns a pretty picture into a Reel.",
+      "Build a 20-30s Reel: one on-screen question — 'What if Rome never fell?' — no voiceover needed, text hook carries it.",
+      "Caption with a debate bait: 'Would this be better or worse?' — polarizing comments are this niche's reach engine.",
+      "Post daily 7-9 PM; repost the best performer as a carousel — carousels get 2x the saves in this niche."
+    ],
+    "tips": [
+      "Hook rule: lead with the MOST impossible image (dinosaur in a modern city) — Reels are judged in the first 1.4 seconds.",
+      "Title trick: 'What if [X] never happened' outperforms 'Alternate history of X' — the conditional phrasing invites imagination, not just information.",
+      "Pin your own comment starting the debate ('I'd move to neo-Rome tomorrow.') — seeded comments pull lurkers into the argument and boost ranking."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "history",
+      "what-if",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 89
+  }
 ];
 
 if (typeof module !== "undefined") {
