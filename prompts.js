@@ -6611,7 +6611,105 @@ const PROMPTS = [
     "trending": false,
     "popularity": 88
   }
-
+,
+  {
+    "id": "niche-spotlight-ai-mythology-legends",
+    "title": "AI Mythology Legends (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Greek/Norse myths retold as epic cinematic AI shorts — Zeus, Medusa, the Kraken and the Underworld with open-loop cliffhangers. Is niche ki videos 192.5M/167.4M/143.8M/118.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-mythology-legends.jpg",
+    "prompt": "Epic cinematic AI mythology scene, [MYTH FIGURE: Zeus hurling a lightning bolt from storm clouds above Mount Olympus, marble temples trembling below / Medusa emerging from shadow in a dark ancient temple, snake hair writhing, petrified warriors in the foreground / a kraken's colossal tentacles rising from a stormy sea beside a Greek trireme, waves crashing / Cerberus guarding the gates of the underworld, rivers of glowing blue fire], dramatic god-light, slow cinematic camera push, volumetric fog, ultra-detailed, mythological epic scale, 9:16 vertical, photorealistic fantasy",
+    "howto": [
+      "Pick one myth + one cliffhanger line; paste the master prompt into Veo 3 swapping only [MYTH FIGURE], 9:16, 6-8 seconds.",
+      "Script a 3-line voiceover (ElevenLabs 'epic narrator' voice): the setup, the shocking twist, 'Part 2 if this hits 10K likes' — narration is the retention engine, the visual is the hook.",
+      "Cut the video to END mid-twist (Zeus mid-throw, Medusa mid-turn) — TikTok punishes finished stories in this niche; open loops double comments.",
+      "Post 2-3x/day 6-10 PM PKT; pin your own comment with the myth's real ending to seed replies.",
+      "Series it: one god per week (Zeus week, Hades week, Loki week) — the audience returns for 'their' god, not random myths."
+    ],
+    "tips": [
+      "Hook rule: the FIRST frame must be the most impossible image (a kraken the size of a warship) — TikTok judges mythology reels in the first 1.4 seconds.",
+      "Caption trick: 'What the history books DON'T tell you about [god]' — curiosity gaps beat summaries; never explain the myth in the caption, only tease it.",
+      "Open-loop line: end every video with 'but what he did NEXT angered the gods…' — mythology viewers binge part 2s more than any other niche's audience."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "mythology",
+      "greek-myths",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 92
+  }
+,
+  {
+    "id": "niche-spotlight-ai-sleep-stories",
+    "title": "AI Sleep Stories & Bedtime Narrations (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Calm AI bedtime narrations for adults over dreamy AI worlds — whales in starry seas, lantern forests, moonlit cabins. Is niche ki videos 24.6M/19.8M/15.4M/11.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-sleep-stories.jpg",
+    "prompt": "Dreamlike serene illustration, [DREAM SCENE: a giant glowing whale floating across a starry night ocean under the Milky Way, bioluminescent waves below / a cozy lantern-lit forest path winding into soft glowing mist, fireflies drifting, a tiny lit door in an ancient tree / an enormous full moon rising over misty purple mountains, a small warm-lit cabin below / floating islands with waterfalls pouring into golden clouds, a tiny airship drifting through dream light], soft luminous glow, deep blues and warm amber, slow drifting camera, painterly detail, cozy wonder, no people, ultra-detailed --ar 16:9 --style raw",
+    "howto": [
+      "Generate 6-8 dream scenes in Midjourney with the master prompt, swapping only [DREAM SCENE] — keep one fixed color palette (deep blue + amber) so the whole channel feels like one dream.",
+      "Write a slow 10-15 minute bedtime narration in ChatGPT: second-person, present tense, no conflict — 'you drift down the lantern path…' — read it at 0.85x speed in ElevenLabs with a soft, low voice.",
+      "Animate each image in Kling/Runway with a slow 8-10s drift; crossfade between scenes — hard cuts wake the sleeper, fades keep them in the dream.",
+      "Title the video 'Fall Asleep In [X] Minutes | [Dream Scene]' — the search term IS the promise; no clickbait, sleepers return to what worked.",
+      "Upload 10pm PKT, 3x per week; the same viewer watches nightly — this niche compounds through loyalty, not virality."
+    ],
+    "tips": [
+      "Hook rule: the first 60 seconds decide everything — a whispered 'close your eyes…' over the moonrise scene sets the contract; never start with an intro or logo.",
+      "Title trick: '[Minutes] to Fall Asleep' beats 'Sleep Story Ep 12' — time-to-sleep is the searchable promise; front-load the number.",
+      "Pacing: one scene per 90-120 seconds, narration pauses 5-8s between lines — silence is content in this niche; rushing is the #1 channel killer."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "sleep-stories",
+      "meditation",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 90
+  }
+,
+  {
+    "id": "niche-spotlight-ai-money-finance-reels",
+    "title": "AI Money & Finance Tips Reels (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Personal-finance hacks and money-moment AI visuals for Facebook Reels — vault bursts, golden coin rains, mansion sunsets. Is niche ki reels 178.9M/152.4M/129.7M/104.3M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-money-finance-reels.jpg",
+    "prompt": "Luxurious cinematic money-moment scene, [MONEY MOMENT: a rain of golden coins and dollar bills falling into outstretched hands, glowing vault light behind / a luxury mansion with a supercar at golden sunset, cinematic aerial angle / a giant rising stock chart built from glowing gold bars ascending through clouds / a massive bank-vault door swinging open, golden light bursting out, coins spilling forward], rich golds and deep greens, dramatic rim light, slow cinematic camera move, ultra-detailed, aspirational financial fantasy, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one money-moment in Veo 3 per finance tip, swapping only [MONEY MOMENT] — the visual is pure pattern-interrupt; the tip itself comes from the caption/voiceover.",
+      "Write 3-line voiceovers in ChatGPT: the wrong rule everyone believes, the correction, the payoff — e.g. 'The 50/30/20 rule is wrong. Here's why.' — money myths corrected get saved more than money tips.",
+      "Voice it in ElevenLabs with a confident, direct tone — finance Reels live or die on authority; hesitation in the voice kills shares.",
+      "Caption with the full tip written out (3 short lines) so the Reel works muted — 70% of Facebook Reels play without sound.",
+      "Post daily 7-9 PM PKT; reshare the best performer as a story — money content gets sent in DMs, and DMs are this niche's hidden reach engine."
+    ],
+    "tips": [
+      "Hook rule: the visual must scream money in frame one (vault door bursting open) — finance scrollers decide in under a second whether you're talking about THEIR money.",
+      "Caption trick: 'Stop doing [common habit]' outperforms '5 tips for saving' — contrarian corrections are saved 3x more than generic tips on Facebook Reels.",
+      "Credibility line: start the voiceover with a number ('$4.2M lost to this one mistake…') — specific numbers borrow authority you don't have to earn on camera."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "finance",
+      "money",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 91
+  }
 ];
 
 if (typeof module !== "undefined") {
