@@ -6291,6 +6291,327 @@ const PROMPTS = [
     "trending": true,
     "popularity": 89
   }
+,
+  {
+    "id": "frozen-waterfall-collapse-veo3",
+    "title": "Frozen Waterfall Collapse — Veo 3 Prompt for Viral TikTok Nature Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A colossal frozen waterfall cracking, groaning and collapsing in slow motion — the primal nature spectacle that stops every scroller in their tracks and dominates TikTok's nature-niche feeds.",
+    "prompt": "Generate a 9-second 9:16 vertical cinematic video in Veo 3: a towering frozen waterfall in an icy canyon, blue glacial ice veined with white frost. TIMELINE: (0-2) low rumble, deep fissures spiderweb across the ice face, tiny ice shards tinkling down (2-5) the central column buckles — a thunderous CRACK as a 20-metre slab of blue ice breaks free and tumbles in slow motion, exploding into glittering fragments (5-7) the dust cloud of ice crystals billows toward camera, backlit by cold winter sun (7-9) settling reveal of the raw rock face behind, mist drifting. Style: hyper-realistic nature documentary, 8K detail on fracture patterns, cool arctic palette of cyan, steel blue and white, dramatic side lighting. Implied sound: deep glacial groan, cracking thunder, crystalline shatter. NO people, NO text, NO watermark — pure frozen spectacle.",
+    "howto": [
+      "Open Veo 3, set 9:16 vertical, 9 seconds, paste the prompt, and render until the slab break reads as one massive crack, not many small chips.",
+      "Cut a 3-second 'moment of impact' version too — the collapse instant is the standalone clip that goes viral as a duet/stitch bait.",
+      "Layer a real glacial-crack audio sample underneath (freesound.org) — sound sells 80% of this niche's shock factor.",
+      "Hook text overlay: 'The moment 10,000 years of ice gives up' — TikTok's nature audience shares anything that feels geological and ancient.",
+      "Post between 6-8 PM PKT when US nature-watchers are scrolling; cold-climate visuals paradoxically perform best in warm months.",
+      "Series it: one waterfall per climate (Iceland, Canadian Rockies, Himalayas, Norway) — same prompt, swapped locations, a whole niche channel."
+    ],
+    "tips": [
+      "Slow motion is the whole game: if Veo renders it too fast, re-prompt with '0.25x speed, dreamlike suspension' — fast ice looks like TV static.",
+      "The blue-ice translucency is your thumbnail frame: scrub to the slab mid-tumble for a clickbait-perfect still.",
+      "Never put people in the frame — scale ambiguity makes viewers watch twice to guess how big it really is."
+    ],
+    "tags": [
+      "tiktok",
+      "nature",
+      "waterfall",
+      "viral-loop",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 86
+  }
+,
+  {
+    "id": "neon-night-market-hawker-veo3",
+    "title": "Neon Night Market Hawker — Veo 3 Prompt for Viral YouTube Street-Food Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Intermediate",
+    "desc": "A rain-slicked night market where a street-food hawker tosses flaming noodles through steam and neon — the cinematic street-food opener every viral food niche channel needs.",
+    "prompt": "Generate a 10-second 16:9 cinematic video in Veo 3: a bustling night market lane at 11 PM, rain-polished cobblestones mirroring pink, cyan and amber neon signs in Chinese and Thai script. ACTION: (0-3) slow dolly-in past crowded stalls, steam rising from grills (3-6) the hero moment — a hawker in a white apron launches a burst of noodles high into the air from a roaring wok, flames licking up, droplets of oil catching the neon (6-8) macro shot of the noodles arcing, glistening, each strand sharp against dark background (8-10) they land back in the wok with a sizzle, the hawker's satisfied grin. Style: hyper-realistic cinematic street photography, shallow depth of field, wet-surface reflections, rich neon-noir palette. Implied sound: wok sizzle, crowd murmur, sizzling fat, distant vendor calls. NO readable brand logos, NO text overlays, NO watermark.",
+    "howto": [
+      "Open Veo 3, 16:9, 10 seconds, paste the prompt — the noodle-toss (seconds 3-6) must read as one confident motion, re-render if it looks stiff.",
+      "Use this as the signature opener for every video in the niche: same market, different dishes — instant channel identity.",
+      "Add real sizzling-wok foley and a lo-fi beat underneath; street-food niches live or die on mouth-watering audio.",
+      "Title pattern: '[DISH] Cooked at 1000°C on a Rainy Night' — weather + heat + place beats generic 'street food' titles.",
+      "Shoot a 60-second Short version first to test the hook, then expand winners into 8-minute long-form 'night market walks'.",
+      "Swap the hawker and dish per episode (dumplings, satay, roti) — the market stays the recurring character."
+    ],
+    "tips": [
+      "Neon reflections on wet ground are free production value — ask for 'mirror-gloss puddles' if the render looks dry.",
+      "The macro noodle shot is your thumbnail: freeze at second 6 and crop tight — steam + strands + fire beats any face.",
+      "Keep signs illegible or generic: readable real shop names can trigger content-ID style disputes on food channels."
+    ],
+    "tags": [
+      "youtube",
+      "street-food",
+      "night-market",
+      "cinematic",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 90
+  }
+,
+  {
+    "id": "sky-lantern-release-kling",
+    "title": "Sky Lantern Release Loop — Kling Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "Hundreds of glowing sky lanterns rising over a moonlit lake in a perfect loop — the dreamlike ambience clip that Instagram's serenity-niche pages run on repeat.",
+    "prompt": "Generate a 10-second 9:16 vertical loop in Kling: a moonlit mountain lake at blue hour, a crowd of tiny silhouetted figures on a wooden dock releasing paper sky lanterns. TIMELINE: (0-3) lanterns ignite one by one — warm orange blooms against indigo sky (3-6) a wave of 200+ lanterns lifts off together, drifting up and outward in a gentle spiral (6-8) their reflections shimmer and stretch across the black water (8-10) camera eases back into the opening composition — one lantern still low near the dock, ready to ignite again. Loop-perfect: the final frame must match the first so the repeat is invisible. Style: ultra-realistic night cinematography, silky water reflections, warm-cool contrast (amber lanterns vs indigo sky), gentle grain. Implied sound: soft wind, water lapping, distant laughter, paper rustle. NO faces in close-up, NO text, NO watermark.",
+    "howto": [
+      "Open Kling, 9:16, 10 seconds, paste the prompt, and check the loop point — the lantern near the dock at 0:00 and 10:00 must sit in the same spot.",
+      "Loop it 3x into a 30-second Reel — seamless loops are the #1 retention hack on Instagram; viewers rewatch without realising.",
+      "Pair with a trending ambient audio or a soft piano track; serenity pages grow on saves and shares, so pick music people DM to friends.",
+      "Caption formula: 'Tag someone you'd watch this with' — comment-driven engagement pushes Reels into Explore.",
+      "Post 8-10 PM local time of your audience; lanterns read as a wind-down ritual and perform best before bed.",
+      "Seasonal swaps (cherry blossoms over the lake, autumn mist, first snow) keep one page evergreen all year."
+    ],
+    "tips": [
+      "The single low lantern near the dock is your loop anchor — if Kling drops it, add 'one unlit lantern resting on the dock in frame' to the prompt.",
+      "Reflection stretch on water doubles the visual magic: ask for 'long vertical reflections' if the lake renders too flat.",
+      "Never show lit faces in close-up — anonymous silhouettes let every viewer project themselves into the scene."
+    ],
+    "tags": [
+      "instagram",
+      "lantern",
+      "ambience",
+      "loop",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 83
+  }
+,
+  {
+    "id": "deep-jungle-temple-reveal-sora",
+    "title": "Deep Jungle Temple Reveal — Sora Prompt for Faceless YouTube Adventure Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A drone pushing through dense jungle canopy to reveal a forgotten temple glowing with bioluminescent moss — the discovery shot that powers faceless exploration channels.",
+    "prompt": "Generate a 12-second 16:9 cinematic video in Sora: an aerial drone deep in an unmapped rainforest at dawn. TIMELINE: (0-3) flying inches above the canopy, leaves whipping past, mist curling (3-6) the drone crests a ridge — below, a colossal stone temple complex swallowed by jungle, broken towers draped in vines (6-9) descending spiral around the central pyramid, its carved doorways glowing faintly with bioluminescent moss (9-12) final low push toward a dark doorway, light flaring from within as if something just woke up. Style: hyper-realistic expedition cinematography, god rays slicing through canopy gaps, wet-leaf detail, moss greens against weathered grey stone, faint teal glow accents. Implied sound: rotor hum, bird calls, leaf rustle, deep stone groan at the reveal. NO people, NO text, NO watermark — pure discovery.",
+    "howto": [
+      "Open Sora, 16:9, 12 seconds, paste the prompt — the canopy-to-temple reveal at second 3-6 is the money shot; re-render until the pyramid reads instantly.",
+      "This clip IS the niche's business card: narrate over it ('Nobody has entered this temple in 400 years...') and you have a channel format.",
+      "Add expedition foley (machete, insects, distant calls) plus a low drone under the narration — adventure channels sell immersion.",
+      "Title pattern: 'We Found a Temple Google Maps Won't Show You' — mystery + map-proof exclusivity drives the click.",
+      "Cut the final 2 seconds (the glowing doorway) as a standalone Short with the caption 'Part 2 if this hits 100k' — built-in sequel demand.",
+      "Swap the ruin per episode (sunken city, cliff monastery, desert ziggurat) — one prompt skeleton, infinite lost places."
+    ],
+    "tips": [
+      "Bioluminescent moss is the signature: if the temple renders as plain grey stone, re-prompt with 'glowing teal moss veins pulsing faintly' — mystery needs a light source.",
+      "The doorway flare at the end is your cliffhanger — never show what's inside; the comments section will write your next episode.",
+      "Keep the drone fast over canopy and slow over the temple — the speed change is a free, wordless 'pay attention' cue."
+    ],
+    "tags": [
+      "youtube",
+      "adventure",
+      "exploration",
+      "temple",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 89
+  }
+,
+  {
+    "id": "liquid-metal-portrait-morph-runway",
+    "title": "Liquid Metal Portrait Morph — Runway Prompt for Viral TikTok Art Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Advanced",
+    "desc": "A classical marble statue melting into liquid chrome and reforming as a futuristic portrait — the surreal transformation loop that dominates TikTok's AI-art niche.",
+    "prompt": "Generate an 8-second 9:16 vertical morph in Runway: a weathered marble bust of a classical statue on a black pedestal, dark studio void. TIMELINE: (0-2) hairline cracks spread across the marble, molten silver seeping through (2-4) the bust liquefies — flowing, dripping, pooling into a mirror of liquid chrome (4-6) the pool rises and sculpts itself into a futuristic portrait: smooth chrome head with glowing circuit-etched eyes (6-8) it hardens into polished metal, one circuit eye pulsing — then a single droplet falls, beginning to reverse the change. Style: hyper-detailed 3D render, studio reflections on liquid metal, marble grain vs mirror finish, monochrome silver palette with one cyan accent in the eyes. Implied sound: deep rumble, liquid slosh, metallic crystalline ping. NO text, NO watermark — pure metamorphosis.",
+    "howto": [
+      "Open Runway, 9:16, 8 seconds, paste the prompt — the 2-4 second liquefaction must look like flowing metal, not a dissolve; use Runway's morph/image-to-video controls for precision.",
+      "The near-loop ending (droplet starting to reverse) makes viewers rewatch to catch the cycle — loop it 2x for a 16-second TikTok.",
+      "Pair with a trending transition sound or a bass drop timed to the marble crack at 0:02 — art niches sync to audio hard.",
+      "Hook caption: 'POV: 500 years of art history in 8 seconds' — the classical-to-future arc is the whole pitch.",
+      "Series it: swap the statue per episode (Greek god → robot, Venus → cyborg, pharaoh → android) — one morph engine, endless characters.",
+      "Pin a comment with the prompt so followers try it themselves — art niches grow fastest when viewers become creators."
+    ],
+    "tips": [
+      "Chrome reflections need something to reflect: add 'surrounded by faint floating light orbs' if the metal renders flat black.",
+      "The glowing circuit eyes are your thumbnail frame — freeze at second 7, crop on the face.",
+      "Never let the morph rush: 2 full seconds of pure liquid in the middle is what makes people say 'how?!' and rewatch."
+    ],
+    "tags": [
+      "tiktok",
+      "art",
+      "morph",
+      "ai-art",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 85
+  }
+,
+  {
+    "id": "cherry-blossom-storm-flow",
+    "title": "Cherry Blossom Storm — Google Flow Prompt for Viral Facebook Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A Japanese temple garden caught in a swirling storm of cherry blossom petals — the soft, shareable beauty loop that Facebook's nature-aesthetic pages can't stop reposting.",
+    "prompt": "Generate a 10-second 9:16 vertical loop in Google Flow: a serene Japanese temple garden at golden hour — a vermilion pagoda, a koi pond, a stone lantern path. TIMELINE: (0-2) a gentle breeze stirs, petals beginning to lift from ancient cherry trees (2-5) the storm peaks — thousands of pink petals swirling in a slow vortex around the pagoda, koi darting beneath the surface (5-8) petals settling onto the pond like pink snow, ripples spreading (8-10) one petal lands on the stone lantern in the foreground — the exact frame we opened on. Loop-perfect: opening and closing frames must match for an invisible repeat. Style: ultra-realistic cinematic nature, warm golden light through pink petals, glassy water reflections, delicate depth of field. Implied sound: soft wind, petal rustle, distant temple bell, water trickle. NO people, NO text, NO watermark — pure tranquility.",
+    "howto": [
+      "Open Google Flow, 9:16, 10 seconds, paste the prompt — verify the loop point by comparing frame 0 and frame 10 side by side; the petal on the lantern must sit identically.",
+      "Loop 3x for a 30-second Reel; Facebook's serenity audience watches these on repeat, and loops farm watch-time silently.",
+      "Overlay a soft piano or koto track — aesthetic pages get saved and shared on music fit alone.",
+      "Caption: 'Send this to someone who needs 30 seconds of calm' — DM-able content spreads faster than comment-bait on Facebook.",
+      "Post Sunday mornings; calm content overperforms on weekends when people are doomscrolling for relief.",
+      "Seasonal twins: autumn maple storm, winter snow over the same garden — one location, four viral seasons."
+    ],
+    "tips": [
+      "The petal vortex (seconds 2-5) is the hook — if it renders as a light sprinkle, add 'dense, dramatic petal storm' and re-render.",
+      "The koi darting under petals is a bonus scroll-stopper: visible orange flashes under pink water double the detail viewers notice on rewatch.",
+      "Keep the pagoda slightly off-center — centered landmarks look like postcards; off-center looks like cinema."
+    ],
+    "tags": [
+      "facebook",
+      "spring",
+      "ambience",
+      "loop",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 84
+  }
+,
+  {
+    "id": "viral-horror-thumbnail-pack-midjourney",
+    "title": "Viral Horror Thumbnail Pack — Midjourney Prompt for YouTube Horror-Niche CTR",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Intermediate",
+    "desc": "A reusable Midjourney formula for bone-chilling horror thumbnails — shadowy figures, impossible faces, one terrifying focal point — built to spike click-through rate in any horror niche.",
+    "prompt": "YouTube thumbnail composition, 16:9, hyper-detailed horror illustration: [SUBJECT: a shadowy figure standing at the end of a pitch-black hallway, its face an impossibly wide smile in the darkness / a cracked porcelain doll face filling the frame, one eye socket empty and dripping black / a silhouetted hand pressing from INSIDE a fogged window, fingers too long / an abandoned crib in a decaying nursery, something standing in the corner that wasn't there before], deep blacks and blood-red accent lighting, volumetric fog, cinematic rim light outlining the horror, extreme contrast, one single terrifying focal point, negative space on the left for title text, photorealistic, 8K detail, --ar 16:9 --style raw --v 6.1",
+    "howto": [
+      "Paste the prompt into Midjourney, swap only [SUBJECT] per thumbnail — the formula (darkness + one focal terror + red accent) is what trains your audience's click reflex.",
+      "Generate 4 variants per subject with --chaos 15 — horror thumbnails are A/B-tested, not guessed; keep the one that scares YOU most.",
+      "Compose with the rule of thirds: the horror sits on the right third, left side stays dark and empty for your title text in YouTube Studio.",
+      "Add your title text AFTER generation (Canva/Photoshop) — Midjourney text renders are unreliable; 2-4 words max ('IT WAS INSIDE').",
+      "Test at 10% zoom: if the horror doesn't read as a thumbnail-sized smudge of dread, the concept is too complex — simplify.",
+      "Build a 20-thumbnail vault from one session: batch-generate subjects on Sunday, drip them across the month's uploads."
+    ],
+    "tips": [
+      "Red accent lighting is the cheat code — human eyes snap to red in a feed of dark thumbnails; never skip it.",
+      "The empty eye socket / too-long fingers rule: horror thumbnails win on ONE wrong detail, not a busy scene — less is scarier.",
+      "Mirror your best performer: once a thumbnail crosses 10% CTR, generate 5 'sibling' variants with the same composition and new subjects."
+    ],
+    "tags": [
+      "youtube",
+      "thumbnails",
+      "horror",
+      "ctr",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 88
+  }
+,
+  {
+    "id": "cross-border-niche-importer-chatgpt",
+    "title": "Cross-Border Niche Importer — ChatGPT Prompt to Steal Proven Niches Across Countries",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "A ChatGPT niche-discovery system that finds proven viral formats in other countries and rebuilds them for YOUR market before local competitors catch on — the arbitrage move nobody talks about.",
+    "prompt": "Act as a global content-arbitrage strategist. My market: [YOUR COUNTRY / LANGUAGE]. My platform: [YouTube / TikTok / Facebook / Instagram]. Step 1: list 10 viral creator niches currently exploding in OTHER countries (Japan, Brazil, Korea, Germany, Indonesia...) that barely exist in my market yet — for each, give the niche name, the country where it boomed, one example channel with subscriber count, and WHY it worked there (cultural trigger, format innovation, or platform gap). Step 2: for the 3 strongest candidates, score them 1-10 on: local demand potential, production cost, competition gap in MY market, and monetization (RPM/ad rates). Step 3: for the top pick, write a 30-day launch plan: the exact first 10 video ideas adapted to my culture/language, the hook formula for each, and the ONE local twist that makes it feel native instead of copied. Rules: no generic niches (no 'vlogs', 'gaming', 'motivation'); every pick must have proof of virality abroad; flag any niche that needs on-camera presence or a budget over $100/month.",
+    "howto": [
+      "Paste the prompt into ChatGPT (GPT-4 or better), fill in [YOUR COUNTRY / LANGUAGE] and platform — specificity is what makes the arbitrage picks usable.",
+      "Verify the top 3 picks yourself: search the example channels, check their last 10 videos' view counts — ChatGPT hallucinates channel names sometimes.",
+      "Pick the niche with the biggest competition gap, not the biggest views abroad — you're importing a PROVEN format into an empty market.",
+      "Localize the twist hard: language, humor, music, references — the import must feel homegrown by episode 3 or viewers smell the copy.",
+      "Launch with a 10-video sprint in 14 days; arbitrage windows close when the second importer arrives.",
+      "Re-run the prompt quarterly — cross-border trends rotate, and today's empty market is next year's crowded one."
+    ],
+    "tips": [
+      "The 'proof of virality abroad' rule is the whole prompt — without it you get ChatGPT's generic niche list, which everyone already has.",
+      "Target countries 2-3 trend cycles ahead of yours (Korea/Japan for formats, Brazil for volume) — they're your free R&D lab.",
+      "Save the output as your channel's strategy doc — the 30-day plan doubles as your content calendar for month one."
+    ],
+    "tags": [
+      "niche-discovery",
+      "chatgpt",
+      "arbitrage",
+      "strategy",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 87
+  }
+,
+  {
+    "id": "shorts-niche-rpm-ranker-gemini",
+    "title": "Shorts-Niche RPM Ranker — Gemini Prompt to Rank YouTube Shorts Niches Before You Commit",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "A Gemini niche-validation engine that ranks YouTube Shorts niches by RPM, competition density and growth velocity — so you commit to a profitable niche, not just a popular one.",
+    "prompt": "Act as a YouTube Shorts monetization analyst with access to current creator-economy data. I am choosing ONE Shorts niche to commit to for 6 months. Candidate niches: [LIST 3-5, e.g. 'AI history facts', 'satisfying restoration', 'scary stories', 'money tips']. For EACH niche, produce: (1) RPM estimate range for Shorts monetization (and why it differs from long-form), (2) competition density score 1-10 with the 3 dominant channels and their subscriber counts, (3) growth velocity — are new channels still breaking through in 2026, with 2 examples of channels that grew fast recently, (4) content durability — will this niche's videos still earn in 12 months or is it trend-dependent, (5) production reality — hours per video, AI-tool costs, on-camera requirement. Then RANK all candidates with a final verdict: the one niche to pick, the one to avoid, and the exact positioning angle that lets a new channel stand out in the winner (e.g. 'not scary stories — but scary stories told by AI historical figures'). Be brutally honest: flag any niche where the math doesn't work.",
+    "howto": [
+      "Paste into Gemini (1.5 Pro or better), list your 3-5 real candidate niches — the prompt only works on niches you're genuinely considering.",
+      "Cross-check the RPM ranges against 2-3 creator income reports or forums — AI estimates drift; triangulate before you bet 6 months.",
+      "Weight 'new channels breaking through in 2026' heavier than raw RPM — a high-RPM niche with zero new winners is a closed club.",
+      "Take the winning positioning angle literally: 'not X — but Y' is how you enter a crowded niche without fighting the incumbents.",
+      "Re-run after your first 30 Shorts with real analytics pasted in — Gemini recalibrates the ranking against YOUR actual data.",
+      "Share the output with nobody — your ranked niche list is a competitive asset; keep the arbitrage."
+    ],
+    "tips": [
+      "The 'be brutally honest' line matters — without it, Gemini cheerleads every niche; with it, you get the kill-list you actually need.",
+      "Shorts RPM ≠ long-form RPM: the prompt forces the distinction, which is where most niche-pickers get burned.",
+      "One committed niche beats three half-tested ones — the ranking exists to end deliberation, not extend it."
+    ],
+    "tags": [
+      "youtube",
+      "niche-discovery",
+      "rpm",
+      "shorts",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 86
+  }
+,
+  {
+    "id": "niche-moat-builder-claude",
+    "title": "Niche Moat Builder — Claude Prompt to Design a Channel Angle Nobody Can Copy",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A Claude strategy prompt that designs your channel's un-copyable moat — the signature format, character or world that makes YOUR niche impossible to clone, even when the niche itself is crowded.",
+    "prompt": "Act as a brand strategist for faceless creator channels. My niche: [YOUR NICHE, e.g. 'AI horror stories on YouTube']. My tools: [e.g. Sora, ElevenLabs, CapCut]. My constraints: [e.g. 2 hours/day, $50/month, no on-camera]. Design my channel's MOAT — the thing competitors cannot copy without looking like thieves. Deliver: (1) SIGNATURE FORMAT — a repeatable video structure unique to me (e.g. 'every story ends with the monster addressing the viewer by name'), with a template for episode 1, (2) SIGNATURE CHARACTER/WORLD — a recurring narrator, mascot or setting with a one-paragraph bible (appearance, voice, catchphrase, rules of the world), (3) SIGNATURE STYLE — the exact visual/audio fingerprint (color grade, font, music style, pacing) described precisely enough to brief an editor, (4) DEFENSIBILITY TEST — 5 ways a copycat would try to clone me and why each fails, (5) 90-DAY MOAT DEEPENING PLAN — what I add at day 30, 60 and 90 to make the moat wider (lore drops, community rituals, format twists). Rules: the moat must work faceless; it must be executable inside my constraints; no generic advice ('be consistent', 'find your voice') — every recommendation must be specific to MY niche.",
+    "howto": [
+      "Paste into Claude, fill in niche, tools and constraints honestly — the moat is only defensible if it's buildable inside YOUR limits.",
+      "Read the defensibility test first: if you can imagine a copycat beating any of the 5 scenarios, iterate the prompt with that scenario as a new constraint.",
+      "Build the signature character/world FIRST (part 2) — formats get copied in weeks, but a beloved character takes months to clone.",
+      "Document the style fingerprint (part 3) as a one-page brief and hand it to every editor/VA — moats die when the style drifts.",
+      "Execute the 90-day deepening plan on schedule: lore and rituals are what turn viewers into a community that defends you.",
+      "Re-run quarterly with your analytics — the moat evolves as the niche matures and copycats get smarter."
+    ],
+    "tips": [
+      "The 'no generic advice' rule is load-bearing — without it, Claude writes motivational fluff; with it, you get a buildable strategy.",
+      "A moat is not a niche — the niche is WHERE you compete, the moat is WHY you win there; never confuse the two.",
+      "Start the community ritual by episode 5, not episode 50 — early rituals compound; late rituals feel forced."
+    ],
+    "tags": [
+      "niche-discovery",
+      "strategy",
+      "branding",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 88
+  }
+
 ];
 
 if (typeof module !== "undefined") {
