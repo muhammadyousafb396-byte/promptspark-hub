@@ -6710,6 +6710,316 @@ const PROMPTS = [
     "trending": true,
     "popularity": 91
   }
+,
+  {
+    "id": "magnetic-sand-sculpture-veo3",
+    "title": "Magnetic Sand Sculpture Timelapse — Veo 3 Prompt for Satisfying TikTok Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Glossy black magnetic sand rising into castles, waves and spires under an invisible force — a hypnotic satisfying spectacle engineered for TikTok's loop-obsessed feeds.",
+    "prompt": "Generate an 8-second 9:16 vertical hyper-detailed timelapse video in Veo 3: a tray of glossy black magnetic sand on a dark walnut table. TIMELINE: (0-2) the sand lies flat and still under a moody spotlight (2-5) an invisible magnetic force pulls the sand upward — it rises in rippling waves, forming a perfect miniature castle with spires and battlements, tiny iron towers sprouting one by one (5-7) the castle melts into a rolling ocean wave of sand, crests curling (7-8) it settles back into a smooth mirror-like plane. Style: macro photography, extreme close-ups of granules clumping and chaining, warm amber side-light glinting off each particle, deep black background, satisfying physics, no cuts, no text, no watermark. Sound implied: soft metallic whispering.",
+    "howto": [
+      "Open Veo 3, set 9:16 vertical, 8 seconds, paste the full prompt, and render until the sand motion reads as one continuous magnetic pull.",
+      "Loop the clip 3x with a 0.2s crossfade for a seamless 24-second satisfying loop — loops double watch time in this niche.",
+      "Add a soft metallic ASMR track underneath (search magnetic sand ASMR on royalty-free libraries) — sound is half the satisfaction.",
+      "Hook caption: This sand is alive — TikTok's satisfying niche shares anything that looks physically impossible.",
+      "Post daily at 7-9 PM PKT; pin a comment asking viewers to name the next shape — comments feed the algorithm."
+    ],
+    "tips": [
+      "If the sand motion stutters, re-prompt with fluid, magnetic, no jitter and shorten to 5 seconds — choppy particles kill the effect.",
+      "The castle-formation frame is your thumbnail: scrub to the tallest spire moment for a tap-worthy still.",
+      "Alternate black sand with golden sand weekly — same prompt, new color, a whole series from one entry."
+    ],
+    "tags": [
+      "tiktok",
+      "satisfying",
+      "sand-art",
+      "timelapse",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 84
+  }
+,
+  {
+    "id": "firefighter-ants-rescue-veo3",
+    "title": "Tiny Firefighter Ants Rescue — Veo 3 Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A brave squad of tiny ant firefighters rescuing a trapped ladybug from a smoldering matchbox blaze — miniature storytelling with heart, built for TikTok story niches.",
+    "prompt": "Generate a 10-second 9:16 vertical cinematic video in Veo 3: a tiny world inside a garden. SCENE: a ladybug trapped under a smoldering fallen matchstick, tiny embers glowing. A brave squad of four firefighter ants in miniature red helmets rushes in — one drags a leaf-hose, two lift the matchstick together with synchronized effort, the fourth sprays a mist of dewdrops that hisses the embers out. TIMELINE: (0-3) chaos and glowing embers, ladybug struggling (3-7) the ant team arrives and works as a unit (7-9) steam clears, ladybug climbs free (9-10) the squad stands on the leaf, antennae raised in victory. Style: Pixar-like miniature realism, warm sunset backlight, macro detail, emotional and heroic, no text, no watermark.",
+    "howto": [
+      "Open Veo 3, 9:16 vertical, 10 seconds, paste the prompt, and generate until the ant team reads as four distinct characters.",
+      "Cut a 4-second victory pose ending clip — the triumphant final frame is the standalone shareable that goes viral.",
+      "Score it with a tiny orchestral swell (epic trailer music at 2x speed works) — heroism needs a soundtrack.",
+      "Caption: The tiniest heroes of the garden — story-niche viewers follow for characters, not one-offs.",
+      "Series it: one rescue per episode (bee in a spider web, worm in a puddle) — same prompt, swapped animals, a whole channel."
+    ],
+    "tips": [
+      "Keep the ants' red helmets consistent across episodes — viewers latch onto visual mascots fast.",
+      "If Veo renders six legs wrong, re-generate with stylized, Pixar-like, not photoreal insects — charm beats accuracy here.",
+      "Post the full story AND the 4-second victory clip on the same day — the short clip funnels viewers to the full episode."
+    ],
+    "tags": [
+      "tiktok",
+      "mini-world",
+      "storytelling",
+      "rescue",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 87
+  }
+,
+  {
+    "id": "chess-piece-battle-kling",
+    "title": "Giant Chess Piece Battle — Kling Prompt for Epic YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "Towering chess armies clashing on a marble battlefield — rooks smashing, queens sweeping, kings advancing — cinematic fantasy warfare that rules YouTube Shorts' epic niches.",
+    "prompt": "Generate a 9-second 16:9 cinematic video in Kling: a colossal chess battlefield of black marble. TIMELINE: (0-2) aerial sweep over ranked armies — white pawns braced in shield formation, black knights looming (2-5) the clash: a giant white rook smashes through a black bishop, fragments exploding in slow motion, a black knight rears and charges (5-7) the white queen slides in with blinding speed, sweeping three pieces aside in a shockwave (7-9) dust settles, the white king advances one square, crown gleaming. Style: epic fantasy warfare, Game-of-Thrones scale, dramatic low angles, dust and debris physics, metallic sheen on carved pieces, golden-hour storm light, photorealistic, no text, no watermark.",
+    "howto": [
+      "Open Kling, set 16:9, 9 seconds, paste the prompt, and render until the rook-smash impact reads as one clean hit.",
+      "Add deep battle rumbles and stone-cracking SFX — epic scale lives in the sound design.",
+      "Hook text: White to move. The board is at war. — Shorts' epic audience loves a lore line in frame one.",
+      "Alternate piece POVs across episodes (knight's charge, pawn's last stand) — one prompt, a whole battle saga.",
+      "Post at 8-10 PM PKT when US fantasy fans scroll; reply to every what opening is this comment — engagement gold."
+    ],
+    "tips": [
+      "Slow motion on the impact frame is everything: if Kling renders it too fast, re-prompt with 0.3x slow-motion impact.",
+      "The queen's shockwave sweep makes the thumbnail — freeze the dust-ring mid-blast for the click.",
+      "Keep a consistent white vs black color grade across episodes so the series is instantly recognizable."
+    ],
+    "tags": [
+      "youtube",
+      "chess",
+      "epic",
+      "shorts",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 85
+  }
+,
+  {
+    "id": "blacksmith-forge-pov-sora",
+    "title": "Medieval Blacksmith Forge POV — Sora Prompt for Cozy YouTube Craft Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Beginner",
+    "desc": "First-person sparks, glowing steel and rhythmic hammer strikes in a medieval forge — ASMR craftsmanship that powers YouTube's cozy craft-niche channels.",
+    "prompt": "Generate a 10-second 16:9 immersive POV video in Sora: the viewer's hands are the blacksmith's. TIMELINE: (0-2) POV over the anvil, a glowing orange horseshoe pulled from the forge with tongs, sparks drifting (2-6) rhythmic hammer strikes — each hit sends a fan of sparks toward camera, the metal reshaping under every blow (6-8) the shoe plunges into a water barrel, a burst of steam rolls over the lens (8-10) lift the finished glowing shoe, steam hissing off. Style: gritty medieval realism, heat shimmer, sweat-level intimacy, forge-fire flicker lighting, ASMR hammer rhythm, 24fps cinematic, photorealistic, no text, no watermark.",
+    "howto": [
+      "Open Sora, set 16:9, 10 seconds, paste the prompt, and render until the hammer strikes land in a steady rhythm.",
+      "Layer real blacksmith ASMR audio (hammer clangs, water hiss) — craft niches are watched WITH sound.",
+      "Overlay a 3-line process caption (heat, hammer, quench) — viewers love feeling they learned something.",
+      "Chain 2-3 clips for a 30-second forge session; the steam-burst transition hides the cuts.",
+      "Series it: one tool per episode (horseshoe, dagger, axe head) — same prompt, new metal, endless content."
+    ],
+    "tips": [
+      "POV hands must stay believable: if Sora warps fingers, re-generate with gloved hands — gloves hide a lot.",
+      "The steam burst is your mid-video hook — place it at 60% to stop the scroll-off.",
+      "Warm color grade sells the heat: push oranges and deep shadows in any free editor."
+    ],
+    "tags": [
+      "youtube",
+      "craft",
+      "blacksmith",
+      "pov",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 82
+  }
+,
+  {
+    "id": "comic-panel-animation-runway",
+    "title": "Comic Panel Come-Alive Loops — Runway Prompt for Instagram Anime Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "Static manga pages bursting into animated loops — ink igniting into color, heroes breaking panel borders — the format Instagram anime niche pages can't stop sharing.",
+    "prompt": "Generate an 8-second 9:16 vertical animation loop in Runway: a static manga page coming alive. TIMELINE: (0-2) camera pushes into a black-and-white comic panel of a hero mid-leap (2-5) the panel's ink lines ignite with color — speed lines streak, the hero breaks the panel border, debris flies toward the viewer (5-7) a second panel ignites below showing the villain's shocked face, halftone dots rippling (7-8) seamless loop back to the still page. Style: anime key-visual quality, bold cel shading, dynamic panel-break effects, ink-to-color transformation, high energy, no text beyond on-page sound effects, no watermark.",
+    "howto": [
+      "Open Runway, 9:16 vertical, 8 seconds, paste the prompt, and render until the panel-break moment reads cleanly.",
+      "Match the loop point precisely — the last frame must melt back into the still page or the loop feels broken.",
+      "Add whoosh and paper-rip SFX on the break moment — sound makes the illusion snap.",
+      "Caption: The panel he broke — anime pages engage hardest on specific character moments, not generic effects.",
+      "Series it: one iconic scene per week — same prompt, new manga page, a whole niche feed."
+    ],
+    "tips": [
+      "Keep the original page's art style consistent in the animation — style drift breaks the magic.",
+      "The hero-leaping frame is your cover image: export it as the Reel cover for 2x the taps.",
+      "Avoid real copyrighted manga pages for monetized accounts — use original or licensed art to stay safe."
+    ],
+    "tags": [
+      "instagram",
+      "comic",
+      "anime",
+      "animation",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 83
+  }
+,
+  {
+    "id": "glass-butterfly-metamorphosis-flow",
+    "title": "Glass Butterfly Metamorphosis — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A glass chrysalis shattering open as a luminous butterfly unfolds in ultra-slow motion — transformation magic Facebook Reels audiences watch to the very last frame.",
+    "prompt": "Generate a 9-second 9:16 vertical ultra-slow-motion video in Google Flow: a glass chrysalis hanging from a blossom branch at dawn. TIMELINE: (0-3) the translucent chrysalis glows from within, hairline cracks of golden light spreading (3-6) the shell shatters outward in dreamlike slow motion, shards tumbling as a luminous glass-winged butterfly unfolds its wings, each vein glowing (6-8) the butterfly lifts off, scattering prismatic light across the morning dew (8-9) it rises out of frame, petals swaying. Style: macro nature documentary, impossible glass realism, pastel dawn palette, floating dust motes, emotional and serene, no text, no watermark.",
+    "howto": [
+      "Open Google Flow, 9:16 vertical, 9 seconds, paste the prompt, and render until the wing-unfold reads as one graceful motion.",
+      "Add a gentle chime-and-shatter SFX bed — transformation niches live on delicate sound.",
+      "Hook text: Watch what hatches from glass — curiosity-gap captions hold Reels viewers to the end.",
+      "Post 6-8 PM PKT; this niche over-indexes with female 25-44 viewers — Facebook's most loyal savers.",
+      "Series it: one glass creature per week (dragonfly, moth, beetle) — same prompt, new metamorphosis."
+    ],
+    "tips": [
+      "Slow motion is the product: if it renders too fast, re-prompt with dreamlike 0.2x time until the wings float.",
+      "The wings-fully-open frame is your thumbnail — prismatic light on dew is irresistible.",
+      "Keep backgrounds soft and pastel — busy backgrounds fight the glass detail."
+    ],
+    "tags": [
+      "facebook",
+      "butterfly",
+      "transformation",
+      "satisfying",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 81
+  }
+,
+  {
+    "id": "pet-portrait-oil-paintings-midjourney",
+    "title": "Viral Pet Portrait Oil Paintings — Midjourney Prompt for Facebook Pet Niches",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Regal oil-painting portraits of ordinary pets in royal attire — the cute-meets-classy image format Facebook pet niches share by the millions.",
+    "prompt": "Regal oil painting portrait, [PET: a chubby orange tabby cat in an 18th-century admiral's navy coat with gold epaulettes / a pug in a velvet Renaissance duke's robe with a lace collar / a parrot in a tiny Napoleonic general's uniform with medals], dramatic Rembrandt lighting, deep emerald library background with blurred bookshelves, photorealistic brushwork, intricate fur and feather detail, noble dignified expression, museum-quality fine art, rich oil paint texture visible on the canvas, elegant oval inner vignette, 4:5 portrait composition --ar 4:5 --v 6.1 --style raw",
+    "howto": [
+      "Open Midjourney, paste the prompt, swap [PET] for your breed, and generate 4 variations.",
+      "Upscale the sharpest face — pet portraits live or die on the eyes.",
+      "Post with the pet's title as caption (Admiral Whiskers, reporting for duty) — character names drive shares.",
+      "Run a weekly royal portrait slot — followers start submitting their own pets, which is free content.",
+      "Offer prints via a simple store link — this niche converts shares into sales better than any other."
+    ],
+    "tips": [
+      "Add the breed name to the prompt (Maine Coon, French Bulldog) — Midjourney nails specific breeds better than generic cat.",
+      "Keep one lighting style across the series so the page looks like a real gallery.",
+      "Ask permission before painting followers' pets, and credit the owner — goodwill fuels the next 100 submissions."
+    ],
+    "tags": [
+      "facebook",
+      "pets",
+      "portrait",
+      "midjourney",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 86
+  }
+,
+  {
+    "id": "niche-saturation-scanner-chatgpt",
+    "title": "Niche Saturation Scanner — ChatGPT Prompt to Detect Oversaturated Niches in 2026",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Intermediate",
+    "desc": "A systematic ChatGPT framework that scores any creator niche on saturation, entry cost and timing — so you never launch into a crowded niche blind in 2026.",
+    "prompt": "Act as a ruthless creator-economy analyst. I will give you a niche; you will run a SATURATION SCAN. Step 1: estimate current creator supply (how many channels or pages post in this niche weekly, rough tiers). Step 2: estimate demand signals (search interest trend, viral outliers in the last 90 days, advertiser interest). Step 3: score 1-10 on four axes — competition density, differentiation room, monetization depth, entry cost. Step 4: deliver a verdict: ENTER NOW / ENTER WITH AN ANGLE / AVOID — with the exact angle that would make entry work, or the reason avoidance is final. Step 5: name 3 adjacent micro-niches with lower saturation. Be brutally honest — no motivational fluff. My niche: [YOUR NICHE HERE]",
+    "howto": [
+      "Open ChatGPT, paste the prompt, replace [YOUR NICHE HERE] with the niche you are considering.",
+      "Run the scan 3 times with slightly different niche phrasings — consensus across runs is the signal.",
+      "Take the ENTER WITH AN ANGLE output seriously: that angle is your channel's positioning.",
+      "Cross-check the verdict against real data: search the niche on YouTube and TikTok and count quality competitors.",
+      "Save the micro-niche list — it is your backup plan if the main niche fails the scan."
+    ],
+    "tips": [
+      "Be specific with the niche (AI-generated satisfying sand art, not satisfying) — vague inputs get vague scores.",
+      "Ask ChatGPT to cite WHY it scored each axis — the reasoning matters more than the numbers.",
+      "Re-run the scan every quarter — saturation is a moving target, not a one-time verdict."
+    ],
+    "tags": [
+      "niche-discovery",
+      "chatgpt",
+      "strategy",
+      "2026",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 79
+  }
+,
+  {
+    "id": "cross-platform-comment-harvester-gemini",
+    "title": "Cross-Platform Comment Harvester — Gemini Prompt to Mine Viral Topic Angles",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "Turn comment sections across YouTube, TikTok, Facebook and Instagram into an endless viral-topic pipeline with this Gemini comment-mining prompt.",
+    "prompt": "Act as a viral-content researcher. I will paste comment threads from YouTube, TikTok, Facebook and Instagram videos in my niche. Your job: COMMENT HARVESTING. Step 1: extract the 10 most-repeated questions and pain points. Step 2: flag unanswered questions the original creator ignored — those are my content gaps. Step 3: identify the emotional triggers (what made people argue, laugh, or tag friends). Step 4: turn each finding into 3 video titles with hooks, platform-tagged for youtube, tiktok, facebook, or instagram based on where the comment appeared. Step 5: rank the 10 topics by viral potential with a one-line reason each. Ignore generic praise; hunt for friction, curiosity and desire. Comments: [PASTE COMMENTS HERE]",
+    "howto": [
+      "Pick 3-5 viral videos in your niche and copy 50-100 comments from each platform into one doc.",
+      "Open Gemini, paste the prompt with your comments, and run it on a large context window.",
+      "Pick the top 3 ranked topics and script videos this week — speed beats perfection here.",
+      "Reply to the original unanswered questions with your video link — the commenter becomes your first viewer.",
+      "Re-harvest monthly — comment gold replenishes as trends shift."
+    ],
+    "tips": [
+      "Mine competitor comments, not just your own — the best gaps live under other people's videos.",
+      "Sort comments by newest sometimes — fresh complaints reveal trends before they peak.",
+      "Keep a running harvest doc; patterns across months become your content calendar."
+    ],
+    "tags": [
+      "youtube",
+      "tiktok",
+      "facebook",
+      "instagram",
+      "creator-niche"
+    ],
+    "trending": false,
+    "popularity": 88
+  }
+,
+  {
+    "id": "viewer-to-subscriber-loyalty-claude",
+    "title": "Viewer-to-Subscriber Loyalty Loop — Claude Prompt to Convert Viral Views Into Subs",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A Claude-built content system that turns one-time viral viewers into loyal subscribers — hooks, series arcs and community triggers for 2026 creator niches.",
+    "prompt": "Act as a channel-growth strategist for faceless creator niches. I will describe my viral video and niche. Build me a LOYALTY LOOP SYSTEM. Part 1: DIAGNOSIS — why did this video go viral but not convert (hook analysis, expectation mismatch, missing next-step). Part 2: SERIES ARCHITECTURE — design a 5-video arc where each video ends on an open loop that only the next video closes, so casual viewers must subscribe to finish the story. Part 3: COMMUNITY TRIGGERS — 3 comment rituals, 1 recurring catchphrase, and a pinned-comment template that turn viewers into a community. Part 4: SUBSCRIBE MECHANICS — 3 subscribe CTAs that feel like value (not begging), placed at the exact retention timestamps. Part 5: 30-day calendar mapping the arc to posting slots. No generic advice — everything must reference my niche. My video: [DESCRIBE VIDEO + NICHE]",
+    "howto": [
+      "Open Claude, paste the prompt, and describe your best-performing viral video and niche in detail.",
+      "Implement the 5-video arc immediately — the open-loop structure is the core mechanic.",
+      "Film the catchphrase and comment ritual into every video from now on — consistency builds identity.",
+      "Place the subscribe CTAs at Claude's suggested timestamps; test and adjust by retention graph.",
+      "Track subscriber-per-view before and after — if it doesn't double in 30 days, re-run with a sharper diagnosis."
+    ],
+    "tips": [
+      "Feed Claude your actual analytics (retention drops, traffic sources) — the diagnosis gets 10x sharper.",
+      "The open loop must be a genuine mystery, not a trick — viewers smell clickbait instantly.",
+      "One ritual is enough to start — three at once feels forced to new viewers."
+    ],
+    "tags": [
+      "growth",
+      "strategy",
+      "subscribers",
+      "creator-niche",
+      "youtube"
+    ],
+    "trending": false,
+    "popularity": 80
+  }
 ];
 
 if (typeof module !== "undefined") {
