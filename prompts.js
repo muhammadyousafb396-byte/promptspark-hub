@@ -7019,6 +7019,102 @@ const PROMPTS = [
     ],
     "trending": false,
     "popularity": 80
+  },
+  {
+    "id": "niche-spotlight-ai-productivity-hacks-reels",
+    "title": "AI Productivity Hacks Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "15-30 second AI productivity tip Reels for Instagram — glowing desk setups, desk transformations and calendar hacks that viewers save and share. Is niche ki reels 142.8M/118.5M/96.3M/74.1M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-productivity-hacks-reels.jpg",
+    "prompt": "Bright energetic productivity scene, [PRODUCTIVITY MOMENT: a glowing futuristic desk with holographic checklists floating above a laptop at sunrise / a chaotic messy desk transforming into a perfectly organized neon desk in one smooth morph / a smartphone with a giant glowing calendar and colorful app icons bursting out of the screen / a cozy plant-filled workspace with a laptop dashboard, coffee and hourglass in golden morning light], vivid saturated colors, crisp detail, motivational energy, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one productivity moment in Veo 3 per tip, swapping only [PRODUCTIVITY MOMENT] — the visual is the pattern-interrupt; the tip itself comes from the voiceover and caption.",
+      "Write the tip as ONE line in ChatGPT: the painful problem + the 10-second fix — e.g. 'Your to-do list is lying to you. Do the 2-minute rule instead.' — one tip per Reel, never three.",
+      "Voice it in ElevenLabs with a fast, upbeat tone — productivity Reels live on energy; a slow voice makes a 20-second tip feel like a lecture.",
+      "Caption the full tip in 3 short lines so the Reel works muted — Instagram Reels are saved most when the value is readable without sound.",
+      "Post daily 7-9 AM PKT (before work hours) and pin a comment asking 'Which hack should I test next?' — morning posters get the save-and-share crowd."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the transformation or the glowing setup — productivity scrollers save what looks instantly achievable, not what sounds smart.",
+      "Caption trick: 'Stop doing [common habit]' beats '5 productivity tips' — contrarian corrections are saved far more than generic lists on Reels.",
+      "Save-bait line: end with 'Save this for Monday morning' — the save is Instagram's strongest ranking signal, and productivity content is built for it."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "productivity",
+      "life-hacks",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "niche-spotlight-ai-workplace-revenge-stories",
+    "title": "AI Workplace Revenge Stories (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Viral workplace revenge and karma stories for TikTok — smug bosses, sticky-note pranks and triumphant walkouts told in 60-second AI shorts. Is niche ki videos 196.3M/171.8M/148.2M/122.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-workplace-revenge-stories.jpg",
+    "prompt": "Dramatic cinematic office scene, [WORKPLACE MOMENT: a smug boss pointing at a calm confident employee in a bright modern office, coworkers watching / a triumphant employee walking out carrying a cardboard box while coworkers cheer and confetti falls / an office chair completely covered in bright colorful sticky notes, a surprised boss beside it / a proud employee holding a golden trophy at their desk, coworkers applauding, a sulking boss in the background], vivid color, cinematic lighting, expressive faces, story-telling composition, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one workplace moment in Veo 3 per story beat, swapping only [WORKPLACE MOMENT] — keep the same boss and employee look across clips so the series feels like one show.",
+      "Script a 60-second story in ChatGPT: the injustice (15s), the quiet setup (20s), the revenge payoff (20s), 'Part 2 if this hits 10K likes' — the payoff must land in the last 10 seconds, never earlier.",
+      "Voice it in ElevenLabs with a deadpan, gossipy storyteller tone — workplace revenge works on schadenfreude, and a calm voice makes the karma hit harder.",
+      "Cut the video to END right after the payoff line — TikTok rewards replays in this niche; viewers rewatch the boss's face the second the story ends.",
+      "Post 2x/day 6-10 PM PKT and series it by character (the same boss every week) — the audience returns for 'their' villain, not random offices."
+    ],
+    "tips": [
+      "Hook rule: open on the boss's worst line ('You're replaceable.') — workplace viewers decide in 1 second whether the story is THEIR story.",
+      "Caption trick: 'My boss said this on my LAST day…' — first-person confession captions outperform summaries; never spoil the revenge in the caption.",
+      "Comment bait: pin 'Have you ever had a boss like this?' — most of this audience relates to a bad boss, and relatable anger is the comment engine."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "workplace",
+      "revenge-stories",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-spotlight-ai-space-science-videos",
+    "title": "AI Space Science Explained (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Awe-inspiring AI space science videos for YouTube — black holes, exoplanets, nebulae and alien ocean worlds explained in cinematic style. Is niche ki videos 38.4M/29.7M/22.5M/16.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-space-science-videos.jpg",
+    "prompt": "Awe-inspiring cinematic space scene, [COSMIC SUBJECT: a massive black hole with a glowing orange accretion disk bending light around a doomed star / an astronaut floating before a gigantic ringed exoplanet with purple-teal clouds and glowing auroras / a glowing stellar nursery nebula in pink, violet and gold with newborn stars shining through cosmic dust / a sleek spaceship approaching a mysterious alien ocean planet with glowing blue seas and two small moons], vast cosmic scale, ultra-detailed, dramatic starlight, 16:9 widescreen, photorealistic",
+    "howto": [
+      "Generate one cosmic subject in Veo 3 per video section, swapping only [COSMIC SUBJECT] — the visual carries the awe; the narration carries the science.",
+      "Script an 8-12 minute explainer in ChatGPT: one cosmic question per video ('What happens if you fall into a black hole?'), answered in 3 acts — the mystery, the science, the mind-bending twist.",
+      "Voice it in ElevenLabs with a calm, wonder-filled documentary tone — space viewers stay for awe, not hype; shouting kills the cosmic mood.",
+      "Title with the question, not the topic: 'What If You Fell Into a Black Hole?' beats 'Black Hole Explained' — questions are the searchable curiosity gap.",
+      "Upload 2x/week 8 PM PKT with chapters (00:00 the question, 02:30 the science, 08:00 the twist) — chapters lift retention on long-form science content."
+    ],
+    "tips": [
+      "Hook rule: the first 15 seconds must show the most impossible image (light bending around a black hole) — space scrollers decide on scale, not on facts.",
+      "Title trick: 'What If' + a terrifying scenario outperforms every other space title format — fear plus wonder is the highest-CTR emotion pair in science.",
+      "Retention line: tease the twist at 30 seconds ('and the answer breaks physics') — space viewers stay when they know a paradox is coming."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "space",
+      "science",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 88
   }
 ];
 
