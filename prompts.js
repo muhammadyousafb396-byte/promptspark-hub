@@ -7115,6 +7115,306 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 88
+  },
+  {
+    "id": "tiny-astronauts-cupcake-veo3",
+    "title": "Tiny Astronauts Land on a Giant Cupcake — Veo 3 Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Adorable miniature astronauts explore a giant frosted cupcake in a viral TikTok story format — tiny ladders, cherry landings and frosting rivers that viewers cannot scroll past.",
+    "prompt": "Adorable ultra-detailed miniature world, tiny astronauts in white space suits with oversized helmets [LANDING MOMENT: planting a tiny flag on top of a giant swirled pink frosting mountain while a cherry the size of a boulder glows beside them / rappelling down the side of a giant cupcake on a thin candy rope toward a river of glossy chocolate frosting / planting a tiny striped flag on a mountain of rainbow sprinkles as a spoon the size of a bridge casts a shadow / waving from a tiny rocket parked on a crumbly cookie crater beside a glowing cherry], soft warm kitchen light, shallow depth of field, playful wonder, crisp macro detail, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [LANDING MOMENT] per clip — one moment per video keeps the story readable in 8 seconds.",
+      "Keep the same astronaut design across the series (white suit, oversized helmet, tiny flag) so viewers recognize the characters instantly.",
+      "Generate 3 clips per story (landing, exploration, surprise) and cut them into one 20-30 second TikTok with a tiny 'mission log' caption on each beat.",
+      "Add a soft, wonder-filled voiceover or trending gentle audio — miniature worlds perform best when the sound feels like a bedtime adventure.",
+      "Post daily at 7-9 PM PKT and end every video with 'Where should they land next?' — audience suggestions become your next 10 videos."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the scale joke (tiny astronaut vs giant cherry) — miniature content wins or dies in the first second.",
+      "Caption trick: 'They landed on the WRONG planet...' outperforms a plain description — the cupcake reveal is the payoff, never the caption.",
+      "Series trick: number the missions (Mission 07: The Cupcake) — collectors binge numbered series far more than one-off cute clips."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "miniature",
+      "cute",
+      "storytelling"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "bubble-city-commute-kling",
+    "title": "Bubble City Floating Commute — Kling Prompt for Viral YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "Commuters float to work inside giant iridescent bubbles over a pastel skyline — a dreamlike Shorts format built for replays and 'wait, how?' comments.",
+    "prompt": "Dreamlike pastel sky-city, commuters drifting to work inside giant transparent iridescent bubbles [COMMUTE MOMENT: a sleepy office worker sipping coffee inside a bubble that bobs gently past floating traffic lights / a schoolgirl waving from her bubble as it glides between candy-colored skyscrapers and floating gardens / a courier pedalling a tiny bicycle inside a bubble, parcels bobbing around him like balloons / a whole family floating together in one giant bubble, picnic basket and dog in tow, over a sunrise skyline], soft glowing light, gentle motion, whimsical scale, crisp detail, 9:16 vertical, cinematic",
+    "howto": [
+      "Paste the prompt into Kling and pick ONE [COMMUTE MOMENT] per clip — Kling handles gentle floating motion beautifully, so let the bubble drift, do not force fast action.",
+      "Generate the same skyline twice (morning and golden hour) and reuse it across the series so the city feels like a real place viewers return to.",
+      "Cut each Short to 25-35 seconds: the commute setup (5s), the floating journey (15s), one delightful surprise (a bubble bump, a floating cat) at the end.",
+      "Use calm lo-fi or dreamy music — the contrast between an ordinary commute and a magical sky is the whole joke, and loud music kills it.",
+      "Title every Short as a question ('What if your commute looked like THIS?') and pin a comment asking viewers what their bubble would carry."
+    ],
+    "tips": [
+      "Hook rule: open mid-air, already floating — never start on the ground, or viewers think it is an ordinary city video.",
+      "Replay trick: hide one tiny detail per video (a floating cat, a bubble dog) and mention it in the pinned comment — replays drive Shorts distribution.",
+      "Thumbnail trick: one giant bubble against the skyline, one tiny human inside — scale contrast is the click."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "surreal",
+      "shorts",
+      "fantasy"
+    ],
+    "trending": false,
+    "popularity": 84
+  },
+  {
+    "id": "clockwork-library-sora",
+    "title": "Victorian Clockwork Library — Sora Prompt for Cozy YouTube Story Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A gaslit library where brass gears turn the pages and clockwork owls shelve the books — cozy, mysterious YouTube storytelling that viewers watch to the end.",
+    "prompt": "Cozy Victorian clockwork library, warm gaslight, brass gears and polished wood [LIBRARY MOMENT: a clockwork owl with glowing amber eyes shelving leather-bound books that slide themselves into place / brass gears beneath the floor turning a giant orrery above a reading desk where a cat naps on an open atlas / a tiny brass librarian winding a key in the back of a walking book-cart that hums down the aisle / rain tapping the tall arched windows while a hidden door of bookshelves swings open on silent gears], rich amber tones, gentle camera drift, magical realism, 16:9 widescreen, cinematic",
+    "howto": [
+      "Paste the prompt into Sora and pick ONE [LIBRARY MOMENT] per scene — Sora's slow camera drift suits this niche, so ask for gentle movement, never fast cuts.",
+      "Build a 6-10 minute story video from 5-6 scenes: the library at dusk, the owl's rounds, the hidden door, the secret room, the closing shot.",
+      "Narrate with a calm, warm storyteller voice — cozy audiences stay for the voice as much as the visuals, so record narration first and cut visuals to it.",
+      "Write the title as a mystery ('The Library That Winds Itself') rather than a description — curiosity gaps carry cozy long-form retention.",
+      "Upload weekly at 8 PM PKT with chapters for each scene — chapters lift retention on 8+ minute cozy content dramatically."
+    ],
+    "tips": [
+      "Hook rule: the first 15 seconds must show something impossible (a book shelving itself) — cozy viewers still need a reason not to click away.",
+      "Sound trick: layer soft ticking, page turns and rain under the narration — cozy niches are watched as ambience, and bad audio ends the session.",
+      "Series trick: one hidden detail per episode (the same brass key, the same sleeping cat) rewards returning viewers and builds a lore-hungry audience."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "cozy",
+      "fantasy",
+      "storytelling"
+    ],
+    "trending": false,
+    "popularity": 82
+  },
+  {
+    "id": "neon-arcade-pinball-runway",
+    "title": "Neon Arcade Pinball World — Runway Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A player shrinks into a giant neon pinball machine — bumpers, flippers and jackpot lights in a high-energy Reels format made for shares.",
+    "prompt": "High-energy neon arcade world, electric pink, cyan and purple glow [PINBALL MOMENT: a tiny player in a glowing jacket bouncing off a giant chrome bumper as lights explode around them / flippers the size of cars launching a chrome ball through a tunnel of neon rings toward a flashing jackpot sign / a player surfing on top of a giant pinball, dodging spinning bumpers and collecting glowing stars / the machine tilting as a crowd of neon silhouettes cheers and confetti made of light rains down], fast playful motion, sharp neon reflections, arcade energy, 9:16 vertical, vibrant",
+    "howto": [
+      "Paste the prompt into Runway and pick ONE [PINBALL MOMENT] per clip — one stunt per Reel keeps the energy high and the edit simple.",
+      "Generate 3 clips per Reel (launch, chaos, jackpot) and cut them fast: 1-2 seconds per shot, with a beat drop exactly on the jackpot moment.",
+      "Pair with a high-energy trending audio — Reels in arcade and gaming niches live or die on the sound matching the bounce.",
+      "Caption with a score ('SCORE: 9,999,990 — one flip away from the jackpot') so the Reel reads as a game, not just a pretty clip.",
+      "Post 1-2x per day at 6-9 PM PKT and use the same player character every time — recurring characters turn one-off Reels into a show."
+    ],
+    "tips": [
+      "Hook rule: start mid-bounce, lights already exploding — arcade scrollers decide in under a second, and a slow setup loses them.",
+      "Share trick: end on a near-miss ('SO CLOSE!') instead of a clean win — near-misses get shared to friends far more than perfect runs.",
+      "Color trick: keep pink, cyan and purple as your only palette — a strict palette makes the whole page look like one brand at a glance."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "arcade",
+      "neon",
+      "reels"
+    ],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "honey-pour-spiral-flow",
+    "title": "Golden Honey Pour Spiral — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Thick golden honey spirals onto warm bread, fruit and pancakes in slow, glossy ribbons — pure satisfying Reels bait for Facebook food pages.",
+    "prompt": "Macro satisfying food scene, thick golden honey pouring in a slow glossy ribbon [POUR MOMENT: honey spiralling onto a stack of warm pancakes, dripping down the sides in slow motion / honey ribbons folding over a slice of crusty bread, glistening in warm morning light / a honey dipper twirling a long golden thread above a bowl of fresh berries and yogurt / honey cascading over a honeycomb, droplets catching the light like amber jewels], warm golden tones, extreme macro detail, slow luxurious motion, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Google Flow and pick ONE [POUR MOMENT] per clip — satisfying content works on one perfect pour, never a montage.",
+      "Generate each pour at the slowest motion setting — the glossy fold of the ribbon is the entire payoff, and rushing it ruins the clip.",
+      "Cut to 15-25 seconds with natural sticky sounds or soft ASMR audio — Facebook food Reels are watched muted often, so the visual must carry it alone.",
+      "Caption with one line only ('Sound on for this one') plus the food name — satisfying pages grow on shares, and short captions get shared more.",
+      "Post in the morning (8-10 AM PKT) when food cravings peak, and batch 7 pours in one session for a full week of daily posts."
+    ],
+    "tips": [
+      "Hook rule: the first frame must already show honey mid-pour — a jar sitting still is a scroll-past, a ribbon already falling is a stop.",
+      "Loop trick: cut the clip so the last frame matches the first — seamless loops double average watch time on satisfying Reels.",
+      "Variety trick: rotate the base (pancakes, bread, berries, honeycomb) weekly — the pour stays the star, but a new base stops the page feeling repetitive."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "satisfying",
+      "food",
+      "asmr"
+    ],
+    "trending": false,
+    "popularity": 88
+  },
+  {
+    "id": "snow-globe-village-veo3",
+    "title": "Snow Globe Village Comes Alive — Veo 3 Prompt for Viral Facebook Holiday Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Shake a snow globe and the tiny village inside wakes up — carollers, a train and a skating pond in a heartwarming holiday format Facebook loves to share.",
+    "prompt": "Heartwarming miniature winter village inside a glass snow globe, soft snowfall drifting [VILLAGE MOMENT: tiny carollers in red scarves singing outside a glowing bakery as a miniature train circles the square / children skating on a frozen pond beside a Christmas tree that lights up one bulb at a time / a tiny postman on a sled delivering glowing letters while smoke curls from cottage chimneys / the whole village cheering as fireworks of golden sparks burst above the rooftops], warm window light, gentle snowfall, cozy magic, crisp miniature detail, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [VILLAGE MOMENT] per clip — one village scene per video keeps the holiday magic focused.",
+      "Open every video with a hand shaking the globe (generate this as a separate 3-second clip) — the shake is the ritual that tells viewers 'the magic is starting'.",
+      "Build a 30-45 second story: the shake, two village moments, and a warm closing frame (the whole village glowing at night).",
+      "Use a gentle holiday instrumental — Facebook holiday content is shared by families, and calm music makes it share-safe for every age.",
+      "Post from late November through December at 7-9 PM PKT, and series it by village (the same bakery, the same train) so viewers follow the village like a show."
+    ],
+    "tips": [
+      "Hook rule: the shake in the first 2 seconds is the hook — viewers who see the globe shake stay to see what wakes up inside.",
+      "Share trick: end with a warm line on screen ('Merry Christmas from the little village') — holiday shares spike on content that carries the greeting itself.",
+      "Evergreen trick: keep the village free of year-specific references — a good snow-globe video earns again every single December."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "holiday",
+      "winter",
+      "miniature"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "mushroom-village-illustrations-midjourney",
+    "title": "Whimsical Mushroom Village Illustrations — Midjourney Prompt for Instagram Storybook Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Intermediate",
+    "desc": "Storybook mushroom cottages with glowing windows, snail mail carriers and lantern-lit paths — a whimsical illustration series Instagram saves by the thousand.",
+    "prompt": "Whimsical storybook illustration, a cozy village of mushroom cottages with glowing amber windows and curling chimneys [VILLAGE SCENE: a snail mail carrier in a tiny red cap delivering glowing letters along a lantern-lit moss path / mushroom cottages with striped roofs, flower-box windows and a frog sitting on a toadstool reading a book / a night market of fireflies, acorn lanterns and a mouse baker selling tiny berry tarts / a rainy mushroom village with puddle reflections, umbrellas made of leaves and warm light in every window], soft painterly texture, rich color, charming detail, storybook magic, --ar 4:5 --style raw --v 6.1",
+    "howto": [
+      "Paste the prompt into Midjourney and pick ONE [VILLAGE SCENE] per image — one scene per post keeps the village coherent instead of cluttered.",
+      "Generate 4 variations per scene and pick the one with the warmest windows and cleanest composition — storybook art is judged on coziness, not complexity.",
+      "Post as a 4-5 image carousel (one village, five corners of it) — carousels earn saves on Instagram because viewers swipe to see the whole village.",
+      "Caption each carousel with a one-line micro-story ('The snail mail is late again — the letters glow when they are happy') to turn art into a world.",
+      "Post 3-4x per week at 7-9 PM PKT and keep one recurring character (the snail carrier) in every carousel — followers return for characters, not just art."
+    ],
+    "tips": [
+      "Style trick: lock one palette (moss green, amber, cream) across the whole series — a consistent palette makes the page instantly recognizable in the feed.",
+      "Save-bait trick: end carousels with a 'spot the frog' frame — hidden-detail frames are saved and shared far more than plain art posts.",
+      "Monetization trick: once a village has 20+ images, bundle them as phone wallpapers or a coloring pack — storybook audiences buy the world, not single images."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "storybook",
+      "illustration",
+      "whimsical"
+    ],
+    "trending": false,
+    "popularity": 83
+  },
+  {
+    "id": "rising-subculture-niche-finder-chatgpt",
+    "title": "Rising Subculture Niche Finder — ChatGPT Prompt to Spot Creator Niches Before They Explode",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Advanced",
+    "desc": "Find fast-rising subcultures and turn them into first-mover channels — a niche-discovery prompt that scores trend velocity, competition and monetization before you commit.",
+    "prompt": "You are a trend-spotting strategist for faceless content creators. Step 1: list 15 fast-rising subcultures, hobbies or internet tribes in 2026, each with 2-3 pieces of evidence (search growth, viral posts, new communities, product launches). Step 2: for each subculture, score it 1-10 on trend velocity, audience size, competition level, content supply difficulty and monetization potential, and explain each score in one line. Step 3: rank the top 5 and, for each, give 3 channel angles that have NOT been done to death, 10 video ideas with hooks, the best platform (YouTube, TikTok, Facebook or Instagram) and why, and the first 30-day posting plan. Step 4: flag the 3 riskiest picks and what would kill them. Rules: no generic niches (fitness, cooking, finance), every claim must cite a signal, and the final output must be a decision table I can act on today.",
+    "howto": [
+      "Paste the prompt into ChatGPT and add your constraints at the end (faceless or on-camera, your weekly hours, your budget) — constraints sharpen the shortlist dramatically.",
+      "Run it once per month, not daily — subcultures move monthly, and re-running weekly just reshuffles noise into false urgency.",
+      "Take the top 3 ranked niches and validate each with one week of real research (search the platform, count serious competitors, check monetization) before committing.",
+      "Pick ONE niche and ONE angle from the output — the prompt's job is to narrow, and creators fail by launching three niches at once.",
+      "Re-run with 'exclude everything from the last run' to force fresh picks each month and build a pipeline of backup niches."
+    ],
+    "tips": [
+      "Evidence rule: reject any subculture whose evidence is only vibes — demand a number, a post, or a community for every pick.",
+      "First-mover rule: the best pick is usually rank 2-3, not rank 1 — rank 1 is where everyone else is already rushing.",
+      "Kill-switch rule: write down what would make you quit the niche BEFORE launching — it stops sunk-cost months later."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "niche-discovery",
+      "trends",
+      "strategy"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "niche-audience-language-decoder-gemini",
+    "title": "Niche Audience Language Decoder — Gemini Prompt to Speak Your Niche's Native Slang",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "Decode the exact words, jokes and phrases your niche audience actually uses — so your titles, hooks and scripts sound like an insider, not an outsider.",
+    "prompt": "You are a community linguist for content creators. I will give you my niche: [NICHE]. Step 1: research how this audience actually talks — analysis of comments, forums, subreddits and viral videos — and build a language map: 20 slang terms and inside jokes with plain-English meanings, 10 phrases fans use to praise content, 10 phrases that instantly mark someone as an outsider, and 5 taboo topics or jokes to avoid. Step 2: rewrite my 5 video titles and 5 hooks in the audience's native voice, keeping each under 60 characters where the platform demands it. Step 3: give me 10 comment-reply templates in the audience's voice that spark replies instead of likes. Step 4: warn me about 3 phrases that sound authentic but are already cringe or overused. Output must be a copy-paste voice guide I can hand to any scriptwriter.",
+    "howto": [
+      "Paste the prompt into Gemini, replace [NICHE] with your exact niche (not a broad category — 'retro handheld gaming', not 'gaming'), and paste 3-5 of your own titles for rewriting.",
+      "Feed Gemini 5-10 real comments from your niche's top videos first — real comments beat Gemini's memory and make the slang map accurate.",
+      "Use the voice guide for every script, title and reply for 30 days — consistency in voice is what turns viewers into community members.",
+      "Refresh the map quarterly — slang decays fast, and last year's inside joke is this year's outsider marker.",
+      "Hand the guide to any editor or writer before they touch a script — one off-voice video can cost a niche audience's trust."
+    ],
+    "tips": [
+      "Insider test: if a real fan would not say it in a comment, do not put it in a title — audiences forgive bad video quality, never fake slang.",
+      "Reply trick: the 10 comment templates are the highest-ROI part — replies in the audience's voice convert commenters into subscribers.",
+      "Taboo rule: the 5 taboos matter more than the 20 slang terms — one wrong joke can end a niche channel faster than a bad month of videos."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "audience",
+      "hooks",
+      "scripting"
+    ],
+    "trending": false,
+    "popularity": 79
+  },
+  {
+    "id": "burnout-proof-content-system-claude",
+    "title": "Burnout-Proof Content System — Claude Prompt to Plan 90 Days Without Burning Out",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A 90-day posting system built around batching, rest weeks and reusable formats — so creators grow a channel without burning out in month two.",
+    "prompt": "You are a creator-systems coach. Build me a burnout-proof 90-day content system for my niche: [NICHE], posting [X] times per week on [PLATFORM]. Step 1: design 4 reusable content formats (one easy, one medium, one high-effort, one community-driven) with a production time budget for each. Step 2: lay out a 12-week calendar with batching days, one rest week per month, and buffer videos banked before day one. Step 3: give me a weekly workflow (filming day, editing day, posting day, analytics day) that fits in [HOURS] hours per week, with tasks I can delegate or automate marked clearly. Step 4: define 5 early-warning signs of burnout and a 'minimum viable week' plan for each — what to post when energy is zero. Step 5: set 3 growth checkpoints (day 30, 60, 90) with metrics and a decision rule for doubling down or pivoting. Output as a week-by-week plan I can follow without thinking.",
+    "howto": [
+      "Paste the prompt into Claude and fill every bracket honestly (real hours, real niche, real platform) — a system built on fantasy hours collapses in week two.",
+      "Bank 2 weeks of buffer videos BEFORE day one — buffers are the difference between a rest week and a dead channel.",
+      "Follow the weekly workflow exactly for the first month before customizing — systems fail when creators redesign them before testing them.",
+      "At each checkpoint, apply the decision rule as written — pivot or double down on the numbers, not on how tired you feel that week.",
+      "Re-run at day 90 with your real analytics — the second 90 days should be built on your data, not on guesses."
+    ],
+    "tips": [
+      "Rest-week rule: a scheduled rest week is not quitting — channels that rest on schedule outlast channels that burn out by month three.",
+      "Format rule: the easy format is your survival format — on a zero-energy week, the easy format IS the plan, not a failure.",
+      "Delegation trick: delegate editing before anything else — editing is the first task that burns creators out, and the easiest to hand off."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "planning",
+      "productivity",
+      "systems"
+    ],
+    "trending": false,
+    "popularity": 81
   }
 ];
 
