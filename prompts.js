@@ -7415,6 +7415,102 @@ const PROMPTS = [
     ],
     "trending": false,
     "popularity": 81
+  },
+  {
+    "id": "niche-spotlight-ai-stoic-motivation-reels",
+    "title": "AI Stoic Motivation Reels (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Timeless Stoic wisdom Reels for Facebook — marble statues, sunrise cliffs and candlelit libraries paired with 2,000-year-old quotes that still hit today. Is niche ki reels 168.4M/142.7M/118.9M/92.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-stoic-motivation-reels.jpg",
+    "prompt": "Cinematic stoic wisdom scene, [STOIC MOMENT: a marble statue of Marcus Aurelius glowing in warm golden sunrise light with soft mist / a philosopher in a flowing robe standing alone on a cliff above a sea of clouds at dawn / an ancient Roman statue holding a laurel wreath as storm clouds part and golden sunbeams break through / a philosopher writing by candlelight in a cozy ancient library filled with scrolls], warm golden tones, dramatic light, timeless and inspiring, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one stoic moment in Veo 3 per Reel, swapping only [STOIC MOMENT] — the statue or sunrise image is the scroll-stopper; the quote comes from the voiceover and caption.",
+      "Pick ONE quote per Reel from Marcus Aurelius, Seneca or Epictetus in ChatGPT — one idea per Reel, never a quote list; a single line people can remember beats five they forget.",
+      "Voice it in ElevenLabs with a calm, deep, slow documentary tone — Stoicism sells on gravity, not hype; a shouting voice kills the ancient-wisdom mood instantly.",
+      "Caption the quote in 2 short lines so the Reel works muted — Facebook Reels autoplay silent, and a quotable caption is what gets screenshotted and shared.",
+      "Post daily 8-10 PM PKT and pin a comment asking 'Which quote do you live by?' — evening philosophy viewers comment their own life story, and comments push Reels further."
+    ],
+    "tips": [
+      "Hook rule: the first frame must be the statue in golden light, not a talking head — Facebook scrollers stop for beauty, then stay for the quote.",
+      "Caption trick: 'Marcus Aurelius wrote this 2,000 years ago — it is more relevant today than ever' — the 2,000-year time gap is the curiosity hook that makes people read on.",
+      "Share bait: end with 'Send this to someone who needs it today' — Stoic quotes are shared as personal messages more than any other Reel format."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "stoicism",
+      "motivation",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "niche-spotlight-ai-health-nutrition-reels",
+    "title": "AI Health & Nutrition Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Science-backed health and nutrition tip Reels for Instagram — glowing superfood bowls, sunrise runs and kitchen transformations that viewers save for later. Is niche ki reels 154.2M/128.6M/104.3M/81.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-health-nutrition-reels.jpg",
+    "prompt": "Bright vibrant health scene, [HEALTH MOMENT: a glowing bowl of superfoods — berries, avocado and greens — bursting with fresh energy on a sunny kitchen table / a runner at sunrise in a green park with golden light and fresh morning air / colorful fresh fruits and vegetables being chopped with splashing water droplets in a bright modern kitchen / a peaceful morning yoga stretch by a sunny window with plants, a glass of water and fresh fruit], vivid saturated colors, fresh and energizing, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one health moment in Veo 3 per Reel, swapping only [HEALTH MOMENT] — the fresh, colorful visual is the pattern-interrupt; the tip comes from the voiceover and caption.",
+      "Write the tip as ONE line in ChatGPT: the common mistake + the science-backed fix — e.g. 'Skipping breakfast is not fasting — your body needs protein within an hour of waking.' — one tip per Reel, never three.",
+      "Voice it in ElevenLabs with a warm, energetic, friendly tone — health Reels live on trust and energy; a robotic voice makes a nutrition tip feel like an ad.",
+      "Caption the full tip in 3 short lines so the Reel works muted — Instagram health content is saved most when the value is readable without sound.",
+      "Post daily 7-9 AM PKT (before breakfast) and pin a comment asking 'What is your go-to healthy breakfast?' — morning health posters catch the save-and-share crowd at exactly the right moment."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the glowing superfood bowl or the sunrise run — health scrollers save what looks instantly fresh and doable, not what sounds scientific.",
+      "Caption trick: 'Stop doing [common health habit]' beats '5 health tips' — contrarian corrections are saved far more than generic lists on Reels.",
+      "Save-bait line: end with 'Save this for your next grocery run' — the save is Instagram's strongest ranking signal, and health content is built for it."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "health",
+      "nutrition",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "niche-spotlight-ai-quiz-trivia-videos",
+    "title": "AI Quiz & Trivia Videos (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Interactive quiz and trivia videos for TikTok — glowing question marks, puzzle brains and golden trophies that make viewers play along and comment their score. Is niche ki videos 212.8M/186.5M/159.3M/127.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-quiz-trivia-videos.jpg",
+    "prompt": "Exciting colorful quiz-show scene, [QUIZ MOMENT: a giant glowing golden question mark floating over a game-show stage with confetti and bright lights / a brain made of glowing colorful puzzle pieces on a dark stage under spotlights / a golden trophy on a podium surrounded by colorful balloons and confetti in a bright studio / mysterious glowing treasure chests and ancient artifacts in a dramatic quiz-show setting with moody lighting], vivid color, dramatic lighting, playful and curiosity-driving, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one quiz moment in Veo 3 per question, swapping only [QUIZ MOMENT] — the game-show visual is the hook; the question comes from the voiceover and on-screen text.",
+      "Script each video in ChatGPT as 5 questions with a 5-second think timer: easy first, impossible last — the last question must be so hard that most viewers fail it, because failure drives comments.",
+      "Voice it in ElevenLabs with a fast, playful game-show host tone — quiz videos live on energy and suspense; a slow voice makes a 5-second timer feel like a lecture.",
+      "End every video with 'Comment your score out of 5' — the comment-your-score hook is the entire growth engine of this niche; never end on the answer, end on the challenge.",
+      "Post 2x/day 12 PM and 7 PM PKT and series it by theme (geography week, logo week, riddle week) — themed series turn one viral video into a daily habit for viewers."
+    ],
+    "tips": [
+      "Hook rule: open on the hardest question first as a teaser ('Only 1% get this one') — quiz scrollers decide in 1 second whether they can beat the quiz.",
+      "Caption trick: 'I bet you cannot get 5/5' — a direct challenge caption outperforms any summary; viewers watch to prove the caption wrong.",
+      "Comment bait: pin 'What did you score? Be honest!' — scores are the comment engine, and TikTok pushes videos whose comments grow fastest."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "quiz",
+      "trivia",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 92
   }
 ];
 
