@@ -17,14 +17,18 @@
 
   function matches(p) {
     if (state.category !== 'All' && p.category !== state.category) return false;
-    if (state.tool !== 'All' && p.tool !== state.tool) return false;
+    if (state.tool !== 'All') {
+      // some prompts list combined tools ("Veo 3 / Kling") — match any component
+      var parts = p.tool.split(/[/+]/).map(function (t) { return t.trim(); });
+      if (parts.indexOf(state.tool) === -1) return false;
+    }
     if (state.difficulty !== 'All' && p.difficulty !== state.difficulty) return false;
     if (state.platform !== 'All Platforms') {
       var slug = state.platform.toLowerCase();
       if ((p.tags || []).indexOf(slug) === -1) return false;
     }
     if (state.q) {
-      var hay = (p.title + ' ' + p.desc + ' ' + p.tool + ' ' + p.category + ' ' + (p.tags || []).join(' ')).toLowerCase();
+      var hay = (p.title + ' ' + p.desc + ' ' + p.prompt + ' ' + p.tool + ' ' + p.category + ' ' + (p.tags || []).join(' ')).toLowerCase();
       if (hay.indexOf(state.q) === -1) return false;
     }
     return true;
@@ -121,10 +125,17 @@
 
   function copyText(text, btn) {
     function done() {
-      var orig = btn.innerHTML;
+      var orig = btn.getAttribute('data-orig') || btn.innerHTML;
+      btn.setAttribute('data-orig', orig);
       btn.classList.add('copied');
       btn.innerHTML = '✅ Copied!';
       setTimeout(function () { btn.classList.remove('copied'); btn.innerHTML = orig; }, 1800);
+    }
+    function failed() {
+      var orig = btn.getAttribute('data-orig') || btn.innerHTML;
+      btn.setAttribute('data-orig', orig);
+      btn.innerHTML = '⚠️ Copy blocked — open Details and select the text manually';
+      setTimeout(function () { btn.innerHTML = orig; }, 4000);
     }
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(text).then(done).catch(function () { fallback(); });
@@ -135,9 +146,10 @@
       ta.style.position = 'fixed'; ta.style.opacity = '0';
       document.body.appendChild(ta);
       ta.select();
-      try { document.execCommand('copy'); } catch (e) {}
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
       document.body.removeChild(ta);
-      done();
+      if (ok) done(); else failed();
     }
   }
 
@@ -158,6 +170,20 @@
     $('countVideo').textContent = n('Video Prompts') + ' prompts';
     $('countImage').textContent = n('Image Prompts') + ' prompts';
     $('countText').textContent = n('Text Prompts') + ' prompts';
+    var nc = $('countNiches');
+    if (nc) nc.textContent = n('Viral Niches') + ' prompts';
+  }
+
+  function resetFilters() {
+    state = { q: '', category: 'All', tool: 'All', difficulty: 'All', platform: 'All Platforms' };
+    var input = $('searchInput');
+    if (input) input.value = '';
+    makePills('catPills', CATEGORIES, 'category');
+    makePills('toolPills', TOOLS, 'tool');
+    makePills('diffPills', DIFFS, 'difficulty');
+    makePills('platformPills', PLATFORMS, 'platform');
+    syncTiles();
+    render();
   }
 
   function init() {
@@ -170,6 +196,8 @@
     makePills('diffPills', DIFFS, 'difficulty');
     makePills('platformPills', PLATFORMS, 'platform');
     bindTiles();
+    var resetBtn = $('resetFilters');
+    if (resetBtn) resetBtn.addEventListener('click', resetFilters);
     renderTrending();
     renderNiches();
     updateCounts();

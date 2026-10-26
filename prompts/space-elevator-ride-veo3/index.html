@@ -47,7 +47,7 @@
   </style>
   <!-- GOOGLE ADSENSE account script (Publisher ID: ca-pub-3045520642994409) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3045520642994409" crossorigin="anonymous"></script>
-  <!-- Google tag (gtag.js) — GA4 placeholder: G-7PYJQRMP20 (parent fills real ID after property creation) -->
+  <!-- Google tag (gtag.js) — GA4: G-7PYJQRMP20 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7PYJQRMP20"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -69,9 +69,7 @@
     "@type": "Organization",
     "name": "PromptSpark Hub"
   },
-  "mainEntityOfPage": "https://muhammadyousafb396-byte.github.io/promptspark-hub/prompts/space-elevator-ride-veo3/",
-  "datePublished": "2026-10-08",
-  "dateModified": "2026-10-08"
+  "mainEntityOfPage": "https://muhammadyousafb396-byte.github.io/promptspark-hub/prompts/space-elevator-ride-veo3/"
 }
   </script>
   <script type="application/ld+json">
@@ -139,7 +137,7 @@
 <body>
   <header class="nav"><div class="nav-inner">
     <a href="/promptspark-hub/" class="logo"><img src="/promptspark-hub/assets/logo.png" alt="PromptSpark Hub logo" width="32" height="32"> <span>PromptSpark <em>Hub</em></span></a>
-    <nav class="nav-links"><a href="/promptspark-hub/#trending">Trending</a><a href="/promptspark-hub/#library">Library</a><a href="/promptspark-hub/guides/">Guides</a><a href="/promptspark-hub/#faq">FAQ</a><a href="../submit/">Submit a Prompt</a></nav>
+    <nav class="nav-links"><a href="/promptspark-hub/#trending">Trending</a><a href="/promptspark-hub/#library">Library</a><a href="/promptspark-hub/guides/">Guides</a><a href="/promptspark-hub/#faq">FAQ</a><a href="/promptspark-hub/submit/">Submit a Prompt</a></nav>
   </div></header>
   <main>
   <div class="pwrap">
@@ -208,8 +206,8 @@
     <div class="footer-cols">
       <div class="footer-col"><a href="/promptspark-hub/" class="logo footer-logo"><img src="/promptspark-hub/assets/logo.png" alt="PromptSpark Hub logo" width="28" height="28"> <span>PromptSpark <em>Hub</em></span></a>
       <p class="footer-note">Viral AI prompts, copied in one click.</p></div>
-      <div class="footer-col"><h4>Explore</h4><a href="/promptspark-hub/#trending">Trending Prompts</a><a href="/promptspark-hub/#library">Prompt Library</a><a href="/promptspark-hub/guides/">Guides</a><a href="../submit/">Submit a Prompt</a></div>
-      <div class="footer-col"><h4>Legal</h4><a href="/promptspark-hub/#privacy">Privacy Policy</a></div>
+      <div class="footer-col"><h4>Explore</h4><a href="/promptspark-hub/#trending">Trending Prompts</a><a href="/promptspark-hub/#library">Prompt Library</a><a href="/promptspark-hub/guides/">Guides</a><a href="/promptspark-hub/submit/">Submit a Prompt</a></div>
+      <div class="footer-col"><h4>Legal</h4><a href="/promptspark-hub/privacy.html">Privacy Policy</a><a href="/promptspark-hub/terms.html">Terms</a><a href="/promptspark-hub/about.html">About Us</a><a href="/promptspark-hub/contact.html">Contact</a></div>
     </div>
     <p class="copy footer-copy">© 2026 PromptSpark Hub. All rights reserved.</p>
   </div></footer>
@@ -219,9 +217,12 @@
       var btn = this;
       function done(){ btn.classList.add("copied"); btn.textContent = "✅ Copied!";
         setTimeout(function(){ btn.classList.remove("copied"); btn.textContent = "📋 Copy Prompt"; }, 1800); }
+      function failed(){ btn.textContent = "⚠️ Copy blocked — select the prompt text above and copy it manually";
+        setTimeout(function(){ btn.textContent = "📋 Copy Prompt"; }, 5000); }
       if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done).catch(function(){ fallback(); }); } else { fallback(); }
       function fallback(){ var ta = document.createElement("textarea"); ta.value = text; ta.style.position="fixed"; ta.style.opacity="0";
-        document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); } catch(e){} document.body.removeChild(ta); done(); }
+        document.body.appendChild(ta); ta.select(); var ok = false;
+        try { ok = document.execCommand("copy"); } catch(e){ ok = false; } document.body.removeChild(ta); if (ok) done(); else failed(); }
     });
   </script>
 </body>
