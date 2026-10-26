@@ -7812,6 +7812,104 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 89
+  },
+  {
+    "id": "niche-spotlight-ai-business-empire-stories",
+    "title": "AI Business Empire Stories (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Business Empire Stories — rise-and-fall company documentaries, garage-to-empire arcs and billion-dollar mistakes that keep viewers watching to the fatal decision. Is niche ki videos 184.7M / 152.3M / 128.9M / 96.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-business-empire-stories.jpg",
+    "prompt": "Cinematic business documentary scene, dramatic and aspirational, [EMPIRE MOMENT: a lone founder sketching a billion-dollar idea on a napkin in a tiny garage at midnight under a single bulb / a boardroom showdown with executives facing a wall of crashing stock charts and flashing red screens / a golden skyscraper empire rising from a small workshop as the sun breaks over the city skyline / an empty CEO chair in a dark luxury office, papers flying, as the empire crumbles in slow motion], rich gold and deep blue tones, movie-trailer lighting, high-stakes energy, 16:9, photorealistic",
+    "howto": [
+      "Generate one empire moment in Veo 3 per video, swapping only [EMPIRE MOMENT] — one rise-or-fall beat per video keeps the story punchy; never cram the whole biography into one clip.",
+      "Script each video in ChatGPT as a 3-act arc: humble start, ruthless rise, shocking fall (or comeback) — end on the fall's single biggest mistake, because the mistake is what viewers argue about.",
+      "Voice it in ElevenLabs with a deep documentary narrator tone — business stories live on authority; a casual voice makes a billion-dollar story feel like gossip.",
+      "Build the thumbnail around the fall, not the rise (empty chair, crashing chart, 'How He Lost $4 Billion') — curiosity about failure outperforms success stories.",
+      "Post 2x/week (Monday + Thursday) as a series — 'Empire 04: The Coffee King Who Lost It All' — numbered empires turn casual viewers into subscribers waiting for the next collapse."
+    ],
+    "tips": [
+      "Hook rule: open on the most shocking number first ('He was worth $4 billion — then one meeting ended it') — numbers stop the scroll faster than names.",
+      "Title trick: use the rise-fall formula 'How [Company] Went From [Tiny Start] to [Huge Peak] to NOTHING' — the three-beat title promises a complete story in one click.",
+      "Comment bait: end with 'Was it arrogance or bad luck? Comment below' — verdict questions split the audience and double comments."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "business",
+      "documentary",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "niche-spotlight-ai-wild-animal-pets",
+    "title": "AI Wild Animal Pets (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Wild Animal Pets — wild animals living like house pets — lions on sofas, baby elephants in kitchens, wolves on porches — impossible, adorable and endlessly shareable. Is niche ki videos 208.5M / 176.2M / 143.7M / 111.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-wild-animal-pets.jpg",
+    "prompt": "Heartwarming realistic scene, a wild animal living like a beloved house pet, [PET MOMENT: a majestic lion lounging on a living room sofa next to its laughing owner, golden afternoon light through the curtains / a baby elephant being bottle-fed milk in a bright sunny kitchen, trunk curling around the bottle / a tiger cub and a golden retriever chasing a ball together in a sunny green backyard / a grey wolf sitting loyally on a wooden porch like a family dog at sunset, cozy cabin behind], warm and funny, adorable and unbelievable at the same time, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one pet moment in Veo 3 per Reel, swapping only [PET MOMENT] — one impossible pet per video keeps the wonder readable in 8 seconds.",
+      "Keep the same owner character and home across the series (same sofa, same porch, same dog) so viewers bond with the 'family' and return for the next animal.",
+      "Voice it in ElevenLabs with a warm, amazed storyteller tone — or use no voice and let the visuals carry it; wild-pet Reels win on the reaction face, not the script.",
+      "End every Reel with the animal doing something deeply domestic (lion stealing the remote, elephant hogging the blanket) — the domestic twist is the share trigger.",
+      "Post daily at 7-9 PM PKT and series it by animal (Lion Week, Elephant Week) — themed weeks turn one viral Reel into a daily habit."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the wild animal already inside the house — a lion on a sofa stops the scroll; a lion in a jungle does not.",
+      "Caption trick: 'My pet lion stole my spot AGAIN 😂' — write captions as if the impossible is normal; the deadpan normalcy is the joke.",
+      "Share bait: end with 'Tag someone who would adopt this one' — tagging is Facebook's strongest distribution signal for Reels."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "animals",
+      "pets",
+      "cute",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "niche-spotlight-ai-travel-itinerary-reels",
+    "title": "AI Travel Itinerary Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Travel Itinerary Reels — 48-hour city itineraries in cinematic Reels — Santorini sunsets, Tokyo nights, Alpine trains — plans viewers save for a trip one day. Is niche ki videos 162.8M / 134.5M / 109.2M / 87.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-travel-itinerary-reels.jpg",
+    "prompt": "Cinematic travel scene, breathtaking wanderlust, [DESTINATION MOMENT: white Santorini buildings and blue domes glowing at golden hour as a traveler with a backpack overlooks the Aegean sea / a neon-lit Tokyo street at night, steam rising from a ramen stall as a traveler tastes street food / a cozy Swiss Alps train window view with snowy peaks and green valleys gliding past / Bali rice terraces at sunrise, golden light over green steps as an explorer walks a stone path with a camera], vivid color, dreamy light, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one destination moment in Veo 3 per Reel, swapping only [DESTINATION MOMENT] — one city per Reel keeps the itinerary usable; never tour three countries in 30 seconds.",
+      "Script each Reel as a real 48-hour plan: 'Day 1 morning: X, afternoon: Y, night: Z' — viewers save plans, not postcards, and saves are Instagram's strongest ranking signal.",
+      "Voice it in ElevenLabs with a warm, excited travel-guide tone — or use trending travel audio; itinerary Reels win when the viewer can already picture themselves there.",
+      "Overlay the plan as clean on-screen text (place names + times) — the text is what gets screenshotted and shared to travel group chats.",
+      "Post 4-5x/week at 6-8 PM PKT and series it by city ('48 Hours in Kyoto — Part 1') — city series turn one saved Reel into a followed itinerary account."
+    ],
+    "tips": [
+      "Hook rule: open on the most impossible view first (Santorini at golden hour, not the airport) — wanderlust wins or dies in the first second.",
+      "Caption trick: 'Save this for your 2027 trip ✈️' — a direct save prompt outperforms any description; saved Reels get pushed to similar audiences for weeks.",
+      "Comment bait: end with 'Which city should I plan next?' — city requests become your next 30 Reels and keep followers commenting."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "travel",
+      "itinerary",
+      "wanderlust",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 89
   }
 ];
 
