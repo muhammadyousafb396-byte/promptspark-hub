@@ -7511,6 +7511,307 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 92
+  },
+  {
+    "id": "frozen-hot-chocolate-volcano-veo3",
+    "title": "Frozen Hot Chocolate Volcano — Veo 3 Prompt for Viral TikTok Winter Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A volcano that erupts with thick hot chocolate instead of lava, freezing mid-air into glossy chocolate icicles — a winter wonder clip built for replays and 'wait, what?' comments.",
+    "prompt": "Magical winter wonderland, a snow-covered volcano erupting with thick glossy hot chocolate [ERUPTION MOMENT: a slow-motion chocolate lava flow freezing into sparkling chocolate icicles as it hits the snow / tiny marshmallow villagers skiing down a chocolate river that steams in the cold air / a giant mug the size of a house catching the chocolate eruption like a fountain / chocolate snowflakes the size of dinner plates drifting over a cozy village of gingerbread houses], warm golden light against blue snow, rich creamy browns, playful wonder, crisp detail, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [ERUPTION MOMENT] per clip — one impossible food moment per video keeps the wonder readable in 8 seconds.",
+      "Keep the volcano design identical across the series (same snowy peak, same glossy chocolate) so viewers recognize the format instantly.",
+      "Generate 3 clips per story (eruption, freeze, village reaction) and cut them into one 20-30 second TikTok with a cozy winter sound.",
+      "Add a warm, amazed voiceover or a trending winter audio — food-wonder clips perform best when the sound feels like a holiday movie trailer.",
+      "Post daily at 7-9 PM PKT through winter and end every video with 'What should erupt next?' — audience suggestions become your next 10 videos."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show chocolate mid-eruption, not the mountain — impossible food wins or dies in the first second.",
+      "Caption trick: 'This volcano does NOT erupt lava...' outperforms a plain description — the chocolate reveal is the payoff, never the caption.",
+      "Series trick: number the eruptions (Eruption 04: Hot Chocolate) — collectors binge numbered series far more than one-off cute clips."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "winter",
+      "food",
+      "satisfying"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "tiny-librarians-giant-books-veo3",
+    "title": "Tiny Librarians Shelve Giant Books — Veo 3 Prompt for Cozy YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Miniature librarians in cardigans climb ladders, push carts and stamp giant books in a warm wooden library — a cozy Shorts format built for calm, bingeable viewing.",
+    "prompt": "Cozy miniature library world, tiny librarians in knitted cardigans and round glasses [LIBRARY MOMENT: climbing a tall wooden ladder to shelve a book taller than three of them stacked / pushing a tiny brass cart piled with glowing books down a polished wooden aisle / stamping a giant open book with a stamp the size of a dinner plate as golden dust puffs up / reading by lamplight on top of a giant open book while rain taps the library windows], warm amber lamplight, rich wood tones, gentle and heartwarming, crisp macro detail, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [LIBRARY MOMENT] per clip — one quiet task per video keeps the cozy mood unbroken.",
+      "Keep the same librarian characters across the series (same cardigans, same glasses, same brass cart) so viewers bond with them like a cast.",
+      "Generate 3 clips per story (morning opening, a shelving adventure, lights-out) and cut them into one 30-45 second Short with soft piano or rain audio.",
+      "Add a soft, slow voiceover or no voice at all — cozy content performs best when the sound feels like a reading nook, not a sales pitch.",
+      "Post daily at 8-10 PM PKT and end every video with 'Which book should they shelve next?' — book lovers will answer, and answers become your next videos."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the scale joke (tiny librarian vs giant book) — miniature content wins or dies in the first second.",
+      "Caption trick: 'The library opens at midnight...' outperforms a plain description — a tiny secret world is the hook, not the task.",
+      "Series trick: give each librarian a name and a job (Milo shelves, Nora stamps) — named characters turn viewers into fans."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "cozy",
+      "miniature",
+      "storytelling"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "floating-umbrella-parade-kling",
+    "title": "Floating Umbrella City Rain Parade — Kling Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "A whole city parades through the rain under floating, glowing umbrellas that drift like lanterns — a dreamlike Reels format built for saves and shares.",
+    "prompt": "Dreamlike rainy city at dusk, crowds strolling beneath hundreds of floating glowing umbrellas [PARADE MOMENT: a red umbrella the size of a car drifting slowly over a wet cobblestone street reflecting neon signs / children chasing a runaway glowing umbrella down a shimmering alley / a brass band marching under umbrellas that change color with every note / a couple sharing one giant transparent umbrella as golden rain sparkles around them], cinematic reflections, vivid neon against deep blue rain, joyful and magical, smooth motion, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Kling and pick ONE [PARADE MOMENT] per clip — one magical rain scene per Reel keeps the dream intact.",
+      "Keep the umbrella palette consistent (warm reds, golds and teals) so the series feels like one city, not random clips.",
+      "Generate 3 clips per story (street, chase, finale) and cut them into one 15-25 second Reel with a dreamy instrumental track.",
+      "Add gentle rain sound plus the music — Reels with layered natural sound get saved far more than music-only edits.",
+      "Post daily at 6-8 PM PKT and end with 'Tag someone you would share an umbrella with' — the tag is the share engine of this niche."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show an umbrella floating with nobody holding it — impossible physics is the scroll-stopper.",
+      "Caption trick: 'It rains umbrellas in this city...' beats any summary — mystery captions earn the tap, explanations do not.",
+      "Save-bait line: end with 'Save this for a rainy day' — the save is Instagram's strongest ranking signal, and dreamy content is built for it."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "rain",
+      "dreamlike",
+      "city"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "abandoned-train-garden-sora",
+    "title": "Abandoned Train Station Garden — Sora Prompt for Mystery YouTube Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A forgotten train station where nature has taken over — vines on the ticket office, wildflowers on the platform, one train that still arrives at midnight.",
+    "prompt": "Hauntingly beautiful abandoned train station reclaimed by nature [STATION MOMENT: a slow camera push through vines covering the ticket office as sunlight breaks through the broken roof / wildflowers swaying on the platform where a rusted bench still faces the tracks / a single vintage train rolling silently into the overgrown station at midnight with all its windows glowing / a fox sleeping curled on a moss-covered suitcase beside the timetable board], soft golden-hour light, rich greens against rusted metal, mysterious and peaceful, cinematic slow motion, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Sora and pick ONE [STATION MOMENT] per clip — one mystery beat per video keeps viewers watching to the end.",
+      "Keep the same station design across the series (same platform, same rusted bench) so returning viewers feel they are revisiting a place.",
+      "Generate 3 clips per story (arrival, exploration, midnight train) and cut them into one 40-60 second YouTube Short with a soft, curious voiceover.",
+      "Voice it with a calm, wondering tone — mystery niches live on questions, and a rushed voice kills the atmosphere.",
+      "Post 3x/week at 8 PM PKT and end every video with 'What do you think happened here?' — unanswered questions are the comment engine of mystery content."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show nature somewhere it should not be (flowers on a platform) — the wrongness is the hook.",
+      "Caption trick: 'Nobody has bought a ticket here since 1987...' outperforms any summary — a date plus a mystery beats a description.",
+      "Series trick: number the stations (Station 03: The Garden Line) — explorers binge numbered mysteries like episodes."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "mystery",
+      "abandoned",
+      "nature"
+    ],
+    "trending": true,
+    "popularity": 87
+  },
+  {
+    "id": "paper-lantern-dragon-runway",
+    "title": "Paper Lantern Dragon Festival Loop — Runway Prompt for Viral Facebook Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A paper lantern dragon weaves through a night festival, its glowing body made of a hundred floating lanterns — a seamless loop built for Facebook Reels replays.",
+    "prompt": "Vibrant night festival, a majestic dragon made entirely of glowing paper lanterns [FESTIVAL MOMENT: the lantern dragon weaving between market stalls as crowds cheer and reach up / the dragon's tail of lanterns rising into the sky like a river of light / children releasing small lanterns that join the dragon's glowing body / the dragon looping overhead and diving toward the camera in a perfect seamless loop], warm gold and red glow against deep night blue, joyful celebration, smooth looping motion, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Runway and pick ONE [FESTIVAL MOMENT] per clip — one celebration beat per Reel keeps the energy high.",
+      "Design the loop so the last frame matches the first (dragon overhead, same angle) so Facebook viewers replay without noticing the cut.",
+      "Generate 2-3 clips per festival (dragon arrival, crowd moment, sky finale) and cut them into one 15-20 second Reel with festive drum music.",
+      "Add crowd cheers under the music — festival Reels with real celebration sound get shared far more than music-only edits.",
+      "Post daily at 7-9 PM PKT and end with 'Share this with someone who loves festivals' — the share ask is the growth engine on Facebook."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the dragon already in motion — a still lantern is decoration, a moving dragon is a show.",
+      "Caption trick: 'Wait for the tail...' outperforms any summary — a promised payoff keeps viewers through the loop.",
+      "Loop trick: test the loop 3 times before posting — a visible cut kills replays, and replays are the whole format."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "festival",
+      "lantern",
+      "celebration"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "chameleon-paint-pour-flow",
+    "title": "Color-Changing Chameleon Paint Pour — Google Flow Prompt for Satisfying TikTok Niches",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A chameleon walks across a canvas while paint pours around it, and its skin shifts to match every color it touches — satisfying, strange, and impossible to scroll past.",
+    "prompt": "Mesmerizing satisfying art scene, a tiny chameleon walking slowly across a white canvas as thick glossy paint pours around it [POUR MOMENT: the chameleon turning vivid teal as a wave of teal paint flows past its feet / its tail curling into a spiral of gold paint that matches its new golden skin / rainbow paint ribbons pouring from above while the chameleon shifts through every color in sequence / the finished canvas revealed as a perfect chameleon portrait painted by its own color-changing walk], glossy paint textures, vivid saturated color, hypnotic and playful, smooth slow motion, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Google Flow and pick ONE [POUR MOMENT] per clip — one color change per video keeps the satisfaction pure.",
+      "Keep the same chameleon and canvas style across the series (same size, same white canvas) so viewers recognize the format instantly.",
+      "Generate 3 clips per story (first pour, color shift, reveal) and cut them into one 15-25 second TikTok with a soft ASMR pour sound.",
+      "Add the paint sound loud and the music quiet — satisfying content lives on texture sound, and loud music buries it.",
+      "Post daily at 6-8 PM PKT and end with 'Which color should it turn next?' — color votes are the comment engine of satisfying niches."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show paint already pouring — a dry canvas is a skip, a pour is a watch.",
+      "Caption trick: 'It paints itself...' outperforms any summary — the impossible claim is the hook, the clip is the proof.",
+      "Satisfying rule: never cut mid-pour — viewers stay for the complete transformation, and a cut is a lost viewer."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "satisfying",
+      "paint",
+      "animals"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "vintage-halloween-posters-midjourney",
+    "title": "Vintage Halloween Movie Poster Pack — Midjourney Prompt for Facebook October Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Intermediate",
+    "desc": "Retro 1950s-style Halloween movie posters — grinning pumpkins, haunted drive-ins and friendly ghosts — a Facebook image pack built for October shares.",
+    "prompt": "Vintage 1950s Halloween movie poster style, [POSTER SUBJECT: a grinning jack-o-lantern driving a classic convertible past a haunted drive-in theater under a huge full moon / a friendly ghost family having a picnic on a hill of candy corn at dusk / a black cat in a bow tie conducting an orchestra of skeletons in a pumpkin patch / a witch on a bicycle delivering candy under streetlights in a small autumn town], bold retro typography space at top, aged paper texture, rich orange and teal palette, playful spooky charm, highly detailed illustration, 4:5 portrait",
+    "howto": [
+      "Paste the prompt into Midjourney and pick ONE [POSTER SUBJECT] per image — one poster per post keeps the pack collectible.",
+      "Generate a set of 6 posters with the same retro style (same paper texture, same palette) so the page looks like a real vintage series.",
+      "Upscale your favorite, add the movie-style title in a retro font in any editor, and post one poster per day through October.",
+      "Caption each poster like a real movie listing ('Now showing: The Pumpkin Drive-In') — the joke is the share engine.",
+      "Post daily at 7 PM PKT and pin a comment asking 'Which one should be a real movie?' — votes drive comments and reach."
+    ],
+    "tips": [
+      "Hook rule: the poster must read at thumbnail size — one big character, one big moon, nothing else competing.",
+      "Caption trick: fake showtimes ('Showing nightly until Halloween!') outperform plain descriptions — roleplay beats promotion.",
+      "Series trick: number the posters (Poster 04 of 06) — collectors save numbered sets far more than random images."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "halloween",
+      "vintage",
+      "posters"
+    ],
+    "trending": true,
+    "popularity": 86
+  },
+  {
+    "id": "dead-end-niche-autopsy-chatgpt",
+    "title": "Dead-End Niche Autopsy — ChatGPT Prompt to Kill Losing Niches Before They Waste 90 Days",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Intermediate",
+    "desc": "A brutal, honest niche audit: feed ChatGPT your niche idea and get a verdict on whether it can ever pay, with the exact evidence — before you spend 90 days on it.",
+    "prompt": "Act as a ruthless content strategist who has audited 500 faceless channels. Autopsy this niche idea: [NICHE IDEA]. Score it 0-100 on 5 tests: (1) Search demand — are people actively looking for this in 2026, with proof from real search behavior? (2) Competition density — how many channels already own this space, and can a new channel realistically outrank them? (3) Monetization — list every realistic income stream for this niche with honest RPM ranges, and flag any niche that cannot pay. (4) Content supply — can I make 100 videos in this niche without repeating myself? Give 20 video titles to prove it or admit it cannot. (5) Staying power — will this niche still exist in 2 years, or is it a trend that dies in 6 months? End with a one-line verdict: KILL IT, FIX IT (with the one fix), or GO ALL IN — and if the verdict is KILL, suggest 3 adjacent niches that pass all 5 tests.",
+    "howto": [
+      "Paste the prompt into ChatGPT, replace [NICHE IDEA] with your exact niche, and run it once per idea — never batch 5 ideas, or the verdicts get shallow.",
+      "Challenge any score above 80: ask 'Show me the evidence for that score' and make it defend the number before you trust it.",
+      "Run your top 3 niche ideas through it, then compare verdicts side by side — the winner is the niche with the highest monetization AND staying power, not the highest total.",
+      "If the verdict is FIX IT, apply the one fix and re-run the autopsy — a niche that passes on the second run is often stronger than one that passed first try.",
+      "Save every autopsy in one document — in 6 months you will know exactly which niches you killed and why, and you will stop re-pitching dead ideas to yourself."
+    ],
+    "tips": [
+      "Honesty rule: the prompt only works if you let it kill your favorite idea — creators who argue with the verdict waste the audit.",
+      "Evidence trick: always demand the 20 video titles — if it cannot write 20, the niche cannot feed a channel, no matter how exciting it sounds.",
+      "Timing trick: run this audit BEFORE you make a logo, a name or a single video — branding a dead niche is the most expensive mistake in this business."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "niche-discovery",
+      "strategy"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "platform-title-rewriter-gemini",
+    "title": "Platform Title Rewriter — Gemini Prompt for YouTube, TikTok, Facebook & Instagram Titles",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "One video, four titles: feed Gemini your topic and get a title rewritten for each platform's algorithm — because the title that wins on YouTube flops on TikTok.",
+    "prompt": "Act as a viral title strategist who writes for YouTube, TikTok, Facebook and Instagram every day. Take this video topic: [VIDEO TOPIC]. Write 5 titles for EACH platform (20 total), following each platform's rules: YouTube titles must be curiosity-driven, under 60 characters, with the keyword first and no clickbait that the video cannot deliver. TikTok titles must be short, spoken-language hooks under 30 characters that work as on-screen text. Facebook titles must be emotional and shareable, written so a 45-year-old shares them with family. Instagram titles must be save-worthy, promising a result the viewer wants to keep ('Save this for...'). After the 20 titles, rank the single best title per platform and explain in one sentence why it wins on THAT platform and would fail on the others.",
+    "howto": [
+      "Paste the prompt into Gemini, replace [VIDEO TOPIC] with your video's real topic, and generate the 20 titles before you edit — titles shape the edit, not the other way round.",
+      "Pick the ranked winner per platform as your starting title, but test one alternate per platform in the first 24 hours if the video underperforms.",
+      "Keep a title swipe file: paste every winning title into one document with its platform and view count, so your next 100 titles start from proof, not guesses.",
+      "Never copy a title across platforms unchanged — the prompt's whole point is that each algorithm rewards different psychology.",
+      "Re-run the prompt for your next video with the previous winner as an example ('in the style of...') to build a personal title voice over time."
+    ],
+    "tips": [
+      "Keyword rule: the YouTube title must contain the exact phrase viewers search — curiosity without the keyword is invisible to search.",
+      "Platform rule: if a title works everywhere, it is probably generic — the best titles feel slightly wrong on the other three platforms.",
+      "Test trick: change only the title on an underperforming video and watch 48 hours — a title swap is the cheapest A/B test a creator has."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "facebook",
+      "instagram",
+      "titles"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "faceless-voice-bible-claude",
+    "title": "Faceless Channel Voice Bible — Claude Prompt to Lock One Voice Across 100 Videos",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Intermediate",
+    "desc": "The document every serious faceless channel needs: a voice bible that locks your tone, pace, phrases and rules so video 100 sounds like video 1 — and viewers recognize you instantly.",
+    "prompt": "Act as a channel strategist who builds faceless brands. Create a complete Voice Bible for my channel. My niche is [NICHE], my audience is [AUDIENCE], and my personality is [3 ADJECTIVES, e.g. calm, curious, witty]. The Voice Bible must include: (1) A 3-sentence voice statement — how the channel sounds in one breath. (2) Tone rules: 5 things the voice ALWAYS does and 5 things it NEVER does. (3) Sentence style: average sentence length, how hooks are written, how videos end — with 3 example hooks and 3 example closers in this voice. (4) Signature phrases: 5 catchphrases the channel repeats so viewers recognize it, and where each one goes in a video. (5) A 10-point consistency checklist I can run against any script before recording, so a hired writer or AI can match the voice. End with a 30-second sample script opening in this voice on the topic [SAMPLE TOPIC].",
+    "howto": [
+      "Paste the prompt into Claude, fill in [NICHE], [AUDIENCE], the 3 adjectives and [SAMPLE TOPIC], and generate the full Voice Bible in one run.",
+      "Print the consistency checklist and run every script through it before recording — one off-voice video confuses viewers more than one bad video.",
+      "Give the Voice Bible to anyone who writes or voices for the channel, including AI tools: paste it at the top of every script prompt as the style guide.",
+      "Revisit the bible every 25 videos and update only one rule at a time — a voice that changes slowly feels like growth, one that changes overnight feels like a new channel.",
+      "Test recognition: play 10 seconds of a new video to a viewer of an old one and ask 'is this the same channel?' — if they hesitate, the bible needs tightening."
+    ],
+    "tips": [
+      "Recognition rule: viewers subscribe to a voice, not a topic — two channels in the same niche win or lose on voice alone.",
+      "Signature trick: repeat the same closer in every video for 30 videos before judging it — catchphrases feel awkward to the creator long before they feel familiar to the audience.",
+      "Writer rule: never brief a writer with 'make it sound like us' — brief them with the bible, or every writer invents a different channel."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "faceless",
+      "branding",
+      "voice"
+    ],
+    "trending": true,
+    "popularity": 89
   }
 ];
 
