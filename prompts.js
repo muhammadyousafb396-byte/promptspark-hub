@@ -7910,6 +7910,306 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 89
+  },
+  {
+    "id": "tiny-chefs-giant-pumpkin-veo3",
+    "title": "Tiny Chefs Cook Inside a Giant Pumpkin — Veo 3 Prompt for Viral TikTok Food Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Miniature chefs in tall white hats chop, stir and roast dinner inside a giant hollow pumpkin, warm firelight glowing through its carved face — a cozy autumn food fantasy built for saves, shares and series bingeing.",
+    "prompt": "Whimsical miniature world, tiny chefs in tall white hats and aprons cooking a feast inside a giant hollow pumpkin [COOKING MOMENT: a tiny chef stirring a bubbling pot of golden soup over a firefly lantern flame / two tiny chefs carrying an oversized roast carrot up a rope ladder to a wooden table / a tiny chef seasoning a giant mushroom steak while steam curls past the pumpkin's carved smiling face / tiny chefs sliding down a pumpkin-seed chute with a tray of glowing cupcakes], warm firelight, rich orange and amber tones, cozy autumn magic, crisp miniature detail, playful wonder, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [COOKING MOMENT] per clip — one tiny-chef job per video keeps the miniature world readable in 8 seconds.",
+      "Keep the pumpkin set identical across the series (same carved face, same wooden table, same firefly lanterns) so viewers recognize the format instantly.",
+      "Generate 3 clips per episode (prep, cooking, feast reveal) and cut them into one 20-30 second TikTok with a cozy autumn sound.",
+      "Add a warm, delighted voiceover or a trending cozy audio — tiny-world food clips perform best when the sound feels like a storybook kitchen.",
+      "Post daily at 7-9 PM PKT through autumn and end every video with 'What should the tiny chefs cook next?' — audience suggestions become your next 10 videos."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show a tiny chef already cooking, not the empty pumpkin — miniature action stops the scroll; an empty set does not.",
+      "Caption trick: 'Dinner is served... inside a pumpkin 🎃' outperforms a plain description — the impossible location is the payoff, never the caption.",
+      "Series trick: number the recipes (Recipe 04: Pumpkin Soup) — collectors binge numbered series far more than one-off cute clips."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "food",
+      "miniature",
+      "autumn"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "sky-whale-migration-veo3",
+    "title": "Sky Whale Migration Over a Sleeping City — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Enormous gentle sky whales drift above a sleeping city at dawn, glowing softly as windows light up below — a dreamlike Shorts format that earns wonder comments, saves and sleepy-morning shares.",
+    "prompt": "Dreamlike fantasy scene, enormous gentle sky whales drifting slowly above a sleeping city at dawn [WHALE MOMENT: a colossal glowing whale gliding between skyscrapers as early lights flicker on in the windows below / a baby sky whale trailing sparkling mist over a quiet river bridge while a lone cyclist looks up in wonder / a pod of sky whales crossing a pink sunrise, their shadows drifting over rooftops and parks / a sky whale surfacing from a sea of morning clouds above a lighthouse, gulls circling in its wake], soft pastel dawn light, deep blues and rose gold, calm awe, cinematic scale, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Veo 3 and pick ONE [WHALE MOMENT] per clip — one whale encounter per video keeps the dream readable in 8 seconds.",
+      "Keep the city skyline identical across the series (same bridge, same lighthouse, same dawn palette) so viewers recognize the world instantly.",
+      "Generate 3 clips per episode (arrival, drift, farewell) and cut them into one 25-35 second Short with a soft piano or ambient sound.",
+      "Add a calm, wondering voiceover or no voice at all — sky-whale clips win on awe, and silence lets the scale breathe.",
+      "Post at 6-8 AM PKT when morning scrollers are waking up, and end with 'Where should the whales fly next?' — city requests become your next 10 videos."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the whale already above the rooftops — giant scale in frame one stops the scroll; an empty sky does not.",
+      "Caption trick: 'They only fly at dawn...' outperforms a plain description — a little mystery makes viewers watch to the end for the farewell shot.",
+      "Save bait: end on the widest skyline shot — viewers save dreamlike scenes to rewatch, and saves push Shorts to similar audiences for weeks."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "fantasy",
+      "whales",
+      "dreamlike"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "paper-airplane-world-tour-kling",
+    "title": "Paper Airplane World Tour — Kling Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "A single paper airplane folds itself, takes off from a desk and glides through world landmarks in one seamless flight — a travel Reels format viewers save for trip ideas and share for the clever transitions.",
+    "prompt": "Playful travel fantasy, a single white paper airplane folds itself on a wooden desk and takes off through an open window [FLIGHT MOMENT: the paper plane gliding over the Eiffel Tower at sunset, looping past café rooftops / the plane swooping through a neon Tokyo alley as lanterns sway below / the plane skimming turquoise waves toward a Santorini cliff as gulls scatter / the plane landing softly on a snowy Alpine train window as peaks glide past], smooth continuous flight, bright joyful color, crisp paper texture, sense of wonder, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Kling and pick ONE [FLIGHT MOMENT] per clip — one landmark per Reel keeps the journey usable; never tour three countries in 15 seconds.",
+      "Keep the same paper plane design across the series (same folds, same tiny red stripe) so viewers follow one character around the world.",
+      "Generate 3 clips per episode (takeoff, landmark glide, landing) and cut them into one 20-30 second Reel with an uplifting travel sound.",
+      "Overlay the landmark name as clean on-screen text — the text is what gets screenshotted and shared to travel group chats.",
+      "Post 4-5 times a week at 6-8 PM PKT and series it by city ('Paper Plane: Kyoto — Part 1') — city series turn one saved Reel into a followed travel account."
+    ],
+    "tips": [
+      "Hook rule: open on the plane already mid-flight over the landmark — the Eiffel Tower in frame one stops the scroll; a desk does not.",
+      "Caption trick: 'Save this flight for your 2027 trip ✈️' — a direct save prompt outperforms any description on travel Reels.",
+      "Comment bait: end with 'Where should the plane fly next?' — destination requests become your next 30 Reels and keep followers commenting."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "travel",
+      "paper-plane",
+      "landmarks"
+    ],
+    "trending": true,
+    "popularity": 87
+  },
+  {
+    "id": "lighthouse-seasons-timelapse-sora",
+    "title": "Lighthouse Through Four Seasons Timelapse — Sora Prompt for Cozy YouTube Niche Channels",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "One lighthouse, four seasons: snow, blossom, summer storms and autumn fog roll past the same lonely tower in a hypnotic timelapse — a calm, bingeable format for cozy and mystery channels alike.",
+    "prompt": "Hypnotic seasonal timelapse, a lone striped lighthouse on a rocky cliff filmed from one fixed viewpoint as the year turns [SEASON MOMENT: heavy snow swirling around the tower as waves crash and the lamp glows amber through the blizzard / cherry blossom petals drifting past the lighthouse on a soft spring morning, calm blue sea below / a summer thunderstorm rolling in, lightning forking behind the tower as rain sweeps the cliff / thick autumn fog swallowing the rocks, the lamp beam cutting slow circles through the mist], same framing every season, cinematic color, peaceful and mysterious, 16:9, photorealistic",
+    "howto": [
+      "Paste the prompt into Sora and pick ONE [SEASON MOMENT] per clip — one season per video keeps the timelapse readable; the fixed viewpoint is what sells the year passing.",
+      "Lock the camera framing in every generation (same cliff, same tower position) so the four clips cut together as one seamless year.",
+      "Generate all four seasons, then stitch them into one 60-90 second video with gentle crossfades and a calm ambient soundtrack.",
+      "Add a soft narrator line per season ('Winter came first...') or let the music carry it — seasonal timelapses win on calm, not on script.",
+      "Post on Sunday evenings when cozy audiences wind down, and pin a comment asking which season viewers would live in — season debates drive long comment threads."
+    ],
+    "tips": [
+      "Hook rule: start the video on the most dramatic season (the thunderstorm) — calm openings lose scrollers; drama first, calm after.",
+      "Consistency trick: repeat the exact lighthouse description word for word in every generation — Sora drifts less when the anchor subject never changes.",
+      "Loop trick: end the autumn fog on a frame that matches the winter snow opening — a perfect loop doubles watch time on Shorts and Reels."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "timelapse",
+      "lighthouse",
+      "cozy"
+    ],
+    "trending": false,
+    "popularity": 82
+  },
+  {
+    "id": "living-stained-glass-runway",
+    "title": "Living Stained-Glass Windows — Runway Prompt for Instagram Art Niche Pages",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "Cathedral stained-glass windows that breathe: saints, foxes and flowers shift and glow as sunlight moves through the glass — a mesmerizing art Reels format that stops the scroll with pure color.",
+    "prompt": "Mesmerizing art animation, a grand cathedral stained-glass window coming alive as sunlight streams through it [GLASS MOMENT: a stained-glass fox stretching and leaping between jewel-toned panels, light flaring with each jump / a glass sunflower slowly blooming, petals of ruby and amber glass unfolding as the sun rises / a stained-glass knight raising a glowing sword, cracks of light spreading across the window like dawn / glass doves bursting from a rose window into colored light, shards reforming behind them], rich jewel tones, glowing lead lines, sacred and playful, slow graceful motion, 9:16 vertical, ultra detailed",
+    "howto": [
+      "Paste the prompt into Runway and pick ONE [GLASS MOMENT] per clip — one living window per Reel keeps the art readable in 8 seconds.",
+      "Keep the same window frame and color palette across the series (same deep blues, rubies and golds) so the page looks like one gallery.",
+      "Generate 2-3 variations per moment and pick the one where the glass movement feels smoothest — jerky glass breaks the spell instantly.",
+      "Pair each clip with choral or ambient music and no voiceover — stained-glass art wins on light and sound, not on explanation.",
+      "Post at golden hour (5-7 PM PKT) when the light theme matches the real sky, and series it by window ('Window 03: The Fox') — numbered art series get collected and shared."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the glass already glowing and moving — a still window reads as a photo; motion in frame one proves it is alive.",
+      "Color trick: name the jewel tones in the prompt (ruby, sapphire, amber) — Runway renders richer glass when colors are named, not just implied.",
+      "Share bait: end with the full window glowing at its brightest — viewers screenshot peak-glow frames as wallpapers, and screenshots are silent shares."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "art",
+      "stained-glass",
+      "mesmerizing"
+    ],
+    "trending": false,
+    "popularity": 80
+  },
+  {
+    "id": "melting-ice-sculpture-flow",
+    "title": "Melting Ice Sculpture Reveal — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A crystal ice sculpture melts in warm light to reveal a glowing treasure hidden inside — a satisfying reveal loop that earns replays, 'what is inside?' comments and effortless Facebook shares.",
+    "prompt": "Satisfying reveal video, a crystal-clear ice sculpture on a dark stone pedestal slowly melting under warm golden light [REVEAL MOMENT: an ice swan melting to reveal a glowing ruby heart beating softly inside / an ice castle dripping away to uncover a tiny golden key frozen at its center / an ice rose melting petal by petal to reveal a sparkling diamond at its core / an ice dragon dissolving into mist to free a glowing pearl], slow drips, sparkling meltwater, dramatic warm-versus-cold light, crisp detail, hypnotic pacing, 9:16 vertical, photorealistic",
+    "howto": [
+      "Paste the prompt into Google Flow and pick ONE [REVEAL MOMENT] per clip — one hidden treasure per Reel keeps the guessing game alive to the last second.",
+      "Keep the pedestal, lighting and camera angle identical across the series so viewers learn the format and stay for the reveal they know is coming.",
+      "Generate the melt in one continuous take if possible, or cut melt-start to reveal in two clips with a seamless drip transition.",
+      "Add a soft dripping-water sound and a rising musical swell at the reveal — the sound swell is what makes viewers feel the payoff.",
+      "Post daily at 7-9 PM PKT and never spoil the treasure in the caption — 'Wait for what is inside...' comments outperform any description."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the sculpture already glistening and dripping — a dry ice block reads as a photo; visible melt proves motion.",
+      "Patience trick: make the reveal arrive in the final 2 seconds — late payoffs earn full watches and replays, which Facebook rewards heavily.",
+      "Series trick: number the sculptures (Sculpture 07: The Swan) — collectors follow numbered reveal series to the end, and the numbering itself becomes the brand."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "satisfying",
+      "reveal",
+      "ice"
+    ],
+    "trending": true,
+    "popularity": 86
+  },
+  {
+    "id": "vintage-scifi-book-covers-midjourney",
+    "title": "Vintage Sci-Fi Book Covers — Midjourney Prompt for Instagram & Facebook Art Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Pulp-era sci-fi book covers that never existed: rocket damsels, chrome robots and ringed planets in faded 1950s print — a nostalgic art format that earns saves, shares and 'I would read this!' comments.",
+    "prompt": "Vintage 1950s pulp science-fiction paperback book cover, [COVER SCENE: a chrome robot offering a rose to a surprised astronaut on a ringed planet, bold painted illustration, dramatic retro typography space / a rocket ship shaped like a silver fish diving toward a purple alien ocean, retro-futuristic painted art, weathered paper texture / a woman in a bubble helmet reading a star map while a three-eyed cat floats beside her, mid-century pulp colors, halftone print dots], faded cream paper, cracked spine, retro color palette of teal, coral and mustard, nostalgic, highly detailed, portrait orientation, no modern text",
+    "howto": [
+      "Paste the prompt into Midjourney and pick ONE [COVER SCENE] per image — one impossible book per post keeps the gallery collectible.",
+      "Run 4 variations per cover and pick the one with the cleanest painted composition — pulp covers win on bold shapes, not on clutter.",
+      "Upscale the winner and add your page watermark in the corner only — never cover the painted art, which is the whole appeal.",
+      "Caption each cover with a fake one-line blurb ('She came to map the stars. The stars mapped her back.') — blurbs make followers comment 'I would read this!'",
+      "Post 3-4 covers a week at 6-8 PM PKT and series them by fake author ('The Zarnak Files, Book 3') — fake series get followed like real ones."
+    ],
+    "tips": [
+      "Hook rule: lead the carousel with the weirdest cover, not the prettiest — a three-eyed cat stops the scroll; a plain rocket does not.",
+      "Texture trick: keep 'weathered paper texture' and 'halftone print dots' in every prompt — the aged print look is what separates pulp art from generic AI art.",
+      "Save bait: post covers as 4-image carousels — collectors save full sets, and carousel saves are Instagram's strongest ranking signal for art pages."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "scifi",
+      "vintage",
+      "book-covers"
+    ],
+    "trending": false,
+    "popularity": 78
+  },
+  {
+    "id": "forgotten-hobby-revival-chatgpt",
+    "title": "Forgotten Hobby Revival Finder — ChatGPT Prompt to Find Dying Hobbies Worth Reviving as Channels",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "Ask ChatGPT to dig up hobbies the internet forgot — letter writing, model railways, kite making — and score each one as a faceless channel idea before anyone else revives it.",
+    "prompt": "You are a niche researcher for faceless content creators. Find 15 forgotten or dying hobbies that could be revived as YouTube or TikTok channels in 2026 — hobbies that were popular 20-50 years ago, have passionate older practitioners, but almost no young creators covering them today (examples of the TYPE I mean: letter writing, model railways, kite making, not these exact ones). For each hobby, give: (1) the hobby and why it faded, (2) who still loves it and where they gather online, (3) 5 faceless video ideas that need no filming of your face, (4) why it could go viral now (nostalgia, ASMR, satisfying process, or teachable skill), (5) a difficulty score 1-10 for starting with only a phone and free AI tools. Rank all 15 by viral potential for a beginner, and finish with your top 3 picks plus the exact first video title for each. Be specific — no generic hobbies everyone already covers.",
+    "howto": [
+      "Copy the full prompt above and paste it into ChatGPT (free version works fine).",
+      "Read the ranked list and circle the 3 hobbies that excite you most — excitement matters, because you will film 30 videos about it.",
+      "Ask the follow-up: 'For hobby #1, write 10 faceless video titles and the hook line for each' to turn the idea into a content plan.",
+      "Check each hobby on YouTube and TikTok search — if fewer than 5 active channels cover it, the revival gap is real.",
+      "Pick one hobby, film the suggested first video this week, and post 3 revival videos before judging the niche."
+    ],
+    "tips": [
+      "Narrow the hunt: add 'in Pakistan' or 'in South Asia' to the prompt to find forgotten local crafts with almost zero English-language competition.",
+      "Ask twice with different decades ('hobbies from the 1970s' vs 'hobbies from the 1990s') — two runs surface completely different revival lists.",
+      "Validate before committing: search each hobby plus 'ASMR' or 'satisfying' — hobbies with a sensory angle (woodwork sounds, paper folding) convert to Shorts far faster."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "niche-discovery",
+      "hobbies"
+    ],
+    "trending": true,
+    "popularity": 84
+  },
+  {
+    "id": "micro-moment-niche-finder-gemini",
+    "title": "Micro-Moment Niche Finder — Gemini Prompt to Find 60-Second Niches Nobody Owns Yet",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "Ask Gemini to hunt for tiny everyday moments — 60 seconds or less — that can become entire Shorts channels, from elevator sounds to key-turning rituals, before the format gets crowded.",
+    "prompt": "You are a Shorts format scout. Find 20 'micro-moment' niches: everyday moments lasting 60 seconds or less that could each support an entire YouTube Shorts or TikTok channel (the TYPE I mean: the sound of a key turning in an old lock, a 30-second window view changing through the day — not these exact ones, find fresh ones). For each micro-moment, give: (1) the moment and why it is satisfying, surprising or nostalgic, (2) the exact 60-second format (what happens at second 0, second 30 and second 55), (3) whether it needs filming, AI generation or screen recording, (4) 3 real channels or accounts doing something adjacent and what they miss, (5) a competition score 1-10 (1 = nobody owns it). Rank all 20 by lowest competition plus highest repeat-watch potential, and end with a 7-day test plan: one micro-moment video per day, what to measure, and when to double down or quit. Be concrete — every idea must be filmable or generatable in under one hour.",
+    "howto": [
+      "Copy the full prompt above and paste it into Gemini.",
+      "Read the ranked list and shortlist the 5 micro-moments with competition scores under 4 — those are the unowned formats.",
+      "Ask the follow-up: 'Write the exact shot list and caption for micro-moment #1' to turn the idea into a shootable video today.",
+      "Film or generate all 7 test videos in one batch, then post one per day — a 7-day test beats a month of debating one idea.",
+      "After 7 days, double down on the moment with the highest average watch percentage, not the highest views — retention is what Shorts reward."
+    ],
+    "tips": [
+      "Filter by your gear: add 'using only a phone, no budget' to the prompt to kill ideas that secretly need drones, studios or actors.",
+      "Run it once per platform ('for TikTok', 'for Facebook Reels') — the same moment scores differently on each platform's audience.",
+      "Steal the format, not the moment: when a micro-moment works, ask Gemini for 10 cousin moments in the same family to build a series, not a one-off."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "youtube",
+      "shorts",
+      "niche-discovery"
+    ],
+    "trending": true,
+    "popularity": 83
+  },
+  {
+    "id": "niche-story-arc-builder-claude",
+    "title": "Niche Story Arc Builder — Claude Prompt to Turn Any Niche Into a 10-Part Story Series",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Intermediate",
+    "desc": "Ask Claude to wrap any niche — cooking, history, pets, money — in a 10-part story arc with cliffhangers, so casual viewers binge the whole series instead of watching one video and leaving.",
+    "prompt": "You are a series architect for faceless creators. I will give you my niche at the end of this prompt. Turn it into a 10-part story series for YouTube Shorts or TikTok where each episode ends on a cliffhanger that makes viewers watch the next one. First, ask me (in your reply, list the questions) for: my niche, my audience, and whether I use AI video, real filming or screen recording. Then, once I answer, build: (1) the series premise in one gripping sentence, (2) the hero or recurring character/object viewers will follow, (3) all 10 episode titles with a 2-line synopsis each, (4) the cliffhanger ending for episodes 1-9, (5) the payoff episode 10 must deliver, (6) a recurring opening line and closing line for the whole series, (7) 3 comment-bait questions that run across the series. Keep every episode under 60 seconds of story. My niche: [PASTE YOUR NICHE HERE]. Rules: no episode may repeat another episode's twist, and the arc must work even if a viewer starts at episode 4.",
+    "howto": [
+      "Copy the full prompt above, replace [PASTE YOUR NICHE HERE] with your niche, and paste it into Claude.",
+      "Answer Claude's 3 setup questions honestly — the arc only fits if the audience and format are real, not guessed.",
+      "Read the 10-episode arc and check the cliffhangers: if episode 5's ending would not make YOU tap next, ask Claude to rewrite that one ending only.",
+      "Produce episodes 1-3 before posting anything — a series with no backlog dies the moment episode 1 goes viral and episode 2 is not ready.",
+      "Post one episode per day at the same time, and pin a playlist or series link on every episode so late joiners can binge from episode 1."
+    ],
+    "tips": [
+      "Start viewers mid-arc: post episode 1 with the caption 'Part 1 — wait for the ending' and episode 4 will still hook new viewers, because Claude designed each episode to stand alone.",
+      "Recycle the arc: once a 10-part series finishes, ask Claude to build 'Season 2' with the same hero but a new mystery — returning viewers are your cheapest growth.",
+      "Measure the arc, not the video: if episode-to-episode retention beats your channel average by 20 percent, the story format works — scale it to every niche you run."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "instagram",
+      "storytelling",
+      "series"
+    ],
+    "trending": false,
+    "popularity": 81
   }
 ];
 
