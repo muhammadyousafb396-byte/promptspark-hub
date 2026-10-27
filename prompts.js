@@ -8211,6 +8211,106 @@ const PROMPTS = [
     "trending": false,
     "popularity": 81
   }
+,
+  {
+    "id": "niche-spotlight-ai-animal-survival-tricks",
+    "title": "AI Animal Survival Tricks (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Animal Survival Tricks — animals with survival tricks that sound fake but are 100% real: a frozen frog, a glowing jellyfish, a slime-cloud hagfish and a regrowing axolotl. Is niche ki videos 198.4M / 172.6M / 149.3M / 121.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-animal-survival-tricks.jpg",
+    "prompt": "Cinematic wildlife documentary scene, unbelievable but 100% real, [SURVIVAL TRICK: a wood frog frozen solid inside a crystal block of ice in a snowy forest, frost sparkling in bright winter light / a glowing immortal jellyfish drifting in deep blue ocean water, soft bioluminescent light / a hagfish releasing a huge cloud of glowing protective slime in deep blue ocean water / a pink axolotl regrowing a tiny new limb in a bright turquoise aquarium], vivid colour, dramatic close-up, jaw-dropping wonder, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one survival trick in Veo 3 per video, swapping only [SURVIVAL TRICK] — one impossible-sounding trick per video keeps the 'sounds fake' hook clean; never list five tricks in one clip.",
+      "Open the script with the fake-sounding claim first ('This frog freezes solid — and comes back to life') then prove it with the science in 2 lines — claim first, proof second is what holds viewers to the end.",
+      "Voice it in ElevenLabs with an amazed documentary tone — survival tricks win on wonder; a flat voice makes a miracle sound like a textbook.",
+      "End every video with 'Which trick shocked you most?' + a second trick teased for Part 2 — the tease turns one viral video into a series viewers follow.",
+      "Post daily at 7-9 PM PKT and series it by animal (Frog Week, Ocean Week) — themed weeks turn curiosity into a daily habit."
+    ],
+    "tips": [
+      "Hook rule: say the impossible thing in the first 3 seconds ('This animal can survive being frozen') — if the claim sounds fake, viewers stay to see the proof.",
+      "Caption trick: 'Sounds fake. It's 100% real. 🐸' — the fake-vs-real tension is the whole niche; put it in every caption.",
+      "Comment bait: end with 'Fake or real? Comment before the reveal' — debate comments push TikTok to show the video to more people."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "animals",
+      "wildlife",
+      "nature",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "niche-spotlight-ai-geopolitics-military-tech",
+    "title": "AI Geopolitics & Military Tech Explained (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Geopolitics & Military Tech Explained — aircraft carriers, hypersonic missiles, stealth submarines and drone swarms explained as high-stakes power stories. Is niche ki videos 44.2M / 33.6M / 26.1M / 18.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-geopolitics-military-tech.jpg",
+    "prompt": "Cinematic geopolitical documentary scene, high-stakes and epic, [GEOPOLITICS STORY: a massive aircraft carrier at golden sunset with fighter jets on deck, ocean spray and dramatic sky / a hypersonic missile streaking through an orange sky leaving a bright vapour trail over mountains / a stealth submarine surfacing through dark arctic ice at dawn in cold blue mist / a swarm of military drones flying in formation over a futuristic city skyline at dusk], movie-trailer lighting, serious and awe-inspiring, 16:9, photorealistic",
+    "howto": [
+      "Generate one power story in Veo 3 per video, swapping only [GEOPOLITICS STORY] — one weapon, one fleet or one standoff per video; never explain three wars in one clip.",
+      "Script each video in ChatGPT as a question + answer arc: 'Why does one aircraft carrier change a whole region?' — a question title promises an answer viewers must stay for.",
+      "Voice it in ElevenLabs with a deep, calm documentary narrator tone — geopolitics lives on authority; hype makes serious power sound like a game.",
+      "Use maps, numbers and comparisons on screen (range, speed, cost) — concrete numbers are what viewers screenshot, quote and argue about.",
+      "Post 2x/week (Monday + Thursday) as a series — 'Power 03: The Submarine Nobody Can Find' — numbered power stories turn casual viewers into subscribers."
+    ],
+    "tips": [
+      "Hook rule: open on the most shocking capability first ('This missile reaches its target in 6 minutes') — capability numbers stop the scroll faster than country names.",
+      "Title trick: use the question formula 'Why [Country] Built [Weapon] — And Why Everyone Is Worried' — the worry in the title promises stakes, not just facts.",
+      "Comment bait: end with 'Deterrent or danger? Comment below' — verdict questions split the audience and double comments."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "geopolitics",
+      "military",
+      "documentary",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "niche-spotlight-ai-tech-gadget-demos",
+    "title": "AI Tech & Gadget Demos (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "AI Tech & Gadget Demos — free AI tools and futuristic gadgets demoed as before → after reveals, with the exact time and money each one saves. Is niche ki videos 176.3M / 148.9M / 122.4M / 96.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-tech-gadget-demos.jpg",
+    "prompt": "Bright modern tech demo scene, exciting and futuristic, [TOOL DEMO: a sleek smartphone floating above a bright desk with glowing holographic app icons around it / a small AI gadget projecting a glowing 3D hologram in a bright modern living room as its owner watches amazed / a smart home gadget gliding through a sunlit stylish apartment, sunbeams through the windows / hands unboxing a shiny new gadget with glowing accents and colourful light], vivid colour, clean light, jaw-dropping reveal energy, 9:16 vertical, photorealistic",
+    "howto": [
+      "Generate one demo in Veo 3 per Reel, swapping only [TOOL DEMO] — one tool or gadget per Reel keeps the payoff readable in 8 seconds; never demo three apps in one clip.",
+      "Script each Reel as before → after: show the painful old way for 3 seconds, then the tool doing it in seconds — the contrast is the whole video.",
+      "Voice it in ElevenLabs with an excited, helpful explainer tone — or use trending tech audio; gadget Reels win when the viewer can already picture using the tool.",
+      "End every Reel with the exact saving ('Saves 10 hours a week' / 'Replaces a $500/month tool') — a concrete saving is what gets screenshotted and shared to group chats.",
+      "Post daily at 7-9 PM PKT and series it by category (AI Tools Week, Smart Home Week) — themed weeks turn one viral demo into a followed tech account."
+    ],
+    "tips": [
+      "Hook rule: open on the result, not the setup ('This free tool just replaced a $500/month software') — the saving stops the scroll; the setup does not.",
+      "Caption trick: 'I wish I knew this sooner 😱' — regret captions make viewers save the Reel so they do not lose the tool.",
+      "Share bait: end with 'Send this to someone who still does this manually' — sending is Facebook's strongest distribution signal for Reels."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "tech",
+      "gadgets",
+      "ai-tools",
+      "faceless",
+      "creator-niche"
+    ],
+    "trending": true,
+    "popularity": 89
+  }
 ];
 
 if (typeof module !== "undefined") {
