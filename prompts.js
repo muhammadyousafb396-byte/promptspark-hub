@@ -8601,6 +8601,106 @@ const PROMPTS = [
   "tool": "Claude",
   "trending": false
 }
+,
+{
+  "id": "niche-spotlight-ai-illusion-cake-reels",
+  "title": "AI Illusion Cake Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Illusion Cake Reels — cakes that look exactly like sneakers, burgers, handbags and avocados until the knife cuts in and reveals rainbow sponge. Is niche ki videos 148.6M / 121.3M / 97.8M / 74.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-illusion-cake-reels.jpg",
+  "prompt": "Hyper-realistic illusion cake video scene, bright and colourful, [ILLUSION OBJECT: a shiny red sneaker cake being sliced to reveal rainbow sponge layers / a giant cheeseburger cake with the top bun lifted to reveal cake layers and dripping cheese frosting / a pink quilted luxury handbag cake cut open to reveal rainbow sponge / a giant avocado cake sliced to reveal green frosting and yellow sponge], knife cutting in slow motion, crumbs and colour bursting out, jaw-dropping reveal, 9:16 vertical, photorealistic",
+  "howto": [
+    "Generate one illusion in Veo 3 per Reel, swapping only [ILLUSION OBJECT] — one object per Reel keeps the 'is it cake?' question clean; never show three cakes in one clip.",
+    "Open with the object looking 100% real for 2 seconds, then cut — the delay before the cut is what makes viewers comment 'no way that's cake'.",
+    "Voice it in ElevenLabs with a playful amazed tone, or use trending audio — illusion cakes win on surprise; a flat voice kills the reveal.",
+    "End every Reel with 'Cake or real? Comment before the cut' + tease the next object — the tease turns one viral Reel into a series viewers follow.",
+    "Post daily at 7-9 PM PKT and series it by category (Sneaker Week, Food Week) — themed weeks turn curiosity into a daily habit."
+  ],
+  "tips": [
+    "Hook rule: hold the real-looking object for 2 full seconds before any cut — if viewers guess 'cake' too early, the surprise dies.",
+    "Caption trick: 'It's ALL cake. 🤯' — the all-cake claim is the whole niche; put it in every caption.",
+    "Save bait: end with 'Save this — which one fooled YOU?' — saves are Instagram's strongest signal for Reels reach."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "cakes",
+    "food",
+    "illusion",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "niche-spotlight-ai-biohacking-longevity-tips",
+  "title": "AI Biohacking & Longevity Tips (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Biohacking & Longevity Tips — ice baths, sunrise runs, deep sleep and superfood mornings, each tip framed as a 30-second experiment on your own body. Is niche ki videos 186.4M / 159.2M / 132.7M / 108.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-biohacking-longevity-tips.jpg",
+  "prompt": "Bright energetic biohacking scene, healthy and aspirational, [BIOHACK: a man energised in a steaming ice bath at golden sunrise with ice cubes floating / a woman running a sunny coastal path at sunrise with a colourful smoothie bowl waiting nearby / a person sleeping deeply in a calm dark-blue bedroom with a glowing sleep tracker on the bedside table / a bright overhead superfood breakfast spread with berries, green smoothie, chia bowls and citrus in morning sunlight], vivid colour, fresh morning light, feel-amazing energy, 9:16 vertical, photorealistic",
+  "howto": [
+    "Generate one biohack in Veo 3 per video, swapping only [BIOHACK] — one habit per video keeps the promise testable; never stack five habits in one clip.",
+    "Script each video as a 7-day experiment: 'I tried ice baths for 7 days — day 1 vs day 7' — a before/after arc is what holds viewers to the end.",
+    "Voice it in ElevenLabs with an upbeat, credible coach tone — biohacking wins on energy; hype without numbers sounds like a sales pitch.",
+    "Put one concrete number on screen in every video (minutes, hours slept, resting heart rate) — a measurable result is what viewers screenshot and try themselves.",
+    "Post daily at 7-9 PM PKT and series it by habit (Sleep Week, Cold Week) — themed weeks turn one viral tip into a followed health account."
+  ],
+  "tips": [
+    "Hook rule: open on the result, not the routine ('I slept 2 hours deeper in 3 nights') — the result stops the scroll; the routine does not.",
+    "Caption trick: 'Try this for 7 days and tell me I'm wrong' — a challenge caption turns viewers into experimenters who come back with results.",
+    "Comment bait: end with 'Which one would YOU try first?' — choice comments push TikTok to show the video to more people."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "health",
+    "biohacking",
+    "longevity",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-dark-history-documentaries",
+  "title": "AI Dark History Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Dark History Documentaries — the castle, the sealed archive, the plague street and the shipwreck: history's darkest chapters told as long-form cinematic mysteries. Is niche ki videos 42.8M / 34.6M / 27.3M / 19.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-dark-history-documentaries.jpg",
+  "prompt": "Cinematic dark history documentary scene, moody and mysterious, [DARK HISTORY SCENE: a stormy medieval castle on a cliff at dusk with lightning and crows / a candlelit archive room with ancient maps, sealed letters and a magnifying glass over a yellowed manuscript / a foggy plague-era street at dawn with a lone hooded figure carrying a lantern / a sunken shipwreck on the dark ocean floor with a treasure chest and shafts of eerie blue light], dramatic shadows, movie-trailer lighting, haunting and awe-inspiring, 16:9, photorealistic",
+  "howto": [
+    "Generate one dark chapter in Veo 3 per video, swapping only [DARK HISTORY SCENE] — one mystery per documentary keeps the question clean; never explain three centuries in one clip.",
+    "Script each video in ChatGPT as a mystery + evidence arc: 'What really happened inside this castle?' — a question title promises an answer viewers must stay for.",
+    "Voice it in ElevenLabs with a deep, slow documentary narrator tone — dark history lives on atmosphere; rushing makes a mystery sound like a list.",
+    "Use dates, maps and primary-source quotes on screen — concrete evidence is what viewers screenshot, quote and argue about in comments.",
+    "Post 2x/week (Monday + Thursday) as a series — 'Dark History 03: The Street Nobody Left' — numbered mysteries turn casual viewers into subscribers."
+  ],
+  "tips": [
+    "Hook rule: open on the darkest detail first ('Nobody who entered this castle came out') — dread stops the scroll faster than a date.",
+    "Title trick: use 'The [Place] Nobody Talks About — And Why' — the silence in the title promises a secret, not just a lesson.",
+    "Comment bait: end with 'Cover-up or coincidence? Comment below' — verdict questions split the audience and double comments."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "history",
+    "documentary",
+    "dark-history",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 88
+}
 ];
 
 if (typeof module !== "undefined") {
