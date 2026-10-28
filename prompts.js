@@ -8310,7 +8310,297 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 89
-  }
+  },
+{
+  "category": "Video Prompts",
+  "desc": "Dozens of tiny hot-air balloons lift off over a mountain village at golden hour — a miniature festival scene built for scroll-stopping Shorts and TikTok loops.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above into the prompt box.",
+    "Set the aspect ratio to 9:16 and the duration to 8 seconds for Shorts and TikTok.",
+    "Generate, then trim the first half-second if the balloons enter too abruptly.",
+    "Loop the clip twice with a soft crossfade for a seamless 16-second festival loop.",
+    "Post with festival, travel and miniature-world hashtags, and pin a comment asking viewers which balloon colour they would ride."
+  ],
+  "id": "tiny-hot-air-balloon-festival-veo3",
+  "popularity": 82,
+  "prompt": "Cinematic wide shot of a tiny mountain village at golden hour, dozens of miniature hot-air balloons in bright red, teal, yellow and purple rising slowly into a warm sunset sky, tiny crowds waving from cobblestone streets below, smoke curling from chimneys, pine trees and snow-capped peaks in the distance, balloons drifting gently upward in a dreamy, magical rhythm, soft golden light, shallow depth of field, photorealistic miniature-world detail, 9:16 vertical, smooth slow camera tilt upward following the balloons, joyful festival atmosphere, ultra detailed",
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "youtube",
+    "festival",
+    "miniature"
+  ],
+  "tips": [
+    "Swap the village for a desert oasis, a coastal town or a snowy valley — one location change gives you a whole festival series.",
+    "Add a gentle music-box or festival soundtrack in your editor; sound is what turns a pretty loop into a save-and-share clip."
+  ],
+  "title": "Tiny Hot-Air Balloon Festival — Veo 3 Prompt for Viral TikTok & YouTube Shorts",
+  "tool": "Veo 3",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A tiny toy workshop diorama springs to life — wooden toys hammer, paint and march off the shelf in a charming miniature world made for Reels.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Kling and paste the full prompt above, keeping the camera direction and 9:16 framing.",
+    "Generate at 5-10 seconds and pick the take where at least two toys are clearly moving.",
+    "Chain two clips with different toy actions for a 15-second Reel with a beginning and an end.",
+    "Add soft toy-shop music and tiny hammer, paint and steam sound effects in your editor.",
+    "Post to Instagram Reels and Facebook with toy, nostalgia and miniature hashtags, and series it by workshop: bakery, garage, space station."
+  ],
+  "id": "living-toy-diorama-workshop-kling",
+  "popularity": 78,
+  "prompt": "Charming stop-motion style scene inside a tiny wooden toy workshop diorama, miniature wooden toys coming to life: a toy train puffs tiny steam, a wooden robot hammers a nail, a toy soldier paints a tiny sign, warm lamplight glowing through small windows, sawdust and wood shavings on the workbench, shelves of colourful toy cars and dolls in soft focus behind, camera slowly pushes in at table level, cosy nostalgic colours, tactile handcrafted texture, photorealistic miniature detail, 9:16 vertical, gentle playful motion, no dialogue, ultra detailed",
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "toys",
+    "miniature"
+  ],
+  "tips": [
+    "Keep one hero toy in the foreground and let the rest move in the background — a clear focal point stops the scroll.",
+    "End on a tiny surprise, like the robot waving at the camera, so viewers rewatch to catch it."
+  ],
+  "title": "Living Toy Diorama Workshop — Kling Prompt for Instagram Reels Niche Pages",
+  "tool": "Kling",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "Ride a gleaming 1920s Art Deco train through mountains and coastline — a slow, luxurious POV journey for cozy faceless travel channels.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Sora and paste the full prompt above into the prompt box.",
+    "Set the aspect ratio to 16:9 and generate a 10-second clip for a long-form travel video.",
+    "Generate three variations with different scenery outside the window — mountains, coast and forest — and stitch them as one journey.",
+    "Lay a slow jazz or lo-fi track underneath and keep the volume low so the visuals breathe.",
+    "Use it as the opening scene of a faceless travel or history video, or loop it as a 1-hour relaxation upload."
+  ],
+  "id": "art-deco-train-journey-sora",
+  "popularity": 80,
+  "prompt": "First-person POV from a window seat on a luxurious 1920s Art Deco train, polished brass fittings, emerald-green velvet seats and geometric gold trim, a cup of tea steaming gently on the table, outside the window golden mountains, pine forests and a sparkling coastline roll past in soft morning light, gentle rhythmic sway of the carriage, sunlight flickering through the window, elegant jazz-age atmosphere, slow cinematic camera drift across the compartment, photorealistic, rich warm colours, 16:9, calm, luxurious and deeply relaxing, ultra detailed",
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "travel",
+    "pov",
+    "cozy"
+  ],
+  "tips": [
+    "Keep the tea cup and window frame in every variation — those two anchors make stitched clips feel like one continuous ride.",
+    "Swap the era: a 1950s sleeper car or a futuristic glass train gives you the same format in a brand-new niche."
+  ],
+  "title": "Art Deco Train Journey POV — Sora Prompt for Cozy YouTube Travel Niches",
+  "tool": "Sora",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A lump of clay morphs into a tiny village, then a castle, then a dragon — a mesmerising stop-motion build loop for TikTok art pages.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Runway and paste the full prompt above, keeping the locked-off overhead camera direction.",
+    "Generate a 5-10 second clip and check the morph reads clearly in three stages: cottage, castle, dragon.",
+    "Loop the clip forward and back with a 0.3-second crossfade so the dragon melts back into clay.",
+    "Add playful plucky music and soft squish sound effects in your editor.",
+    "Post to TikTok and Instagram Reels with clay, stop-motion and satisfying hashtags, and series it by theme: animals, food, cities."
+  ],
+  "id": "clay-world-stop-motion-runway",
+  "popularity": 76,
+  "prompt": "Playful stop-motion clay animation on a bright craft table, a lump of colourful modelling clay squashes, stretches and morphs step by step: first a tiny clay cottage with a red roof, then a castle with towers, then a friendly clay dragon that flaps its wings and winks, fingerprints and craft tools visible for a handmade feel, bright cheerful colours, camera locked off overhead, satisfying tactile squish-and-stretch motion, 9:16 vertical, joyful handmade charm, ultra detailed, no text",
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "stop-motion",
+    "clay",
+    "art"
+  ],
+  "tips": [
+    "Name the three stages in your caption so viewers watch for each transformation instead of swiping past.",
+    "Keep the background plain and bright — busy backgrounds hide the clay morph, which is the whole payoff."
+  ],
+  "title": "Clay World Stop-Motion Build — Runway Prompt for Viral TikTok Art Niches",
+  "tool": "Runway",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "An elaborate sandcastle city rises on the beach, then the tide gently reclaims it — a satisfying build-and-wash-away loop for Facebook Reels.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Google Flow and paste the full prompt above into the prompt box.",
+    "Set the aspect ratio to 9:16 and generate the build-and-wash sequence in one clip.",
+    "If the wash-away happens too fast, regenerate with 'slow, gentle tide' emphasised in the prompt.",
+    "Add soft ocean ambience and keep the audio natural — no music needed for satisfying content.",
+    "Post to Facebook Reels and TikTok with satisfying, beach and timelapse hashtags, and ask viewers whether the castle should be rebuilt bigger next time."
+  ],
+  "id": "sandcastle-city-tide-timelapse-flow",
+  "popularity": 79,
+  "prompt": "Satisfying beach timelapse, an elaborate sandcastle city with towers, bridges, tiny windows and a moat being built grain by grain on golden sand, buckets and shells scattered nearby, bright blue sky and sparkling sea, then the tide rolls in gently and washes the city away in slow, foamy waves, leaving smooth wet sand, camera slowly pulls back at a low angle, warm sunlight, crisp satisfying detail, photorealistic, 9:16 vertical, calm build-up and gentle payoff, ultra detailed",
+  "tags": [
+    "creator-niche",
+    "facebook",
+    "satisfying",
+    "timelapse",
+    "beach"
+  ],
+  "tips": [
+    "The payoff is the wash-away: hold the finished castle on screen for at least 2 seconds before the tide arrives, or viewers feel cheated.",
+    "Series it by structure: sandcastle, sand village, sand dragon — the same prompt, one word swapped, a whole channel format."
+  ],
+  "title": "Sandcastle City Tide Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "tool": "Google Flow",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A night hike through a forest where mushrooms, ferns and fireflies glow electric blue and green — a magical POV for nature and fantasy Shorts.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above, keeping the walking-pace camera direction.",
+    "Set the aspect ratio to 9:16 and generate an 8-second clip for YouTube Shorts.",
+    "Generate a second clip with a new glowing element — a glowing river or a crystal cave — and stitch them as one hike.",
+    "Add soft ambient forest sounds and a slow, mysterious music bed in your editor.",
+    "Post with nature, fantasy and POV hashtags, and series it as 'Night Hikes' through a glowing desert, glowing reef and glowing ice cave."
+  ],
+  "id": "bioluminescent-forest-night-hike-veo3",
+  "popularity": 84,
+  "prompt": "First-person POV night hike through a magical bioluminescent forest, giant mushrooms glowing electric blue and teal, ferns sparkling with tiny green lights, fireflies drifting in slow spirals, a narrow mossy path winding between towering dark trees, mist curling at ground level, a distant waterfall glowing faintly, camera moves forward slowly at walking pace with a gentle natural sway, deep blacks contrasted with vivid neon glow, cinematic, photorealistic, mysterious and awe-inspiring, 9:16 vertical, ultra detailed",
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "nature",
+    "night",
+    "pov"
+  ],
+  "tips": [
+    "Keep the camera slow: fast movement in a dark, glowing scene turns magical into blurry, so walking pace is the format.",
+    "End the clip on the brightest reveal — the waterfall or a giant glowing mushroom — so the loop restarts on a high."
+  ],
+  "title": "Bioluminescent Forest Night Hike — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "tool": "Veo 3",
+  "trending": false
+},
+{
+  "category": "Image Prompts",
+  "desc": "Floating cities above the clouds, rendered in dreamy golden-hour concept art — a 4-image pack for fantasy Instagram theme pages and wallpapers.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Midjourney and paste the full prompt above, including the aspect-ratio and version flags.",
+    "Generate the 4-image grid and upscale your favourite city, then run two variations with different times of day.",
+    "Swap 'golden hour' for 'stormy twilight' or 'moonlit' to build a 4-image carousel from one prompt.",
+    "Post as an Instagram carousel with a 'which city would you live in?' caption to drive saves and comments.",
+    "Offer the best image as a free phone wallpaper in your bio link to convert followers into an email list."
+  ],
+  "id": "cloud-city-concept-art-midjourney",
+  "popularity": 77,
+  "prompt": "Breathtaking fantasy concept art of a floating city above a sea of clouds at golden hour, white marble towers with golden domes connected by arched bridges, hot-air balloons and flying ships drifting between spires, waterfalls pouring off the edge of floating islands into the clouds below, tiny figures walking on sky bridges, warm golden light breaking through soft clouds, epic scale, dreamy painterly detail, cinematic composition, ultra detailed, --ar 4:5 --style raw --v 6.1",
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "fantasy",
+    "concept-art",
+    "wallpaper"
+  ],
+  "tips": [
+    "Keep the --ar 4:5 ratio for Instagram feed posts; re-run at 9:16 for Stories and Reels covers from the same prompt.",
+    "Add one tiny human figure in every city — scale figures are what make fantasy art feel epic instead of empty."
+  ],
+  "title": "Cloud City Concept Art Pack — Midjourney Prompt for Fantasy Instagram Pages",
+  "tool": "Midjourney",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "Mine forgotten jobs — lamplighters, switchboard operators, town criers — for faceless history and craft channels nobody else is making.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above exactly as written.",
+    "Read the ranked list and shortlist the 3 professions with the highest combined visual and story scores.",
+    "Ask ChatGPT to expand your chosen profession into 10 episode titles with a one-line hook for each.",
+    "Check the top 3 ideas on YouTube search to confirm the niche is genuinely underserved before committing.",
+    "Pick one profession, publish the 12-video launch plan, and keep the other two as backup channels."
+  ],
+  "id": "dead-professions-revival-finder-chatgpt",
+  "popularity": 81,
+  "prompt": "You are a YouTube niche researcher specialising in forgotten professions. Find 15 professions that have mostly or completely disappeared in the last 150 years. For each profession, give: (1) the job title and the years it existed, (2) a one-sentence description of what a day in the job looked like, (3) the single most surprising or dramatic fact about it, (4) a faceless video idea for it with a curiosity-gap title under 60 characters, (5) a score from 1-10 for visual potential and a score from 1-10 for story potential, and (6) whether it suits YouTube long-form, Shorts, TikTok or Facebook Reels best. Rank the 15 by combined score. Exclude jobs that are already saturated on YouTube, such as blacksmiths and lighthouse keepers. End with your top 3 picks and a 30-day launch plan for the number one pick: 12 video titles in posting order.",
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "niche-discovery",
+    "history",
+    "faceless"
+  ],
+  "tips": [
+    "Ask for professions from one country or era at a time — 'Victorian London' or '1950s America' gives far more specific, filmable ideas than a global list.",
+    "The surprising fact is the video: build every script around fact number 3, not around the job description."
+  ],
+  "title": "Dead Professions Revival Finder — ChatGPT Prompt to Find Forgotten-Job Creator Niches",
+  "tool": "ChatGPT",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "Map every seasonal spike in your niche across 12 months, so you publish each video 4 weeks before its peak instead of after it.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Gemini and paste the full prompt above, replacing [YOUR NICHE] with your actual niche.",
+    "Copy the 12-month table into a spreadsheet and add a status column for each video.",
+    "Film the biggest spike month's videos first, even if that month is far away — seasonal content cannot be rushed.",
+    "Schedule each video for its listed publish date, 4 weeks before the spike, not on the event day.",
+    "Re-run the prompt every 6 months with your analytics added, so the calendar learns what actually spiked for your channel."
+  ],
+  "id": "seasonal-niche-spike-calendar-gemini",
+  "popularity": 80,
+  "prompt": "You are a content strategist who plans channels around seasonal search spikes. My niche is: [YOUR NICHE, e.g. cozy home cooking]. Build a 12-month calendar, one row per month, with: (1) the 3 seasonal events, holidays or weather shifts that spike interest in this niche that month, (2) the exact search phrases people type for each event, (3) 4 video ideas per month with curiosity-gap titles, one per week, (4) the publish date for each video — exactly 4 weeks before the spike — and (5) one evergreen video idea per month that works all year. Mark the 3 biggest spike months of the year in bold. Then add a 'shoulder season' section: 8 video ideas for the 2 quietest months that keep the channel growing when nobody is searching. Finish with a checklist of 5 things to prepare 6 weeks before the biggest spike month.",
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "youtube",
+    "seasonal",
+    "planning"
+  ],
+  "tips": [
+    "The 4-week lead is the whole trick: most creators publish ON the holiday, when the spike is already over and competition is at its peak.",
+    "Pair each seasonal video with one evergreen video the same week, so a missed spike never leaves your channel empty."
+  ],
+  "title": "Seasonal Niche Spike Calendar — Gemini Prompt to Map 12 Months of Viral Niches",
+  "tool": "Gemini",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "Turn any niche into a complete channel identity — name, tagline, logo brief, banner brief, voice, thumbnail style and positioning — in one Claude session.",
+  "difficulty": "Advanced",
+  "howto": [
+    "Open Claude and paste the full prompt above, filling in your niche and your one-sentence viewer description.",
+    "Pick the top name, then search it on YouTube, TikTok and Instagram to confirm it is genuinely available.",
+    "Generate the logo and banner from Claude's briefs before you publish anything — a channel with a finished look converts far better.",
+    "Save the thumbnail system and voice brief as your production checklist, and check every video against them before upload.",
+    "Re-run the prompt for a second channel only after the first channel's brand is live; one finished brand beats two half-built ones."
+  ],
+  "id": "faceless-channel-brand-bible-claude",
+  "popularity": 83,
+  "prompt": "You are a YouTube brand strategist for faceless channels. My niche is: [YOUR NICHE] and my target viewer is: [DESCRIBE YOUR VIEWER IN ONE SENTENCE]. Build my complete channel brand bible. (1) 10 channel name options, each under 20 characters, with a one-line reason each name works, and your top pick explained. (2) A tagline under 10 words and a 3-sentence channel description. (3) A logo brief for an AI image generator: exact colours with hex codes, central symbol, style, and what to avoid. (4) A banner brief: layout, colours, text and the safe-area rule. (5) A voice brief: tone, pace, sentence style and 3 example opening lines. (6) A thumbnail system: background style, text colour and size rule, one recurring visual element, and 3 example thumbnail texts. (7) A positioning statement: what this channel is, who it is for, and what it will never post. (8) 5 content pillars with 3 video ideas each. Every choice must fit the niche and the viewer — no generic advice, and no name that already belongs to a famous channel in this niche.",
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "branding",
+    "faceless",
+    "strategy"
+  ],
+  "tips": [
+    "The viewer sentence is the input that matters: 'stressed office workers who watch at midnight' produces a completely different brand from 'curious teenagers' — be specific.",
+    "Lock the recurring thumbnail element early; recognisability at small size is what turns one viral video into returning subscribers."
+  ],
+  "title": "Faceless Channel Brand Bible — Claude Prompt to Name, Brand & Position Any Niche Channel",
+  "tool": "Claude",
+  "trending": false
+}
 ];
 
 if (typeof module !== "undefined") {
