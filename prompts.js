@@ -8700,7 +8700,247 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 88
-}
+},
+  {
+    id: "floating-cloud-night-market-veo3",
+    title: "Floating Cloud Night Market — Veo 3 Prompt for Viral TikTok Fantasy Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Beginner",
+    desc: "A night market floating on clouds, with lantern boats, glowing stalls and shoppers drifting between the stars — a dreamlike fantasy niche built to stop the TikTok scroll.",
+    prompt: "Cinematic fantasy video of a floating night market drifting on soft clouds high above a sleeping city, [STALL: a lantern boat selling glowing mooncakes / a cloud stall pouring rainbow tea that sparkles / a tiny shop selling bottled starlight / a floating dumpling stand with steam curling into the night sky], warm golden lantern light, deep blue starry sky, gentle drifting camera movement, vendors smiling and waving, magical mist swirling between stalls, photorealistic, ultra detailed, 9:16 vertical, dreamlike and joyful",
+    howto: [
+      "Open Veo 3 and paste the prompt, keeping one [STALL] option per clip so each video has a single clear wonder to focus on.",
+      "Generate in 9:16 vertical for TikTok and YouTube Shorts, then watch for the lantern glow — warm light is what makes the fantasy feel real.",
+      "Chain 3 to 4 clips with different stalls into one 30-second market tour, adding a soft whoosh sound between scenes.",
+      "Add calm magical music and a text hook in the first second, such as 'A market that only appears at midnight...'.",
+      "Post as a series — 'Cloud Market 01, 02, 03' — so viewers follow the market from stall to stall and keep coming back."
+    ],
+    tips: [
+      "Swap the stall every video: one stall per post keeps the niche fresh for months without repeating a single scene.",
+      "End with a question — 'Which stall would you visit first?' — to turn wonder into comments and shares.",
+      "Keep the camera slow and drifting; fast cuts break the dream and make the clouds look cheap."
+    ],
+    tags: ["creator-niche", "tiktok", "fantasy", "faceless", "veo-3"],
+    trending: true,
+    popularity: 87
+  },
+  {
+    id: "sunken-city-glass-boat-tour-veo3",
+    title: "Sunken City Glass-Boat Tour — Veo 3 Prompt for Faceless YouTube Discovery Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Intermediate",
+    desc: "A glass-bottom boat glides over a drowned ancient city — marble streets, a flooded library and a sunken statue garden revealed through crystal-clear water.",
+    prompt: "Cinematic glass-bottom boat tour over a sunken ancient city in crystal-clear turquoise water, seen from above the transparent boat floor, [LANDMARK BELOW: a marble avenue lined with toppled columns / a flooded library with open stone books / a statue garden of giant marble faces / a drowned amphitheatre covered in coral], sunlight rippling through the water, fish drifting between ruins, gentle boat sway, camera slowly panning down through the glass, awe-inspiring and mysterious, 16:9, photorealistic, ultra detailed",
+    howto: [
+      "Open Veo 3 and paste the prompt, choosing one [LANDMARK BELOW] per clip so each reveal lands as its own discovery.",
+      "Generate in 16:9 for YouTube, keeping the camera slow — the reveal through the glass floor is the hook, so never rush it.",
+      "Narrate each landmark as a mystery: name it, date it, then ask what sank it, so viewers stay for the answer.",
+      "Layer gentle water and boat-creak sounds under the narration, with no loud music fighting the atmosphere.",
+      "Build a series around one sunken city per episode, with a map graphic at the start showing where the boat is heading next."
+    ],
+    tips: [
+      "Open on the clearest water shot first — viewers must see the ruins instantly or they scroll past the mystery.",
+      "Use the title pattern 'The City Underwater Nobody Can Visit' — forbidden access is a proven curiosity hook.",
+      "Add one surprising fact per landmark on screen; facts are what viewers screenshot and share."
+    ],
+    tags: ["creator-niche", "youtube", "history", "faceless", "veo-3"],
+    trending: false,
+    popularity: 83
+  },
+  {
+    id: "shadow-puppet-theatre-kling",
+    title: "Shadow Puppet Theatre Comes Alive — Kling Prompt for YouTube Storytelling Niches",
+    category: "Video Prompts",
+    tool: "Kling",
+    difficulty: "Intermediate",
+    desc: "Hand-cut shadow puppets step off the screen and act out folk tales, myths and bedtime stories — a low-cost storytelling niche with a handmade, magical feel.",
+    prompt: "Warm shadow puppet theatre performance on a glowing linen screen, intricate hand-cut paper puppets of [STORY: a clever fox outwitting a sleepy bear / a tiny knight facing a paper dragon / a fisherman bargaining with the moon / a grandmother telling the wind a secret], puppets moving with smooth, expressive gestures, flickering warm lamp light, visible puppet sticks casting soft shadows, audience silhouettes watching in wonder, cinematic close-ups, 16:9, storybook magic, ultra detailed",
+    howto: [
+      "Open Kling and paste the prompt, picking one [STORY] per video so each tale has a clear hero, problem and twist.",
+      "Generate in 16:9 for YouTube, then narrate the tale in a slow storyteller voice — the puppets carry the pictures, your voice carries the meaning.",
+      "Keep each story under 90 seconds for Shorts, or expand to 5 minutes with three puppet scenes for a long-form episode.",
+      "Add soft folk music and paper-rustle sounds; silence between lines makes the lamp-lit atmosphere feel ancient and real.",
+      "Publish one folk tale a week from a different country each time, so the channel becomes a world tour of shadow stories."
+    ],
+    tips: [
+      "Give every puppet one unforgettable gesture — the fox's sly head-tilt, the dragon's slow blink — viewers remember gestures, not plots.",
+      "End with a moral in one sentence on screen; parents save and share stories that teach something gentle.",
+      "Reuse the same puppet cast across stories: returning characters turn one-off viewers into subscribers."
+    ],
+    tags: ["creator-niche", "youtube", "storytelling", "faceless", "kling"],
+    trending: false,
+    popularity: 79
+  },
+  {
+    id: "one-room-100-years-sora",
+    title: "One Room, 100 Years — Sora Prompt for Faceless YouTube History Niches",
+    category: "Video Prompts",
+    tool: "Sora",
+    difficulty: "Beginner",
+    desc: "One fixed camera watches the same room change across 100 years — gas lamps to smartphones, cradle to armchair — history told without a single actor on screen.",
+    prompt: "Fixed-camera time-lapse of the same small room transforming across 100 years, [DECADE: 1920s gas lamp and gramophone / 1950s television and Formica table / 1980s boombox and posters / 2020s laptop, plants and LED lights], furniture morphing smoothly, wallpaper and light changing with each era, seasons passing at the window, people appearing only as soft blurs, nostalgic and haunting, camera never moves, 16:9, photorealistic, ultra detailed",
+    howto: [
+      "Open Sora and paste the prompt, generating one [DECADE] clip at a time with the exact same room description so the morphs match.",
+      "Stitch the decade clips in order with a slow crossfade and a year counter ticking in the corner — the counter is the hook viewers watch.",
+      "Narrate one human detail per decade, such as 'In 1952, this room heard its first television', to make history feel lived-in.",
+      "Use era-correct music that fades between decades, from crackling jazz to soft electronic hum.",
+      "Turn it into a series: one room per episode — a kitchen, a classroom, a barbershop — each spanning the same 100 years."
+    ],
+    tips: [
+      "Never move the camera: the fixed frame is what makes 100 years feel like magic instead of a montage.",
+      "Put the year counter on screen from the first second — viewers stay to see which year comes next.",
+      "Ask viewers in the comments which decade they would live in; era debates drive long comment threads."
+    ],
+    tags: ["creator-niche", "youtube", "history", "faceless", "sora"],
+    trending: false,
+    popularity: 85
+  },
+  {
+    id: "living-ink-painting-runway",
+    title: "Living Ink Painting — Runway Prompt for Viral Instagram Art Niches",
+    category: "Video Prompts",
+    tool: "Runway",
+    difficulty: "Intermediate",
+    desc: "A traditional ink painting wakes up: mountains breathe mist, cranes take flight and brushstrokes ripple like water — fine art that moves, made for Instagram Reels.",
+    prompt: "Traditional East Asian ink painting coming alive, black ink brushstrokes on rice paper, [SCENE: mist rolling over ink mountains as a crane takes flight / a bamboo forest swaying as rain begins to fall / a lone fisherman whose boat drifts across a rippling ink river / cherry blossom petals scattering from a painted branch], ink bleeding softly at the edges, paper texture visible, slow elegant camera drift, serene and mesmerising, 9:16 vertical, artistic, ultra detailed",
+    howto: [
+      "Open Runway and paste the prompt, choosing one [SCENE] per Reel so the ink has one clear movement to perform.",
+      "Generate in 9:16 vertical for Instagram Reels, keeping motion slow — ink art hypnotises when it breathes, not when it rushes.",
+      "Loop the clip seamlessly by fading the last frame into the first, so viewers watch it two or three times before realising.",
+      "Add a single brushstroke sound and soft flute or piano music; near-silence is part of the calm.",
+      "Post daily as a 'living painting' series with the painting's name in the caption, building a gallery followers collect."
+    ],
+    tips: [
+      "Keep the palette to black ink plus one accent colour — restraint is what makes ink art look expensive.",
+      "Caption with the question 'Would you hang this on your wall?' to invite saves, which Instagram rewards heavily.",
+      "Batch five scenes in one session and schedule them across the week for a consistent gallery feed."
+    ],
+    tags: ["creator-niche", "instagram", "art", "faceless", "runway"],
+    trending: false,
+    popularity: 76
+  },
+  {
+    id: "paper-crane-four-seasons-flow",
+    title: "Paper Crane Flies Through Four Seasons — Google Flow Prompt for Satisfying Facebook Reels",
+    category: "Video Prompts",
+    tool: "Google Flow",
+    difficulty: "Beginner",
+    desc: "One folded paper crane glides through spring blossom, summer rain, autumn leaves and winter snow in a single unbroken flight — a gentle, shareable journey for Facebook Reels.",
+    prompt: "A single delicate origami paper crane flying in one smooth unbroken journey through four seasons, [SEASON: spring cherry blossom petals swirling / summer rain sparkling in golden light / autumn red and gold leaves tumbling / winter snowflakes drifting over a frozen lake], crane wings flapping softly, camera gliding behind it, warm hopeful light, peaceful and uplifting, satisfying motion, 9:16 vertical, cinematic, ultra detailed",
+    howto: [
+      "Open Google Flow and paste the prompt, generating one [SEASON] segment at a time with the same crane description so the flight stays continuous.",
+      "Join the four seasons in order with invisible cuts on the crane's wingbeats, so the journey feels like one magical flight.",
+      "Add gentle piano music that swells in summer and softens in winter, matching the crane's journey to the seasons.",
+      "Post in 9:16 vertical for Facebook Reels with the caption 'One crane. Four seasons. One journey.'",
+      "Repurpose the same flight for every seasonal holiday by re-captioning it — spring for new beginnings, winter for hope."
+    ],
+    tips: [
+      "Keep the crane in the centre of every frame; viewers follow one small hero through a big changing world.",
+      "End on the crane landing safely — a soft landing gives viewers the satisfying payoff they share.",
+      "Ask 'Which season was your favourite?' in the caption to spark easy, friendly comments."
+    ],
+    tags: ["creator-niche", "facebook", "satisfying", "faceless", "google-flow"],
+    trending: false,
+    popularity: 81
+  },
+  {
+    id: "cozy-treehouse-interiors-midjourney",
+    title: "Cozy Fantasy Treehouse Interiors — Midjourney Prompt for Instagram Cozy Pages",
+    category: "Image Prompts",
+    tool: "Midjourney",
+    difficulty: "Beginner",
+    desc: "Dreamy treehouse rooms wrapped around ancient trunks — reading nooks, tiny kitchens and lantern-lit bedrooms that cozy Instagram pages save by the thousand.",
+    prompt: "Cozy fantasy treehouse interior wrapped around a giant ancient tree trunk, [ROOM: a circular reading nook with a window seat and stacked books / a tiny kitchen with a wood stove and hanging herbs / a lantern-lit bedroom with a rope bridge outside the window / a tea room with moss cushions and a kettle steaming], warm golden lamplight, wooden beams and woven rugs, rain softly falling outside, storybook charm, inviting and peaceful, --ar 4:5 --style raw --v 6.1",
+    howto: [
+      "Open Midjourney and paste the prompt, picking one [ROOM] per image so each post shows a complete, livable space.",
+      "Generate in 4:5 portrait for the Instagram feed, then upscale the cosiest version and check the lamplight feels warm, not orange.",
+      "Post as a carousel of four rooms from the same treehouse, so followers swipe through a whole home in one post.",
+      "Caption each room with one sensory detail — 'the smell of rain and old books' — to make followers imagine living there.",
+      "Build a series around one treehouse per week, naming it in the caption so followers return to see the next room."
+    ],
+    tips: [
+      "Always include a window with weather outside; the inside-outside contrast is what makes a room feel cosy.",
+      "Keep the trunk visible in every room — it is the signature that ties the whole treehouse series together.",
+      "Ask followers to claim a room in the comments; claimed rooms get saved and shared far more."
+    ],
+    tags: ["creator-niche", "instagram", "cozy", "fantasy", "midjourney"],
+    trending: false,
+    popularity: 74
+  },
+  {
+    id: "local-legends-niche-finder-chatgpt",
+    title: "Local Legends Niche Finder — ChatGPT Prompt to Turn Hometown Stories Into Viral Channels",
+    category: "Text Prompts",
+    tool: "ChatGPT",
+    difficulty: "Beginner",
+    desc: "Mine the haunted houses, lost treasures and strange characters of your own town for a channel nobody else on Earth can copy — local stories with global curiosity.",
+    prompt: "Act as a viral niche researcher for faceless YouTube and TikTok channels. I live in [YOUR TOWN OR REGION]. Research-style brainstorm: list 20 local legends, mysteries, forgotten places and colourful characters from my area that could each become a video series, including haunted buildings, unsolved events, lost treasures, strange local traditions and eccentric historical figures. For each idea give: a curiosity-driven video title, a one-line hook, why viewers outside my town would care, and whether it suits YouTube long-form, TikTok Shorts or Facebook Reels. Then rank the top 5 by uniqueness, story depth and how hard they would be for another creator to copy. Finish with a 30-day posting plan for the number one niche, with one video idea per day.",
+    howto: [
+      "Open ChatGPT and paste the prompt, replacing [YOUR TOWN OR REGION] with your real town, city or region.",
+      "Read the ranked top 5 first and pick the niche with the strongest stories, not just the strangest title.",
+      "Ask ChatGPT to expand the winning niche into 10 full video scripts with hooks, so you launch with a backlog, not one video.",
+      "Verify every legend against two local sources before filming — local viewers will correct errors fast and publicly.",
+      "Post the first video with your town's name in the title; locals share it first, and the algorithm carries it outward."
+    ],
+    tips: [
+      "Your unfair advantage is access: film the real street, the real building, the real archive — stock footage cannot compete.",
+      "Interview one older local per month; their voice makes the channel uncopyable and deeply trusted.",
+      "Never invent a legend wholesale — embellish the telling, never the facts, or local trust collapses."
+    ],
+    tags: ["creator-niche", "youtube", "tiktok", "niche-discovery", "chatgpt"],
+    trending: true,
+    popularity: 86
+  },
+  {
+    id: "viral-challenge-inventor-gemini",
+    title: "Viral Challenge Inventor — Gemini Prompt to Create Original TikTok & Reels Challenges",
+    category: "Text Prompts",
+    tool: "Gemini",
+    difficulty: "Intermediate",
+    desc: "Invent original, safe, copyable challenges people can film in 15 seconds — with the hook, the rules and the hashtag ready — instead of copying last month's trend.",
+    prompt: "Act as a viral challenge designer for TikTok and Instagram Reels. My niche is [YOUR NICHE, e.g. cooking, fitness, books, pets]. Invent 15 original video challenges that viewers can copy in under 15 seconds with a phone and no special equipment. Each challenge must be safe, legal and kind, and include: a catchy challenge name, a 3-second hook line, 3 simple rules anyone can follow, a suggested sound or music style, an on-screen text template, and a hashtag. At least 5 challenges must work without showing a face. Then pick the 3 most likely to spread, explain the psychology behind each — why people will copy it, tag friends and duet it — and give me a 7-day launch plan: day-by-day posts, who to tag first, and how to seed the challenge with 5 starter videos.",
+    howto: [
+      "Open Gemini and paste the prompt, replacing [YOUR NICHE] with the niche your page already serves.",
+      "Shortlist the 3 challenges Gemini flags as most spreadable, then film all 5 starter videos yourself before anyone else sees the idea.",
+      "Launch on TikTok first with the hashtag in the caption and on screen, then repost the same challenge to Reels the next day.",
+      "Reply to every early duet and stitch in the first 48 hours — early replies are what turn a challenge into a movement.",
+      "Track which challenge gets copied most, then build a part 2 with a harder twist for the people who finished part 1."
+    ],
+    tips: [
+      "A challenge spreads when the rules fit in one breath — if you cannot explain it in 5 seconds, simplify it.",
+      "Never launch a challenge that needs money, danger or embarrassment; safe challenges get shared by parents and brands.",
+      "Name the challenge after the action, not yourself — 'The 5-Second Swap' travels further than a personal brand name."
+    ],
+    tags: ["creator-niche", "tiktok", "instagram", "viral", "gemini"],
+    trending: false,
+    popularity: 84
+  },
+  {
+    id: "niche-documentary-series-pitch-claude",
+    title: "Niche Documentary Series Pitch — Claude Prompt to Turn Any Niche Into a Netflix-Style Series for YouTube",
+    category: "Text Prompts",
+    tool: "Claude",
+    difficulty: "Advanced",
+    desc: "Turn a small niche into a prestige documentary series: episode arcs, cliffhangers, characters and a pitch document that makes a faceless channel feel like a streaming show.",
+    prompt: "Act as a documentary series showrunner. My niche is [YOUR NICHE] and my channel is faceless, using AI visuals and narration. Design a 10-episode documentary series in the style of a prestige streaming show: a series title and one-line logline, a central mystery or question that runs across all 10 episodes, one episode title and 3-sentence synopsis per episode, each ending on a cliffhanger, 3 recurring characters or voices viewers will follow, the visual style and narration tone for the whole series, and a cold-open hook for episode 1 that grabs viewers in 20 seconds. Then write a one-page pitch document I can read aloud as a channel trailer, and a production plan: how many AI clips, voiceover minutes and research hours each episode needs, and a realistic weekly schedule for one solo creator.",
+    howto: [
+      "Open Claude and paste the prompt, replacing [YOUR NICHE] with the niche you want to elevate into a series.",
+      "Read the full 10-episode arc before filming anything — a series only works when episode 10 is planned before episode 1 airs.",
+      "Turn the pitch document into a 60-second channel trailer, then publish episode 1 the same week so curiosity converts to subscribers.",
+      "Release weekly on the same day and time, ending every episode with a 15-second preview of the next cliffhanger.",
+      "After episode 3, ask viewers to vote on one mystery thread in the comments, and weave the winning thread into episode 6."
+    ],
+    tips: [
+      "One central mystery beats ten separate topics: viewers binge a question, not a playlist of facts.",
+      "Give the series a consistent opening ritual — same music, same map, same phrase — so episode 4 feels like coming home.",
+      "Keep research notes for every claim in a single document; documentary credibility is the niche's whole brand."
+    ],
+    tags: ["creator-niche", "youtube", "documentary", "series", "claude"],
+    trending: false,
+    popularity: 82
+  }
 ];
 
 if (typeof module !== "undefined") {
