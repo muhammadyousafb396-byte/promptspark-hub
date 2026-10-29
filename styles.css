@@ -171,3 +171,9 @@ footer{border-top:1px solid var(--line);margin-top:60px;background:#080b14}
   .filter-label{min-width:0}
   .hero{padding:44px 16px 24px}
 }
+
+/* Sister-sites cross-links (2026-10-29) — footer block shared by all 4 sites */
+.sister-sites{margin-top:22px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13.5px;line-height:1.7}
+.sister-sites strong{color:#fff}
+.sister-sites a{display:inline;color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+.sister-sites a:hover{color:var(--amber)}
