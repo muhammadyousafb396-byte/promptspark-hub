@@ -8940,7 +8940,109 @@ const PROMPTS = [
     tags: ["creator-niche", "youtube", "documentary", "series", "claude"],
     trending: false,
     popularity: 82
-  }
+  },
+{
+  "id": "niche-spotlight-ai-fish-science-facts",
+  "title": "Fish Science & Animal Facts (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Fish Science & Animal Facts — one jaw-dropping ocean fact per Reel: the glowing anglerfish, the tornado school, the gentle whale shark. Wonder that viewers share to be first with the fact. Is niche ki videos 187.4M / 154.8M / 129.3M / 103.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-fish-science-facts.jpg",
+  "prompt": "Cinematic underwater fish science video, vivid and curious, [FISH FACT SCENE: a glowing anglerfish hunting in the deep dark with its bioluminescent lure / a swirling tornado school of neon fish over a coral reef / a giant whale shark gliding beside a tiny snorkeller / a betta fish flaring its rainbow fins like a flag], one jaw-dropping fact revealed on screen, crystal-clear water, sunlight rays, photorealistic, 9:16 vertical, 8-15 seconds",
+  "howto": [
+    "Generate one fish fact in Veo 3 per Reel, swapping only [FISH FACT SCENE] — one species, one fact per Reel keeps the 'I had no idea' moment clean; never cram three fish into one clip.",
+    "Open on the strangest visual first (the glowing lure, the tornado school) and reveal the fact at second 3 — the visual earns the watch, the fact earns the share.",
+    "Script each Reel in ChatGPT as fact + proof: 'This fish has no stomach — here's what happens to its food' — a fact with a follow-up question keeps viewers to the end.",
+    "Voice it in ElevenLabs with a curious, amazed documentary tone, or use trending audio — fish science wins on wonder; a flat voice makes a miracle sound like homework.",
+    "Post daily at 7-9 PM PKT as a series — 'Fish Fact 01, 02, 03' — numbered facts turn one viral Reel into a daily habit viewers follow."
+  ],
+  "tips": [
+    "Hook rule: lead with the impossible fact in the first 2 seconds ('This fish can survive being frozen solid') — disbelief stops the Facebook scroll faster than beauty.",
+    "Caption trick: 'Tag someone who loves the ocean 🌊' — tagging turns a fact into a share, and shares are Facebook's strongest reach signal.",
+    "Comment bait: end with 'Real or AI? Comment before you Google it' — the debate doubles comments and pushes the Reel to new audiences."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "fish",
+    "animals",
+    "science",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 90
+}
+,
+{
+  "id": "niche-spotlight-ai-talking-objects-drama",
+  "title": "AI Talking Objects Family Drama (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Talking Objects Family Drama — the angry kettle, the smug fridge and the wise pressure cooker argue like a real family. Household objects with feelings viewers recognise from their own kitchen. Is niche ki videos 164.9M / 138.2M / 112.7M / 89.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-talking-objects-drama.jpg",
+  "prompt": "Cute Pixar-style 3D talking-object drama scene, bright and expressive, [TALKING OBJECT: an angry red kettle shouting steam while a worried chilli pepper listens / a sad old shoe comforted by a tiny sneaker at the front door / a smug fridge in sunglasses guarding midnight snacks / a wise pressure cooker telling stories to three little teacups], big expressive eyes, clear emotions, one funny relatable line of dialogue, warm colourful kitchen lighting, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one object drama in Veo 3 per Reel, swapping only [TALKING OBJECT] — one character, one grievance per Reel keeps the joke clean; never introduce three new characters in one clip.",
+    "Give every object a fixed personality and keep it identical across Reels (the angry kettle is always angry) — recurring characters turn viewers into fans who follow the 'cast'.",
+    "Script each Reel in ChatGPT as a 3-beat domestic drama: complaint + escalation + punchline — a real family argument, told by kitchen objects, is what makes people tag their siblings.",
+    "Voice it in ElevenLabs with a distinct voice per character (gruff kettle, squeaky chilli) — the voice IS the character; the same voice for everyone kills the drama.",
+    "Post daily at 7-9 PM PKT as an ongoing series — 'Kettle vs Fridge, Episode 04' — numbered episodes turn one viral Reel into a soap opera viewers return for."
+  ],
+  "tips": [
+    "Hook rule: open mid-rant ('I have been on this stove for ELEVEN years!') — a complaint already in progress stops the scroll; a calm introduction does not.",
+    "Caption trick: 'Which object in YOUR kitchen talks like this? 😂' — the personal question turns viewers into commenters naming their own kettle.",
+    "Save bait: end with 'Save this for the next family dinner' — saves are Instagram's strongest signal, and family-drama Reels get saved to send to relatives."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "talking-objects",
+    "comedy",
+    "drama",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
+,
+{
+  "id": "niche-spotlight-ai-cooking-hacks",
+  "title": "AI Cooking Hacks (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Cooking Hacks — one clever kitchen trick per TikTok: garlic in seconds, the $100 steak finish, the avocado rose. Useful tricks viewers save for tonight's dinner. Is niche ki videos 203.7M / 176.4M / 148.9M / 121.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-cooking-hacks.jpg",
+  "prompt": "Fast mouth-watering cooking hack video, overhead hands-only, [COOKING HACK: garlic peeled in seconds by shaking a jar / a steak finished with foaming butter, rosemary and garlic / an avocado carved into a rose on golden toast / a chocolate lava cake cut open with its molten centre flowing], sizzling sound, quick cuts, bright kitchen light, satisfying final reveal, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one hack in Veo 3 per TikTok, swapping only [COOKING HACK] — one hack per video keeps the 'I had no idea' moment clean; never teach three hacks in one clip.",
+    "Open on the finished result for 1 second, then rewind to the hack — showing the payoff first makes viewers stay to learn how it was done.",
+    "Film overhead and hands-only with quick 2-second cuts — the hack must feel fast, easy and doable tonight, or viewers save it and never try it.",
+    "Add the sizzling, shaking and cutting sounds loud in the mix — cooking hacks win on sensory satisfaction; a silent kitchen feels fake.",
+    "Post daily at lunch and dinner hours (12-2 PM and 7-9 PM PKT) as a series — 'Hack 01, 02, 03' — numbered hacks turn one viral video into a cookbook viewers follow."
+  ],
+  "tips": [
+    "Hook rule: open with the before/after in the first 2 seconds ('This steak trick makes any steak taste $100') — the value promise stops the scroll; a slow intro loses it.",
+    "Title trick: 'The restaurant trick that [RESULT]' — the word 'restaurant' promises professional quality from a home kitchen, which is the whole fantasy.",
+    "Comment bait: end with 'Try it tonight and tell me if it worked' — a homework assignment turns viewers into commenters reporting back, which doubles engagement."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "cooking",
+    "food",
+    "hacks",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 91
+}
+
 ];
 
 if (typeof module !== "undefined") {
