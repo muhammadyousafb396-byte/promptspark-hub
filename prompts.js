@@ -9041,7 +9041,238 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 91
+},
+{
+  "id": "underwater-post-office-veo3",
+  "title": "Underwater Post Office Delivery — Veo 3 Prompt for Viral TikTok Fantasy Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A deep-sea postman delivers glowing letters to sea creatures in a sunken post office — a whimsical fantasy niche that stops the scroll instantly.",
+  "prompt": "Whimsical underwater fantasy scene: a friendly diver in a vintage brass helmet delivers glowing golden letters to a sunken post office on the ocean floor, curious octopuses, turtles and jellyfish queue politely at coral windows, shafts of turquoise sunlight pierce the blue water, tiny bubbles rise in slow motion, letters flutter like fish as they are handed over, camera glides smoothly past coral mailboxes and a seahorse sorting parcels, dreamy teal and gold color grade, gentle swaying seaweed, magical sparkling particles, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt above, keeping the diver, the glowing letters and the coral post office.",
+    "Set aspect ratio to 9:16 vertical for TikTok and Reels.",
+    "Generate 2-3 variations and pick the clip with the smoothest bubble and camera motion.",
+    "Add dreamy underwater music and a caption like 'Would you post a letter here?', then export and post."
+  ],
+  "tips": [
+    "Swap the delivery for a new recipient each episode — a shark, a mermaid, a crab — to turn one idea into a series.",
+    "Keep the first second magical: open on a glowing letter already in the diver's hand, not on an empty ocean."
+  ],
+  "tags": ["fantasy", "underwater", "tiktok", "creator-niche", "viral"],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "neon-jellyfish-parade-veo3",
+  "title": "Neon Jellyfish Street Parade — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Glowing jellyfish float down a rainy neon city street like a night parade — a surreal, shareable Shorts concept for faceless channels.",
+  "prompt": "Surreal night scene: dozens of glowing neon jellyfish in pink, cyan and violet drift gracefully down a rainy city street like a floating parade, their light reflects in wet pavement and shop windows, amazed silhouetted onlookers watch from under umbrellas, camera tracks slowly alongside the parade at street level, soft rain falling through coloured light, gentle pulsing glow on each jellyfish bell, cinematic teal and magenta colour grade, dreamy atmospheric haze, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the prompt into a new text-to-video project.",
+    "Choose 9:16 vertical for YouTube Shorts and TikTok.",
+    "Generate several takes and keep the one where the jellyfish glow stays consistent.",
+    "Add ambient synth music and a rain sound layer in your editor.",
+    "Post with a curiosity hook: 'Nobody knows why they came back tonight.'"
+  ],
+  "tips": [
+    "Change the city each time — Tokyo alley, Paris street, old bazaar — for endless parade episodes.",
+    "End on a single jellyfish landing on a child's umbrella for a shareable final frame."
+  ],
+  "tags": ["neon", "jellyfish", "youtube", "creator-niche", "shorts"],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "cat-cafe-baristas-kling",
+  "title": "Cat Cafe Baristas — Kling Prompt for Viral TikTok Pet Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Tiny cats in aprons steam milk, pour latte art and serve customers in a cosy cafe — pure TikTok pet-niche gold.",
+  "prompt": "Adorable cosy cafe scene: fluffy cats wearing tiny aprons work as baristas, one steams milk with a miniature espresso machine, another carefully pours heart-shaped latte art, a third carries a tray of pastries between wooden tables, warm morning sunlight through cafe windows, steam curling from cups, soft cream and honey colour palette, camera moves gently between the baristas in smooth tracking shots, playful but realistic cat expressions, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new text-to-video generation.",
+    "Paste the full prompt, keeping all three cat jobs — steaming, pouring, serving.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate 2-3 takes and pick the one with the cleanest paw and cup motion.",
+    "Add cheerful cafe music and a caption naming each cat barista, then post."
+  ],
+  "tips": [
+    "Give each cat a name and a signature drink — viewers return for 'Milo's Mondays'.",
+    "Keep clips under 15 seconds: one order, one cute mistake, one perfect pour."
+  ],
+  "tags": ["cats", "cafe", "tiktok", "creator-niche", "pets"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "abandoned-cinema-replays-sora",
+  "title": "Abandoned Cinema Replays Itself — Sora Prompt for Mystery YouTube Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A dusty abandoned cinema flickers back to life at midnight, its old screen replaying scenes nobody filmed — a mystery niche with huge retention.",
+  "prompt": "Haunting mystery scene: an abandoned cinema at midnight, torn velvet seats and peeling posters, the dusty projector suddenly whirs to life and a beam of light cuts through the dark, ghostly black-and-white figures flicker on the torn screen, dust motes dance in the projector beam, camera pushes slowly down the centre aisle toward the glowing screen, deep shadows with warm amber projector light, faint film-grain texture, eerie stillness broken only by the projector hum, cinematic, ultra detailed, 16:9, no text, no watermark",
+  "howto": [
+    "Open Sora and start a new video generation.",
+    "Paste the full prompt, keeping the projector beam and the slow aisle push.",
+    "Set aspect ratio to 16:9 for YouTube.",
+    "Generate a few takes and choose the one with the most atmospheric dust and light.",
+    "Add a low projector hum and a narrator line asking what the film is showing, then export."
+  ],
+  "tips": [
+    "Never explain the mystery in the video — end on the screen going dark and ask viewers what they saw.",
+    "Make it a series: each episode, the cinema screens a different lost film."
+  ],
+  "tags": ["mystery", "cinema", "youtube", "creator-niche", "horror"],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "watercolor-weather-forecast-runway",
+  "title": "Watercolor Weather Forecast — Runway Prompt for Viral Instagram Art Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A hand-painted watercolour map where rain, sun and snow bloom across the paper in real time — art meets daily content on Instagram.",
+  "prompt": "Charming hand-painted animation: a vintage watercolour map on textured paper, painted clouds drift in, a sun blooms in golden washes over one region while blue rain splashes gently over another, tiny painted snowflakes dust a mountain range, colours bleed softly into the paper grain, camera holds steady in a gentle top-down view with slow zooms to each weather region, soft natural light, warm paper tones with vivid blue and gold paint, whimsical storybook style, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the top-down view and the paint-bleed detail.",
+    "Set aspect ratio to 9:16 vertical for Instagram Reels.",
+    "Generate and keep the take where the paint blooms look most natural.",
+    "Overlay your city's real forecast as on-screen text in your editor, then post daily."
+  ],
+  "tips": [
+    "Post it every morning as 'Today's forecast, painted' — daily formats build returning viewers fast.",
+    "Swap regions and seasons to reuse the same prompt all year round."
+  ],
+  "tags": ["watercolor", "weather", "instagram", "creator-niche", "art"],
+  "trending": false,
+  "popularity": 78
+},
+{
+  "id": "melting-crayon-rainbow-google-flow",
+  "title": "Melting Crayon Rainbow Art — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Rows of crayons melt under gentle heat into a flowing rainbow river of colour — the satisfying art niche Facebook Reels love to loop.",
+  "prompt": "Satisfying art scene: rows of bright crayons lined up on a white canvas slowly melt under gentle heat, rivers of red, orange, yellow, green, blue and violet wax flow and swirl together into a rainbow gradient, glossy wax pools catch the light, camera moves in a slow macro glide across the melting colours, crisp studio lighting, vivid saturated colour, hypnotic smooth motion, hyper-detailed wax texture, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new video generation.",
+    "Paste the full prompt, keeping the macro glide and the rainbow order.",
+    "Set aspect ratio to 9:16 vertical for Facebook Reels.",
+    "Generate a few takes and pick the one with the smoothest wax flow.",
+    "Loop the final swirl seamlessly and post with a satisfying sound effect."
+  ],
+  "tips": [
+    "Try a new shape each time — a heart, a wave, a skyline — so the melt always ends in a reveal.",
+    "Keep the heat slow: fast melting looks messy, slow melting looks mesmerising."
+  ],
+  "tags": ["satisfying", "crayon", "facebook", "creator-niche", "art"],
+  "trending": true,
+  "popularity": 86
+},
+{
+  "id": "steampunk-insect-explorers-midjourney",
+  "title": "Steampunk Insect Explorers — Midjourney Prompt for Instagram Fantasy Art Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Intermediate",
+  "desc": "Beetles and bees in brass goggles and tiny backpacks exploring a mossy clockwork world — a character pack Instagram art pages can build a whole feed around.",
+  "prompt": "Whimsical steampunk character portrait: a brave stag beetle explorer wearing tiny brass goggles and a leather backpack, standing on a mossy gear in a giant clockwork forest, a honeybee companion in a miniature aviator cap beside him, warm golden light through brass leaves, intricate mechanical details, tiny rivets and gears, rich copper and emerald palette, storybook fantasy illustration, highly detailed, charming expressive faces, 4:5 portrait composition, no text, no watermark",
+  "howto": [
+    "Open Midjourney and paste the prompt into the imagine bar.",
+    "Set aspect ratio to 4:5 for Instagram portrait posts.",
+    "Generate four variations and upscale the one with the most character.",
+    "Change only the insect and the gear setting for the next character in the pack.",
+    "Post as a carousel with a one-line story for each explorer."
+  ],
+  "tips": [
+    "Keep the goggles and backpack in every character — a repeated accessory makes the pack feel like a real team.",
+    "Name the crew in the caption and ask followers which explorer should go next."
+  ],
+  "tags": ["steampunk", "insects", "instagram", "creator-niche", "characters"],
+  "trending": false,
+  "popularity": 80
+},
+{
+  "id": "forgotten-street-food-niche-finder-chatgpt",
+  "title": "Forgotten Street Food Niche Finder — ChatGPT Prompt for Untapped Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Find dying street-food traditions in your own city and turn them into a faceless food channel before anyone else claims the niche.",
+  "prompt": "You are a creator-niche researcher for YouTube, TikTok, Facebook and Instagram. Help me find forgotten street-food niches in my city or region. Step 1: list 15 street foods, snacks or drinks that were popular 20-40 years ago but are rarely sold or filmed today, with a one-line reason each is disappearing. Step 2: for each one, score it 1-10 on visual appeal, story potential, ease of filming faceless, and search demand. Step 3: pick the top 5 and for each give: a channel name idea, 10 video titles, the first video's hook in under 10 words, and 3 local people or places to film first. Step 4: flag any dish that needs a cultural-sensitivity note before filming. Ask me for my city and region before you start, then work only with foods from that area.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt.",
+    "Answer with your city and region when it asks.",
+    "Check the top 5 against YouTube and TikTok search — pick the one with the fewest existing channels.",
+    "Film the first video from its title list before you plan the rest.",
+    "Repeat the prompt for a neighbouring city to grow a network of local food channels."
+  ],
+  "tips": [
+    "Ask ChatGPT to favour dishes with a strong sound or colour — sizzling, steaming, bright sauces film better.",
+    "Never invent a dish's history: verify each food's story with one local source before you publish."
+  ],
+  "tags": ["niche-discovery", "street-food", "youtube", "creator-niche", "tiktok"],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "duet-stitch-idea-machine-gemini",
+  "title": "Duet & Stitch Idea Machine — Gemini Prompt for Viral TikTok & Reels Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Turn other creators' viral videos into original duet and stitch ideas for your niche — without copying anyone's content.",
+  "prompt": "You are a short-form strategist for TikTok and Instagram Reels. I will paste links or descriptions of 5 viral videos in my niche. For each one, invent 3 ORIGINAL duet or stitch ideas that respond, correct, extend or parody the video without copying its footage, script or hook. Each idea must include: the 3-second opening line I will say on camera or on screen, what I show in the next 10 seconds, the twist or payoff, and why it fits my niche. Then rank all 15 ideas by likely engagement and give me a 7-day posting order. Ask me for my niche and the 5 videos before you start, and never suggest re-uploading or copying another creator's video.",
+  "howto": [
+    "Open Gemini and paste the full prompt.",
+    "Share your niche and 5 viral videos you admire when it asks.",
+    "Pick the top-ranked idea and film your response the same day while the trend is hot.",
+    "Credit the original creator in your caption — duets grow faster with goodwill.",
+    "Save the remaining ideas as a backlog for slow days."
+  ],
+  "tips": [
+    "The best duet angle is a respectful disagreement — 'I love this, but here's what it missed.'",
+    "Film your reaction first and the idea second; the algorithm rewards fast responses to trends."
+  ],
+  "tags": ["duet", "stitch", "tiktok", "creator-niche", "instagram"],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "niche-merch-product-ladder-claude",
+  "title": "Niche Merch & Product Ladder — Claude Prompt to Monetize Any Creator Niche",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Turn a faceless niche channel into income beyond ads: a step-by-step product ladder from free download to premium offer.",
+  "prompt": "You are a monetization strategist for faceless YouTube, TikTok, Facebook and Instagram channels. Build a product ladder for my niche. Step 1: ask me for my niche, audience size and best-performing video topic. Step 2: design 5 rungs — a free lead magnet, a $5-10 impulse product, a $20-30 guide or template pack, a $50-100 course or bundle, and a premium offer — each one solving the next problem my viewer has after watching my videos. Step 3: for each rung give the product name, exactly what is inside, the price, and the one video that should sell it. Step 4: write a 30-day launch order starting from zero products. Do not suggest products that need inventory, and do not promise income figures — give realistic effort and time estimates for each rung instead.",
+  "howto": [
+    "Open Claude and paste the full prompt.",
+    "Answer with your niche, audience size and best video topic.",
+    "Build only rung 1 first — a free download your viewers actually want.",
+    "Link it from your best-performing video before building rung 2.",
+    "Add one rung per month so each product gets a real launch video."
+  ],
+  "tips": [
+    "Your free product should be the checklist your viewers keep asking for in comments.",
+    "Price by the problem solved, not by the hours you spent making it."
+  ],
+  "tags": ["monetization", "merch", "youtube", "creator-niche", "facebook"],
+  "trending": false,
+  "popularity": 85
 }
+
 
 ];
 
