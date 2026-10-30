@@ -9271,6 +9271,107 @@ const PROMPTS = [
   "tags": ["monetization", "merch", "youtube", "creator-niche", "facebook"],
   "trending": false,
   "popularity": 85
+},
+{
+  "id": "niche-spotlight-ai-clay-story-animations",
+  "title": "AI Clay Story Animations (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Clay Story Animations — tiny handmade-style clay heroes, impossible transformations and cosy miniature villages. Warm stories viewers watch to the end. Is niche ki videos 46.8M / 35.1M / 26.7M / 18.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-clay-story-animations.jpg",
+  "prompt": "Warm handmade claymation story video, soft stop-motion clay look with fingerprint texture and big expressive eyes, [CLAY STORY: a tiny clay boy finding a glowing star crystal in a miniature clay village / a clay cat and dog cooking dumplings together in a tiny clay kitchen / a funny clay chicken morphing into a clay helicopter / a clay potato family sharing a feast at a tiny dinner table], gentle humour, one clear story beat, warm golden light, vibrant colours, 16:9 horizontal, 30-60 seconds",
+  "howto": [
+    "Generate one clay story in Veo 3 per video, swapping only [CLAY STORY] — one character, one story beat per video keeps the cosy moment clean; never cram three transformations into one clip.",
+    "Keep the same clay character design identical across episodes (same colours, same eyes, same proportions) — recurring characters turn viewers into subscribers who follow the cast.",
+    "Script each video in ChatGPT as 3 beats: setup + surprise + warm payoff — clay wins on cosy charm; a mean or loud story breaks the spell.",
+    "Voice it in ElevenLabs with a warm storyteller voice, or use gentle music and sound effects only — clay stories work muted too, which is why they travel on Shorts.",
+    "Post as a series — 'Clay Village, Episode 01, 02, 03' — numbered episodes turn one viral video into a show viewers return for; post long-form weekly plus Shorts cuts daily."
+  ],
+  "tips": [
+    "Hook rule: open on the transformation or the discovery in the first 3 seconds ('the clay chicken becomes a helicopter!') — the impossible clay moment stops the scroll; a slow village pan does not.",
+    "Title trick: 'The Clay [CHARACTER] Who [DID THE IMPOSSIBLE THING]' — a character plus an impossible act in the title is the whole click.",
+    "Retention trick: end every episode on a tiny cliffhanger ('what is inside the crystal?') — clay's high completion rate compounds when viewers must watch the next episode."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "claymation",
+    "animation",
+    "stories",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 90
+}
+,
+{
+  "id": "niche-spotlight-simple-business-startup-reels",
+  "title": "Simple Business Startup Reels (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Simple Business Startup Reels — one doable small business per Reel, with the exact cost and first-day result. Ideas viewers save because they feel reachable. Is niche ki videos 172.4M / 141.8M / 118.6M / 92.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-simple-business-startup-reels.jpg",
+  "prompt": "Bright satisfying small-business startup video, photorealistic and aspirational, [BUSINESS IDEA: a glowing snack vending machine in a sunny lobby with its happy owner collecting coins / a foam-covered car being detailed to a mirror shine in bright sunshine / a dirty driveway pressure-washed into clean bright stripes / a cosy home desk with a laptop, coffee and handmade products at golden hour], exact startup cost and first-day result shown on screen, one doable business per Reel, clean sunny light, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one business idea in Veo 3 per Reel, swapping only [BUSINESS IDEA] — one business, one cost, one result per Reel keeps the promise clean; never pitch three businesses in one clip.",
+    "Open on the money moment first (coins dropping, a clean driveway stripe) and give the cost at second 3 — 'started with $200, made $80 today' is the hook; the how-to comes after.",
+    "Script each Reel in ChatGPT as cost + steps + first result: 'Cost: $X. Step 1... Day 1 result: $Y' — a business without numbers is just a daydream; numbers make it feel doable.",
+    "Voice it in ElevenLabs with a plain, honest, encouraging tone — no hype voice; Facebook's 35-55 audience trusts calm proof over shouting.",
+    "Post daily at 7-9 PM PKT as a series — 'Business 01, 02, 03' — numbered ideas turn one viral Reel into a catalogue viewers save and return to."
+  ],
+  "tips": [
+    "Hook rule: lead with the exact cost and result in the first 2 seconds ('This $200 machine made $80 in one day') — a specific number stops the Facebook scroll faster than any promise.",
+    "Caption trick: 'Would you try this in your city?' — the local question turns viewers into commenters naming their own town, which pushes the Reel further.",
+    "Share bait: end with 'Send this to someone who wants extra income' — shares are Facebook's strongest reach signal, and a doable business is exactly what people forward."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "business",
+    "side-hustle",
+    "money",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
+,
+{
+  "id": "niche-spotlight-ai-optical-illusion-reels",
+  "title": "AI Optical Illusion Reels (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "AI Optical Illusion Reels — one impossible trick per Reel: spirals that pull you in, staircases that loop forever, faces hidden in clouds. Puzzles viewers rewatch and debate. Is niche ki videos 92.4M / 74.8M / 58.3M / 41.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-optical-illusion-reels.jpg",
+  "prompt": "Mind-bending optical illusion video, bold high-contrast and vibrant, [ILLUSION: a hypnotic rainbow spiral tunnel swirling into the centre / an impossible Penrose triangle staircase looping back on itself in a bright sky / sunset clouds secretly forming hidden human faces / a black-and-white cafe-wall pattern that ripples and moves with floating red spheres], the trick revealed slowly, one illusion per Reel, smooth hypnotic motion, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one illusion in Kling per Reel, swapping only [ILLUSION] — one trick per Reel keeps the 'wait, what?' moment clean; never stack three illusions in one clip.",
+    "Hold the illusion still for 2 seconds before it moves — viewers must first see it 'wrong', then watch it change; the before/after is the whole video.",
+    "Add a question on screen at second 3 — 'How many faces do you see?' — a question turns a viewer into a participant who must rewatch to count.",
+    "Use slow hypnotic music with no voiceover — illusions win on staring; a talking voice breaks the trance and makes viewers scroll.",
+    "Post daily at 7-9 PM PKT as a series — 'Illusion 01, 02, 03' — numbered illusions turn one viral Reel into a daily puzzle viewers return to solve."
+  ],
+  "tips": [
+    "Hook rule: open on the illusion already moving ('This picture is NOT moving — prove me wrong') — a challenge in the first 2 seconds stops the scroll; an explanation does not.",
+    "Caption trick: 'Comment the number you see' — the comment-count debate is the engine: different answers argue in the comments and push the Reel to new audiences.",
+    "Save bait: end with 'Save this and show it to someone tonight' — saves are Instagram's strongest signal, and illusions are made to be shown to other people."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "optical-illusion",
+    "mind-bending",
+    "puzzle",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 90
 }
 
 
