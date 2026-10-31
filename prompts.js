@@ -9372,8 +9372,237 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 90
+},
+{
+  "id": "trick-or-treat-doorbell-pov-veo3",
+  "title": "Trick-or-Treat Doorbell POV — Veo 3 Prompt for Viral Halloween TikTok",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A doorbell camera POV where every ring reveals a funnier, stranger trick-or-treater — a Halloween series hook that makes viewers wait for the next ring.",
+  "prompt": "First-person doorbell camera POV on Halloween night: the doorbell rings, the porch light flickers on, and a new costumed visitor appears in the fisheye frame every few seconds — a tiny ghost, a dinosaur, a wizard with a glowing wand, a cat in a pumpkin hat — each one leans in close, waves, and drops candy into the bowl with a funny sound effect moment, autumn leaves blow across a decorated porch with carved pumpkins and fairy lights, warm orange and teal night colours, playful spooky music, realistic doorbell-camera look with a subtle timestamp overlay feel, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the doorbell POV and the rotating cast of visitors.",
+    "Set aspect ratio to 9:16 vertical for TikTok and Reels.",
+    "Generate 3-4 variations and keep the clip where each visitor's reveal lands cleanly on the ring.",
+    "Add a caption like 'Ring 4 is my favourite — wait for it' and post on Halloween evening for peak timing."
+  ],
+  "tips": [
+    "Open on the ring already sounding and a visitor already in frame — a doorbell POV with an empty porch for 3 seconds loses the scroll.",
+    "Make each visitor stranger than the last so viewers stay for the final reveal; save the funniest costume for the end."
+  ],
+  "tags": ["halloween", "tiktok", "pov", "creator-niche", "viral"],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "giant-pumpkin-boat-race-veo3",
+  "title": "Giant Pumpkin Boat Race — Veo 3 Prompt for Viral YouTube Shorts",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Racers paddle giant hollowed-out pumpkins down a river while crowds cheer — an absurd autumn spectacle built for Shorts replays and comments.",
+  "prompt": "Absurd autumn spectacle: a river race where cheerful competitors paddle giant hollowed-out orange pumpkins like canoes, water splashing, carved pumpkin faces grinning as they bob and spin, spectators in cosy sweaters cheer from a wooden bridge draped in fairy lights and autumn leaves, golden late-afternoon light, a pumpkin boat wobbles, nearly tips, then surges ahead to a photo finish, camera swoops low over the water then rises for a wide cheering-crowd shot, warm cinematic colour grade, playful folk music energy, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the prompt into a new text-to-video project.",
+    "Choose 9:16 vertical so the race fills a Shorts feed.",
+    "Generate several takes and pick the one with the clearest near-tip and photo finish.",
+    "Cut the clip to end exactly on the finish-line splash for a replay loop.",
+    "Caption it 'Which pumpkin would YOU paddle?' to turn the spectacle into comments."
+  ],
+  "tips": [
+    "Ask viewers to pick a winner in the comments before the finish — a prediction turns a funny clip into a debate.",
+    "Keep the wobble moment: near-disaster is the replay trigger, so do not cut it for a clean race."
+  ],
+  "tags": ["autumn", "youtube", "shorts", "creator-niche", "funny"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "candy-monster-dance-off-kling",
+  "title": "Candy Monster Dance-Off — Kling Prompt for Viral TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Gummy bears, chocolate bars and candy monsters battle in a dance-off under disco lights — a sugary, high-energy TikTok format made for remixes.",
+  "prompt": "High-energy candy dance-off: a gummy bear, a chocolate bar and a lollipop monster face off on a glowing disco stage, each one hitting a bigger dance move as coloured spotlights sweep and sugar crystals sparkle in the air, the crowd of jelly beans bounces in time, camera cuts on the beat with a low hero shot for each dancer's signature move, the final move ends in a shower of confetti candy, bright saturated colours, glossy candy textures, fast playful pop beat, smooth character motion, photorealistic 3D cartoon style, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new image-to-video or text-to-video generation.",
+    "Paste the prompt, keeping the three dancers and the beat-cut camera direction.",
+    "Set 9:16 vertical and a 5-10 second duration for TikTok.",
+    "Generate 3 takes and choose the one where the dance moves land cleanly on the beat.",
+    "Pair it with a trending sound and a caption inviting duets — 'Duet with the gummy bear'."
+  ],
+  "tips": [
+    "Give each dancer one unmistakable signature move so viewers pick a favourite and argue for it in the comments.",
+    "Post it as episode one of a tournament bracket — dance-offs only go viral when there is a next round to wait for."
+  ],
+  "tags": ["candy", "tiktok", "dance", "creator-niche", "funny"],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "midnight-haunted-carnival-sora",
+  "title": "Midnight Haunted Carnival — Sora Prompt for Faceless YouTube Horror Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A slow walk through an abandoned carnival at midnight where the rides wake up one by one — a high-retention horror niche opener for faceless channels.",
+  "prompt": "Eerie midnight carnival walkthrough: a slow first-person camera drifts through an abandoned fairground in thick fog, a rusted Ferris wheel creaks and begins to turn on its own, carousel horses rock gently under flickering string lights, a ticket booth curtain flutters with no one behind it, distant calliope music warps and slows, cold blue moonlight mixed with sickly warm bulb glow, leaves skitter across cracked pavement, the camera pauses on a clown poster whose eyes seem to follow, then a ride bell rings somewhere unseen, cinematic horror atmosphere, slow deliberate pacing, photorealistic, ultra detailed, 16:9, no people, no text, no watermark",
+  "howto": [
+    "Open Sora and paste the prompt into a new video generation.",
+    "Set aspect ratio to 16:9 for YouTube long-form and Shorts cut-downs.",
+    "Generate 2-3 takes and keep the one with the slowest, steadiest camera drift.",
+    "Use the clip as a cold open, then cut to narration before the bell rings so viewers stay for the answer.",
+    "Layer warped calliope-style music low in the mix — the sound does half the scare work."
+  ],
+  "tips": [
+    "Never show the scare directly: a moving ride with no rider is scarier than any monster, and it keeps the clip reusable.",
+    "End the clip on an unanswered sound — the bell — so the next scene, not the clip itself, has to deliver the payoff."
+  ],
+  "tags": ["horror", "youtube", "faceless", "creator-niche", "cinematic"],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "ghost-parade-paper-town-runway",
+  "title": "Ghost Parade Paper Town — Runway Prompt for Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "A paper-craft town where friendly ghosts parade past glowing windows at dusk — a charming, loopable Reels aesthetic for art and cosy pages.",
+  "prompt": "Charming paper-craft animation: a tiny town cut from layered coloured paper, friendly round ghosts with rosy cheeks float in a parade down the main street at dusk, paper windows glow amber, paper trees sway, a paper cat watches from a rooftop, confetti stars drift down, camera glides slowly alongside the parade at street level then lifts for a wide view of the whole glowing town, soft warm and lavender dusk palette, gentle handmade texture on every edge, whimsical music-box melody, smooth stop-motion feel, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the prompt, keeping the paper texture and the parade movement.",
+    "Set 9:16 vertical for Instagram Reels.",
+    "Generate 2-3 takes and pick the smoothest camera glide with no paper-edge flicker.",
+    "Loop the ending back to the start and post as a calming evening Reel with a save-bait caption."
+  ],
+  "tips": [
+    "Keep the ghosts friendly, not scary — cosy pages win on charm, and charm is what gets saved and shared to stories.",
+    "Match the first and last frames by asking for the same wide town shot, so the loop feels endless."
+  ],
+  "tags": ["paper-craft", "instagram", "reels", "creator-niche", "cozy"],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "pumpkin-carving-glow-timelapse-flow",
+  "title": "Pumpkin Carving Glow Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A plain pumpkin transforms into a glowing masterpiece in seconds — a satisfying carving timelapse built for Facebook shares and watch-through.",
+  "prompt": "Satisfying carving timelapse: hands carve a plain orange pumpkin on a wooden table in fast motion, the lid lifts, seeds scoop out, a grinning face takes shape stroke by stroke, sawdust-like pumpkin shavings scatter, a candle is lowered inside, the lights dim and the finished jack-o'-lantern glows golden from within, warm light spills across the table and carved scraps, camera stays locked in a top-down view with one slow push-in at the glow reveal, cosy autumn colours, crisp satisfying sounds, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new video generation.",
+    "Paste the prompt, keeping the locked top-down camera and the glow reveal.",
+    "Set 9:16 vertical for Facebook Reels.",
+    "Generate 2 takes and keep the one where the glow reveal lands in the final second.",
+    "Post with a caption asking followers to vote on the next face design — the vote is the next video's brief."
+  ],
+  "tips": [
+    "Do not reveal the glow until the last 2 seconds — the whole video is a countdown to the light, and an early glow kills the watch-through.",
+    "Film the design as a surprise: hide the finished face until the candle moment so comments guess the design as it forms."
+  ],
+  "tags": ["halloween", "facebook", "satisfying", "creator-niche", "timelapse"],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "cute-ghost-sticker-pack-midjourney",
+  "title": "Cute Ghost Sticker Pack — Midjourney Prompt for Facebook & Instagram Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A sheet of adorable kawaii ghosts doing everyday things — a sticker-pack image set that Facebook and Instagram pages can post, print and sell.",
+  "prompt": "Kawaii sticker sheet, nine cute little white ghosts with big sparkling eyes and rosy cheeks arranged in a clean 3x3 grid on a plain white background, each ghost doing something different: drinking hot chocolate, reading a tiny book, holding a pumpkin, waving hello, sleeping under a leaf blanket, baking cookies, riding a broom, blowing a kiss, hiding behind a candy bowl, thick clean outlines, soft pastel colours with warm orange accents, die-cut sticker style with a thin white border around each ghost, flat vector illustration, cheerful and cosy, ultra detailed, no text, no watermark --ar 1:1 --style cute --v 6",
+  "howto": [
+    "Open Midjourney and paste the prompt into the imagine bar.",
+    "Keep the 1:1 aspect ratio so the sheet works as a single post and as cut-out stickers.",
+    "Upscale your favourite grid, then cut each ghost out in any free image editor.",
+    "Post the full sheet first, then drip-feed single ghosts as daily posts to stretch one generation into nine.",
+    "Offer the sheet as a free download for followers to turn the post into email signups or shop traffic."
+  ],
+  "tips": [
+    "Ask for everyday actions, not just Halloween poses — a ghost drinking hot chocolate works all autumn, a ghost with a pumpkin only works in October.",
+    "Keep the background pure white and the border consistent, or the stickers will look messy when cut out and reused."
+  ],
+  "tags": ["stickers", "facebook", "instagram", "creator-niche", "kawaii"],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "november-niche-reset-finder-chatgpt",
+  "title": "November Niche Reset Finder — ChatGPT Prompt to Find Post-Halloween Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Find the creator niches that surge in November after Halloween fades — a niche-discovery prompt that turns the seasonal dip into a head start.",
+  "prompt": "Act as a creator-economy researcher. I make faceless short-form videos for [YouTube Shorts / TikTok / Facebook Reels / Instagram Reels — pick one]. It is 1 November 2026 and Halloween content is fading. Find me 10 creator niches that historically surge in November and December but are still underserved by faceless channels. For each niche give: (1) the niche name and one-sentence angle, (2) why November specifically lifts it, with a seasonal trigger, (3) 3 proof signals it is rising (searches, hashtags, or competing channels with gaps), (4) the first 5 video ideas with hooks, (5) a saturation score out of 10 and the one gap a new channel can own. Rank all 10 by a mix of demand and low competition, and finish with your single top pick and the exact first video I should post this week, including its hook, title and first 3 seconds.",
+  "howto": [
+    "Open ChatGPT and paste the prompt, replacing the bracketed platform with the one you actually post on.",
+    "Read the ranked list and ignore any niche you cannot make 30 videos about without getting bored.",
+    "Check the top 3 niches on your platform for 10 minutes each — confirm the gap the prompt claims really exists.",
+    "Pick one niche and post the exact first video the prompt recommends within 48 hours, before the November window moves on.",
+    "Save the other 9 niches as a backup list for December, when the holiday surge reshuffles demand again."
+  ],
+  "tips": [
+    "Run the prompt once per platform — a November niche that wins on TikTok often flops on YouTube, and the ranking only means something for one feed at a time.",
+    "Demand proof, not vibes: if ChatGPT cannot name a real search or hashtag signal, treat that niche as a guess and verify it yourself."
+  ],
+  "tags": ["niche-discovery", "chatgpt", "youtube", "creator-niche", "seasonal"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "holiday-gift-niche-gold-rush-gemini",
+  "title": "Holiday Gift Niche Gold Rush — Gemini Prompt for YouTube, TikTok & Instagram Q4 Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Map the gift, gadget and cosy niches that spike before the holidays — a Q4 niche-discovery prompt across YouTube, TikTok and Instagram.",
+  "prompt": "Act as a Q4 trends analyst for faceless creators. It is late October 2026 and the holiday shopping season is about to peak. Analyse gift-related creator niches across YouTube, TikTok and Instagram and give me 12 underserved angles, grouped by platform, where a new faceless channel could still break in before December. For each angle include: the exact audience (who buys, who watches), the content format that converts (gift guides, unboxings, comparisons, cosy hauls), 3 video titles with hooks, the monetisation path (affiliate, digital product, or brand deals), and the risk that kills it (saturation, returns season, or ad fatigue). End with a one-page 4-week posting plan for the single best angle, day by day for the first 14 days, and tell me what to stop posting on 26 December when the rush ends.",
+  "howto": [
+    "Open Gemini and paste the prompt as written — the platform grouping is the point, so do not drop it.",
+    "Shortlist the angles whose monetisation path you can actually set up this week, not someday.",
+    "Cross-check the top 2 angles on each platform's search bar and note which titles already exist.",
+    "Build the 14-day plan into your calendar and batch the first 7 videos before November starts.",
+    "Set a 26 December stop date in advance — Q4 niches die fast, and pivoting late wastes January."
+  ],
+  "tips": [
+    "Favour angles where the viewer and the buyer are different people — gift niches win when one person watches and another pays.",
+    "Reject any angle with no clear monetisation path: Q4 traffic without affiliate or product links is just busy work."
+  ],
+  "tags": ["niche-discovery", "gemini", "instagram", "creator-niche", "holiday"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "november-niche-sprint-planner-claude",
+  "title": "November Niche Sprint Planner — Claude Prompt for a 30-Day Viral Channel Launch",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Turn any niche into a 30-day launch sprint — daily videos, hooks, and review checkpoints that take a new channel from zero to its first viral test.",
+  "prompt": "Act as a launch strategist for faceless creator channels. My niche is [NICHE], my platform is [PLATFORM], I can post [1 / 2 / 3] videos a day, and I have [HOURS] hours a day to make them. Build me a 30-day November launch sprint. Week by week, give: the theme, the exact number of videos, and the one metric that decides whether the week worked. For every single day, give the video idea, the hook in the first 3 seconds, the title, and the call to action. Include: 5 series formats I can repeat so I never stare at a blank page, 3 batching days where I make a week's videos at once, a weekly review checklist (what to double down on, what to kill), and a rescue plan for day 10 if nothing has broken 1,000 views yet. Be ruthless: cut any idea that needs expensive tools or filming, and make every video buildable with AI generation and free editing only.",
+  "howto": [
+    "Open Claude and paste the prompt, filling in all four bracketed choices honestly — the plan only works if the hours are real.",
+    "Read the day-10 rescue plan first, so a slow start does not panic you into changing niches.",
+    "Batch week one on day one using the batching days in the plan, so posting never depends on daily motivation.",
+    "Run the weekly review checklist every Sunday and kill the weakest format, even if you liked making it.",
+    "At day 30, keep only the top 2 series formats and build December around them."
+  ],
+  "tips": [
+    "A sprint plan you cannot batch is a wish list — if week one needs more hours than you declared, tell Claude to rebuild it at half the volume.",
+    "Judge weeks by the metric Claude set for that week, not by total views — early weeks test hooks, later weeks test retention."
+  ],
+  "tags": ["niche-discovery", "claude", "tiktok", "creator-niche", "planning"],
+  "trending": false,
+  "popularity": 87
 }
-
 
 ];
 
