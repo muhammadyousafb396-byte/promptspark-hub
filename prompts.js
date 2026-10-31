@@ -9603,6 +9603,106 @@ const PROMPTS = [
   "trending": false,
   "popularity": 87
 }
+,
+{
+  "id": "niche-spotlight-ai-book-podcast-summaries",
+  "title": "AI Book & Podcast Summaries (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Book & Podcast Summaries — a whole book or podcast in 60 seconds, 3 lessons plus one surprising twist. Summaries viewers save to feel smarter later. Is niche ki videos 184.6M / 152.3M / 127.8M / 98.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-book-podcast-summaries.jpg",
+  "prompt": "Bright, fast-paced book and podcast summary video, warm cinematic visuals, [BOOK OR PODCAST: a famous self-help book's 3 biggest lessons visualised as glowing scenes / a hit podcast episode retold as a 60-second story with one surprising twist / a classic novel's plot explained through vivid miniature scenes], one big idea per clip, bold visual metaphors, a calm confident voiceover, 9:16 vertical, 45-60 seconds",
+  "howto": [
+    "Generate one book or podcast summary in Veo 3 per video, swapping only [BOOK OR PODCAST] — one book, one big idea per video keeps the summary clean; never cram a whole book into 60 seconds.",
+    "Script each video in ChatGPT as 3 lessons + 1 twist: lesson, lesson, lesson, then the surprising idea nobody expects — the twist is what earns the save.",
+    "Open on the promise in the first 2 seconds ('This book will change how you spend your mornings') — a promise stops the TikTok scroll; a book cover does not.",
+    "Voice it in ElevenLabs with a calm, confident, slightly conspiratorial tone — summaries win on authority; a shouting voice makes wisdom sound like an advert.",
+    "Post daily at 7-9 PM PKT as a series — 'Book 01, 02, 03' — numbered summaries turn one viral video into a reading list viewers follow and return to."
+  ],
+  "tips": [
+    "Hook rule: lead with the payoff, not the title ('The 3 lessons that made a millionaire — from one book') — the result hooks; the author's name does not.",
+    "Caption trick: 'Which book should I summarise next?' — the request turns viewers into commenters naming their favourite book, which pushes the video further.",
+    "Save bait: end with 'Save this — you will want lesson 3 later' — saves are TikTok's strongest signal, and a summary is exactly what people save to re-read."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "books",
+    "podcasts",
+    "summaries",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-real-survival-stories",
+  "title": "AI Real Survival Stories (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Real Survival Stories — epic cinematic retellings of blizzards, storms, deserts and jungles, with a countdown that holds viewers to the escape. Is niche ki videos 38.7M / 29.4M / 22.1M / 16.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-real-survival-stories.jpg",
+  "prompt": "Epic cinematic survival documentary video, photorealistic and tense, [SURVIVAL STORY: a climber trapped in a blizzard on a snowy ridge fighting to reach camp before dark / a sailor alone on a life raft in a storm following a distant lighthouse beam / a traveller crossing a burning desert toward a shimmering oasis / an explorer lost in a glowing jungle cave following a hidden waterfall out], one true-feeling survival story per video, slow-building tension, dramatic golden-hour light, 16:9 horizontal, 8-12 minutes",
+  "howto": [
+    "Generate one survival story in Veo 3 per video, swapping only [SURVIVAL STORY] — one person, one ordeal, one escape per video keeps the tension clean; never tell three survival tales in one video.",
+    "Script each video in ChatGPT as 4 beats: ordinary day + disaster strikes + the impossible choice + the escape — survival wins on the choice; a list of facts does not.",
+    "Open on the worst moment first (the blizzard, the wave, the empty water bottle) and rewind — 'How did he get here?' is the hook; a calm introduction is not.",
+    "Voice it in ElevenLabs with a slow, serious documentary narrator — survival needs gravity; a fast hype voice breaks the tension that holds viewers.",
+    "Post long-form weekly plus Shorts cuts daily, numbered as a series — 'Survival 01, 02, 03' — numbered ordeals turn one viral video into a show viewers binge."
+  ],
+  "tips": [
+    "Hook rule: open on the disaster in the first 5 seconds ('He had 6 hours of oxygen left') — a countdown stops the scroll; a biography does not.",
+    "Title trick: 'How [PERSON] Survived [THE IMPOSSIBLE THING]' — a name plus an impossible ordeal in the title is the whole click.",
+    "Retention trick: withhold the escape until the last minute — end every act on a worsening problem, so viewers must watch to learn how anyone got out alive."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "survival",
+    "documentary",
+    "stories",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "niche-spotlight-ai-marketing-case-studies",
+  "title": "AI Marketing Case Studies (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Marketing Case Studies — one viral campaign per Reel, result first then the clever trick, with a lesson viewers can copy. Is niche ki videos 156.8M / 129.4M / 104.7M / 81.2M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-marketing-case-studies.jpg",
+  "prompt": "Bright, punchy marketing case-study video, bold colourful visuals, [CASE STUDY: the tiny coffee shop whose one window sign doubled its sales in a week / the sneaker brand whose 'failed' advert became its biggest seller / the local bakery that sold out with one 15-second Reel / the fizzy drink campaign everyone copied the next summer], one campaign per Reel, the result first then the clever trick explained, sunny high-energy light, 9:16 vertical, 30-45 seconds",
+  "howto": [
+    "Generate one case study in Veo 3 per Reel, swapping only [CASE STUDY] — one campaign, one trick, one result per Reel keeps the lesson clean; never explain three campaigns in one clip.",
+    "Give the result in the first 2 seconds ('Sales doubled in one week — with one sign') and explain the trick after — the result is the hook; the backstory is not.",
+    "Script each Reel in ChatGPT as result + trick + lesson: 'What happened, what they did, what you can copy' — a case study without a copyable lesson is just a story.",
+    "Voice it in ElevenLabs with a sharp, curious, upbeat tone — marketing wins on cleverness; a dull voice makes a brilliant trick sound boring.",
+    "Post daily at 7-9 PM PKT as a series — 'Case Study 01, 02, 03' — numbered cases turn one viral Reel into a business school viewers save and return to."
+  ],
+  "tips": [
+    "Hook rule: lead with the exact result in the first 2 seconds ('This one sign doubled their sales') — a specific result stops the Facebook scroll faster than any theory.",
+    "Caption trick: 'Would this work in your business?' — the question turns viewers into commenters naming their own shop, which pushes the Reel further.",
+    "Share bait: end with 'Send this to someone starting a business' — shares are Facebook's strongest reach signal, and a copyable marketing trick is exactly what people forward."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "marketing",
+    "business",
+    "case-studies",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
 
 ];
 
