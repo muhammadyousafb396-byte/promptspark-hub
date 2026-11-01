@@ -9702,6 +9702,306 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "category": "Video Prompts",
+  "desc": "Tiny craftspeople polish, paint and hang a giant glowing Christmas bauble in a snowy workshop — a magical November holiday hook built for TikTok replays and saves.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the giant bauble and the tiny craftspeople as the hero of the frame.",
+    "Set aspect ratio to 9:16 vertical for TikTok and Reels.",
+    "Generate 3-4 variations and keep the clip where the bauble catches the light and the painters stay in sharp focus.",
+    "Post in early November with a caption like 'POV: the elves started early this year' and holiday hashtags."
+  ],
+  "id": "giant-christmas-bauble-workshop-veo3",
+  "popularity": 91,
+  "prompt": "Magical tiny-world workshop scene: cheerful miniature craftspeople in red aprons polish a giant glowing Christmas bauble the size of a house, painting swirling gold patterns with tiny brushes, hanging it from a pine branch with a sparkling ribbon, snowflakes drifting through warm golden workshop light, tiny ladders, paint pots and fairy lights everywhere, a cat in a Santa hat watches from a wooden crate, cinematic macro depth of field, rich red, green and gold colours, joyful festive music feel, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "tags": [
+    "christmas",
+    "tiktok",
+    "holiday",
+    "tiny-world",
+    "creator-niche"
+  ],
+  "tips": [
+    "Open on the bauble already glowing and a painter mid-brushstroke — a slow empty workshop pan loses the holiday scroll.",
+    "Swap the bauble colour each video — gold, ruby, icy blue — so the same workshop becomes a whole December series."
+  ],
+  "title": "Giant Christmas Bauble Workshop — Veo 3 Prompt for Viral TikTok Holiday Niches",
+  "tool": "Veo 3",
+  "trending": true
+}
+,
+{
+  "category": "Video Prompts",
+  "desc": "A frozen pond fills with skaters as dawn frost melts into golden morning light — a calm, beautiful winter timelapse built for faceless YouTube Shorts.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the dawn-to-golden-light transition as the emotional arc.",
+    "Set aspect ratio to 9:16 vertical for YouTube Shorts.",
+    "Generate several variations and keep the clip where the ice trails and the light change read clearly in a few seconds.",
+    "Add a calm caption and post in the morning — winter ambience content performs best with early-day viewers."
+  ],
+  "id": "frozen-pond-skaters-timelapse-veo3",
+  "popularity": 84,
+  "prompt": "Serene winter timelapse: a glassy frozen pond in a snowy forest clearing at dawn, frost sparkling on bare branches, the first skaters glide in one by one leaving graceful curved trails, breath misting in the cold air, rosy scarves and wool hats, the low sun breaks through pine trees and turns the ice gold, snowflakes begin to fall softly as a dog in a red coat trots along the bank, smooth cinematic camera drift, peaceful piano music feel, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "tags": [
+    "winter",
+    "youtube",
+    "timelapse",
+    "cozy",
+    "creator-niche"
+  ],
+  "tips": [
+    "Keep the camera drifting slowly and steadily — a timelapse with jumpy movement feels like a glitch, not a sunrise.",
+    "Reuse the same pond in different weather — snowfall, sunset, moonlight — to build a recognisable winter series."
+  ],
+  "title": "Frozen Pond Skaters Timelapse — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "tool": "Veo 3",
+  "trending": false
+}
+,
+{
+  "category": "Video Prompts",
+  "desc": "A grumpy talking snowman roasts winter life while slowly melting — a repeatable comedy character built for TikTok's winter comedy niche.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Kling and start a new image-to-video or text-to-video generation.",
+    "Paste the full prompt, keeping the snowman talking straight to camera.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate 3-4 takes and keep the one where the facial expressions and the melting gag land on the beat.",
+    "Add your funniest one-liner as the caption and post as episode one of a daily snowman series."
+  ],
+  "id": "talking-snowman-comedy-kling",
+  "popularity": 89,
+  "prompt": "Funny talking snowman comedy clip: a round snowman with a crooked carrot nose, coal eyes and a lopsided scarf complains directly to camera about winter — shivering dramatically, gesturing with stick arms, a drip of meltwater landing on his head mid-rant, kids building a snow fort in the snowy background, a dog stealing his hat, bright crisp winter daylight, sparkling snow, expressive cartoon-realistic face with perfect lip-sync timing, punchy sitcom energy, 9:16 vertical, no text, no watermark",
+  "tags": [
+    "comedy",
+    "tiktok",
+    "winter",
+    "talking-character",
+    "creator-niche"
+  ],
+  "tips": [
+    "Give the snowman one complaint per clip — cold hands, melting, the dog — a snowman with three jokes in 8 seconds lands none of them.",
+    "Keep the same scarf, nose and voice in every episode so viewers recognise the character instantly on the For You page."
+  ],
+  "title": "Talking Snowman Comedy — Kling Prompt for Viral TikTok Winter Niches",
+  "tool": "Kling",
+  "trending": true
+}
+,
+{
+  "category": "Video Prompts",
+  "desc": "A blizzard rages outside while a fire crackles inside a tiny log cabin — peak cozy contrast for faceless YouTube relaxation and ambience niches.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Sora and start a new video generation.",
+    "Paste the full prompt, keeping the storm-outside versus fire-inside contrast.",
+    "Set aspect ratio to 16:9 for YouTube ambience videos.",
+    "Generate a few variations and keep the clip where the push-in from storm to fireplace feels smooth and unhurried.",
+    "Loop the best clip under fireplace audio for a long-form cozy video, or post the short version to Shorts."
+  ],
+  "id": "snowstorm-cabin-cozy-sora",
+  "popularity": 82,
+  "prompt": "Cozy contrast scene: a tiny log cabin deep in a snowy forest during a heavy blizzard, snow whipping past frosted windows, inside a wood stove glows orange, a steaming mug sits on a wooden table beside an open book, a cat sleeps curled on a knitted blanket, fairy lights and candles warm the dark timber walls, camera slowly pushes in from the storm outside to the glowing window, then inside to the fire, deep, calm, safe atmosphere, cinematic lighting, photorealistic, ultra detailed, 16:9, no people, no text, no watermark",
+  "tags": [
+    "cozy",
+    "youtube",
+    "winter",
+    "ambience",
+    "creator-niche"
+  ],
+  "tips": [
+    "Let the storm do the first 3 seconds — wind and snow outside makes the warm interior feel ten times cosier when it arrives.",
+    "Change one detail per video — the book, the mug, the cat's spot — so the cabin becomes a series viewers return to nightly."
+  ],
+  "title": "Snowstorm Cabin Retreat — Sora Prompt for Cozy YouTube Niche Channels",
+  "tool": "Sora",
+  "trending": false
+}
+,
+{
+  "category": "Video Prompts",
+  "desc": "A whole gingerbread city wakes up — candy streetlights flicker on, gumdrop buses roll — a sweet, satisfying holiday loop built for Instagram Reels.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the dusk light-up moment as the centrepiece.",
+    "Set aspect ratio to 9:16 vertical for Instagram Reels.",
+    "Generate 3-4 variations and keep the clip where the lights switch on in a satisfying wave down the street.",
+    "Post with a festive audio track and a caption inviting viewers to spot the smallest house."
+  ],
+  "id": "gingerbread-city-alive-runway",
+  "popularity": 86,
+  "prompt": "Whimsical gingerbread city coming alive at dusk: rows of gingerbread houses with icing roofs and candy-cane lampposts, gumdrop buses rolling along a frosting road, tiny gingerbread people waving from sugar-glass windows, candy streetlights flickering on one by one, powdered-sugar snow drifting down, warm golden window glow against a deep blue evening sky, smooth cinematic camera glide down the main street, joyful, detailed, storybook style, 9:16 vertical, no text, no watermark",
+  "tags": [
+    "christmas",
+    "instagram",
+    "gingerbread",
+    "holiday",
+    "creator-niche"
+  ],
+  "tips": [
+    "Time the lights to switch on halfway through the clip — the before-and-after glow is the shareable moment.",
+    "Zoom into one house per follow-up Reel to turn the city into a whole advent series of tiny stories."
+  ],
+  "title": "Gingerbread City Comes Alive — Runway Prompt for Viral Instagram Reels Niches",
+  "tool": "Runway",
+  "trending": false
+}
+,
+{
+  "category": "Video Prompts",
+  "desc": "Golden spiced cider pours in extreme macro, steam curling past cinnamon sticks — a warm, satisfying autumn-to-winter loop for Facebook Reels pages.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Google Flow and start a new video generation.",
+    "Paste the full prompt, keeping the macro pour and the steam as the focus.",
+    "Set aspect ratio to 9:16 vertical for Facebook Reels.",
+    "Generate several takes and keep the pour where the stream stays centred and the steam catches the light.",
+    "Loop the clip seamlessly and post with a warm caption — satisfying pours earn saves on cold evenings."
+  ],
+  "id": "spiced-cider-pour-macro-google-flow",
+  "popularity": 78,
+  "prompt": "Extreme macro satisfying pour: golden spiced cider streams slowly from a glass jug into a clear mug, steam curling upward, cinnamon sticks, orange slices and star anise floating in the amber liquid, tiny bubbles rising, warm backlight glowing through the glass, a dusting of frost on the wooden table and a cosy knitted sleeve in the soft-focus background, slow, hypnotic, ultra sharp macro detail, rich autumn colours, 9:16 vertical, no text, no watermark",
+  "tags": [
+    "satisfying",
+    "facebook",
+    "macro",
+    "autumn",
+    "creator-niche"
+  ],
+  "tips": [
+    "Start the pour already flowing — a macro clip that waits 2 seconds for the first drop loses the satisfying-scroll audience.",
+    "Swap the drink per video — hot chocolate, mulled wine, honey tea — to build a whole cosy-drinks series from one setup."
+  ],
+  "title": "Spiced Cider Pour Macro — Google Flow Prompt for Satisfying Facebook Reels",
+  "tool": "Google Flow",
+  "trending": false
+}
+,
+{
+  "category": "Image Prompts",
+  "desc": "Nostalgic vintage travel-poster art for Christmas markets — glowing stalls, snow and steam — built for Instagram and Facebook art pages and print-on-demand.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Midjourney and paste the full prompt into the imagine box.",
+    "Keep the --ar 4:5 ratio for Instagram and Facebook feeds.",
+    "Upscale your favourite of the four variations, then vary the town square detail for a matching set.",
+    "Swap the market city per image — Vienna, Prague, Strasbourg — to build a collectible poster series.",
+    "Post one poster per day through November and link the full set in your bio."
+  ],
+  "id": "vintage-christmas-market-posters-midjourney",
+  "popularity": 80,
+  "prompt": "Vintage travel poster illustration of a snowy European Christmas market at night, glowing wooden stalls with striped red-and-white awnings, strings of warm fairy lights, a towering decorated tree in the town square, happy crowds in vintage coats holding steaming mugs, gentle snowfall, rich retro colour palette of deep teal, crimson and gold, bold mid-century poster composition, grainy print texture, no text, --ar 4:5 --style raw --v 6.1",
+  "tags": [
+    "christmas",
+    "instagram",
+    "poster-art",
+    "vintage",
+    "creator-niche"
+  ],
+  "tips": [
+    "Keep 'no text' in the prompt — Midjourney lettering on posters often misspells, and clean art sells better as prints.",
+    "Use the same colour palette across the whole set so the series looks like one deliberate collection, not random images."
+  ],
+  "title": "Vintage Christmas Market Posters — Midjourney Prompt for Instagram & Facebook Art Pages",
+  "tool": "Midjourney",
+  "trending": false
+}
+,
+{
+  "category": "Text Prompts",
+  "desc": "A niche-discovery prompt that mines November and December for underserved, high-demand creator niches before every other channel jumps on them.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open ChatGPT and paste the full prompt, replacing [PLATFORM] with the platform you actually post on.",
+    "Read the scored table first — do not pick a niche on vibes alone; pick the highest combined demand-plus-low-saturation score.",
+    "Ask ChatGPT to expand the winning niche into 30 titles before you commit to it.",
+    "Cross-check the top 3 niches by searching the platform yourself — if 5 faceless channels already own it, move to the next.",
+    "Launch the 7-day plan immediately; seasonal niches reward the first mover, not the most polished."
+  ],
+  "id": "winter-niche-goldmine-chatgpt",
+  "popularity": 88,
+  "prompt": "Act as a creator-economy researcher specialising in seasonal content. I create faceless videos for [PLATFORM: YouTube / TikTok / Facebook / Instagram] using AI video tools, and I want underserved winter niches for November and December 2026. Step 1: list 20 winter-adjacent niches ranked by (a) search demand rising in November, (b) low faceless-channel saturation, (c) monetisation potential. Step 2: for the top 5, give me: the exact audience, 3 proven video formats already working in that niche, 10 video titles with hooks, and the biggest mistake new channels make in it. Step 3: flag any niche that only works for 2 weeks and suggest an evergreen pivot that keeps the channel alive into January. Exclude generic ideas like 'Christmas vlogs' or 'winter motivation' — I want specific, ownable angles with evidence of demand. Present it as a scored table with a clear winner and a 7-day launch plan.",
+  "tags": [
+    "niche-discovery",
+    "youtube",
+    "tiktok",
+    "winter",
+    "creator-niche"
+  ],
+  "tips": [
+    "Run this prompt once per platform — a winter niche that wins on TikTok often flops on YouTube, and the prompt scores them separately for a reason.",
+    "Ask for the January pivot in the same chat so your winter channel does not die on 26 December.",
+    "Save the scored table and re-run the prompt in January with 'spring' swapped in — the same structure works all year."
+  ],
+  "title": "Winter Niche Goldmine — ChatGPT Prompt to Find Underserved November & December Creator Niches",
+  "tool": "ChatGPT",
+  "trending": true
+}
+,
+{
+  "category": "Text Prompts",
+  "desc": "Turn any niche into a 24-day December advent series — one tiny reveal per day that trains viewers to come back daily on TikTok and Instagram.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Gemini and paste the full prompt, filling in [NICHE] and [AUDIENCE] precisely.",
+    "Check the arc first: days 1-8 curiosity, 9-16 escalation, 17-23 answers, 24 payoff — a flat series loses daily viewers.",
+    "Batch-film or batch-generate days 1-12 in November so December stays stress-free.",
+    "Post at the same time every day and number every video — the numbered door is what trains the daily habit.",
+    "On day 24, pin a comment linking the full series playlist so new viewers binge all 24."
+  ],
+  "id": "advent-calendar-series-gemini",
+  "popularity": 85,
+  "prompt": "Act as a short-form series strategist. My niche is [NICHE] and my audience is [AUDIENCE]. Design a 24-day December advent-calendar video series for TikTok and Instagram Reels: one short video per day, each revealing one small thing behind a numbered 'door'. For each of the 24 days give me: the door number, a 5-second hook, the reveal, the exact on-screen text, and a comment prompt that makes viewers guess tomorrow's door. Rules: days 1-8 build curiosity with easy wins, days 9-16 escalate with surprises and guest-style twists, days 17-23 answer the biggest audience questions, day 24 delivers the payoff viewers have been waiting for. Every video must be filmable in under 30 minutes with AI tools or a phone, no expensive props. Add a series title, a posting-time plan for December, and 3 ways to recycle the 24 videos into a January compilation. Make the hooks specific to my niche — no generic 'Day 1 of Christmas' filler.",
+  "tags": [
+    "december",
+    "tiktok",
+    "instagram",
+    "series",
+    "creator-niche"
+  ],
+  "tips": [
+    "Tease tomorrow's door at the end of every video — the guess in the comments is what the algorithm rewards most.",
+    "Keep each reveal genuinely small; an advent series that promises a huge prize daily burns out by day 6."
+  ],
+  "title": "Advent Calendar Video Series — Gemini Prompt for TikTok & Instagram December Niches",
+  "tool": "Gemini",
+  "trending": false
+}
+,
+{
+  "category": "Text Prompts",
+  "desc": "A full December system prompt: 31 daily uploads planned, batched and scheduled in Claude, with rest days, repurposing and a January handover built in.",
+  "difficulty": "Advanced",
+  "howto": [
+    "Open Claude and paste the full prompt, filling in [PLATFORM], [NICHE] and your real daily hours — honesty here is the whole system.",
+    "Check the batching plan against your real week before you accept the calendar; move high-effort days off your busiest days.",
+    "Export the table to a spreadsheet and tick the daily checklist every morning.",
+    "Pre-build the 3 rest-day formats in November so a bad day never becomes a missed day.",
+    "Review the January handover in the last week of December, not on 1 January."
+  ],
+  "id": "december-daily-upload-system-claude",
+  "popularity": 83,
+  "prompt": "Act as a content operations manager for a solo faceless creator. I post on [PLATFORM] in the [NICHE] niche, I can make videos in [HOURS PER DAY] hours a day, and I want to upload every day in December 2026 without burning out. Build me a complete 31-day system: (1) a content calendar with one video idea per day, grouped into 4 weekly themes, each with title, hook, format and estimated production time; (2) a batching plan that fits my daily hours — which days I film/generate, which days I edit, which days I only schedule; (3) 3 pre-written rest-day formats that take under 20 minutes but still post; (4) a repurposing map turning each week's videos into 2 extra posts for a second platform; (5) a simple daily checklist I can tick off in 2 minutes; (6) a 3-day January handover plan so the channel keeps momentum after December. Be realistic about solo-creator energy: front-load the hard videos, protect weekends, and never schedule two high-effort videos on consecutive days. Output the calendar as a table I can copy into a spreadsheet.",
+  "tags": [
+    "planning",
+    "youtube",
+    "december",
+    "system",
+    "creator-niche"
+  ],
+  "tips": [
+    "If the plan shows more than 2 high-effort videos in any week, ask Claude to downgrade one — December consistency beats December ambition.",
+    "Reuse the system in any 31-day sprint: swap 'December' for the month and keep the batching, rest-day and repurposing structure intact."
+  ],
+  "title": "December Daily Upload System — Claude Prompt to Plan 31 Days Without Burning Out",
+  "tool": "Claude",
+  "trending": false
 }
 
 ];
