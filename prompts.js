@@ -10003,7 +10003,107 @@ const PROMPTS = [
   "tool": "Claude",
   "trending": false
 }
-
+,
+{
+  "id": "niche-spotlight-ai-kindness-moral-stories",
+  "title": "AI Kindness & Moral Stories (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Kindness & Moral Stories — one small act of kindness per Reel, with the surprise payoff in the last 3 seconds. Is niche ki videos 174.8M / 146.3M / 119.5M / 92.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-kindness-moral-stories.jpg",
+  "prompt": "Warm, emotional kindness story video, bright cinematic visuals, [KINDNESS MOMENT: a kind waitress quietly paying for an elderly man's meal and his face lighting up with gratitude / a stranger sharing his umbrella with a woman caught in sudden rain, both laughing as the sun breaks through / a little girl sharing her lunch with a hungry stray puppy in a sunny schoolyard / a young man carrying an elderly woman's heavy grocery bags home at golden sunset], one small act of kindness per Reel, the surprise payoff in the last 3 seconds, a warm hopeful voiceover, 9:16 vertical, 30-45 seconds",
+  "howto": [
+    "Generate one kindness story in Veo 3 per Reel, swapping only [KINDNESS MOMENT] — one small act, one payoff smile per Reel keeps the emotion clean; never tell three kindness stories in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: an ordinary moment + the kind act + the payoff — kindness wins on the surprise in the last 3 seconds; a lecture does not.",
+    "Open on the moment of need in the first 2 seconds (the rain, the heavy bags, the hungry puppy) — need stops the Instagram scroll; a happy ending shown first does not.",
+    "Voice it in ElevenLabs with a warm, gentle, hopeful narrator — kindness needs softness; a loud hype voice breaks the tenderness that holds viewers.",
+    "Post daily at 7-9 PM PKT as a series — 'Kindness 01, 02, 03' — numbered stories turn one viral Reel into a feel-good show viewers return to every evening."
+  ],
+  "tips": [
+    "Hook rule: lead with the moment of need, not the kindness ('She had no umbrella — then a stranger stopped') — need hooks; a smile alone does not.",
+    "Caption trick: 'Tag someone who would do this' — the tag turns viewers into sharers naming a kind friend, which pushes the Reel further.",
+    "Share bait: end with 'Send this to someone who needs a smile today' — shares are Instagram's strongest reach signal, and a kindness payoff is exactly what people forward."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "kindness",
+    "moral-stories",
+    "emotional",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-geography-map-facts",
+  "title": "AI Geography & Map Facts (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Geography & Map Facts — one jaw-dropping map fact per video, with the 'wait, really?' moment in the first 3 seconds. Is niche ki videos 192.7M / 164.8M / 138.4M / 107.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-geography-map-facts.jpg",
+  "prompt": "Bright, curiosity-driving geography fact video, glowing animated maps and sweeping aerial views, [GEOGRAPHY FACT: the tiny country you can walk across in one afternoon, shown on a glowing map with its borders lighting up / a river that is the border between green farmland and golden desert, filmed from high above / a remote island so small its whole village fits on one beach, seen from a drone over turquoise reef / a mountain range that decides the weather of two countries, shown as a 3D relief globe], one jaw-dropping map fact per video, the 'wait, really?' moment in the first 3 seconds, an energetic curious voiceover, 9:16 vertical, 45-60 seconds",
+  "howto": [
+    "Generate one geography fact in Veo 3 per video, swapping only [GEOGRAPHY FACT] — one map, one fact, one 'aha' per video keeps the curiosity clean; never explain three countries in one clip.",
+    "Script each video in ChatGPT as question + map reveal + explanation: ask the question, show the glowing map, then explain why the border or island looks that way — the map is the star; a list of facts is not.",
+    "Open on the impossible-looking map in the first 3 seconds ('This country fits inside one city') — a wrong-looking map stops the TikTok scroll; a globe spinning slowly does not.",
+    "Voice it in ElevenLabs with an energetic, curious, slightly amazed tone — geography wins on wonder; a monotone voice makes the most amazing border sound boring.",
+    "Post daily at 7-9 PM PKT as a series — 'Map Fact 01, 02, 03' — numbered facts turn one viral video into a daily geography quiz viewers follow and return to."
+  ],
+  "tips": [
+    "Hook rule: show the map before you say a word — a glowing border or a tiny island on screen hooks faster than any spoken intro.",
+    "Caption trick: 'Guess the country before the reveal' — the guess turns viewers into commenters naming places, which pushes the video further.",
+    "Save bait: end with 'Save this for your next quiz night' — saves are TikTok's strongest signal, and a map fact is exactly what people save to win arguments later."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "geography",
+    "maps",
+    "facts",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-vintage-planes-yachts",
+  "title": "AI Vintage Planes & Classic Yachts (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Vintage Planes & Classic Yachts — one legendary machine per documentary, told as a golden-age adventure. Is niche ki videos 34.6M / 27.8M / 21.4M / 15.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-vintage-planes-yachts.jpg",
+  "prompt": "Cinematic vintage planes and classic yachts documentary video, golden-hour photorealistic visuals, [VINTAGE MACHINE: a polished silver propeller plane from the 1930s warming up on a grass airfield as its pilot walks around it / a classic wooden yacht with tall white sails racing the sunset across deep blue sea / a bright yellow vintage seaplane floating on a turquoise lagoon beside a palm-covered island / an art deco flying boat docked at a misty harbour pier at dawn, ready for its first ocean crossing], one legendary machine per video, its story told as a golden-age adventure, a slow documentary voiceover, 16:9 horizontal, 8-12 minutes",
+  "howto": [
+    "Generate one vintage machine story in Veo 3 per video, swapping only [VINTAGE MACHINE] — one plane or one yacht, one adventure per video keeps the romance clean; never tour three machines in one documentary.",
+    "Script each video in ChatGPT as 4 beats: the golden age + the machine + the daring journey + the legend it became — vintage wins on adventure; a list of specifications does not.",
+    "Open on the machine in golden light in the first 5 seconds (propeller turning, sails filling) — beauty stops the YouTube scroll; a history lecture does not.",
+    "Voice it in ElevenLabs with a slow, warm documentary narrator — vintage needs romance and gravity; a fast hype voice breaks the golden-age spell.",
+    "Post long-form weekly plus Shorts cuts daily, numbered as a series — 'Vintage 01, 02, 03' — numbered machines turn one viral video into a collection viewers binge."
+  ],
+  "tips": [
+    "Hook rule: open on the impossible claim in the first 5 seconds ('This plane should never have crossed an ocean') — a dare stops the scroll; a manufacture date does not.",
+    "Title trick: 'The [YEAR] [MACHINE] That [DID THE IMPOSSIBLE THING]' — a year plus a machine plus an impossible feat in the title is the whole click.",
+    "Retention trick: withhold the machine's fate until the last minute — end every act on a storm, a breakdown or a gamble, so viewers must watch to learn whether it made it."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "vintage",
+    "planes",
+    "yachts",
+    "documentary",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
 ];
 
 if (typeof module !== "undefined") {
