@@ -10393,6 +10393,105 @@ const PROMPTS = [
   "title": "January Niche Pivot Planner — Claude Prompt to Reinvent Your Channel for the New Year",
   "tool": "Claude",
   "trending": false
+},
+{
+  "id": "niche-spotlight-ai-fast-cooking-videos",
+  "title": "AI Fast Cooking Videos (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Fast Cooking Videos — satisfying fast cooking: giant cakes, candy making, melting chocolate, sizzling dishes, one irresistible close-up per Reel. Is niche ki videos 196.3M / 168.7M / 141.2M / 112.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-fast-cooking-videos.jpg",
+  "prompt": "Ultra-satisfying fast cooking video, bright appetizing close-ups, [DISH: a giant glossy chocolate cake being sliced as molten chocolate flows down the sides / rainbow candy swirling and pouring with sparkling sugar crystals / a tall stack of golden pancakes with honey drizzling down in slow motion / colorful donuts dipped into glossy pink glaze with sprinkles flying], one irresistible dish per Reel, the most satisfying moment in the first 3 seconds, sizzling and pouring sounds, 9:16 vertical, 30-45 seconds, no people on camera",
+  "howto": [
+    "Generate one dish in Veo 3 per Reel, swapping only [DISH] — one cake, one candy pour, one sizzling dish per Reel keeps the satisfaction clean; never cook three dishes in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the raw ingredients + the satisfying transformation + the reveal bite — fast cooking wins on the pour, the slice and the drizzle; a recipe lecture does not.",
+    "Open on the most satisfying moment in the first 3 seconds (chocolate flowing, honey drizzling, glaze dipping) — satisfaction stops the Facebook scroll; a shopping list of ingredients does not.",
+    "Keep it hands-only with sizzling, pouring and slicing sounds and no face on camera — the food is the star, and faceless cooking is the fastest format to batch.",
+    "Post daily at 7-9 PM PKT as a series — 'Fast Cooking 01, 02, 03' — numbered dishes turn one viral Reel into a dinner-time show viewers return to every evening."
+  ],
+  "tips": [
+    "Hook rule: lead with the pour, the slice or the drizzle — never with ingredients ('Watch this chocolate flow' hooks; 'Today we need flour' does not).",
+    "Caption trick: 'Wait for the slice' — the wait turns viewers into watchers who stay to the reveal, which pushes the Reel further.",
+    "Share bait: end with 'Send this to someone who is hungry right now' — hunger is contagious, and a food reveal is exactly what people forward to friends."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "cooking",
+    "fast-cooking",
+    "satisfying",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-tech-tips-tutorials",
+  "title": "AI Tech Tips & Screen Tutorials (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Tech Tips & Screen Tutorials — one phone or AI-tool trick per Reel, shown as a before/after magic moment viewers save instantly. Is niche ki videos 142.7M / 118.3M / 94.6M / 71.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-tech-tips-tutorials.jpg",
+  "prompt": "Bright, fast tech-tip tutorial video, crisp screen recordings and glowing gadget close-ups, [TECH TRICK: a hidden phone feature that removes photo backgrounds in one tap, shown as a dull photo turning vivid with sparkles / an AI tool that turns a messy note into a clean presentation in seconds, shown on a glowing laptop dashboard / a one-tap phone setting that doubles battery life, shown on a bright home screen / a free AI edit that turns a shaky clip into smooth cinema, shown side by side before and after], one trick per Reel, the before/after magic in the first 3 seconds, a clear energetic voiceover, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one tech trick in Veo 3 per Reel, swapping only [TECH TRICK] — one feature, one before/after, one 'wow' per Reel keeps the tip clean; never teach three tricks in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the problem + the one-tap fix + the result on screen — tech tips win on the visible result; a list of settings does not.",
+    "Open on the finished result in the first 3 seconds (the vivid photo, the clean presentation, the smooth clip) — the result stops the Instagram scroll; a settings menu does not.",
+    "Record or generate a crisp screen capture for the middle beat — viewers must see the exact taps; a talking head describing a trick they cannot see will not be saved.",
+    "Post 5-7 Reels a week at 7-9 PM PKT as a series — 'Tech Tip 01, 02, 03' — numbered tricks turn one viral Reel into a reference library viewers save and return to."
+  ],
+  "tips": [
+    "Hook rule: show the result before the steps ('Your photos can look like this in one tap') — a result hooks; a menu never does.",
+    "Caption trick: 'Did you know this one?' — the question turns viewers into commenters admitting they did not, which pushes the Reel further.",
+    "Save bait: end with 'Save this before you forget it' — saves are Instagram's strongest reach signal, and a useful trick is exactly what people save for later."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "tech-tips",
+    "tutorials",
+    "ai-tools",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-body-facts",
+  "title": "AI Micro-Health Body Facts (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Micro-Health Body Facts — one mind-blowing fact about your own body per video, the 'wait, really?' moment in the first 3 seconds. Is niche ki videos 203.8M / 176.4M / 149.1M / 122.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-body-facts.jpg",
+  "prompt": "Punchy, curiosity-driving body-facts video, glowing anatomical visuals and bright science imagery, [BODY FACT: why your eye twitches when you are tired, shown as a sparkling close-up of an eye / why you jerk awake just as you fall asleep, shown as a glowing brain firing at sunset / what your gut tells your brain before you feel hungry, shown as golden light travelling between stomach and brain / why your heart beats faster when you see someone you like, shown as a glowing heart hologram beating with energy], one jaw-dropping body fact per video, the 'wait, really?' moment in the first 3 seconds, rapid-fire energetic voiceover, 9:16 vertical, 30-60 seconds",
+  "howto": [
+    "Generate one body fact in Veo 3 per video, swapping only [BODY FACT] — one fact, one glowing visual, one 'aha' per video keeps the curiosity clean; never explain three body systems in one clip.",
+    "Script each video in ChatGPT as question + visual reveal + simple explanation: ask the question about the viewer's own body, show the glowing visual, then explain it in one plain sentence — the body is the star; a textbook list is not.",
+    "Open on the impossible-looking visual in the first 3 seconds (the sparkling eye, the firing brain, the beating heart hologram) — a body mystery stops the TikTok scroll; a definition does not.",
+    "Voice it in ElevenLabs with an energetic, curious, slightly amazed tone — body facts win on wonder; a monotone voice makes the most amazing fact sound boring.",
+    "Post daily at 7-9 PM PKT as a series — 'Body Fact 01, 02, 03' — numbered facts turn one viral video into a daily curiosity show viewers follow and return to."
+  ],
+  "tips": [
+    "Hook rule: ask the question about the viewer's own body first ('Why does your eye twitch when you are tired?') — a question about yourself hooks faster than any fact about strangers.",
+    "Caption trick: 'Tag someone whose eye twitches' — the tag turns viewers into sharers naming a friend, which pushes the video further.",
+    "Trust rule: stick to well-known curiosity facts and never give medical advice or diagnose anyone — curiosity earns saves, health claims earn trouble."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "body-facts",
+    "health",
+    "science",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
 }
 ];
 
