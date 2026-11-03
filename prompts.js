@@ -10793,7 +10793,109 @@ const PROMPTS = [
   "trending": false,
   "popularity": 87
 }
-
+,
+{
+  "id": "niche-spotlight-ai-lost-kingdoms-documentaries",
+  "title": "AI Lost Kingdoms & Ancient Civilizations Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Lost Kingdoms & Ancient Civilizations Documentaries — cinematic reconstructions of Rome, the Maya, Mesopotamia and the Indus Valley, one rise-and-fall mystery per video. Is niche ki videos 48.6M / 37.2M / 29.4M / 21.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-lost-kingdoms-documentaries.jpg",
+  "prompt": "Cinematic long-form documentary reconstruction, photorealistic AI visuals with slow sweeping drone shots, [LOST KINGDOM: ancient Rome at its peak with senators in the Forum and gladiators entering the Colosseum / a thriving Maya city with pyramids, markets and astronomers reading the stars / a Mesopotamian ziggurat city with canals, scribes and golden treasure halls / the Indus Valley with planned streets, baths and traders at the docks], one lost civilization per video, a calm authoritative narrator telling one rise-and-fall story, golden-hour light, epic orchestral score, 16:9, 10-15 minutes, no on-screen text",
+  "howto": [
+    "Generate one lost civilization in Veo 3 per video, swapping only [LOST KINGDOM] — one kingdom, one rise-and-fall arc, one 'what happened to them?' mystery per video keeps the documentary clean; never jump between three civilizations in one video.",
+    "Script each video in ChatGPT as 5 beats: the golden age + daily life + the warning signs + the fall + the mystery that remains — lost kingdoms win on the fall and the mystery; a list of dates does not.",
+    "Open on the most impossible shot in the first 15 seconds (a full living city where only ruins stand today) — a world that cannot be filmed stops the YouTube scroll; a map graphic does not.",
+    "Voice it in ElevenLabs with a calm, authoritative documentary tone and add an epic orchestral score underneath — lost kingdoms win on awe; a rushed voice makes 3,000 years of history sound like a news flash.",
+    "Post weekly as a series — 'Lost Kingdoms 01, 02, 03' — numbered civilizations turn one viral documentary into a history library viewers binge and return to."
+  ],
+  "tips": [
+    "Hook rule: start with the mystery, not the date ('This city vanished in a single generation — and nobody knows why' hooks; 'Rome was founded in 753 BC' does not).",
+    "Title trick: put the lost kingdom + the mystery first — 'The Maya City That Vanished Overnight' earns the click; 'History of the Maya' does not.",
+    "Accuracy rule: stick to widely accepted history and flag legends as legends — awe earns subscribers, invented 'facts' earn comments that kill trust."
+  ],
+  "why_it_works": "Curiosity plus impossible visuals: viewers stay to see a living world they can never visit, and every civilization is a fresh series — endless supply, evergreen demand, and the fall of an empire is a story shape humans never stop watching.",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "documentary",
+    "lost-kingdoms",
+    "history",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-faith-daily-reminders",
+  "title": "AI Daily Faith Reminders (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Daily Faith Reminders — one calm daily reminder per Reel: gratitude, patience, kindness and hope, over serene golden-hour visuals. Is niche ki videos 172.6M / 148.3M / 121.7M / 94.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-faith-daily-reminders.jpg",
+  "prompt": "Calm, warm daily faith reminder video, serene golden-hour visuals and soft light, [REMINDER: gratitude — a sunrise over a quiet mosque and a family sharing breakfast with thankful smiles / patience — a traveller walking a long desert road toward glowing light, calm and unhurried / kindness — a stranger helping an elderly person, warm lantern light, joyful grateful smiles / hope after hardship — rain clearing over green fields as sunlight breaks through the clouds], one gentle reminder per Reel, a soft sincere voiceover, peaceful ambient music, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one reminder in Veo 3 per Reel, swapping only [REMINDER] — one virtue, one serene visual, one gentle line per Reel keeps the reminder clean; never preach three lessons in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the everyday moment + the reminder in one plain sentence + the warm payoff — faith reminders win on calm sincerity; a lecture does not.",
+    "Open on the most peaceful image in the first 3 seconds (golden sunrise, glowing lanterns, rain clearing) — calm stops the Facebook scroll; a wall of text does not.",
+    "Voice it in ElevenLabs with a soft, sincere, unhurried tone and keep the music low — reminders win on peace; a loud energetic voice breaks the feeling instantly.",
+    "Post daily at 7-9 AM PKT as a series — 'Daily Reminder 01, 02, 03' — a morning habit turns one viral Reel into a daily ritual viewers return to every day."
+  ],
+  "tips": [
+    "Hook rule: start with the feeling, not the lesson ('Some mornings, patience is the whole answer' hooks; 'Today I will teach you patience' does not).",
+    "Caption trick: 'Send this to someone who needs it today' — a reminder is made to be forwarded, and a share to a loved one pushes the Reel further than any hashtag.",
+    "Respect rule: use only well-known, general reminders and verify any quote before posting — sincerity earns trust, a misattributed quote destroys it."
+  ],
+  "why_it_works": "Calm is shareable goodness: a 15-second reminder feels personal, costs nothing to forward to someone you love, and a daily morning slot turns viewers into a habit — the most loyal audience on Facebook.",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "faith",
+    "reminders",
+    "motivation",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-fitness-transformation-reels",
+  "title": "AI Fitness Transformation Reels (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Fitness Transformation Reels — one before/after transformation per Reel: home workouts, form fixes and 30-day journeys viewers save and copy. Is niche ki videos 158.7M / 131.4M / 106.8M / 83.2M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-fitness-transformation-reels.jpg",
+  "prompt": "Bright, energetic fitness transformation video, vivid gym and sunrise workout visuals, [TRANSFORMATION: a home plank routine — shaky day-one form cutting to strong steady form in a sunny living room / a sunrise park workout — first slow push-ups cutting to fast confident reps in golden light / a dumbbell strength journey — struggling with light weights cutting to powerful controlled lifts / a 30-day habit change — tired mornings cutting to a joyful sunset celebration with healthy food and water], one transformation per Reel, the before/after contrast in the first 3 seconds, an upbeat motivating voiceover, 9:16 vertical, 15-30 seconds",
+  "howto": [
+    "Generate one transformation in Veo 3 per Reel, swapping only [TRANSFORMATION] — one journey, one before/after contrast, one 'you can do this too' per Reel keeps the story clean; never show three different workouts in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the honest starting point + the simple routine + the visible change — transformations win on proof; a list of exercises does not.",
+    "Open on the contrast in the first 3 seconds (shaky form vs steady form, tired morning vs golden celebration) — a visible change stops the Instagram scroll; a gym selfie does not.",
+    "Keep the routine simple and repeatable — one move, one week, one result viewers can copy at home — a transformation viewers can copy gets saved; an impossible routine gets scrolled past.",
+    "Post 5-7 Reels a week at 7-9 PM PKT as a series — 'Transformation 01, 02, 03' — numbered journeys turn one viral Reel into a fitness show viewers follow and save."
+  ],
+  "tips": [
+    "Hook rule: show the after first, then the before ('30 days ago I could not hold this for 10 seconds' hooks; 'Welcome to my workout' does not).",
+    "Caption trick: 'Save this routine for tomorrow morning' — saves are Instagram's strongest reach signal, and a copyable routine is exactly what people save.",
+    "Trust rule: show realistic progress and never promise a body or a result in days — honest transformations earn followers, miracle claims earn reports."
+  ],
+  "why_it_works": "Transformation is proof in 3 seconds: the before/after contrast creates an open loop viewers must watch to the end, the routine is saveable for tomorrow, and the change speaks to who the viewer wants to become — aspiration plus action in one Reel.",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "fitness",
+    "transformation",
+    "workout",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
 ];
 
 if (typeof module !== "undefined") {
