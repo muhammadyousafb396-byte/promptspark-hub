@@ -11196,6 +11196,109 @@ const PROMPTS = [
   "trending": false,
   "popularity": 83
 }
+,
+{
+  "id": "niche-spotlight-ai-physics-simulation-loops",
+  "title": "AI Physics Simulation Satisfying Loops (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Physics Simulation Satisfying Loops — bouncing balls, domino waves, marble runs and piano-key simulations that loop perfectly and viewers rewatch again and again. Is niche ki videos 214.8M / 182.3M / 156.7M / 129.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-physics-simulation-loops.jpg",
+  "prompt": "Hypnotic physics simulation video, ultra-vibrant glossy visuals and perfect looping motion, [SIMULATION: thousands of colourful balls cascading through giant transparent spiral tubes and funnels / a rainbow domino chain falling in a perfect wave across a bright room / colourful balls bouncing on glowing piano keys and xylophone bars playing a melody / giant marbles racing down a towering marble-run track with loops and ramps], one simulation per video, satisfying sound design with clicks, chimes and soft thuds, bright studio lighting, 9:16 vertical, 15-30 seconds, seamless loop, no on-screen text",
+  "howto": [
+    "Generate one simulation in Veo 3 per video, swapping only [SIMULATION] — one loop, one satisfying payoff, one 'watch it again' moment per video keeps the format clean; never mix two simulations in one clip.",
+    "Script each video in ChatGPT as 3 beats: the setup (the track is full) + the release (the first ball drops) + the payoff (the final perfect landing) — physics loops win on the payoff; a random mess of balls does not.",
+    "Open on the motion already happening in the first second (balls already falling, dominoes already toppling) — motion stops the TikTok scroll; a still setup shot does not.",
+    "Keep the sound design satisfying — clean clicks, chimes and soft thuds, no music overpowering the physics sounds — the sound is half the satisfaction; a loud track buries it.",
+    "Post 1-2 loops a day as a series — 'Satisfying Physics 01, 02, 03' — numbered loops turn one viral video into a daily habit viewers come back to rewatch."
+  ],
+  "tips": [
+    "Hook rule: motion in frame one, no intro ('the balls are already falling' hooks; 'welcome to my physics channel' does not).",
+    "Caption trick: 'Wait for the last ball' — a loop with a promised payoff gets watched to the end and then rewatched, and rewatches are TikTok's strongest reach signal.",
+    "Loop rule: cut the end to match the start frame-for-frame so the video restarts invisibly — a seamless loop doubles watch time without the viewer noticing."
+  ],
+  "why_it_works": "Satisfaction plus the perfect loop: the brain loves predictable physics with a surprising payoff, the seamless restart makes viewers watch twice without deciding to, and every simulation is a fresh video — endless supply, zero filming, pure watch time.",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "physics",
+    "satisfying",
+    "simulation",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-crime-psychology-documentaries",
+  "title": "AI Crime Psychology Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Crime Psychology Documentaries — interrogation analysis, evidence-board breakdowns and the psychology behind criminal mistakes, told calmly and analytically. Is niche ki videos 64.2M / 48.7M / 36.9M / 27.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-crime-psychology-documentaries.jpg",
+  "prompt": "Cinematic crime psychology documentary, moody noir lighting and archival-style visuals, [CASE: a famous interrogation analysed second by second — what the suspect's pauses, word choices and body language reveal / an evidence-board breakdown of a cold case — photographs, timelines and red-string connections / a polygraph and confession analysis — why innocent and guilty answers sound different / a detective's breakdown of a criminal's mistakes — the one small detail that gave them away], one case per video, a calm analytical narrator, slow zooms on the evidence, tense ambient score, 16:9, 10-20 minutes, no on-screen text",
+  "howto": [
+    "Generate one case in Veo 3 per video, swapping only [CASE] — one interrogation, one evidence board, one psychological question per video keeps the documentary clean; never jump between three cases in one video.",
+    "Script each video in ChatGPT as 5 beats: the crime in one minute + the key evidence + the psychological question + the analysis + the conclusion — crime psychology wins on the analysis; a retelling of the crime alone does not.",
+    "Open on the most telling moment in the first 15 seconds (the pause before the answer, the detail on the board) — a psychological puzzle stops the YouTube scroll; a crime-scene montage does not.",
+    "Voice it in ElevenLabs with a calm, analytical, unhurried tone and keep the score low and tense underneath — crime psychology wins on quiet analysis; a shouting narrator turns it into tabloid noise.",
+    "Post weekly as a series — 'Crime Psychology 01, 02, 03' — numbered cases turn one viral documentary into a library viewers binge in order."
+  ],
+  "tips": [
+    "Hook rule: start with the psychological question, not the crime ('Why did he pause for nine seconds before answering?' hooks; 'On March 3rd, a crime happened' does not).",
+    "Title trick: put the psychology question first — 'The 9-Second Pause That Solved the Case' earns the click; 'Crime Documentary #12' does not.",
+    "Accuracy and respect rule: use only public records, say what is analysis versus fact, and never invent details or sensationalise victims — careful analysis earns subscribers, invented 'facts' earn strikes and lost trust."
+  ],
+  "why_it_works": "Curiosity plus the puzzle of the human mind: viewers stay to understand WHY someone acted, not just what happened, the analysis format is endlessly bingeable, and one case always leads to the next — the strongest retention shape in long-form YouTube.",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "crime",
+    "psychology",
+    "documentary",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-worlds-most-expensive-things",
+  "title": "World's Most Expensive Things (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "World's Most Expensive Things — one jaw-dropping luxury item per Reel, with the price revealed at the very end after a glamorous build-up. Is niche ki videos 178.9M / 149.2M / 121.6M / 96.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-worlds-most-expensive-things.jpg",
+  "prompt": "Dazzling countdown Reel revealing the world's most expensive [THING: a gold-plated hypercar with diamond details gleaming in a glowing showroom / a private jet interior with cream leather seats, gold details and champagne / a diamond necklace sparkling on black velvet under bright light / a mega yacht with gold railings sailing into a golden sunset], one expensive thing per Reel, the price revealed only at the end after a slow glamorous build-up, a smooth excited voiceover, sparkling close-ups, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one expensive thing in Veo 3 per Reel, swapping only [THING] — one item, one glamorous build-up, one price reveal per Reel keeps the countdown clean; never show three luxuries in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the tease (the most glamorous shot) + the details (what makes it special) + the price reveal — expensive-things Reels win on the reveal; a list of features does not.",
+    "Open on the most dazzling image in the first 3 seconds (gold gleaming, diamonds sparkling, the yacht at sunset) — luxury stops the Facebook scroll; a plain product shot does not.",
+    "Hold the price back until the last 3 seconds and say it slowly — the wait is the whole Reel; revealing the price in the first second kills the open loop instantly.",
+    "Post daily as a series — 'Most Expensive 01, 02, 03' — numbered countdowns turn one viral Reel into a daily luxury show viewers return to and share."
+  ],
+  "tips": [
+    "Hook rule: tease the price, never state it ('This watch costs more than a house — wait for the number' hooks; 'This watch costs $2 million' in second one does not).",
+    "Caption trick: 'Guess the price before the end — comment your guess' — a price guess in the comments pushes the Reel further than any hashtag.",
+    "Accuracy rule: verify every price from a real listing or reputable report before posting — a wrong price earns correcting comments, a verified price earns shares."
+  ],
+  "why_it_works": "Wealth curiosity plus the price-reveal open loop: viewers must watch to the end to learn the number, the luxury is instantly shareable ('look at this!'), and every item is a fresh Reel — endless supply, instant emotion, built for Facebook shares.",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "luxury",
+    "expensive",
+    "countdown",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
 
 ];
 
