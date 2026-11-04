@@ -10895,7 +10895,308 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "winter-night-market-lantern-stalls-veo3",
+  "title": "Winter Night Market Lantern Stalls — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A snowy night market glows with paper lanterns, steaming food stalls and happy crowds — a warm, wander-through winter world built for YouTube Shorts saves and replays.",
+  "prompt": "Cinematic wander through a snowy winter night market: rows of glowing red and gold paper lanterns swaying gently above wooden food stalls, steam rising from noodle bowls and roasted chestnuts, vendors in warm coats smiling as they hand over hot drinks, shoppers in colourful scarves browsing handmade ornaments, soft snow falling through the lantern light, reflections shimmering on wet cobblestones, camera drifts slowly down the market lane in one smooth motion, warm amber and deep blue palette, joyful bustling ambience, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the lanterns and the steam as the two brightest, warmest elements in the frame.",
+    "Set aspect ratio to 9:16 vertical for YouTube Shorts.",
+    "Generate 2-3 variations and keep the clip with the smoothest lane drift and no flicker in the lanterns.",
+    "Add soft festive music and a caption like 'One night at the winter market', then export and post."
+  ],
+  "tips": [
+    "Open on the lanterns already glowing above the stalls — a dark empty lane that slowly brightens loses the Shorts scroll.",
+    "Reuse the same market on different nights — snowfall, clear frost, festival night — to build a recognisable winter world.",
+    "Post at 7-9 PM PKT when viewers are relaxing — warm night markets earn saves, and saves push Shorts further."
+  ],
+  "tags": [
+    "winter",
+    "youtube",
+    "night-market",
+    "lanterns",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "tiny-penguins-ice-hotel-veo3",
+  "title": "Tiny Penguins Build an Ice Hotel — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A team of tiny penguins carves ice bricks, raises a glowing ice hotel and slides down its frosty lobby ramp — a heartwarming tiny-world story made for TikTok replays.",
+  "prompt": "Charming tiny-world story: a team of tiny cheerful penguins in little red scarves hauls sparkling ice bricks across a snowy yard, stacking them into a glowing ice hotel with arched doorways, frosty chandeliers and lantern-lit windows, one penguin slides gleefully down an ice ramp in the lobby, another polishes a frozen sign with its flipper, warm golden light spilling from tiny doorways against blue snow, gentle snow falling, playful orchestral music feel, smooth cinematic camera that follows the builders from ground level, whimsical and heartwarming, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the tiny penguins clearly visible against the bright blue snow.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate several variations and keep the clip where the penguins' teamwork and the glowing windows read clearly.",
+    "Post as episode one of a series — 'Ice Hotel 01' — so viewers follow the build to the grand opening."
+  ],
+  "tips": [
+    "Show one penguin struggling with a giant ice brick in the first 3 seconds — a tiny hero with a huge job hooks faster than a finished hotel.",
+    "Keep the same red-scarf penguins in every episode — returning characters turn one viral clip into a channel viewers follow.",
+    "End with a question in the caption — 'What room should the penguins build next?' — comments full of ideas push the video further."
+  ],
+  "tags": [
+    "tiny-world",
+    "tiktok",
+    "penguins",
+    "winter",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "snow-globe-elf-workshop-kling",
+  "title": "Snow Globe Elf Workshop — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Inside a giant snow globe, clumsy elves wrap presents too fast, lose a ribbon and flood the workshop with glitter — gentle festive comedy built for TikTok shares.",
+  "prompt": "Gentle festive comedy inside a giant snow globe workshop: cheerful elves in green hats race to wrap presents on a wobbling conveyor belt, one elf loses control of a giant ribbon and gets tangled in it, another sneezes and fills the air with golden glitter, toy trains and teddy bears pile up around a tiny glowing tree, snow drifting down inside the glass dome, warm golden workshop light, expressive cartoon-realistic faces, smooth playful camera moves, funny and heartwarming, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the ribbon gag in the centre of the frame.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate several variations and keep the clip where the elves' expressions are clearest.",
+    "Add light cartoon sound effects and a caption like 'Elf workshop, day one...', then export and post."
+  ],
+  "tips": [
+    "Lead with the ribbon tangling the elf in the first 2 seconds — the gag decides whether viewers stay.",
+    "Keep the same green-hat elves in every video — familiar characters make a comedy niche bingeable.",
+    "Never let the comedy turn mean — kind, clumsy humour is what families share and what TikTok keeps pushing."
+  ],
+  "tags": [
+    "comedy",
+    "tiktok",
+    "elves",
+    "workshop",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "under-ice-frozen-lake-world-sora",
+  "title": "Under-Ice Frozen Lake World — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "The camera slips through a hole in a frozen lake into a silent blue world — trapped bubbles, drifting light and fish moving in slow motion — built for faceless mystery YouTube channels.",
+  "prompt": "Slow cinematic dive beneath a frozen lake: the camera slips through a round hole in thick blue ice into a silent underwater world, columns of trapped air bubbles rising like frozen pearls, shafts of pale winter light piercing down through cracks in the ice, a lone fish gliding in slow motion through the blue gloom, delicate ice crystals hanging from the frozen ceiling above, deep teal and silver palette, eerie and beautiful, one continuous smooth camera descent, hushed underwater ambience, photorealistic, ultra detailed, 16:9, no people, no text, no watermark",
+  "howto": [
+    "Open Sora and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the light shafts through the ice visible throughout the descent.",
+    "Set aspect ratio to 16:9 for YouTube long-form mystery videos.",
+    "Generate 2-3 variations and keep the clip with the smoothest single camera descent and no flicker in the ice.",
+    "Add hushed ambient sound and a calm voiceover question — 'What lives under the ice?' — then export and post."
+  ],
+  "tips": [
+    "Keep the camera slow — mystery viewers leave when the camera rushes; one slow descent beats three quick cuts.",
+    "Reuse the same frozen lake in different conditions — first freeze, deep winter, spring thaw — to build a recognisable mystery world.",
+    "Title it for search: 'What Lives Under a Frozen Lake?' outranks a clever title nobody searches for."
+  ],
+  "tags": [
+    "mystery",
+    "youtube",
+    "frozen-lake",
+    "science",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "living-winter-postage-stamps-runway",
+  "title": "Living Winter Postage Stamps — Runway Prompt for Viral Instagram Art Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "Vintage winter postage stamps come alive — a reindeer shakes off snow, a lighthouse beam sweeps, a train puffs steam — a mesmerising art loop built for Instagram Reels saves.",
+  "prompt": "Mesmerising art loop: a row of vintage winter postage stamps on aged paper, each stamp coming alive in turn — a reindeer shakes snow from its antlers, a lighthouse beam sweeps slowly across a frozen sea, a tiny steam train puffs white clouds past snowy pines, delicate snow falling inside each stamp border, warm candlelight glow over the paper, rich red, green and gold vintage colours, smooth macro camera slowly panning across the stamps, charming and magical, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the stamp borders crisp and the motion inside each stamp.",
+    "Set aspect ratio to 9:16 vertical for Instagram Reels.",
+    "Generate several variations and keep the one where the stamp scenes move cleanly with no smearing at the edges.",
+    "Add soft ambient music, loop the clip seamlessly, and post with a caption like 'Wait for the train'."
+  ],
+  "tips": [
+    "Start the clip mid-motion — the reindeer already shaking off snow hooks the scroll; still stamps do not.",
+    "Change only one stamp scene per Reel — reindeer, lighthouse, train — so the series stays fresh without a new prompt each time.",
+    "End with 'Save this for a winter day' — saves are Instagram's strongest reach signal for art loops."
+  ],
+  "tags": [
+    "art",
+    "instagram",
+    "stamps",
+    "winter",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 79
+},
+{
+  "id": "ice-lantern-carving-glow-google-flow",
+  "title": "Ice Lantern Carving Glow — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A glowing candle is set inside a carved ice lantern and the whole block lights up from within — a satisfying winter moment built for Facebook Reels replays.",
+  "prompt": "Satisfying winter moment: skilled hands carve delicate patterns into a clear block of ice in a snowy garden at dusk, then set a glowing candle inside, the whole lantern lighting up from within with warm golden light shining through the carved snowflakes and stars, frost sparkling on the ice surface, soft blue twilight background with falling snow, gentle crackle and winter ambience, smooth slow-motion macro camera circling the lantern, crisp and dreamy, ultra detailed, 9:16 vertical, no faces, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the lantern large and centred in the frame.",
+    "Set aspect ratio to 9:16 vertical for Facebook Reels.",
+    "Generate several variations and keep the clip where the candle glow spreads cleanly through the ice.",
+    "Add gentle ambient music and a caption like 'The moment the ice lights up', then export and post."
+  ],
+  "tips": [
+    "Show the glow spreading in the first 3 seconds — the light-up moment is the whole hook.",
+    "Post one lantern per Reel and number them — a numbered winter series turns one viral clip into a daily ritual.",
+    "Keep the background soft and uncluttered — busy backgrounds make the glowing ice vanish on phone screens."
+  ],
+  "tags": [
+    "satisfying",
+    "facebook",
+    "ice-lantern",
+    "winter",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 77
+},
+{
+  "id": "winter-wildlife-christmas-cards-midjourney",
+  "title": "Winter Wildlife Christmas Card Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Storybook Christmas portraits of a deer with fairy lights, a robin on a snowy branch and a hedgehog with a tiny gift — a warm, shareable card series for Instagram and Facebook pages.",
+  "prompt": "Whimsical storybook Christmas portrait of [ANIMAL: a gentle deer with tiny glowing fairy lights tangled in its antlers, warm smile in falling snow / a plump robin perched on a frosty branch wearing a tiny red scarf, holding a sprig of holly / a fluffy hedgehog in a tiny Santa hat pushing a miniature wrapped gift through the snow], soft watercolour and 3D Pixar-style rendering, glowing snowy forest background with warm lantern light, joyful expressive face looking at the viewer, bright cheerful Christmas colours, ultra detailed, square 1:1, no text, no watermark --ar 1:1 --style raw",
+  "howto": [
+    "Open Midjourney and start a new image generation.",
+    "Paste the full prompt and pick one [ANIMAL] option per image.",
+    "Keep the aspect ratio at 1:1 for Facebook and Instagram feeds.",
+    "Generate 4 variations and upscale the one with the clearest, happiest expression.",
+    "Post one animal per day as a series — 'Christmas Friends 01, 02, 03' — with a caption asking followers to name it."
+  ],
+  "tips": [
+    "Eyes win shares — pick the variation where the animal looks straight at the viewer with a warm expression.",
+    "Keep the same fairy-light and lantern colours across the series so followers recognise your Christmas friends instantly.",
+    "Ask followers to vote for the next animal in the comments — votes turn a pretty picture into an engagement post."
+  ],
+  "tags": [
+    "christmas",
+    "instagram",
+    "wildlife",
+    "cards",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "gift-guide-niche-finder-chatgpt",
+  "title": "Gift-Guide Niche Finder — ChatGPT Prompt for Q4 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Find underserved gift-guide niches for YouTube, TikTok, Facebook and Instagram before the December rush — ranked by buyer intent, competition and how fast one creator can start.",
+  "prompt": "Act as a niche researcher for faceless creators. Help me find underserved gift-guide niches for November and December 2026. First, ask me for: the platforms I post on, the AI tools I use, and how many hours a week I can post. Then deliver: (1) 15 specific gift-guide niches nobody is owning yet, each with a one-line proof of buyer demand (what shoppers search or watch before buying), (2) a buyer-intent score out of 10 and a competition score out of 10 for each, (3) the exact first 5 video or post ideas for the top 3 niches, with titles, hooks and the gift angle, (4) which platform each niche fits best — YouTube, TikTok, Facebook or Instagram — and why, and (5) 5 gift niches to avoid because they are saturated or banned by ad policies, with the reason each one is a trap. Keep every niche specific, faceless-friendly and startable this week with AI tools — never generic ideas like 'gifts for him'.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt.",
+    "Answer its three questions honestly — your real platforms, tools and weekly hours shape the ranking.",
+    "Read the 15 niches and shortlist the 3 with the best buyer-intent-to-competition gap.",
+    "Ask ChatGPT to expand your chosen niche into a 30-day gift-guide calendar before you commit.",
+    "Test the top niche with 5 posts in 7 days, then keep it only if clicks and saves beat your current channel average."
+  ],
+  "tips": [
+    "Buyer intent beats views — drop any niche whose proof is only 'it looks festive'.",
+    "Gift niches peak fast and fade fast — pick one you can start this week, not one that needs a month of setup.",
+    "Run the prompt again in January with 'gift guide' swapped for 'new year essentials' to catch the next wave early."
+  ],
+  "tags": [
+    "niche-discovery",
+    "youtube",
+    "gift-guides",
+    "tiktok",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "new-year-resolution-niche-finder-gemini",
+  "title": "New Year Resolution Niche Finder — Gemini Prompt for January Creator Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Find the January resolution niches that actually last past week two — ranked by staying power, competition and the AI formats that carry them on YouTube and TikTok.",
+  "prompt": "Act as a niche researcher for faceless creators. Help me find new year resolution niches that still get views in February, not just in the first week of January 2027. First, ask me for: my niche so far, the AI tools I use, and how many hours a week I can post. Then deliver: (1) 15 resolution niches with lasting demand, each with a one-line proof that viewers keep watching after January, (2) a staying-power score out of 10 and a competition score out of 10 for each, (3) the exact first 5 video or post ideas for the top 3 niches, with titles, hooks and the habit or routine at the centre, (4) which platform each niche fits best — YouTube, TikTok, Facebook or Instagram — and why, and (5) 5 resolution niches to avoid because they collapse after January 7, with the reason each one fades. Keep every niche specific, faceless-friendly and startable with AI tools — never generic ideas like 'fitness motivation'.",
+  "howto": [
+    "Open Gemini and paste the full prompt.",
+    "Answer its questions with your real niche, tools and weekly hours — the ranking is built from what you can actually sustain.",
+    "Read the 15 niches and shortlist the 3 with the best staying-power-to-competition gap.",
+    "Ask Gemini to expand your chosen niche into a 60-day January and February calendar before you commit.",
+    "Test the top niche with 5 posts in the last week of December, then keep it only if retention beats your channel average."
+  ],
+  "tips": [
+    "Staying power beats January spikes — drop any niche whose proof is only 'everyone searches it on January 1'.",
+    "Habits beat resolutions — niches built on a daily routine survive February; niches built on a promise do not.",
+    "Start in December, not January — channels that post the first resolution video before Christmas own the search results."
+  ],
+  "tags": [
+    "niche-discovery",
+    "youtube",
+    "new-year",
+    "resolutions",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "winter-to-spring-channel-transition-claude",
+  "title": "Winter-to-Spring Channel Transition Plan — Claude Prompt for YouTube Creators",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Move your channel from winter content to spring without losing the audience you built in December — a bridge calendar, rebrand check and monetization plan from Claude.",
+  "prompt": "Act as a brutally honest channel strategist. Build my winter-to-spring transition plan for my faceless YouTube channel. First, ask me for: my winter niche, my last 20 video titles with views, my upload schedule, and what I want the channel to become by spring. Then deliver: (1) an honest read on which winter pillars can survive into spring and which must end, with the evidence for each, (2) a 4-week bridge calendar that moves the audience gradually — week by week, with titles, hooks and the AI tool for each video, (3) 10 ranked spring niche angles for my skills, each with demand evidence and a competition score, (4) a rebrand checklist: channel name, banner, thumbnails and series names — what to change, what to keep, and what never to change mid-transition, and (5) a monetization check: which winter income streams survive, which to replace, and what to start first in spring. Be specific and direct — no generic encouragement, no invented statistics, and flag every claim you cannot verify from what I gave you.",
+  "howto": [
+    "Open Claude and paste the full prompt.",
+    "Paste your real last-20 titles and views — the transition plan is only as honest as the data you give it.",
+    "Read the survive-or-end verdicts and sit with the endings for a day before you argue with them.",
+    "Ask Claude to expand the bridge calendar into week-one scripts and thumbnail concepts.",
+    "Commit to the 4-week bridge before judging the spring angle — audience transitions need 12 videos, not 3."
+  ],
+  "tips": [
+    "Bridge, do not jump — a sudden topic change loses the winter audience; a 4-week bridge carries them with you.",
+    "One new angle at a time — testing three spring pivots at once teaches you nothing about any of them.",
+    "Keep your best winter series running one video a week through the bridge — familiarity funds the experiment."
+  ],
+  "tags": [
+    "strategy",
+    "youtube",
+    "seasonal",
+    "transition",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 83
 }
+
 ];
 
 if (typeof module !== "undefined") {
