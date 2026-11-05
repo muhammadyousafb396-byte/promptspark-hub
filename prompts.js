@@ -11299,7 +11299,307 @@ const PROMPTS = [
   "trending": true,
   "popularity": 89
 }
-
+,
+{
+  "id": "frozen-bubble-macro-veo3",
+  "title": "Frozen Bubble Macro — Veo 3 Prompt for Viral Winter TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A soap bubble blown into freezing air crystallises mid-flight into a jewel of frost — a slow, hypnotic macro moment built for TikTok replays and saves.",
+  "prompt": "Extreme macro of a soap bubble freezing in mid-air on a cold winter morning: a child in red mittens blows a large shimmering bubble from a wand, the bubble drifts slowly through crisp blue air, delicate frost ferns bloom across its surface in seconds, rainbow swirls fade into sparkling ice crystals, the frozen bubble catches the low golden sunlight and glows, a snowy garden blurs softly behind it, camera holds steady in tight close-up, gentle snowfall drifting through the frame, dreamy, satisfying, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the frost ferns blooming across the bubble as the clear hero moment.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate 3-4 variations and keep the one where the frost spreads slowest and most visibly.",
+    "Add soft piano or wind ambience, a caption like 'Winter turns bubbles into jewels', then export and post."
+  ],
+  "tips": [
+    "Open on the bubble already half-frozen — viewers must see the magic in the first second, not a plain bubble.",
+    "Reuse the same frozen-bubble setup at sunrise, dusk and in snowfall for a whole satisfying winter series.",
+    "Post on the coldest mornings when winter content trends — frozen things earn saves, and saves push TikTok further."
+  ],
+  "tags": [
+    "winter",
+    "tiktok",
+    "macro",
+    "satisfying",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "christmas-tree-farm-dusk-veo3",
+  "title": "Christmas Tree Farm at Dusk — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A drone glides over endless rows of snow-dusted Christmas trees strung with warm lights at dusk — a calm, cinematic wander built for faceless YouTube Shorts.",
+  "prompt": "Cinematic dusk drone glide over a Christmas tree farm: endless neat rows of snow-dusted fir trees stretching to the horizon, warm golden fairy lights glowing in the branches, a family in the distance choosing their tree beside a red truck stacked with fresh firs, woodsmoke curling from a small cabin, soft snow falling through the purple-blue twilight, a single star appearing above the treeline, camera moves slowly forward and low over the rows in one smooth unbroken shot, peaceful festive ambience, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the warm lights against the blue dusk as the strongest contrast in the frame.",
+    "Set aspect ratio to 9:16 vertical for YouTube Shorts.",
+    "Generate 2-3 variations and keep the clip with the smoothest low glide and no warping in the tree rows.",
+    "Add gentle festive music and a caption like 'The farm where Christmas begins', then export and post."
+  ],
+  "tips": [
+    "Open on the lights already glowing — a dark field that slowly brightens loses the Shorts scroll.",
+    "Reuse the same farm at dawn, snowfall and starlight to build a recognisable festive world.",
+    "Post in the evening when viewers are winding down — calm farm scenes earn saves and shares."
+  ],
+  "tags": [
+    "christmas",
+    "youtube",
+    "cinematic",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "reindeer-sleigh-practice-kling",
+  "title": "Reindeer Sleigh Practice Runs — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A team of clumsy young reindeer keeps crashing their practice sleigh into snowdrifts while Santa's elf coach sighs — pure slapstick built for TikTok comedy pages.",
+  "prompt": "Funny festive comedy scene: a team of four adorable young reindeer in tiny red harnesses practices pulling a wooden sleigh across a snowy field, the lead reindeer sneezes and the whole team veers into a giant snowdrift, the sleigh tips over in slow motion and gifts tumble out in a sparkling arc, a small elf coach throws his hands up in comic despair then bursts out laughing, the reindeer pop out of the snow shaking off flakes with goofy grins, bright cheerful lighting, bouncy cartoon energy, photorealistic 3D animation style, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the sleigh crash as the big middle beat of the clip.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate 3-4 variations and keep the one where the crash timing feels funniest, not chaotic.",
+    "Add bouncy cartoon music and a slide-whistle sound on the crash, then export and post."
+  ],
+  "tips": [
+    "Open on the reindeer already running — a slow harnessing scene kills the comedy timing.",
+    "Give the elf coach one repeated catchphrase gesture so viewers recognise him across episodes.",
+    "Post as a series — 'Practice Run 01, 02, 03' — each crash funnier than the last keeps viewers coming back."
+  ],
+  "tags": [
+    "christmas",
+    "tiktok",
+    "comedy",
+    "animals",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "frozen-harbor-village-sora",
+  "title": "Frozen Harbor Fishing Village — Sora Prompt for Cozy YouTube Niche Channels",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A quiet frozen harbor wakes up: fishermen mend nets by a stove, gulls circle the masts and smoke curls over icy boats — a slow, cozy world for faceless YouTube channels.",
+  "prompt": "Slow cinematic morning in a frozen fishing village harbor: wooden boats locked in pale blue ice, fishermen in thick wool coats mending nets beside a glowing stove on the dock, chimney smoke curling into a soft pink sunrise, gulls circling the tall masts, frost sparkling on ropes and lobster pots, a small dog trotting along the icy pier, camera drifts slowly along the harbor in one long unbroken take, warm lanterns glowing against cold blue tones, peaceful nostalgic ambience, photorealistic, ultra detailed, 16:9 widescreen, no text, no watermark",
+  "howto": [
+    "Open Sora and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the warm stove glow against the cold blue ice as the central contrast.",
+    "Set aspect ratio to 16:9 widescreen for YouTube.",
+    "Generate 2-3 variations and keep the clip with the smoothest harbor drift and steadiest smoke.",
+    "Add soft ambient harbor sounds — gulls, creaking wood, distant bells — then export and post."
+  ],
+  "tips": [
+    "Open on the stove glow already visible — a grey frozen harbor with no warm point loses viewers fast.",
+    "Reuse the same harbor in storm, snowfall and spring thaw to build a recognisable cozy world.",
+    "Long slow takes are the point here — resist fast cuts; the calm is what earns watch time."
+  ],
+  "tags": [
+    "winter",
+    "youtube",
+    "cozy",
+    "cinematic",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "living-advent-wreath-runway",
+  "title": "Living Advent Wreath — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A pine advent wreath comes alive on a windowsill: candles light themselves one by one as snow falls outside — a gentle, magical loop built for Instagram Reels.",
+  "prompt": "Magical living advent wreath on a frosty windowsill: a lush pine wreath with red berries and gold ribbons sits on a wooden sill, its four candles light themselves one by one with tiny golden flames that dance and flicker, snowflakes drift past the window behind it, warm candlelight washes over pine needles and a small ceramic angel, the wreath slowly rotates as the last candle blooms into a soft star glow, loopable motion, warm amber and deep green palette, cozy festive ambience, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the candles lighting one by one as the clear sequence.",
+    "Set aspect ratio to 9:16 vertical for Instagram Reels.",
+    "Generate 3-4 variations and keep the one where the flames flicker naturally and the loop point is invisible.",
+    "Add soft chimes and a caption like 'Four Sundays, four little lights', then export and post."
+  ],
+  "tips": [
+    "Open on the first candle already lit — an unlit wreath gives viewers no reason to wait.",
+    "Post one candle per Sunday in December to turn one prompt into a four-week advent series.",
+    "Keep the loop seamless — a visible jump at the loop point kills the satisfying Reels replay."
+  ],
+  "tags": [
+    "christmas",
+    "instagram",
+    "animation",
+    "satisfying",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "candy-cane-glass-blowing-flow",
+  "title": "Candy Cane Glass Blowing Macro — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Molten glass twists into a glowing red-and-white candy cane in extreme close-up — a hypnotic craft macro built for satisfying Facebook Reels.",
+  "prompt": "Hypnotic macro of candy cane glass blowing: a glowing blob of molten glass spins on a steel pipe, a craftsman in heat-proof gloves pulls and twists it into a perfect red-and-white spiral, ribbons of colour stretch and fold like taffy, sparks of orange light flare as the glass cools into a glossy striped cane, the finished candy cane is lifted and catches the workshop light, dark background with warm amber glow, extreme close-up, slow deliberate motion, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the red-and-white spiral forming as the clear hero moment.",
+    "Set aspect ratio to 9:16 vertical for Facebook Reels.",
+    "Generate 2-3 variations and keep the clip where the spiral forms slowest and most cleanly.",
+    "Add soft crackling fire ambience and a caption like 'How a candy cane is born', then export and post."
+  ],
+  "tips": [
+    "Open on the glass already glowing and twisting — a cold workshop setup wastes the first seconds.",
+    "Reuse the same glass-blowing setup for ornaments, snowflakes and stars to build a festive craft series.",
+    "The reveal matters most — hold the finished cane in the light for a full two seconds before the cut."
+  ],
+  "tags": [
+    "christmas",
+    "facebook",
+    "satisfying",
+    "macro",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "christmas-morning-flatlay-midjourney",
+  "title": "Christmas Morning Flat-Lay Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Overhead flat-lays of Christmas morning — steaming cocoa, a half-open storybook, fairy lights and wrapped gifts — a warm, saveable image pack for Instagram and Facebook pages.",
+  "prompt": "Overhead flat-lay photograph of a cozy Christmas morning scene: a chunky mug of steaming cocoa with cinnamon sticks, a half-open storybook with gilded pages, a string of warm fairy lights curled around the edges, two small wrapped gifts in kraft paper with red ribbon, pine sprigs and dried orange slices scattered artfully, a knitted cream blanket peeking in from one corner, soft golden morning light, rich warm tones, styled like a premium lifestyle magazine, ultra detailed, photorealistic, 4:5 vertical composition, no text, no watermark",
+  "howto": [
+    "Open Midjourney and start a new image generation.",
+    "Paste the full prompt, keeping the cocoa steam and the fairy lights as the two warmest elements.",
+    "Set aspect ratio to 4:5 vertical for Instagram and Facebook feeds.",
+    "Generate 4 variations, then re-roll the best one with small swaps — different book, different gift wrap — to build a matching pack.",
+    "Add a caption like 'Christmas morning, all in one frame' and post the set as a carousel."
+  ],
+  "tips": [
+    "Keep one corner of the frame intentionally empty — negative space is where your page name or link sticker goes.",
+    "Swap only one element per image so the pack feels like a set, not four random photos.",
+    "Warm morning light beats bright midday light — golden tones earn saves on cozy pages."
+  ],
+  "tags": [
+    "christmas",
+    "instagram",
+    "facebook",
+    "flatlay",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 81
+},
+{
+  "id": "cozy-winter-asmr-niche-finder-chatgpt",
+  "title": "Cozy Winter ASMR Niche Finder — ChatGPT Prompt for Underserved Relaxation Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Ask ChatGPT to hunt the quiet corners of winter ASMR — crackling fires, snowfall sounds, cozy cabin ambience — and rank the underserved sub-niches you can own before December.",
+  "prompt": "You are a YouTube niche researcher specialising in cozy and ASMR content. I want to find underserved winter relaxation niches I can start before December. First, list 20 winter ASMR and cozy-ambience sub-niches (for example: fireplace crackling loops, snowfall window sounds, cabin rain ambience, winter cooking sounds, knitting by the fire). For each one, estimate: (1) search demand in November and December, (2) how many channels already serve it well, (3) how easy it is to make faceless with free AI tools, (4) a 1-10 saturation score. Then rank the top 5 by lowest saturation and highest demand. For each top 5 niche, give me: 3 channel name ideas, 10 video title ideas, the ideal video length, and the one sound or visual hook that makes it stand out. Finish with a 30-day launch plan: what to post in week 1, 2, 3 and 4. Be specific and honest — flag any niche that is already too crowded.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt exactly as written.",
+    "Answer its follow-up question about your tools — tell it which AI video and audio tools you actually have.",
+    "Take the top 5 ranked niches and check each one on YouTube search before committing.",
+    "Pick the niche with the lowest saturation score and the easiest faceless production.",
+    "Use the 30-day launch plan as your posting calendar for November."
+  ],
+  "tips": [
+    "Ask ChatGPT to re-rank the list for your specific platform — YouTube long-form and TikTok Shorts want different niches.",
+    "Cross-check the top niche on TikTok too — a niche that is quiet on YouTube may already be crowded on TikTok.",
+    "Save the full answer — the 10 title ideas per niche are a month of content by themselves."
+  ],
+  "tags": [
+    "niche-discovery",
+    "youtube",
+    "winter",
+    "asmr",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "snow-day-content-machine-gemini",
+  "title": "Snow Day Content Idea Machine — Gemini Prompt for Viral TikTok & Shorts Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Turn one snowy day into 30 viral video ideas — Gemini maps snow-day moments to TikTok and Shorts formats, hooks and posting times so you never run out of winter content.",
+  "prompt": "You are a viral short-form content strategist for TikTok and YouTube Shorts. I want 30 snow-day video ideas I can film or generate with AI this winter. First, list 10 everyday snow-day moments viewers love (for example: the first snowfall, shovelling the driveway, building a snowman, a snowed-in morning, hot cocoa after coming inside). For each moment, give me 3 video ideas in different formats: one satisfying loop, one funny sketch, one heartwarming story. Every idea must include: a 3-second hook line, the exact first shot, the ideal length in seconds, and the best time of day to post it. Then rank all 30 ideas by viral potential for TikTok and for YouTube Shorts separately. Finish with a 7-day snow-day posting schedule using the top 7 ideas, and tell me which 3 ideas are most likely to be copied by other creators first so I post them soonest.",
+  "howto": [
+    "Open Gemini and paste the full prompt exactly as written.",
+    "Tell Gemini your location's winter — heavy snow, light snow or no snow — so the moments match your reality.",
+    "Take the top 7 ranked ideas and slot them into the 7-day schedule it gives you.",
+    "Film or generate the top 3 copy-risk ideas first, before other creators post the same concept.",
+    "Re-run the prompt after your first snowfall with the real weather as context for fresh ideas."
+  ],
+  "tips": [
+    "Ask Gemini to rewrite the top hooks in your channel's voice — a copied hook sounds copied.",
+    "Pair each funny sketch with a satisfying loop the same day — comedy brings views, loops bring replays.",
+    "Save the full 30-idea list — it covers every snow day of the season, not just one."
+  ],
+  "tags": [
+    "tiktok",
+    "youtube",
+    "winter",
+    "viral",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "holiday-collab-matchmaker-claude",
+  "title": "Holiday Collab Matchmaker — Claude Prompt to Find December Collaboration Partners",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Ask Claude to find the right December collaborators for your channel — matching niches, matching sizes, ready-to-send outreach — so your holiday videos reach two audiences at once.",
+  "prompt": "You are a creator partnerships strategist. I run a faceless [NICHE] channel on [PLATFORM] with [SUBSCRIBER COUNT] subscribers, and I want to find collaboration partners for December. First, list 15 creator types whose audiences overlap with mine but who are not direct competitors (for example: if I do cozy winter ambience, a Christmas baking channel, a winter travel channel, a holiday crafts channel). For each type, explain the overlap, the collab format that works best (duet, shared series, guest voiceover, joint giveaway), and the audience size range I should target. Then write me 3 outreach messages: one short DM, one email, and one comment-style pitch — each under 120 words, friendly, specific about what I offer, and with a clear next step. Finish with a December collab calendar: which week to reach out, which week to record, which week to post, and how to split the promotion so both channels gain. Be honest about which collab types are a bad fit for a faceless channel.",
+  "howto": [
+    "Open Claude and paste the full prompt, filling in your niche, platform and subscriber count first.",
+    "Read the 15 creator types and shortlist the 5 whose audiences overlap most with yours.",
+    "Search those 5 types on your platform and pick one real creator per type in your size range.",
+    "Customise the outreach message with the creator's actual recent video — never send it generic.",
+    "Follow the December calendar exactly — reach out early, because creators book their holidays weeks ahead."
+  ],
+  "tips": [
+    "Target creators at your size or slightly bigger — a channel 10x your size rarely answers cold outreach.",
+    "Offer the collab idea in the first message — creators reply to ideas, not to 'let's collaborate sometime'.",
+    "Do one collab well before chasing five — a single strong December collab beats five rushed ones."
+  ],
+  "tags": [
+    "collaboration",
+    "youtube",
+    "instagram",
+    "growth",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 83
+}
 ];
 
 if (typeof module !== "undefined") {
