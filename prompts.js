@@ -11599,6 +11599,108 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 83
+},
+{
+  "id": "niche-spotlight-ai-hypercar-showcase-reels",
+  "title": "AI Hypercar Showcase Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Hypercar Showcase Reels — gold showroom gleams, coastal sunset speed runs, neon night drifts and desert door reveals that car lovers save and share. Is niche ki videos 168.4M / 142.7M / 118.9M / 94.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-hypercar-showcase-reels.jpg",
+  "prompt": "Dazzling hypercar showcase Reel, ultra-vibrant cinematic visuals and glossy reflections, [CAR: a gold hypercar gleaming in a glowing showroom with mirror-floor reflections / a matte black hypercar speeding along a coastal highway at sunset / a neon-lit hypercar drifting through a rainy city street at night with sparks and smoke / a white hypercar with butterfly doors open in a golden desert at dusk], one car per Reel, slow glamorous reveal shots, a smooth excited voiceover, engine roar and cinematic music, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one car in Veo 3 per Reel, swapping only [CAR] — one hypercar, one glamorous reveal, one 'dream car' moment per Reel keeps the showcase clean; never show three cars in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the reveal (the most jaw-dropping angle first) + the details (what makes this car special) + the dream line ('would you drive it?') — hypercar Reels win on desire; a spec sheet does not.",
+    "Open on the most dazzling shot in the first 2 seconds (gold gleaming, neon glowing, doors rising) — luxury stops the Instagram scroll; a parked car in a driveway does not.",
+    "Keep the sound cinematic — engine roar, soft music, no shouting — the car is the star; a loud voiceover over the engine kills the fantasy.",
+    "Post daily as a series — 'Dream Cars 01, 02, 03' — numbered showcases turn one viral Reel into a daily garage viewers return to and save."
+  ],
+  "tips": [
+    "Hook rule: the car's best angle first, never the badge ('look at those doors rise' hooks; 'this is a Lamborghini' in second one does not).",
+    "Caption trick: 'Tag someone who would drive this' — a tag in the comments pushes the Reel further than any hashtag.",
+    "Save rule: end on a detail worth screenshotting (the interior, the engine, the doors) — saves are Instagram's strongest reach signal for car content."
+  ],
+  "why_it_works": "Dream-car desire plus the save: everyone has a dream car, the glamour is instantly shareable, and every hypercar is a fresh Reel — endless supply, instant emotion, built for Instagram saves and shares.",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "hypercar",
+    "cars",
+    "luxury",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-fake-text-story-chats",
+  "title": "AI Fake Text Story Chats (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Fake Text Story Chats — dramatic text-message stories with shocking twists: the suspicious text, the boss's message, the 2am confession, the wrong number that becomes a friendship. Is niche ki videos 196.2M / 171.5M / 148.3M / 122.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-fake-text-story-chats.jpg",
+  "prompt": "Addictive fake text-message story video, bright chat visuals and dramatic reaction shots, [STORY: a girlfriend finds a suspicious text and the reply changes everything / a boss texts 'we need to talk' and the employee's reply goes viral / a best friend confesses a secret over text at 2am / a stranger texts the wrong number and it turns into a friendship], one story per video, chat bubbles shown as the story unfolds, a tense funny voiceover reading the messages, cliffhanger before the final reply, 9:16 vertical, 60-90 seconds, no on-screen text",
+  "howto": [
+    "Generate one story in Veo 3 per video, swapping only [STORY] — one conversation, one twist, one shocking final reply per video keeps the story clean; never mix two chats in one clip.",
+    "Script each video in ChatGPT as 3 beats: the setup text (one ordinary message) + the twist (the message that changes everything) + the payoff reply — fake-text videos win on the final message; a long boring chat does not.",
+    "Open on the most shocking message in the first 2 seconds (the suspicious text, the 'we need to talk') — curiosity stops the TikTok scroll; a 'hey, what's up?' opener does not.",
+    "Keep each message short — 5-10 words max — and let the voiceover read them with pauses; long paragraphs kill the pace, short messages keep viewers reading to the end.",
+    "Post 1-2 stories a day as a series — 'Text Stories 01, 02, 03' — numbered chats turn one viral video into a daily drama viewers come back to finish."
+  ],
+  "tips": [
+    "Hook rule: the twist message first, never the greeting ('She found THIS text on his phone' hooks; 'Hey, how are you?' does not).",
+    "Caption trick: 'Wait for the last message' — a promised final reply gets watched to the end and then rewatched, and rewatches are TikTok's strongest reach signal.",
+    "Cliffhanger rule: end part 1 right before the reply and post part 2 the next day — a two-part text story doubles your videos and your followers."
+  ],
+  "why_it_works": "Curiosity plus the need to know how it ends: viewers cannot look away mid-conversation, the twist is instantly shareable ('you have to see this chat'), and every story is a fresh video — endless supply, zero filming, pure completion rate.",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "fake-text",
+    "storytime",
+    "drama",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-luxury-engineering-documentaries",
+  "title": "AI Luxury Engineering Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Luxury Engineering Documentaries — mega yachts, private islands, hypercar engines and sky-high penthouses, explained as cinematic engineering marvels. Is niche ki videos 52.7M / 41.3M / 33.8M / 26.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-luxury-engineering-documentaries.jpg",
+  "prompt": "Cinematic luxury engineering documentary, awe-inspiring visuals and slow majestic camera moves, [SUBJECT: a mega yacht with gold railings cutting through turquoise water at golden hour / a private island resort with overwater villas and infinity pools at sunset / the engineering inside a hypercar engine — polished chrome, gold details and precision / a futuristic skyscraper penthouse with floor-to-ceiling glass above glittering city lights], one marvel per video, a calm authoritative narrator explaining how it was built and what it costs, sweeping drone shots, orchestral score, 16:9, 10-20 minutes, no on-screen text",
+  "howto": [
+    "Generate one marvel in Veo 3 per video, swapping only [SUBJECT] — one yacht, one island, one engine, one penthouse per video keeps the documentary clean; never jump between three luxuries in one video.",
+    "Script each video in ChatGPT as 5 beats: the marvel in one minute + how it was built + the engineering problem + the price + the dream line — luxury engineering wins on the 'how'; a tour of pretty rooms does not.",
+    "Open on the most awe-inspiring shot in the first 15 seconds (the yacht at golden hour, the island from the air) — wonder stops the YouTube scroll; a slow logo intro does not.",
+    "Voice it in ElevenLabs with a calm, authoritative, unhurried tone and keep the score low and orchestral underneath — luxury documentaries win on quiet awe; a shouting narrator turns them into an ad.",
+    "Post weekly as a series — 'Engineering Marvels 01, 02, 03' — numbered documentaries turn one viral video into a library viewers binge in order."
+  ],
+  "tips": [
+    "Hook rule: start with the impossible number, not the tour ('This yacht has a submarine inside it' hooks; 'Welcome to my yacht tour' does not).",
+    "Title trick: put the marvel first — 'The $300M Yacht With a Submarine Inside' earns the click; 'Luxury Documentary #7' does not.",
+    "Accuracy rule: verify every price and engineering claim from a real source before posting — a wrong number earns correcting comments, a verified marvel earns shares."
+  ],
+  "why_it_works": "Awe plus the price question: viewers stay to learn how the impossible was built and what it costs, the format is endlessly bingeable, and one marvel always leads to the next — the strongest retention shape in high-CPM long-form YouTube.",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "luxury",
+    "engineering",
+    "documentary",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
 }
 ];
 
