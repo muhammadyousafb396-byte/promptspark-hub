@@ -11998,6 +11998,108 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-real-estate-home-reels",
+  "title": "AI Real Estate & Homeownership Reels (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Real Estate & Homeownership Reels — property market updates, mortgage tips and dream-home tours over cinematic AI home visuals. Is niche ki videos 142.6M / 118.3M / 96.8M / 74.2M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-real-estate-home-reels.jpg",
+  "prompt": "Warm cinematic real estate Reel, ultra-vibrant visuals and golden sunlight, [HOME: a stunning modern luxury house exterior at golden hour with glowing windows and a manicured garden / a bright living room with floor-to-ceiling windows, sunlight streaming over stylish furniture / a gorgeous renovated kitchen with gleaming marble counters and fresh flowers / a dream penthouse balcony overlooking a glittering city skyline at dusk with string lights], one home per Reel, slow glamorous reveal shots, a friendly voiceover with one useful home tip, soft cinematic music, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one home in Veo 3 per Reel, swapping only [HOME] — one house, one room, one dream moment per Reel keeps the tour clean; never cram three properties into one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the reveal (the most jaw-dropping angle first) + the detail (one useful fact — price, size, or a money tip) + the dream line ('would you live here?') — real estate Reels win on desire plus one useful fact; a spec sheet does not.",
+    "Open on the most dazzling shot in the first 2 seconds (golden-hour exterior, sunlit living room, skyline balcony) — luxury stops the Facebook scroll; a plain front door does not.",
+    "Keep the sound warm and calm — soft music, a friendly voiceover, no shouting — the home is the star; a loud sales voice kills the dream.",
+    "Post daily as a series — 'Dream Homes 01, 02, 03' — numbered tours turn one viral Reel into a daily habit viewers return to and share."
+  ],
+  "tips": [
+    "Hook rule: the home's best angle first, never the price ('look at this sunset balcony' hooks; 'this house costs $2M' in second one does not).",
+    "Caption trick: 'Tag someone who needs this house' — a tag in the comments pushes the Reel further than any hashtag.",
+    "Share rule: end on a detail worth sharing with family (the kitchen, the view, the garden) — Facebook shares are the strongest reach signal for home content."
+  ],
+  "why_it_works": "Dream-home desire plus one useful fact: everyone imagines their perfect house, the visuals are instantly shareable with family, and every property is a fresh Reel — endless supply, instant emotion, built for Facebook shares.",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "real-estate",
+    "homes",
+    "property",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-home-interior-design-reels",
+  "title": "AI Home & Interior Design Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Home & Interior Design Reels — dream room reveals, before/after interior transformations and luxury living-room tours. Is niche ki videos 156.8M / 129.4M / 104.7M / 82.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-home-interior-design-reels.jpg",
+  "prompt": "Dreamy home interior design Reel, ultra-vibrant cinematic visuals and warm golden light, [ROOM: a boho-chic bedroom with lush plants and warm fairy lights / an ultra-modern living room with a bold emerald velvet sofa and colorful abstract art / an elegant spa-like bathroom with white marble, gold fixtures and a rose-petal bathtub / a cozy reading nook with a mustard velvet armchair, tall bookshelves and a warm glowing lamp], one room per Reel, slow glamorous reveal shots, a calm voiceover with one design tip, soft dreamy music, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one room in Veo 3 per Reel, swapping only [ROOM] — one bedroom, one living room, one bathroom, one reading nook per Reel keeps the design clean; never mix three rooms in one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the reveal (the most beautiful angle first) + the detail (one design idea viewers can copy) + the dream line ('which room is yours?') — interior Reels win on beauty plus one copyable idea; a furniture list does not.",
+    "Open on the most dazzling shot in the first 2 seconds (fairy lights, emerald sofa, marble and gold, golden lamp glow) — beauty stops the Instagram scroll; a plain white wall does not.",
+    "Keep the sound soft and dreamy — gentle music, a calm voiceover, no shouting — the room is the star; a loud voiceover over the ambience kills the mood.",
+    "Post daily as a series — 'Dream Rooms 01, 02, 03' — numbered reveals turn one viral Reel into a daily inspiration feed viewers return to and save."
+  ],
+  "tips": [
+    "Hook rule: the room's best angle first, never the room name ('look at those fairy lights' hooks; 'this is a bedroom tour' does not).",
+    "Caption trick: 'Save this for your dream home' — a save prompt pushes the Reel further than any hashtag; saves are Instagram's strongest reach signal.",
+    "Save rule: end on a detail worth screenshotting (the lamp, the sofa, the plants) — a screenshot-worthy detail turns one view into a saved Reel."
+  ],
+  "why_it_works": "Beauty plus the save: everyone dreams about their perfect room, the visuals are instantly saveable, and every room is a fresh Reel — endless supply, instant emotion, built for Instagram saves and shares.",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "interior-design",
+    "home-decor",
+    "rooms",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-gameplay-storytime",
+  "title": "AI Gameplay Storytime (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Gameplay Storytime — Minecraft parkour, subway-runner and GTA night-drive loops behind 30-90s voiceover stories: confessions, revenge tales and mysteries. Is niche ki videos 198.7M / 172.4M / 149.6M / 121.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-gameplay-storytime.jpg",
+  "prompt": "Addictive gameplay storytime video, vibrant game world visuals and smooth looping motion, [GAME + STORY: blocky Minecraft parkour world with a character jumping between floating blocks as the voiceover tells a best-friend betrayal story / a colorful subway-runner game world with a sprinting character as the voiceover tells a revenge story / a neon-lit rainy city night drive as the voiceover tells a secret confession story / a fantasy blocky adventure world with a glowing portal as the voiceover tells a mystery story], one game world and one story per video, gameplay loops seamlessly behind the narration, a calm gripping voiceover, cliffhanger before the final line, 9:16 vertical, 30-90 seconds, no on-screen text",
+  "howto": [
+    "Generate one gameplay loop in Veo 3 per video, swapping only [GAME] — one world, one story, one twist per video keeps the story clean; never mix two games in one clip.",
+    "Script each video in ChatGPT as 3 beats: the hook line (the story's wildest moment first) + the story (30-60 seconds, one twist) + the payoff (the ending viewers waited for) — gameplay storytime wins on the story; the gameplay is just the moving wallpaper.",
+    "Open on the story's wildest line in the first 2 seconds ('My best friend stole my identity' over parkour) — curiosity stops the TikTok scroll; a slow game intro does not.",
+    "Keep the gameplay loop seamless and the voiceover calm and clear — the story carries the video, the game keeps the eyes busy; a loud voiceover over loud game sounds kills both.",
+    "Post 1-2 stories a day as a series — 'Storytime 01, 02, 03' — numbered stories turn one viral video into a daily habit viewers come back to finish."
+  ],
+  "tips": [
+    "Hook rule: the story's wildest line first, never the game name ('She found the messages on his phone' hooks; 'Welcome to Minecraft parkour' does not).",
+    "Caption trick: 'Wait for the ending' — a promised payoff gets watched to the end and then rewatched, and rewatches are TikTok's strongest reach signal.",
+    "Cliffhanger rule: end part 1 right before the twist and post part 2 the next day — a two-part story doubles your videos and your followers."
+  ],
+  "why_it_works": "Story plus moving wallpaper: the gameplay keeps eyes busy while the story hooks the brain, viewers cannot leave mid-story, and every story is a fresh video — endless supply, zero filming, pure completion rate.",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "gameplay",
+    "storytime",
+    "gaming",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
 }
 ];
 
