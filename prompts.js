@@ -11701,6 +11701,303 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "aurora-ice-cave-walkthrough-veo3",
+  "title": "Aurora Ice Cave Walkthrough — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Step inside a glowing blue ice cave as the aurora borealis shimmers through its frozen ceiling — a jaw-dropping walkthrough built for faceless YouTube Shorts that stop the scroll.",
+  "prompt": "Slow cinematic walkthrough inside a vast glowing ice cave in Iceland: translucent sapphire-blue ice walls arch overhead, soft green aurora light ripples through the frozen ceiling and dances across the crystal floor, tiny icicles sparkle like chandeliers, a lone explorer in a red parka walks slowly toward a glowing opening of light, mist drifts at ankle height, water droplets fall in slow motion, camera glides forward at eye level in one smooth unbroken take, ethereal, awe-inspiring, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the aurora light through the ice ceiling as the hero moment.",
+    "Set aspect ratio to 9:16 vertical for YouTube Shorts.",
+    "Generate 3-4 variations and keep the one where the aurora glow is strongest on the ice.",
+    "Add a soft ambient drone or wind sound, a caption like 'Nature built a cathedral of ice', then export and post."
+  ],
+  "tips": [
+    "Open inside the cave with the aurora already glowing — viewers must see the wonder in the first second, not a dark tunnel.",
+    "Reuse the same ice-cave setup at dawn, midday and midnight for a whole winter wonder series.",
+    "Post in the evening when Shorts discovery peaks — awe content earns shares, and shares push the algorithm further."
+  ],
+  "tags": [
+    "winter",
+    "youtube",
+    "aurora",
+    "ice-cave",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "new-year-fireworks-frozen-city-veo3",
+  "title": "New Year's Eve Fireworks Over a Frozen City — Veo 3 Prompt for Viral YouTube Shorts",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Fireworks burst in gold and violet over a snow-covered city at midnight as crowds cheer below — a cinematic New Year's Eve moment built for viral Shorts and countdown posts.",
+  "prompt": "Cinematic New Year's Eve fireworks over a snow-covered European city at midnight: brilliant gold, violet and emerald fireworks burst in perfect synchrony above a frozen river, their reflections shimmering on the ice, snowflakes drifting through the coloured light, a crowd in winter coats cheering and waving sparklers on a riverside promenade, church bells and a clock tower striking twelve, camera starts wide on the skyline then slowly pushes in toward the biggest firework bloom, joyful, magical, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the midnight fireworks bloom over the frozen river as the hero moment.",
+    "Set aspect ratio to 9:16 vertical for YouTube Shorts and TikTok.",
+    "Generate 3-4 variations and keep the one with the brightest, most symmetrical firework burst.",
+    "Add a countdown beep or celebration sound, a caption like 'Happy New Year from the frozen city', then export and post on December 31."
+  ],
+  "tips": [
+    "Schedule it for New Year's Eve evening — celebration content spikes hardest in the final 6 hours of the year.",
+    "Swap the city for any skyline — Paris, New York, Tokyo — for a whole global countdown series.",
+    "End on the biggest bloom and loop it — a perfect loop earns replays, and replays earn reach."
+  ],
+  "tags": [
+    "new-year",
+    "youtube",
+    "fireworks",
+    "celebration",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "snowy-owl-coffee-barista-kling",
+  "title": "Snowy Owl Coffee Shop Barista — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A fluffy snowy owl in a tiny apron steams milk, spills foam and serves lattes with deadpan seriousness — a cozy comedy clip built for TikTok animal pages.",
+  "prompt": "Adorable snowy owl working as a barista in a cozy winter coffee shop: the fluffy white owl wears a tiny green apron and stands behind a wooden counter, carefully steaming a jug of milk with a brass espresso machine, foam spills over the rim and dusts its feathers, it slides a latte with a perfect heart in the foam across the counter to a smiling customer, warm fairy lights and snow falling outside the frosted window, steam curling in the golden light, camera holds a warm medium shot with a slow push-in, funny, heartwarming, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the foam spill on the owl's feathers as the comedy beat.",
+    "Set aspect ratio to 9:16 vertical for TikTok.",
+    "Generate 3-4 variations and keep the one where the owl's expression looks most deadpan-serious.",
+    "Add a soft jazz cafe track and a cartoon boing on the spill, then export and post."
+  ],
+  "tips": [
+    "Give the owl one human habit per video — wiping the counter, tasting the coffee, counting coins — a series writes itself.",
+    "Keep the owl's face deadpan while everything goes wrong — the contrast is the joke.",
+    "Post in the morning when coffee content trends — cozy animal comedy earns saves from commuters."
+  ],
+  "tags": [
+    "comedy",
+    "tiktok",
+    "animals",
+    "cozy",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "ice-fishing-village-dawn-sora",
+  "title": "Ice Fishing Village at Dawn — Sora Prompt for Cozy YouTube Niche Channels",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A tiny fishing village wakes on a frozen harbor at dawn — lanterns glow, smoke curls, and fishermen drill through the ice — a calm, cinematic wander for faceless YouTube.",
+  "prompt": "Cinematic dawn over a tiny ice fishing village on a frozen harbor: pastel pink and gold light spreads across the ice, small wooden huts with smoking chimneys dot the frozen bay, a fisherman in a thick parka drills a hole through the ice as steam rises from his thermos, lanterns glow warm in the blue morning cold, a sled dog naps beside a stack of fishing nets, distant mountains fade into soft mist, camera drifts slowly across the harbor in one unbroken take, peaceful, nostalgic, ultra detailed, 16:9 widescreen, no text, no watermark",
+  "howto": [
+    "Open Sora and start a new video generation.",
+    "Paste the full prompt, keeping the dawn light spreading across the frozen harbor as the hero moment.",
+    "Set aspect ratio to 16:9 widescreen for YouTube.",
+    "Generate 2-3 variations and keep the one with the warmest lantern glow against the cold blue ice.",
+    "Add a soft piano or wind ambience, a gentle narration line about slow winter mornings, then export and post."
+  ],
+  "tips": [
+    "Hold the wide shot for at least 5 seconds before any movement — calm is the product here, not speed.",
+    "Reuse the same village at noon, dusk and in a snowstorm for a four-part winter day series.",
+    "Pair it with a slow-living or cozy niche angle — calm videos earn long watch time and loyal subscribers."
+  ],
+  "tags": [
+    "winter",
+    "youtube",
+    "cozy",
+    "fishing",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "kaleidoscope-snowflake-loop-runway",
+  "title": "Kaleidoscope Snowflake Loop — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A single snowflake spins into a hypnotic kaleidoscope of ice-blue geometry — a perfect seamless loop built for Instagram Reels saves and replays.",
+  "prompt": "Hypnotic kaleidoscope loop of a single snowflake: a perfect crystalline snowflake spins slowly at the centre of the frame, its six arms unfolding into mirrored geometric patterns in ice blue, violet and silver, tiny light particles orbit the edges, the background shifts from deep midnight blue to soft aurora green, the pattern blooms outward then folds back into the original flake in a seamless loop, symmetrical, mesmerising, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Runway and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the seamless fold back into the original snowflake as the loop point.",
+    "Set aspect ratio to 9:16 vertical for Instagram Reels.",
+    "Generate 3-4 variations and keep the one where the start and end frames match most cleanly.",
+    "Add a soft chime or ambient pad, loop it three times in the edit, then export and post."
+  ],
+  "tips": [
+    "A perfect loop is the whole trick — test the last frame against the first before posting.",
+    "Change one colour per post — blue, violet, rose gold — and the same loop becomes a series.",
+    "Post at night when satisfying content trends — hypnotic loops earn replays, and replays push Reels further."
+  ],
+  "tags": [
+    "satisfying",
+    "instagram",
+    "winter",
+    "loop",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "gingerbread-house-build-timelapse-flow",
+  "title": "Gingerbread House Build Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A gingerbread house rises wall by wall in a magical timelapse — icing snow, candy windows, a sugar chimney — a satisfying holiday build for Facebook Reels.",
+  "prompt": "Satisfying timelapse of a gingerbread house being built on a snowy kitchen table: gingerbread walls rise one by one and lock together, white icing pipes along every edge like fresh snow, candy cane pillars and gumdrop windows snap into place, a sugar chimney puffs a tiny cloud of powdered sugar, miniature fairy lights twinkle inside the finished house as snow falls softly outside the window, camera holds a warm overhead angle with a slow orbit, cozy, magical, ultra detailed, 9:16 vertical, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new text-to-video generation.",
+    "Paste the full prompt, keeping the icing piping along the edges as the satisfying hero moment.",
+    "Set aspect ratio to 9:16 vertical for Facebook Reels.",
+    "Generate 3-4 variations and keep the one where the build steps read most clearly.",
+    "Add a cheerful holiday tune and a soft chime on the finished house, then export and post."
+  ],
+  "tips": [
+    "Keep the camera steady and overhead — the build is the star, not camera tricks.",
+    "Film a matching real-life build next to the AI clip and post them as a before-and-after pair.",
+    "Post in early December when holiday baking searches peak — seasonal timelapses earn shares to family group chats."
+  ],
+  "tags": [
+    "christmas",
+    "facebook",
+    "satisfying",
+    "timelapse",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 87
+},
+{
+  "id": "new-year-celebration-illustration-pack-midjourney",
+  "title": "New Year Celebration Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A joyful flat-illustration pack of New Year's Eve — fireworks, confetti, champagne, countdown clocks — ready-made art for Instagram and Facebook celebration posts.",
+  "prompt": "Joyful flat illustration pack for New Year's Eve celebrations, modern vector style with bold shapes and a rich midnight-blue, gold and hot-pink palette: a champagne bottle popping with golden bubbles, a countdown clock striking twelve, fireworks bursting over a city skyline, confetti and party hats scattered playfully, a golden '2027' balloon number glowing at the centre, clean white background, cheerful, festive, crisp edges, high detail, --ar 4:5 --style raw --v 6.1",
+  "howto": [
+    "Open Midjourney and start a new image generation.",
+    "Paste the full prompt, keeping the gold '2027' balloon number as the centrepiece.",
+    "Set aspect ratio to 4:5 for Instagram feed posts.",
+    "Generate 4 variations, upscale the best, then remix it with different elements — fireworks only, champagne only, clock only.",
+    "Export as a matching set and schedule one illustration per day across the New Year week."
+  ],
+  "tips": [
+    "Keep the palette locked to midnight blue, gold and hot pink across the whole pack — consistency makes it a brand.",
+    "Add your channel name in a matching gold font after generation — the pack becomes shareable branded art.",
+    "Post the countdown-clock illustration on December 31 morning — it earns saves from people planning their own posts."
+  ],
+  "tags": [
+    "new-year",
+    "instagram",
+    "illustration",
+    "celebration",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "hidden-new-year-niche-finder-chatgpt",
+  "title": "Hidden New Year Niche Finder — ChatGPT Prompt for January 2027 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Find the creator niches nobody is fighting over yet in January 2027 — ChatGPT digs through resolution season, winter habits and fresh-year trends to hand you 10 winnable niches.",
+  "prompt": "You are a YouTube and TikTok niche strategist who specialises in January opportunity windows. I want 10 hidden creator niches for January 2027 that are rising but not yet saturated. For each niche give me: (1) the niche name and the exact audience it serves, (2) why January 2027 is the perfect moment for it — tie it to a real New Year behaviour, a winter habit, or a fresh-year trend, (3) 3 faceless video ideas that could go viral in the first 30 days, (4) a difficulty score from 1-10 and the one skill I need to start, (5) how it can make money in the first 90 days. Rules: no generic niches like 'fitness' or 'motivation' — I want specific, ownable angles. Rank the 10 by opportunity score and end with your single top pick and why it wins.",
+  "howto": [
+    "Open ChatGPT and start a new chat.",
+    "Paste the full prompt exactly as written.",
+    "If a niche feels too broad, reply 'Make niche #X more specific — give me a sub-niche a beginner could own in 30 days.'",
+    "Cross-check the top 3 niches on YouTube search — fewer than 50,000 results with weak thumbnails means real room.",
+    "Pick one niche, then ask ChatGPT for a 30-day content calendar for it before you film anything."
+  ],
+  "tips": [
+    "Run this prompt in the first week of January — the January window rewards the earliest movers.",
+    "Ask ChatGPT to compare your top pick against your current skills — the best niche is the one you can actually start this week.",
+    "Save the output as a shortlist, not a decision — validate with real search data before committing 90 days."
+  ],
+  "tags": [
+    "youtube",
+    "niche-discovery",
+    "new-year",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "viral-new-year-countdown-series-gemini",
+  "title": "Viral New Year Countdown Series — Gemini Prompt for TikTok & Reels Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Turn the last 7 days of the year into a bingeable countdown series — Gemini plans 7 short videos, one per day, each with a hook, a payoff and a reason to come back tomorrow.",
+  "prompt": "You are a short-form viral strategist for TikTok and Instagram Reels. Build me a 7-day New Year countdown series — one video per day from December 25 to December 31 — for my niche: [YOUR NICHE]. For each day give me: (1) the video concept in one sentence, (2) a 3-second hook that stops the scroll, (3) the exact 15-30 second structure — what happens at 0-3s, 3-10s and the final 3s, (4) the on-screen text and the caption, (5) the cliffhanger that makes viewers come back tomorrow. Rules: every video must be filmable faceless with AI video tools, each day must feel bigger than the last, and day 7 must end with a payoff worth the whole week. Finish with a posting-time plan for TikTok and Reels for all 7 days.",
+  "howto": [
+    "Open Gemini and start a new chat.",
+    "Paste the full prompt, replacing [YOUR NICHE] with your actual niche.",
+    "If a day feels weak, reply 'Make day #X bigger — give me a stronger hook and a better cliffhanger.'",
+    "Generate all 7 videos in advance with your AI video tool so the week runs on autopilot.",
+    "Pin a comment on day 1 linking the series playlist so late viewers can binge from the start."
+  ],
+  "tips": [
+    "The cliffhanger is the whole strategy — never end a day without a reason to return.",
+    "Keep each video under 30 seconds — countdown viewers are scrolling fast and reward brevity.",
+    "Post day 7 in the evening of December 31 — the payoff lands when celebration energy is highest."
+  ],
+  "tags": [
+    "tiktok",
+    "instagram",
+    "new-year",
+    "creator-niche"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "2027-content-empire-plan-claude",
+  "title": "2027 Content Empire Plan — Claude Prompt to Turn One Winter Niche Into a Full-Year Channel",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Claude turns one winter niche into a full 2027 channel plan — 12 monthly themes, 4 content pillars, a monetisation ladder and a weekly system you can actually sustain.",
+  "prompt": "You are a YouTube channel strategist who builds sustainable creator businesses. My niche is [YOUR NICHE] and my goal is to grow it into a full-time channel in 2027. Build me a complete 12-month content empire plan. Include: (1) 12 monthly themes that follow the seasons and real audience behaviour, starting with a strong January, (2) 4 content pillars with the exact video mix for each — how many videos per pillar per month, (3) a monetisation ladder — AdSense, affiliates, digital products and sponsorships — with realistic month-by-month revenue milestones, (4) a weekly production system for one person: filming, editing and posting hours, batching days and rest days, (5) the 3 biggest risks that kill channels like mine and how to avoid each one. Rules: be specific to my niche, never generic advice. End with the single most important action for week 1 of January.",
+  "howto": [
+    "Open Claude and start a new chat.",
+    "Paste the full prompt, replacing [YOUR NICHE] with your actual niche.",
+    "If a month feels thin, reply 'Expand month #X — give me 4 specific video titles and why each one fits that season.'",
+    "Turn the monetisation ladder into a spreadsheet and track real numbers against it monthly.",
+    "Re-run this prompt every quarter with your actual results so the plan stays honest."
+  ],
+  "tips": [
+    "A plan you cannot sustain is worse than no plan — cut the video count until the weekly hours fit your real life.",
+    "Start monetisation in month 1 with affiliates — waiting for AdSense alone starves most channels.",
+    "The week-1 action matters more than the 12-month vision — do it before you polish anything else."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "planning",
+    "strategy"
+  ],
+  "trending": false,
+  "popularity": 89
 }
 ];
 
