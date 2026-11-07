@@ -12100,7 +12100,312 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "tiny-ice-skating-mice-veo3",
+  "title": "Tiny Ice-Skating Mice — Veo 3 Prompt for Viral TikTok Winter Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Tiny ice-skating mice glide, twirl and tumble across a frozen pond in a miniature winter wonderland — a Veo 3 prompt built for viral TikTok animal niches.",
+  "prompt": "Adorable tiny mice ice-skating on a frozen pond at golden hour, miniature winter wonderland, [SCENE: two tiny mice in red scarves gliding in perfect sync across glistening ice as snowflakes drift down / a brave little mouse attempting a spin and tumbling into a soft snowbank, then popping up and shaking off the snow / a tiny mouse family skating in a line, holding paws, past frosted pine branches / a little mouse in a tiny knitted hat doing a wobbly jump as its friends cheer from the ice edge], one scene per video, ultra-detailed fur and sparkling ice, warm golden winter light, gentle snowfall, playful and heartwarming, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt, keeping only one [SCENE] per video — one mouse moment per clip keeps the story clean and watchable.",
+    "Pick the tumble scene first — the tiny fall and pop-up recovery is the clip viewers rewatch and share.",
+    "Keep the scarves and knitted hat the same colour in every video so the mice become recognisable characters viewers follow.",
+    "Add soft whimsical music and a gentle whoosh on each spin — cute sounds sell the miniature scale.",
+    "Post as a daily series — 'Tiny Skaters 01, 02, 03' — numbered episodes turn one viral clip into a winter habit viewers return to."
+  ],
+  "tips": [
+    "Hook rule: the cutest moment first, never a slow pond pan — two mice gliding in sync stops the TikTok scroll instantly.",
+    "Caption trick: 'Wait for the tumble' — a promised funny fall keeps viewers watching to the end.",
+    "Scale rule: keep the mice tiny against big snowflakes and pine branches — the miniature scale is the whole charm, so never zoom in so close the world looks normal."
+  ],
+  "tags": [
+    "tiktok",
+    "creator-niche",
+    "animals",
+    "winter",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "snowy-village-bakery-dawn-veo3",
+  "title": "Snowy Village Bakery at Dawn — Veo 3 Prompt for Cozy YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A snowy village bakery glows at dawn — steam, fresh bread and warm light — a Veo 3 prompt for cozy YouTube Shorts niches.",
+  "prompt": "Cozy snowy village bakery at dawn, warm golden light glowing from frosted windows, [SCENE: a baker sliding golden loaves from a wood-fired oven as steam curls into the cold morning air / snow falling softly on a cobbled lane outside the bakery door, smoke rising from the chimney / hands dusting flour over a wooden table as cinnamon rolls bake golden in the background / a cat asleep on a flour sack beside the warm oven as the first customers knock on the door], one scene per video, ultra-detailed steam, snow and warm light, cinematic cozy mood, gentle ambient sound, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt, keeping only one [SCENE] per video — one bakery moment per Short keeps the cozy mood intact.",
+    "Start with the oven scene — steam and golden loaves are the strongest sensory hook for a cold-morning scroll.",
+    "Keep the same bakery, the same cat and the same warm window light in every video so viewers recognise your village instantly.",
+    "Add soft crackling fire and gentle morning music — cozy sound turns a pretty clip into a feeling viewers save.",
+    "Post as a morning series — 'Bakery Mornings 01, 02, 03' — a daily dawn ritual builds a returning audience fast."
+  ],
+  "tips": [
+    "Hook rule: steam and golden bread first, never the empty street — warmth against cold snow is what stops the scroll.",
+    "Caption trick: 'Smell this through the screen' — a sensory line makes viewers comment and save.",
+    "Light rule: keep the window glow warm and the snow blue-white — the warm-versus-cold contrast is the whole visual, so never flatten it with even lighting."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "cozy",
+    "food",
+    "winter",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "polar-bear-cub-first-snow-kling",
+  "title": "Polar Bear Cub's First Snow Day — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A polar bear cub discovers snow for the very first time — clumsy, curious and impossible not to watch — a Kling prompt for viral TikTok comedy niches.",
+  "prompt": "Fluffy polar bear cub experiencing snow for the first time, bright Arctic morning, sparkling white snow, [SCENE: the cub takes its first wobbly steps and face-plants into a soft snowdrift, then pops up sneezing snowflakes / the cub chases a falling snowflake, spinning in circles until it tumbles over / the cub slides down a tiny snow hill on its belly, squeaking with joy / the cub discovers its own reflection in an ice puddle and tries to play with it], one scene per video, ultra-detailed fluffy fur and glistening snow, bright cheerful light, playful and heartwarming, 9:16 vertical, 5 seconds, no on-screen text",
+  "howto": [
+    "Open Kling and paste the prompt, keeping only one [SCENE] per video — one first-time discovery per clip keeps the comedy clean.",
+    "Start with the face-plant scene — the sneeze of snowflakes is the funniest frame and the best thumbnail moment.",
+    "Keep the same cub, the same bright Arctic light and the same sparkling snow in every video so the character feels real.",
+    "Add a soft boing or giggle sound on each tumble — cartoon sound makes a cute fall ten times funnier.",
+    "Post as a series — 'Cub's First Snow 01, 02, 03' — numbered firsts turn one viral clip into a daily dose viewers wait for."
+  ],
+  "tips": [
+    "Hook rule: the wobbly first step first, never a wide Arctic landscape — the cub's clumsy face is the hook.",
+    "Caption trick: 'His first snow ever' — a first-time frame makes viewers watch to the end to see what happens.",
+    "Face rule: keep the cub's eyes big and visible in every shot — the face sells the comedy, so never film the tumble from behind."
+  ],
+  "tags": [
+    "tiktok",
+    "creator-niche",
+    "animals",
+    "comedy",
+    "winter",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "abandoned-ski-lodge-mystery-sora",
+  "title": "Abandoned Ski Lodge Mystery — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "An abandoned ski lodge frozen in time — dusty skis, a cold fireplace and one mystery that pulls viewers in — a Sora prompt for faceless YouTube mystery niches.",
+  "prompt": "Abandoned ski lodge frozen in time, cinematic mystery, snow pressing against dark windows, [SCENE: a slow camera push through the creaking front door into a dusty lounge, skis still leaning by the cold fireplace / a close-up of a guest book left open on the final page, names fading in the cold / the camera glides down a silent hallway where one door stands half open, light flickering inside / an aerial pull-back revealing the lodge buried in snow, one chimney still smoking], one scene per video, moody winter light, ultra-detailed dust, wood and snow, slow cinematic camera, eerie quiet, 16:9 horizontal, 10 seconds, no on-screen text",
+  "howto": [
+    "Open Sora and paste the prompt, keeping only one [SCENE] per video — one room, one clue, one question per clip keeps the mystery tight.",
+    "Start with the front-door push-in — a slow entry into a dead place is the strongest mystery hook on YouTube.",
+    "Keep the same lodge, the same cold light and the same snowed-in windows in every video so the place becomes a character.",
+    "Add a low ambient drone and one sharp sound per scene — a creak, a page turn — silence plus one sound is scarier than music.",
+    "Post as a series — 'The Lodge 01, 02, 03' — one clue per video turns a mystery into a binge viewers cannot quit."
+  ],
+  "tips": [
+    "Hook rule: the creaking door first, never an exterior establishing shot — entering the mystery beats looking at it.",
+    "Caption trick: 'Nobody has been here since 1987' — a date plus a question makes viewers comment their theories.",
+    "Clue rule: leave exactly one unexplained detail per video — the smoking chimney, the open guest book — one question per clip keeps the comments alive."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "mystery",
+    "winter",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "nutcracker-toy-theatre-runway",
+  "title": "Nutcracker Toy Theatre Comes Alive — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A wooden nutcracker toy theatre springs to life — dancers, drummers and sugar-plum magic — a Runway prompt for viral Instagram Reels niches.",
+  "prompt": "Magical wooden nutcracker toy theatre coming alive at night, warm stage light and rich festive colours, [SCENE: a toy soldier nutcracker marching across the stage as tiny drummers beat a rhythm / a sugar-plum fairy ballerina spinning out of a music box in a swirl of glitter / wooden mice in tiny uniforms peeking from behind the red velvet curtain / the whole toy cast taking a bow as golden confetti rains down], one scene per video, ultra-detailed painted wood, fabric and glitter, cinematic warm lighting, joyful festive energy, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Runway and paste the prompt, keeping only one [SCENE] per video — one toy, one dance, one moment per Reel keeps the magic clear.",
+    "Start with the marching nutcracker — the toy soldier on parade is the most recognisable Christmas image and the best hook.",
+    "Keep the same theatre, the same red curtain and the same warm stage light in every video so the show feels like one production.",
+    "Add a music-box melody and a soft drum beat — the Nutcracker sound is half the nostalgia, and nostalgia is what gets shared.",
+    "Post as a show series — 'Toy Theatre 01, 02, 03' — numbered acts turn one viral Reel into a nightly Christmas show."
+  ],
+  "tips": [
+    "Hook rule: the marching soldier first, never the closed curtain — movement plus a familiar toy stops the scroll instantly.",
+    "Caption trick: 'The toys wake up at midnight' — a secret-world line makes viewers watch to the end.",
+    "Detail rule: keep the painted wood and fabric textures sharp — toy-theatre magic lives in the handmade details, so never soften them into plastic."
+  ],
+  "tags": [
+    "instagram",
+    "creator-niche",
+    "christmas",
+    "toys",
+    "festive",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "crackling-yule-log-fireplace-flow",
+  "title": "Crackling Yule Log Fireplace Loop — Google Flow Prompt for Cozy Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A crackling yule log fireplace loop — flames, embers and pure cozy calm — a Google Flow prompt for satisfying Facebook Reels niches.",
+  "prompt": "Crackling yule log burning in a stone fireplace, ultra-satisfying cozy loop, [SCENE: golden flames licking around a decorated yule log as embers glow and crackle / a close-up of sparks rising slowly past a string of warm fairy lights / the fire reflected in a mug of hot cocoa waiting on the hearth / a wide shot of the fireplace with stockings above it and snow falling outside the window], one scene per video, ultra-detailed flames, embers and glowing wood, warm amber light, seamless loop, gentle crackle sound, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Google Flow and paste the prompt, keeping only one [SCENE] per video — one fireplace moment per Reel keeps the calm unbroken.",
+    "Start with the flames-around-the-log scene — fire movement is the hook, and a still fireplace is just a photo.",
+    "Keep the same fireplace, the same stockings and the same warm amber light in every video so the room becomes a familiar place.",
+    "Add the real crackle sound and nothing else — silence plus fire is the relaxation, and music would break the spell.",
+    "Post as a nightly series — 'Fireplace Nights 01, 02, 03' — a daily cozy loop becomes the Reel people open before bed."
+  ],
+  "tips": [
+    "Hook rule: flames moving in the first second, never a slow fade-in — fire must be alive the instant the Reel starts.",
+    "Caption trick: 'Turn the sound on and relax' — a sound-on prompt doubles watch time on calm content.",
+    "Loop rule: make the end frame match the start frame exactly — a seamless loop is what makes viewers watch it three times without noticing."
+  ],
+  "tags": [
+    "facebook",
+    "creator-niche",
+    "cozy",
+    "satisfying",
+    "winter",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "new-year-vision-board-midjourney",
+  "title": "New Year Vision Board Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "New Year vision board illustrations — dream goals in bright, inspiring flat-lay art — a Midjourney prompt for Instagram and Facebook pages.",
+  "prompt": "Bright inspiring New Year vision board flat-lay illustration, clean modern style, [THEME: a travel-dreams board with tiny aeroplanes, passports, maps and golden compasses on a warm cream background / a fitness-goals board with sneakers, dumbbells, fresh fruit and a sunrise in soft energetic colours / a money-goals board with coins, charts, a tiny house and a piggy bank in cheerful gold and green / a creative-dreams board with paintbrushes, cameras, books and stars in vibrant playful colours], one board per image, crisp details, joyful optimistic mood, bright even lighting, square 1:1 format, no text",
+  "howto": [
+    "Open Midjourney and paste the prompt, keeping only one [THEME] per image — one dream board per post keeps the goal clear.",
+    "Start with the travel board — aeroplanes and maps are the most saved vision-board images on Instagram.",
+    "Keep the same cream background and flat-lay angle across the pack so the four boards feel like one set.",
+    "Post each board with a caption asking followers to comment their own goal for that theme — comments turn a pretty image into a conversation.",
+    "Release one board per week through December so followers collect the full set before New Year."
+  ],
+  "tips": [
+    "Hook rule: the brightest, most colourful board first — a dull vision board gets scrolled past, a vibrant one gets saved.",
+    "Caption trick: 'Which board is yours?' — a choice question pulls comments from people who would never comment otherwise.",
+    "Save rule: vision boards live on saves, so make every object crisp and recognisable — a blurry dream is not worth saving."
+  ],
+  "tags": [
+    "instagram",
+    "creator-niche",
+    "new-year",
+    "illustration",
+    "motivation"
+  ],
+  "trending": true,
+  "popularity": 86
+},
+{
+  "id": "valentines-niche-early-bird-chatgpt",
+  "title": "Valentine's Day Niche Early-Bird Finder — ChatGPT Prompt for February Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "ChatGPT finds Valentine's Day creator niches weeks before the rush — underserved angles, formats and keywords for February.",
+  "prompt": "You are a content strategist who spots seasonal niches before they get crowded. Valentine's Day is 10 weeks away and I want to build a faceless channel or page that peaks in February. Find me 10 underserved Valentine's Day creator niches for [PLATFORM: YouTube Shorts / TikTok / Facebook Reels / Instagram Reels]. For each niche give: (1) the exact angle and why it is underserved right now, (2) 3 video ideas with hooks that fit the platform, (3) the audience and why they will watch and share, (4) a difficulty score out of 10 and the one skill I need. Then rank the 10 by opportunity score and tell me which single niche I should start this week, and the first 5 videos to post. Rules: avoid generic 'romantic gift ideas' — I want angles with real search demand and low competition. Be specific, use 2026-2027 trends, and end with a 10-week posting calendar.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt, replacing [PLATFORM] with the one platform you will actually post on.",
+    "Read the ranked list and ignore everything except the top 3 — the ranking is the point, and chasing all 10 spreads you too thin.",
+    "Take the number-one niche and ask ChatGPT: 'Give me 30 video titles for this niche, ordered by February search demand.'",
+    "Check the top niche on your platform's search bar — if the top results are old or weak, the gap is real.",
+    "Start posting this week, not in January — the early bird owns the niche before the February rush arrives."
+  ],
+  "tips": [
+    "Timing rule: seasonal niches are won 8-10 weeks early — starting in February means competing with everyone.",
+    "Specificity rule: if ChatGPT gives you 'romantic gifts', push back with 'give me angles nobody is covering' until the ideas get weird and specific.",
+    "Calendar rule: the 10-week calendar is the real deliverable — a niche without a posting plan is just a wish."
+  ],
+  "tags": [
+    "tiktok",
+    "creator-niche",
+    "niche-discovery",
+    "valentines",
+    "seasonal"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "february-niche-forecast-gemini",
+  "title": "February Niche Forecast — Gemini Prompt for Valentine's & Winter-End Creator Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Gemini forecasts February 2027 creator niches — Valentine's peaks, winter-end trends and the gaps nobody is filling yet.",
+  "prompt": "You are a trend forecaster for content creators. It is early November 2026 and I want to be ready for February 2027 — Valentine's Day, the end of winter, and the first spring signals. Forecast 12 creator niches that will peak in February 2027 for [PLATFORM: YouTube / TikTok / Facebook / Instagram]. For each niche give: (1) what will drive its February peak — a holiday, a season change, or a cultural moment, (2) the 3 best formats for the platform, (3) the search terms and hashtags that will be rising, (4) the competition level right now and the gap I can own. Then pick the top 3 niches for a brand-new faceless channel and give me a 4-week February launch plan: what to post, when, and the one video each week that must go viral. Rules: base the forecast on real seasonal patterns and 2026 trends, flag anything that is a guess, and end with the single niche I should commit to before December.",
+  "howto": [
+    "Open Gemini and paste the full prompt, replacing [PLATFORM] with the platform you will build on.",
+    "Circle the 3 niches Gemini ranks highest, then verify each one with a quick search on the platform — rising searches confirm the forecast.",
+    "Ask Gemini to expand the winning niche: 'Give me the 20 videos for the February launch plan, with hooks and posting days.'",
+    "Save the forecast and re-run it in December with fresh data — a forecast that never updates is a guess that goes stale.",
+    "Commit to one niche before December so you can film, batch and schedule before the February peak hits."
+  ],
+  "tips": [
+    "Forecast rule: a niche with a dated peak — Valentine's Day, a season change — beats a vague 'rising' trend every time.",
+    "Verification rule: never trust a forecast without checking the platform's own search — Gemini predicts, the search bar confirms.",
+    "Commitment rule: the forecast's last line — one niche before December — is the whole point; a list of 12 niches with no decision is just reading."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "niche-discovery",
+    "forecast",
+    "seasonal"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "niche-quit-or-double-down-audit-claude",
+  "title": "Niche Quit-or-Double-Down Audit — Claude Prompt to Decide Your Channel's Next Move",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Claude audits your niche with cold honesty — quit, pivot or double down — with the numbers, not the feelings.",
+  "prompt": "You are a brutally honest channel consultant. I have been posting in the niche [YOUR NICHE] on [PLATFORM] for [X MONTHS], posting [X] videos per week, and I am not sure whether to quit, pivot or double down. Audit my niche with real logic. Ask me for my numbers first if I have not given them — views, subscribers or followers gained, watch time or retention, and revenue so far — then give me: (1) a verdict — QUIT, PIVOT or DOUBLE DOWN — with the 3 strongest reasons, (2) the 5 numbers that prove the verdict, compared against realistic benchmarks for my platform and niche age, (3) if PIVOT: the closest winning niche I can move to without starting from zero, (4) if DOUBLE DOWN: the 3 changes that will move the numbers fastest in the next 30 days, (5) if QUIT: the 3 lessons to carry into my next niche so I do not repeat the mistake. Rules: no motivational fluff, no 'keep going' by default — if the numbers say quit, say quit. End with the single decision I should make this week.",
+  "howto": [
+    "Open Claude and paste the full prompt, replacing [YOUR NICHE], [PLATFORM] and [X MONTHS] with your real numbers.",
+    "Give Claude your real analytics — views, retention, subscriber growth — a verdict built on guessed numbers is worthless.",
+    "Read the verdict first and the reasons second — if you disagree, argue with the numbers, not the feeling.",
+    "If the verdict is PIVOT, ask Claude: 'Map my 10 best old videos to the new niche — which ones transfer and which die?'",
+    "Make the decision this week — an audit you sit on for a month is just procrastination with a spreadsheet."
+  ],
+  "tips": [
+    "Honesty rule: the prompt works only if you give real numbers — flattering your own stats just buys a wrong verdict.",
+    "Benchmark rule: compare against channels your own age, not the giants — a 3-month channel judged against a 3-year channel always looks like a failure.",
+    "Decision rule: a QUIT verdict is a win if it frees 90 days for a better niche — the audit saves time, it does not waste it."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "strategy",
+    "audit",
+    "planning"
+  ],
+  "trending": false,
+  "popularity": 87
 }
+
 ];
 
 if (typeof module !== "undefined") {
