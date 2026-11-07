@@ -12405,7 +12405,109 @@ const PROMPTS = [
   "trending": false,
   "popularity": 87
 }
-
+,
+{
+  "id": "niche-spotlight-ai-relationship-drama-stories",
+  "title": "AI Relationship Drama & Life Stories (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Relationship Drama & Life Stories — serialized AI mini-dramas: betrayals, love triangles, family secrets and redemption arcs with cliffhanger endings. Is niche ki videos 42.6M / 31.8M / 24.5M / 17.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-relationship-drama-stories.jpg",
+  "prompt": "Serialized AI relationship drama mini-series, cinematic movie-quality visuals, [STORY: a loyal wife discovers her husband's secret second phone on their anniversary night / two sisters torn apart by an inheritance letter found in their late mother's attic / a best friend betrays the hero at his own wedding — the truth revealed in the final scene / a single mother rebuilds her life after a public betrayal, and the twist no one saw coming], one story arc per episode, emotional close-ups, dramatic lighting, cliffhanger ending in the last 3 seconds, gripping voiceover narration, 16:9 for long-form or 9:16 for Shorts, 60-90 seconds, no on-screen text",
+  "howto": [
+    "Generate one story arc in Veo 3 per episode, swapping only [STORY] — one betrayal, one secret, one twist per episode keeps the drama clean; never cram two storylines into one clip.",
+    "Script each episode in ChatGPT as 3 beats: the hook (the most shocking moment first) + the story (45-60 seconds, one secret revealed) + the cliffhanger (the ending viewers waited for, cut off right before the answer) — relationship drama wins on emotion; the visuals are just the stage.",
+    "Open on the most dramatic line in the first 2 seconds ('She found a second phone in his jacket' over the anniversary dinner) — a betrayal stops the YouTube scroll; a slow family introduction does not.",
+    "Keep the acting in the faces — close-ups, tears, a shaking hand — and the voiceover calm and gripping; shouting over loud music kills the emotion.",
+    "Post as a numbered series — 'Episode 01, 02, 03' — with 'Part 2 tomorrow' in the description; numbered dramas turn one viral video into a daily habit viewers come back to finish."
+  ],
+  "tips": [
+    "Hook rule: the betrayal first, never the setup ('He had a second family' hooks; 'This is the story of a married couple' does not).",
+    "Title trick: use the twist as the title — 'She Found His Second Phone on Their Anniversary' beats 'Relationship Drama Episode 1' every time.",
+    "Comment trick: end with a question — 'Whose side are you on?' — drama comments explode when viewers pick a side, and comments push the video further."
+  ],
+  "why_it_works": "Gossip plus the cliffhanger: everyone leans in for a betrayal story, the open loop forces viewers to watch to the end, and every relationship is a fresh episode — endless supply, zero filming, pure retention.",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "relationship-drama",
+    "life-stories",
+    "drama",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-senior-health-tips",
+  "title": "AI Senior Health Tips Reels (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Senior Health Tips Reels — gentle health tips for the 60+ audience: walking routines, brain foods, sleep tricks and balance exercises over warm, trustworthy visuals. Is niche ki videos 168.5M / 139.2M / 114.7M / 89.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-senior-health-tips.jpg",
+  "prompt": "Warm trustworthy senior health tips Reel, bright cheerful visuals and gentle sunlight, [TIP: a 70-year-old's 10-minute morning walk routine that protects the heart / the 3 brain foods doctors say every senior should eat every week / a simple 5-minute balance exercise that prevents falls at home / the sleep trick that helps seniors fall asleep in minutes], one tip per Reel, a calm friendly voiceover, soft uplifting music, 9:16 vertical, 30-60 seconds, no on-screen text",
+  "howto": [
+    "Generate one health tip in Veo 3 per Reel, swapping only [TIP] — one walk, one food, one exercise per Reel keeps the advice clean; never cram five tips into one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the promise (the benefit first — 'walk 10 minutes, protect your heart') + the tip (one simple step anyone can do today) + the gentle nudge ('share this with someone you love') — senior health wins on trust; a lecture does not.",
+    "Open on the benefit in the first 2 seconds (a smiling senior walking in the morning sun) — hope stops the Facebook scroll; a medical warning does not.",
+    "Keep the voiceover slow, warm and clear — large readable visuals, no fast cuts — the audience is 55+; a rushed young voiceover kills the trust.",
+    "Post every morning as a series — 'Morning Health 01, 02, 03' — a daily morning slot turns viewers into a habit, and habits are the most loyal audience on Facebook."
+  ],
+  "tips": [
+    "Hook rule: the benefit first, never the disease ('Walk 10 minutes, protect your heart' hooks; 'Heart disease is dangerous' does not).",
+    "Share trick: end with 'Send this to your parents' — a share to family pushes the Reel further than any hashtag, and Facebook shares are the strongest reach signal.",
+    "Trust rule: keep every claim gentle and general — 'doctors say' and 'many seniors find' — never diagnose or promise a cure; trust is the whole niche."
+  ],
+  "why_it_works": "Care plus the share: everyone wants their parents healthy, a 30-second tip feels personal enough to forward to family, and a daily morning slot turns viewers into a habit — the most loyal audience on Facebook.",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "senior-health",
+    "health-tips",
+    "wellness",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-mini-diorama-builds",
+  "title": "AI Mini Diorama Builds (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Mini Diorama Builds — tiny worlds built step by step in macro: a rainy Tokyo street in a shoebox, a cabin in a jar, a beach in a teacup, a glowing mushroom village. Is niche ki videos 154.8M / 127.6M / 103.4M / 81.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-mini-diorama-builds.jpg",
+  "prompt": "Mesmerizing miniature diorama build Reel, macro detail and vibrant colors, [WORLD: a rainy Tokyo street in a shoebox with glowing neon signs and tiny puddles / a snow-covered cabin in a glass jar with warm glowing windows and miniature pine trees / a tropical beach in a teacup with turquoise water and a tiny sandcastle / a glowing mushroom-forest village with tiny lanterns and a sparkling stream], a hand places one tiny detail at a time, step-by-step build, stunning finished reveal at the end, satisfying ASMR sounds, 9:16 vertical, 30-60 seconds, no on-screen text",
+  "howto": [
+    "Generate one tiny world in Veo 3 per Reel, swapping only [WORLD] — one shoebox, one jar, one teacup per Reel keeps the build clean; never mix two worlds in one clip.",
+    "Script each Reel as 3 beats: the empty container (the plain shoebox or jar) + the build (one tiny detail at a time, a new step every 4-5 seconds) + the finished reveal (the glowing world, held for 3 seconds) — dioramas win on the reveal; viewers stay to see the end.",
+    "Open on the most magical detail in the first 2 seconds (a glowing neon sign, a tiny lantern) — wonder stops the Instagram scroll; an empty box does not.",
+    "Keep the sound soft and satisfying — gentle clicks, rustles, a calm voiceover or none at all — the build is the star; loud music over the tiny details kills the magic.",
+    "Post as a series — 'Tiny Worlds 01, 02, 03' — numbered builds turn one viral Reel into a daily inspiration feed viewers return to and save."
+  ],
+  "tips": [
+    "Hook rule: the magic first, never the container ('a whole Tokyo street in a shoebox' hooks; 'today I build a diorama' does not).",
+    "Save trick: 'Save this for your next craft night' — a save prompt pushes the Reel further than any hashtag; saves are Instagram's strongest reach signal.",
+    "Reveal rule: hold the finished world on screen for a full 3 seconds at the end — the reveal is the payoff, and a rushed ending loses the rewatch."
+  ],
+  "why_it_works": "Wonder plus the reveal: the brain cannot look away from a whole world in a teacup, the step-by-step build creates an open loop viewers must finish, and every container is a fresh Reel — endless supply, instant delight, built for Instagram saves.",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "diorama",
+    "miniature",
+    "crafts",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+}
 ];
 
 if (typeof module !== "undefined") {
