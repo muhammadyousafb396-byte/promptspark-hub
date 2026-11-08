@@ -12507,6 +12507,309 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "tiny-gardeners-giant-sunflower-veo3",
+  "title": "Tiny Gardeners Grow a Giant Sunflower — Veo 3 Prompt for Viral TikTok Garden Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Tiny gardeners in straw hats water, climb and harvest one giant sunflower in a miniature garden — a Veo 3 prompt built for viral TikTok garden and miniature-world niches.",
+  "prompt": "Adorable tiny gardeners growing a giant sunflower in a miniature garden, morning sunlight and dew drops, [SCENE: two tiny gardeners in straw hats watering a sunflower seedling with a thimble-sized watering can as it sprouts in fast motion / a brave little gardener climbing a rope ladder up the giant sunflower stem to reach a buzzing bee at the top / tiny gardeners harvesting golden sunflower seeds into a wheelbarrow, one seed bigger than the gardener carrying it / a tiny gardener asleep inside a sunflower petal hammock as fireflies glow around the giant bloom at dusk], one scene per video, ultra-detailed petals, soil and morning light, warm cheerful mood, gentle nature sounds, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt, keeping only one [SCENE] per video — one garden moment per clip keeps the miniature magic clean and watchable.",
+    "Start with the sprouting scene — the fast-motion seedling growing taller than the gardener is the clip viewers rewatch and share.",
+    "Keep the straw hats and the giant sunflower the same in every video so the tiny gardeners become recognisable characters viewers follow.",
+    "Add soft birdsong, gentle watering sounds and warm morning music — cozy garden sounds sell the miniature scale.",
+    "Post as a daily series — 'Tiny Garden 01, 02, 03' — numbered episodes turn one viral clip into a garden habit viewers return to."
+  ],
+  "tips": [
+    "Hook rule: the giant flower first, never a slow soil pan — a sunflower towering over a tiny gardener stops the TikTok scroll instantly.",
+    "Caption trick: 'Wait for the bee at the top' — a promised tiny adventure keeps viewers watching to the end.",
+    "Scale rule: keep the gardeners tiny against huge petals and dew drops — the miniature scale is the whole charm, so never zoom in so close the garden looks normal."
+  ],
+  "tags": [
+    "tiktok",
+    "creator-niche",
+    "garden",
+    "miniature",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "paper-boat-regatta-veo3",
+  "title": "Paper Boat Regatta — Veo 3 Prompt for Satisfying TikTok & YouTube Shorts",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Tiny paper boats race down a sparkling stream, dodging leaves and rapids — a Veo 3 prompt for satisfying TikTok and YouTube Shorts niches.",
+  "prompt": "Charming paper boat regatta racing down a sparkling garden stream, bright sunlight and rippling water, [SCENE: three colourful paper boats lined up at a leaf starting line, then surging forward as the current catches them / a little red paper boat dodging a fallen leaf and spinning through a tiny rapid, water splashing over its folded edge / a paper boat sailing under a miniature wooden bridge as a ladybug watches from the bank / the winning paper boat crossing a flower-petal finish line as the others drift in behind it], one scene per video, ultra-detailed water sparkle and paper folds, bright cheerful mood, gentle stream sounds, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt, keeping only one [SCENE] per video — one race moment per clip keeps the satisfying flow intact.",
+    "Start with the starting-line surge — three boats catching the current at once is the clip viewers rewatch and share.",
+    "Keep the same three boat colours in every video so viewers pick a favourite boat and follow the whole regatta.",
+    "Add gentle stream sounds and a soft splash on each rapid — water sounds turn a pretty clip into a satisfying one viewers save.",
+    "Post as a race series — 'Regatta 01, 02, 03' — numbered races turn one viral clip into a weekly contest viewers return for."
+  ],
+  "tips": [
+    "Hook rule: the boats surging forward first, never a still stream — motion in the first second stops the TikTok scroll instantly.",
+    "Caption trick: 'Which boat wins? Comment red, blue or yellow' — a pick-a-winner question drives comments and shares.",
+    "Colour rule: keep the boats bright red, blue and yellow against green banks — the colour pop is the whole visual, so never mute it with dull light."
+  ],
+  "tags": [
+    "tiktok",
+    "youtube",
+    "creator-niche",
+    "satisfying",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "rubber-duck-detective-agency-kling",
+  "title": "Rubber Duck Detective Agency — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A tiny rubber duck detective solves bathtub mysteries with a magnifying glass and a very serious face — a Kling prompt for viral TikTok comedy niches.",
+  "prompt": "Hilarious rubber duck detective agency solving tiny bathtub mysteries, bright bubbly water and warm bathroom light, [CASE: Detective Ducky in a tiny trench coat examining a missing soap bar with a magnifying glass as bubbles float by / the duck detective interrogating a squeaky toy frog under a dripping tap, the frog looking very nervous / a dramatic slow-motion chase as the duck detective paddles after a runaway toy boat across the tub / the big reveal — the missing rubber ring was under the duck's own wing all along, and the whole tub erupts in bubbles], one case per video, ultra-detailed rubber texture, bubbles and splashes, playful detective-movie mood, funny squeaks and splashes, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Kling and paste the prompt, keeping only one [CASE] per video — one tiny mystery per clip keeps the comedy punchy and rewatchable.",
+    "Start with the interrogation scene — a nervous toy frog under a dripping tap is the clip viewers share instantly.",
+    "Keep the trench coat, the magnifying glass and the same yellow duck in every video so the detective becomes a character viewers follow.",
+    "Add dramatic detective music with a silly squeak on every reveal — the serious-music-versus-silly-duck contrast is the whole joke.",
+    "Post as a case series — 'Case 01, 02, 03' — numbered mysteries turn one viral clip into a comedy habit viewers return to."
+  ],
+  "tips": [
+    "Hook rule: the serious detective face first, never an empty tub — a duck in a trench coat stops the TikTok scroll instantly.",
+    "Caption trick: 'The frog did it. Or did he?' — a mystery question keeps viewers watching to the reveal.",
+    "Contrast rule: keep the music dramatic and the duck ridiculous — the joke lives in the gap between the two, so never make the music silly too."
+  ],
+  "tags": [
+    "tiktok",
+    "creator-niche",
+    "comedy",
+    "animals",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "lost-umbrella-journey-home-sora",
+  "title": "The Lost Umbrella's Journey Home — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A little red umbrella blown away in a storm travels through a rainy city to find its owner again — a Sora prompt for emotional faceless YouTube story niches.",
+  "prompt": "Emotional story of a little red umbrella lost in a rainy city, cinematic rain, neon reflections and warm streetlight, [CHAPTER: the red umbrella torn from its owner's hand by a gust of wind, tumbling end over end down a wet street / the umbrella sheltering a shivering stray kitten under a park bench as the rain pours down / the umbrella floating down a rain-swollen gutter stream, past glowing shop windows, toward the old bridge / the reunion — the umbrella lands gently at its owner's doorstep at dawn, and a small hand picks it up again], one chapter per video, ultra-detailed rain, reflections and wet pavement, heartfelt cinematic mood, gentle piano and rain sounds, 9:16 vertical, 10 seconds, no on-screen text",
+  "howto": [
+    "Open Sora and paste the prompt, keeping only one [CHAPTER] per video — one journey beat per clip keeps the emotional story clean and bingeable.",
+    "Start with the wind scene — the umbrella torn away in the storm is the hook viewers cannot scroll past.",
+    "Keep the same little red umbrella in every video so viewers recognise it instantly and care about its journey.",
+    "Add gentle piano and real rain sounds — the sound of rain against the umbrella is what makes the story feel real.",
+    "Post as a story series — 'Chapter 01, 02, 03' — numbered chapters turn one viral clip into a story viewers must finish."
+  ],
+  "tips": [
+    "Hook rule: the umbrella flying away first, never a calm street — loss in the first second stops the scroll instantly.",
+    "Caption trick: 'Will it find its way home?' — an open question keeps viewers watching to the final chapter.",
+    "Colour rule: keep the umbrella bright red against blue-grey rain — the red-versus-grey contrast is the whole visual, so never let the umbrella blend into the background."
+  ],
+  "tags": [
+    "youtube",
+    "creator-niche",
+    "story",
+    "emotional",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "living-mosaic-tile-mural-runway",
+  "title": "Living Mosaic Tile Mural — Runway Prompt for Viral Instagram Art Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "A mosaic tile mural ripples to life — tiles shift, swim and bloom into a moving scene — a Runway prompt for viral Instagram art niches.",
+  "prompt": "Mesmerizing living mosaic tile mural coming alive, glossy ceramic tiles and rich jewel colours, [MURAL: a tiled koi fish that suddenly swims across the wall, its scales rippling tile by tile / a mosaic sunflower that slowly blooms open, golden tiles folding outward like real petals / a tiled ocean wave that rolls across the mural and crashes into sparkling tile foam / a mosaic phoenix that bursts from the wall in a swirl of red and gold tiles, then settles back into the pattern], one mural per video, ultra-detailed tile texture, grout lines and glossy reflections, magical art-gallery mood, soft ambient music, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Runway and paste the prompt, keeping only one [MURAL] per video — one living artwork per clip keeps the magic focused and rewatchable.",
+    "Start with the koi fish — a tiled fish swimming across a wall is the clip viewers save and share instantly.",
+    "Keep the same wall, the same grout style and the same jewel palette in every video so the murals feel like one gallery viewers follow.",
+    "Add soft ambient music and a gentle tile-click sound as the pieces move — the sound of tiles shifting sells the impossible.",
+    "Post as a gallery series — 'Mural 01, 02, 03' — numbered artworks turn one viral Reel into an art feed viewers return to."
+  ],
+  "tips": [
+    "Hook rule: the first tile moving first, never a still wall — motion in the first second stops the Instagram scroll instantly.",
+    "Caption trick: 'Which mural should come alive next?' — a choice question drives comments and saves.",
+    "Palette rule: keep the jewel colours rich and the grout dark — the contrast makes every tile pop, so never wash the mural out with flat light."
+  ],
+  "tags": [
+    "instagram",
+    "creator-niche",
+    "art",
+    "mosaic",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "honeycomb-drip-macro-flow",
+  "title": "Honeycomb Drip Macro — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Golden honey drips in slow motion through glowing honeycomb, drop by drop — a Google Flow prompt for satisfying Facebook Reels niches.",
+  "prompt": "Satisfying golden honey dripping through glowing honeycomb in extreme macro, warm amber light and slow-motion detail, [SHOT: a thick golden honey drop stretching slowly from a honeycomb cell, catching the light like liquid amber / honey pouring in a slow golden ribbon over a stack of honeycomb, pooling and glistening / a honey dipper lifting a slow spiral of honey that stretches, drips and folds back on itself / a single bee landing gently on the honeycomb as a fresh drop of honey rolls down beside it], one shot per video, ultra-detailed honey texture, bubbles and golden light, deeply satisfying mood, soft sticky sounds and gentle music, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Google Flow and paste the prompt, keeping only one [SHOT] per video — one honey moment per clip keeps the satisfying loop clean.",
+    "Start with the stretching drop — a golden drop pulling slowly from the comb is the clip viewers watch on loop.",
+    "Keep the same warm amber light and the same honeycomb in every video so the series feels like one golden world viewers return to.",
+    "Add soft sticky honey sounds and gentle music — the slow drip sound is half the satisfaction, so never mute it.",
+    "Post as a series — 'Golden Drips 01, 02, 03' — numbered satisfying clips turn one viral Reel into a daily calm habit."
+  ],
+  "tips": [
+    "Hook rule: the golden drop stretching first, never a still comb — slow golden motion stops the Facebook scroll instantly.",
+    "Caption trick: 'Sound on for this one' — a sound prompt makes viewers unmute, and unmuted views rank higher.",
+    "Light rule: keep the honey backlit and golden — the glow inside the drop is the whole visual, so never shoot it in flat front light."
+  ],
+  "tags": [
+    "facebook",
+    "creator-niche",
+    "satisfying",
+    "macro",
+    "faceless"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "fantasy-tea-party-illustrations-midjourney",
+  "title": "Fantasy Tea Party Illustration Pack — Midjourney Prompt for Instagram Storybook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Whimsical fantasy tea party illustrations — a fox in a waistcoat pouring tea, a mouse in a top hat, a garden of talking teapots — a Midjourney prompt pack for Instagram storybook pages.",
+  "prompt": "Whimsical fantasy tea party illustration, storybook watercolour style, soft morning light and pastel colours, [SCENE: a dapper fox in a velvet waistcoat pouring tea from a golden teapot for a tiny mouse in a top hat / a garden tea table where teapots have tiny smiling faces and steam curls into butterfly shapes / a little hedgehog baker serving strawberry tarts on a mossy table under glowing lanterns / a rabbit magician pulling a sugar cube from behind a teacup as the whole tea party gasps], one scene per image, rich storybook detail, warm inviting colours, charming and joyful, --ar 4:5 --style raw",
+  "howto": [
+    "Open Midjourney and paste the prompt, keeping only one [SCENE] per image — one tea party moment per illustration keeps the storybook world clean.",
+    "Start with the fox pouring tea — a dapper fox and a tiny mouse is the image viewers save and share instantly.",
+    "Keep the same pastel palette, the same golden teapot and the same watercolour style in every image so the tea party feels like one book viewers follow.",
+    "Upscale your best result, then vary the teapot or the guest for a second version — small variations double your post supply.",
+    "Post as a storybook series — 'Tea Party 01, 02, 03' — numbered illustrations turn one viral image into a feed viewers return to."
+  ],
+  "tips": [
+    "Hook rule: the fox pouring tea first, never an empty table — a character in action stops the Instagram scroll instantly.",
+    "Caption trick: 'You're invited — pull up a chair' — an invitation line makes viewers comment and tag a friend.",
+    "Style rule: keep the watercolour soft and the colours pastel — the gentle storybook look is the whole charm, so never push it into harsh photorealism."
+  ],
+  "tags": [
+    "instagram",
+    "creator-niche",
+    "illustration",
+    "storybook",
+    "fantasy"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "spring-niche-early-bird-chatgpt",
+  "title": "Spring Niche Early-Bird Finder — ChatGPT Prompt for 2027 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Find spring 2027 creator niches before they peak — garden, outdoor, renewal and fresh-start channels nobody owns yet — a ChatGPT niche-discovery prompt for YouTube, TikTok, Facebook and Instagram.",
+  "prompt": "Act as a creator-niche researcher for spring 2027. I want to launch a faceless channel on [PLATFORM: YouTube / TikTok / Facebook / Instagram] before the spring rush. Give me 10 spring niches that are rising but not yet crowded, and for each niche: (1) the exact audience (who watches and why), (2) proof it is rising (a search trend, a seasonal spike or a format that is spreading), (3) 5 video ideas that fit the niche in its first 30 days, (4) why a brand-new channel can still win here in spring 2027. Focus on spring angles: gardens and growing, outdoor and adventure, cleaning and fresh starts, weddings and celebrations, travel and road trips, fitness restarts. Rank the 10 niches by opportunity score and tell me the single best one to start this week and why.",
+  "howto": [
+    "Open ChatGPT and paste the prompt, picking one [PLATFORM] per run — one platform per answer keeps the niche list focused and usable.",
+    "Run it once for YouTube and once for TikTok, then compare — the same spring niche can be crowded on one platform and empty on the other.",
+    "Ask ChatGPT to back each niche with a real signal — a Google Trends comparison, a seasonal search spike or a format you can verify yourself — never launch on a vibe alone.",
+    "Take the top-ranked niche and ask for a 30-day content calendar for it before you commit — a niche with no 30 videos is a hobby, not a channel.",
+    "Re-run the prompt every month through winter — spring niches shift fast, and the early bird is the one who checks twice."
+  ],
+  "tips": [
+    "Platform rule: one platform per run — a niche that is empty on TikTok can be saturated on YouTube, and a blended answer hides that.",
+    "Proof rule: demand a verifiable signal for every niche — if ChatGPT cannot name a trend, a season or a format, drop the niche.",
+    "Timing rule: spring niches are won in winter — start the channel in November or December, so the algorithm already trusts you when spring searches spike."
+  ],
+  "tags": [
+    "youtube",
+    "tiktok",
+    "facebook",
+    "instagram",
+    "creator-niche",
+    "niche-discovery"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "niche-trend-lifespan-predictor-gemini",
+  "title": "Niche Trend Lifespan Predictor — Gemini Prompt to Tell If a Niche Lasts 30 Days or 3 Years",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Before you commit to a niche, ask Gemini how long it will live — a lifespan score for any creator niche, so you build a channel, not a 30-day fad — for YouTube, TikTok, Facebook and Instagram.",
+  "prompt": "Act as a trend analyst for faceless creator channels. I am considering this niche: [NICHE: e.g. tiny-garden videos / rubber-duck comedy / mosaic art Reels]. Score its lifespan on a 0-100 scale and tell me whether it is a 30-day fad, a 12-month wave or a 3-year evergreen niche. Judge it on 6 tests: (1) search demand — is anyone actually searching for this in 2026-2027, (2) supply — how many channels already own it, (3) repeatability — can I make 100 videos without repeating myself, (4) monetization — ads, affiliates, products or sponsorships that fit, (5) platform fit — which of YouTube, TikTok, Facebook and Instagram fits best and why, (6) decay risk — what single event could kill this niche overnight. Finish with a clear verdict: BUILD IT, WAIT, or SKIP — and the one change that would make a SKIP niche worth building.",
+  "howto": [
+    "Open Gemini and paste the prompt, filling in one [NICHE] per run — one niche per verdict keeps the analysis honest.",
+    "Test 3 niches back to back and compare the lifespan scores — the winner is rarely the one you loved most, and that is the point.",
+    "Ask Gemini to name the decay risk in plain words — if one platform change or one season can kill the niche, you need a backup niche ready.",
+    "For any niche scored BUILD IT, immediately ask for a 90-day video plan — a verdict without a plan is just an opinion.",
+    "Re-score your niche every quarter — a 3-year niche can decay in 6 months if the format floods, and early warning is free."
+  ],
+  "tips": [
+    "Repeatability rule: if you cannot name 100 video ideas for the niche, it is a fad — evergreen niches are bottomless by definition.",
+    "Decay rule: always read the decay risk first — a niche with a single point of failure is a gamble, not a business.",
+    "Platform rule: launch on the platform Gemini ranks first, and port to the others only after 30 videos — spreading thin kills new channels."
+  ],
+  "tags": [
+    "youtube",
+    "tiktok",
+    "facebook",
+    "instagram",
+    "creator-niche",
+    "niche-discovery"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-audience-survey-machine-claude",
+  "title": "Niche Audience Survey Machine — Claude Prompt to Ask Your Audience What to Make Next",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Beginner",
+  "desc": "Stop guessing what your niche wants — a Claude prompt that writes the exact survey, poll and comment questions that tell you what to make next, for any YouTube, TikTok, Facebook or Instagram channel.",
+  "prompt": "Act as an audience-research strategist for a faceless creator channel in this niche: [NICHE: e.g. miniature garden videos / cozy story channels / satisfying macro Reels] on [PLATFORM: YouTube / TikTok / Facebook / Instagram]. My channel has [SIZE: under 1,000 followers / 1,000-10,000 / 10,000+]. Write me a complete audience survey system: (1) a 5-question poll I can post this week — questions that reveal what my audience wants next, not what they merely like, (2) 10 comment-bait questions for my next 10 videos, each designed to pull real answers from viewers, (3) a 3-question DM/community-post script for my most loyal viewers, (4) a simple scoring sheet — how to read the answers and turn them into my next 30 video ideas, ranked by demand. Keep every question short, fun and in plain everyday English. End with the single most important question I should ask this week and why.",
+  "howto": [
+    "Open Claude and paste the prompt, filling in your [NICHE], [PLATFORM] and [SIZE] — the survey only works when it matches your real audience.",
+    "Post the 5-question poll first, before you write another video — audience answers beat creator guesses every single time.",
+    "Read the answers with the scoring sheet, not your gut — the video idea with the most demand wins, even if it is not your favourite.",
+    "Turn the top 3 answers into your next 3 videos within 7 days, and tell the audience 'you asked for this' — viewers who see their idea made become loyal fans.",
+    "Re-run the survey every month — audiences change their minds as they grow, and a monthly check keeps your channel ahead of them."
+  ],
+  "tips": [
+    "Question rule: ask what they want NEXT, not what they liked — 'what should I make next?' beats 'did you like this?' every time.",
+    "Size rule: under 1,000 followers, ask in comments — polls need an audience to work, and comments work from day one.",
+    "Loop rule: always close the loop — make the video the audience asked for and credit them, or they will stop answering."
+  ],
+  "tags": [
+    "youtube",
+    "tiktok",
+    "facebook",
+    "instagram",
+    "creator-niche",
+    "audience-research"
+  ],
+  "trending": true,
+  "popularity": 88
 }
 ];
 
