@@ -12810,6 +12810,105 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 88
+},
+{
+  "id": "niche-spotlight-ai-tiktok-shop-finds",
+  "title": "AI TikTok Shop Finds (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI TikTok Shop Finds — viral product-find videos: one clever gadget per video, hands-only demos, the problem solved in 3 quick shots, and a TikTok Shop link in bio. Is niche ki videos 187.6M / 154.2M / 128.9M / 96.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-tiktok-shop-finds.jpg",
+  "prompt": "Viral TikTok Shop product-find video, bright studio lighting and satisfying close-ups, [PRODUCT: a mini projector that turns any wall into a cinema / a rotating phone stand that follows you while you cook / a smart mug that keeps coffee hot for hours / a levitating speaker that floats and spins], the product solving a relatable everyday problem in 3 quick demos, hands-only shots, excited reaction moments, energetic music, 9:16 vertical, 30-60 seconds, no on-screen text",
+  "howto": [
+    "Generate one product in Veo 3 per video, swapping only [PRODUCT] — one gadget, one problem, one demo per video keeps the find clean; never cram five products into one clip.",
+    "Script each video in ChatGPT as 3 beats: the problem (a relatable everyday annoyance in 2 seconds) + the demo (the gadget solving it in 3 quick shots) + the reaction (a genuine wow moment) — finds win on the 'I need this' feeling, not on specs.",
+    "Open on the problem in the first 2 seconds (a phone falling while you cook, cold coffee again) — pain stops the TikTok scroll; a product name does not.",
+    "Keep the shots hands-only and the cuts fast — a new angle every 2-3 seconds — with a satisfying sound on every demo; slow unboxings lose the scroll.",
+    "Post 2-3 finds a day as a series — 'TikTok Made Me Buy It 01, 02, 03' — and put the TikTok Shop link in your bio the same day; finds convert while the video is hot, not a week later."
+  ],
+  "tips": [
+    "Hook rule: the problem first, never the product ('Your phone keeps falling while you cook?' hooks; 'This is a phone stand' does not).",
+    "Money trick: every video needs a TikTok Shop link in bio the same day — TikTok Shop affiliate commissions run 5-20% per sale, and finds convert while the video is hot.",
+    "Demo rule: show the product working 3 times in 3 different ways — one demo is an ad, three demos is proof, and proof is what makes people tap buy."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "tiktok-shop",
+    "product-finds",
+    "gadgets",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-gaming-analysis-videos",
+  "title": "AI Gaming Analysis & Esports Stories (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Gaming Analysis & Esports Stories — cinematic breakdowns of legendary comebacks, hidden game lore and impossible matches, told like sports documentaries. Is niche ki videos 58.4M / 44.7M / 32.9M / 24.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-gaming-analysis-videos.jpg",
+  "prompt": "Cinematic gaming analysis video, epic game-world visuals and dramatic match footage, [STORY: the greatest comeback in esports history — a team down 0-2 wins the final in a miracle round / the untold hidden lore of a legendary game character fans never noticed / how a nobody player beat the world champion in one impossible match / the rise and fall of a gaming empire, from garage team to global fame], expert breakdown with slow-motion replays, energetic narration, dramatic music, 16:9, 8-12 minutes, no on-screen text",
+  "howto": [
+    "Generate one story in Veo 3 per video, swapping only [STORY] — one comeback, one legend, one match per video keeps the analysis clean; never mix two games in one video.",
+    "Script each video in ChatGPT as 3 beats: the stakes (what was on the line) + the turning point (the one play that changed everything, shown in slow motion) + the legacy (why fans still talk about it) — gaming wins on drama; the graphics are just the stage.",
+    "Open on the impossible moment in the first 5 seconds (the 1v5 clutch, the final-second goal) — the play stops the YouTube scroll; a game introduction does not.",
+    "Keep the narration calm and expert, like a sports documentary — explain WHY the play worked, not just what happened; analysis is what separates this from raw gameplay clips.",
+    "Post as a series — 'Legendary Matches 01, 02, 03' — with a 'Part 2 tomorrow' tease; numbered stories turn one viral video into a daily habit gamers return to finish."
+  ],
+  "tips": [
+    "Hook rule: the impossible play first, never the setup ('He won a 1v5 with 1 HP' hooks; 'This is a video about a game' does not).",
+    "Title trick: use the stakes as the title — 'The 1v5 That Broke Esports' beats 'Gaming Analysis Episode 1' every time.",
+    "Depth rule: one match, one lesson — explain the single decision that won the game; a video that teaches one thing gets saved, shared and rewatched."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "gaming",
+    "esports",
+    "analysis",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-english-learning-podcasts",
+  "title": "AI English-Learning Podcasts (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI English-Learning Podcasts — cozy podcast-style Reels that teach real English through stories, phrases and the shadowing trick, in slow clear speech. Is niche ki videos 164.3M / 138.7M / 112.5M / 87.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-english-learning-podcasts.jpg",
+  "prompt": "Warm English-learning podcast Reel, cozy studio with two microphones and soft golden light, [LESSON: 5 everyday English phrases natives actually use (and what they really mean) / how to think in English in 7 days — the shadowing trick / the 10 most confusing English words, explained with funny examples / a 60-second story in slow, clear English with a surprise ending], a friendly host voice, clear slow pronunciation, natural conversation, gentle background music, 9:16 vertical, 45-60 seconds, no on-screen text",
+  "howto": [
+    "Generate one lesson in Veo 3 per Reel, swapping only [LESSON] — one phrase set, one trick, one story per Reel keeps the lesson clean; never cram a whole course into one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the hook (the English mistake everyone makes) + the lesson (one clear example, spoken slowly, repeated twice) + the practice (one line for the viewer to repeat out loud) — learning wins on clarity; a fast lecture does not.",
+    "Open on the relatable mistake in the first 2 seconds ('Stop saying I am agree — say I agree') — the correction stops the Facebook scroll; a grammar rule does not.",
+    "Keep the voiceover slow, warm and clear — big readable visuals, no fast cuts — the audience is learning a language; a rushed native-speed voiceover kills the lesson.",
+    "Post every morning as a series — 'English in 60 Seconds 01, 02, 03' — a daily morning slot turns learners into a habit, and habits are the most loyal audience on Facebook."
+  ],
+  "tips": [
+    "Hook rule: the mistake first, never the rule ('Stop saying I am agree' hooks; 'Today we learn grammar' does not).",
+    "Share trick: end with 'Send this to a friend learning English' — a share to a learner pushes the Reel further than any hashtag, and Facebook shares are the strongest reach signal.",
+    "Practice rule: give viewers one line to repeat out loud at the end — a Reel people speak along with gets rewatched, saved and shared; a Reel people only watch gets scrolled past."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "english-learning",
+    "podcast",
+    "language",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
 }
 ];
 
