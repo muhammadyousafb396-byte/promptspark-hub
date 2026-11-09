@@ -13139,8 +13139,105 @@ const PROMPTS = [
   "tags": ["brand deals", "sponsorship", "monetization", "claude", "youtube", "creator-niche"],
   "trending": false,
   "popularity": 86
-}
-];
+},
+{
+  "id": "niche-spotlight-ai-animal-facts-reels",
+  "title": "AI Cartoon Animal Facts (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Cartoon Animal Facts — cute cartoon animals in clothes deliver one mind-blowing checkable fact per Reel: an octopus doctor with three hearts, a penguin that toboggans on its belly, a sloth that holds its breath longer than a dolphin. Is niche ki videos 126.6M / 98.4M / 74.2M / 52.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-animal-facts-reels.jpg",
+  "prompt": "Cute cartoon animal fact Reel, bright playful 3D animation style, [ANIMAL + FACT: a cheerful octopus in a tiny doctor's coat explaining it has three hearts / a happy penguin in a yellow raincoat sliding on its belly, the fastest bird swimmer / a funny sloth in a green hoodie hanging upside down, holding its breath longer than a dolphin / a proud axolotl in a graduation cap that can regrow its own brain], the animal acting out the fact in a colorful scene, one surprising fact per video, expressive faces, joyful music, 9:16 vertical, 15-30 seconds, no on-screen text",
+  "howto": [
+    "Generate one animal in Veo 3 per Reel, swapping only [ANIMAL + FACT] — one animal, one fact, one reaction shot per Reel keeps the lesson clean; never cram five facts into one clip.",
+    "Script each Reel in ChatGPT as 3 beats: the cute setup (the animal in its funny outfit doing something ordinary) + the fact (one checkable jaw-dropper, delivered in one line) + the held reaction (the animal's shocked face for 2 seconds) — facts win on the 'wait, really?' moment, not on the lecture.",
+    "Open on the animal's face in the first 2 seconds (the octopus in a doctor's coat, the sloth in a hoodie) — cute stops the Instagram scroll; a fact on a plain background does not.",
+    "Keep every beat 2-3 seconds with a new camera angle each time — a cartoon animal, a close-up of the fact in action, then the reaction face; slow static shots lose the scroll.",
+    "Post as a daily series — 'Animal Fact 01, 02, 03' — with 'Tag a friend who didn't know this' in the caption; one fact a day turns followers into a habit, and tagged friends are free reach."
+  ],
+  "tips": [
+    "Hook rule: the cute animal first, never the fact ('This octopus is a doctor' hooks; 'Did you know octopuses have three hearts?' does not).",
+    "Caption trick: end with 'Tag a friend who didn't know this' — a tag sends the Reel to a brand-new viewer, and Instagram counts every tag as a share signal.",
+    "Fact rule: one fact per Reel, and it must be checkable in 5 seconds of Googling — a fact people verify in the comments becomes a debate, and debates push reach."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "animal-facts",
+    "cartoon-animals",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-sports-highlights-analysis",
+  "title": "AI Sports Highlights & Analysis (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Sports Highlights & Analysis — legendary comebacks, impossible plays and hidden game stories told like a sports documentary: the 1v5 clutch, the last-second goal, the underdog who beat the champion. Is niche ki videos 178.3M / 146.7M / 119.5M / 92.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-sports-highlights-analysis.jpg",
+  "prompt": "Cinematic sports highlight analysis video, dramatic stadium visuals and slow-motion replays, [MOMENT: the greatest comeback in football history — a team down 3-0 wins the final in extra time / the buzzer-beater dunk that broke a 20-year curse / the underdog cricketer who hit six sixes in one over / the boxer who came back from the canvas to win by knockout in the final round], expert breakdown of the single decision that won it, energetic narration, roaring crowd, dramatic music, 9:16 vertical, 60-90 seconds, no on-screen text",
+  "howto": [
+    "Generate one moment in Veo 3 per video, swapping only [MOMENT] — one comeback, one play, one match per video keeps the analysis clean; never mix two sports in one video.",
+    "Script each video in ChatGPT as 3 beats: the stakes (what was on the line) + the impossible moment (the play itself, in slow motion) + the legacy (why fans still talk about it years later) — sports wins on drama; the footage is just the stage.",
+    "Open on the impossible moment in the first 3 seconds (the bicycle kick, the buzzer-beater dunk) — the play stops the TikTok scroll; a team introduction does not.",
+    "Keep the narration calm and expert, like a sports documentary — explain WHY the play worked, not just what happened; analysis is what separates this from raw highlight clips.",
+    "Post as a numbered series — 'Legendary Moments 01, 02, 03' — with a 'Part 2 tomorrow' tease; numbered moments turn one viral video into a daily habit sports fans return to finish."
+  ],
+  "tips": [
+    "Hook rule: the impossible play first, never the setup ('He won a 1v5 with 1 HP' hooks; 'This is a video about football' does not).",
+    "Title trick: use the stakes as the title — 'The Goal That Broke a 20-Year Curse' beats 'Sports Highlights Episode 1' every time.",
+    "Debate rule: end with one spicy question ('Was this luck or genius?') — sports fans argue in the comments, and comments are TikTok's strongest retention signal."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "sports",
+    "highlights",
+    "analysis",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-spotlight-ai-boring-history-sleep-docs",
+  "title": "AI Boring History Sleep Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "AI Boring History Sleep Documentaries — calm, slow, six-hour-style history documentaries made to fall asleep to: ancient Rome at dusk, medieval castles in the mist, Egyptian temples by candlelight. Is niche ki videos 14.2M / 9.8M / 7.4M / 5.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-boring-history-sleep-docs.jpg",
+  "prompt": "Calm cinematic sleep documentary, slow drifting camera through a historic place at dusk, [ERA + PLACE: the Roman forum at golden hour, marble columns and soft mist / a medieval castle on a misty hill, warm windows glowing at twilight / an ancient Egyptian temple by candlelight, hieroglyph walls in warm light / a quiet old library with candles and rain on the window], slow warm narration telling one gentle story at a time, soft ambient music, long unhurried shots, 16:9, 30-60 minutes, no on-screen text",
+  "howto": [
+    "Generate one era in Veo 3 per video, swapping only [ERA + PLACE] — one civilization, one slow walkthrough per video keeps the mood clean; never jump between three eras in one documentary.",
+    "Script each video in ChatGPT as 3 beats: the calm arrival (a slow pan into the place at dusk) + the gentle story (one quiet fact at a time, no shouting, no cliffhangers) + the soft fade (the camera drifts away as the music lowers) — sleep docs win on calm; excitement wakes people up.",
+    "Open on the place itself in the first 10 seconds (the Roman forum at dusk, the misty castle) — the scenery is the hook; a narrator introduction is not.",
+    "Keep the voiceover slow, warm and low — one fact every 30 seconds, long pauses, no fast cuts — the audience is falling asleep; a rushed voiceover kills the whole point.",
+    "Post long-form (30+ minutes) with chapters — 'Rome at Night', 'The Castle in the Mist' — and let the algorithm find the sleep audience; one long video earns more watch time than twenty Shorts."
+  ],
+  "tips": [
+    "Hook rule: the place first, never the narrator ('The Roman forum at dusk' hooks; 'Welcome back to my channel' does not).",
+    "Title trick: use the sleep promise as the title — 'Boring History for Sleep: Ancient Rome' beats 'History Documentary Episode 1' — the audience searches for exactly that.",
+    "Calm rule: one fact every 30 seconds, long pauses between sentences — a sleep documentary that rushes is just a normal documentary, and normal documentaries don't get 6-hour watch sessions."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "history",
+    "sleep",
+    "documentary",
+    "faceless",
+    "creator-niche"
+  ],
+  "trending": true,
+  "popularity": 89
+},];
 
 if (typeof module !== "undefined") {
   module.exports = { CATEGORIES, PROMPTS };
