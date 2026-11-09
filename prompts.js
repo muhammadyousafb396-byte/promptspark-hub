@@ -12909,6 +12909,236 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "rainy-window-coffee-shop-veo3",
+  "title": "Rainy Window Coffee Shop — Veo 3 Prompt for Cozy YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Rain streaks down a café window while latte art steams beside a glowing lamp — the coziest autumn Shorts loop faceless creators use to grow calm channels fast.",
+  "prompt": "Cozy coffee shop window on a rainy autumn evening, raindrops racing down the glass, warm golden lamp glow inside, a ceramic cup of latte with heart-shaped latte art steaming gently on a wooden table, blurred city lights and falling leaves outside, soft jazz mood, slow cinematic camera drift, shallow depth of field, photorealistic, ultra detailed, 9:16 vertical, 8 seconds, no people, no on-screen text",
+  "howto": [
+    "Open Veo 3 and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and pick the one with the clearest latte art and raindrop motion.",
+    "Loop the best clip twice for a 16-second Short and add soft rain sounds underneath.",
+    "Post as part of a cozy-autumn series with a calm hook in the first 2 seconds."
+  ],
+  "tips": [
+    "Swap 'latte art' for 'cinnamon roll' or 'open book' to spin a whole series from one prompt.",
+    "Post at 7-9pm local time — cozy content peaks when viewers are winding down."
+  ],
+  "tags": ["rainy day", "cozy", "coffee shop", "veo 3", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "autumn-leaves-timelapse-forest-veo3",
+  "title": "Autumn Leaves Time-Lapse Forest — Veo 3 Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A forest floor in fast-forward as golden, red and orange leaves swirl down and carpet the ground — pure satisfying autumn magic for TikTok.",
+  "prompt": "Time-lapse of a quiet forest path in peak autumn, golden red and orange leaves swirling down from the trees in fast motion, sunlight flickering through the canopy, leaves piling into a thick colorful carpet on the path, gentle breeze, smooth slow camera push-in, cinematic color grading, photorealistic, ultra detailed, 9:16 vertical, 8 seconds, no people, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt above for a 9:16 vertical generation.",
+    "Generate until the leaf fall looks dense and continuous, not patchy.",
+    "Chain two clips end to end for a 16-second satisfying loop.",
+    "Add a soft whoosh sound on each gust of leaves for extra watch time.",
+    "Caption it with a one-line autumn question to drive comments."
+  ],
+  "tips": [
+    "Pair this with a 'cozy autumn' playlist in your caption to catch seasonal search traffic.",
+    "Re-skin the same prompt for spring blossoms or winter snow to reuse the format all year."
+  ],
+  "tags": ["autumn", "timelapse", "nature", "veo 3", "tiktok", "creator-niche"],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "dancing-umbrella-rain-kling",
+  "title": "Dancing Umbrella in the Rain — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Intermediate",
+  "desc": "A cheerful red umbrella dances by itself through rainy puddles, splashing and spinning — a silly, joyful character clip built for TikTok comedy niches.",
+  "prompt": "A bright red umbrella with a smiling face dances by itself down a rainy city sidewalk at dusk, hopping over puddles, spinning in the rain, splashing water in slow motion, neon shop signs reflecting in the wet pavement, playful cartoon-realistic style, bouncy movement, joyful energy, smooth camera follow, 9:16 vertical, 5 seconds, no on-screen text",
+  "howto": [
+    "Open Kling and paste the prompt above for a 9:16 vertical clip.",
+    "Generate 3 variations and keep the one where the umbrella's hop timing feels funniest.",
+    "Add a bouncy cartoon sound effect on each hop for comedy timing.",
+    "Post as episode one of a 'things that dance' series to build returning viewers.",
+    "Reply to comments with a poll asking what should dance next."
+  ],
+  "tips": [
+    "Keep the umbrella's face simple — one big smile reads instantly on a phone screen.",
+    "Rainy-day comedy clips spike in autumn, so post while the season is trending."
+  ],
+  "tags": ["comedy", "rain", "umbrella", "kling", "tiktok", "creator-niche"],
+  "trending": false,
+  "popularity": 79
+},
+{
+  "id": "last-bookshop-midnight-sora",
+  "title": "The Last Bookshop at Midnight — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Advanced",
+  "desc": "At midnight the last bookshop on the street glows while its books rearrange themselves — a mysterious story hook for faceless YouTube channels.",
+  "prompt": "A tiny old bookshop glowing warmly at midnight on a quiet rainy street, shelves of ancient books, one book floats off the shelf and opens by itself, golden letters drift up from its pages and swirl around a reading lamp, a cat sleeps curled on the counter, moody cinematic lighting, slow camera push through the doorway, mysterious storybook atmosphere, photorealistic, ultra detailed, 16:9, 10 seconds, no on-screen text",
+  "howto": [
+    "Open Sora and paste the prompt above for a 16:9 cinematic generation.",
+    "Generate several takes and pick the one where the floating book reads clearly.",
+    "Narrate a 30-second mystery hook over the clip in a calm storyteller voice.",
+    "End the video on the floating letters with a question to drive comments.",
+    "Build the series as 'one book, one secret' — a new bookshop mystery every week."
+  ],
+  "tips": [
+    "Faceless story niches grow on open loops — never answer the mystery in the same video.",
+    "Keep the cat in every episode; returning viewers bond with a mascot fast."
+  ],
+  "tags": ["bookshop", "mystery", "story", "sora", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "autumn-leaf-morphing-art-runway",
+  "title": "Autumn Leaf Morphing Art — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "One autumn leaf morphs into a fox, then a pumpkin, then a lantern — a mesmerizing shape-shifting Reel made for Instagram art niches.",
+  "prompt": "A single orange autumn leaf floating against a soft cream background slowly morphs into a fox, then into a carved pumpkin, then into a glowing paper lantern, each transformation smooth and magical with tiny golden particles, elegant minimal art style, smooth camera, warm autumn palette, 9:16 vertical, 6 seconds, no on-screen text",
+  "howto": [
+    "Open Runway and paste the prompt above for a 9:16 vertical generation.",
+    "Generate until all three morphs read clearly in one smooth pass.",
+    "Loop the clip forward and back once for a hypnotic 12-second Reel.",
+    "Add a soft chime on each morph to mark the transformation beat.",
+    "Caption with 'which morph was your favorite?' to pull comments."
+  ],
+  "tips": [
+    "Morphing art Reels get saved a lot — saves push Instagram reach harder than likes.",
+    "Swap the leaf for a snowflake or flower to run the same viral format in any season."
+  ],
+  "tags": ["morphing", "autumn", "art", "runway", "instagram", "creator-niche"],
+  "trending": false,
+  "popularity": 81
+},
+{
+  "id": "hot-chocolate-steam-macro-flow",
+  "title": "Hot Chocolate Steam Macro — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Whipped cream melts into swirling hot chocolate in extreme macro — a slow, hypnotic comfort clip built for Facebook Reels.",
+  "prompt": "Extreme macro of a mug of hot chocolate, a cloud of whipped cream slowly melting and swirling into the dark chocolate, steam curling upward in soft light, a sprinkle of cocoa dust falling in slow motion, warm cozy kitchen bokeh in the background, hypnotic slow movement, rich warm colors, photorealistic, ultra detailed, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Google Flow and paste the prompt above for a 9:16 vertical clip.",
+    "Generate 2-3 takes and keep the one with the slowest, clearest cream swirl.",
+    "Add a soft crackling-fire sound underneath for cozy ASMR appeal.",
+    "Post in the evening when Facebook Reels viewers are relaxing at home.",
+    "Follow up the next day with a marshmallow version to start a comfort-drinks series."
+  ],
+  "tips": [
+    "Macro food clips win on texture — the clearer the swirl, the longer people watch.",
+    "Facebook shares spike on comfort content, so end with 'send this to someone who needs cocoa'."
+  ],
+  "tags": ["hot chocolate", "macro", "satisfying", "google flow", "facebook", "creator-niche"],
+  "trending": false,
+  "popularity": 80
+},
+{
+  "id": "cozy-autumn-reading-nook-midjourney",
+  "title": "Cozy Autumn Reading Nook Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A warm illustrated reading nook with stacked books, fairy lights and falling leaves outside — a cozy autumn image pack for book and lifestyle pages.",
+  "prompt": "Cozy autumn reading nook illustration, window seat piled with soft blankets and stacked books, warm fairy lights glowing, rain and orange leaves falling outside the window, a steaming mug of tea on the sill, a sleepy cat curled on a cushion, soft storybook watercolor style, warm amber and rust palette, inviting and peaceful, detailed, 4:5 vertical composition --ar 4:5 --style raw",
+  "howto": [
+    "Open Midjourney and paste the prompt above, keeping the --ar 4:5 flag for feed posts.",
+    "Generate a grid of 4 and upscale the coziest, clearest version.",
+    "Swap 'tea' for 'cocoa' and 'cat' for 'dog' to spin a matching set of 4 images.",
+    "Post one image a day as a carousel with a cozy autumn quote in the caption.",
+    "Use the same nook style for every post so your page builds a recognizable look."
+  ],
+  "tips": [
+    "Illustration packs grow pages fast because followers save them as phone wallpapers.",
+    "Keep the palette consistent across the pack — one warm palette becomes your page's signature."
+  ],
+  "tags": ["illustration", "reading nook", "autumn", "midjourney", "instagram", "creator-niche"],
+  "trending": false,
+  "popularity": 77
+},
+{
+  "id": "autumn-niche-gold-rush-chatgpt",
+  "title": "Autumn Niche Gold Rush Finder — ChatGPT Prompt for Late-2026 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Ask ChatGPT to hunt the untapped autumn and winter creator niches nobody is covering yet — with competition scores and first-video ideas for each.",
+  "prompt": "Act as a YouTube and TikTok niche researcher for late 2026. Find 10 untapped creator niches tied to autumn and winter that have high viewer demand but low competition. For each niche give: the niche name, the platform it fits best (YouTube, TikTok, Facebook or Instagram), why demand is rising right now, 3 example video ideas with hooks, a competition score out of 10, and whether it works faceless. Rank them by opportunity score. Skip generic niches like cooking or travel. Focus on specific, surprising angles a small creator could own in 30 days.",
+  "howto": [
+    "Open ChatGPT and paste the prompt above exactly as written.",
+    "Ask it to re-rank the list by 'easiest for a faceless beginner' if you are starting from zero.",
+    "Pick the top niche and ask for 20 video titles with hooks for it.",
+    "Check the top 5 search results for that niche on your platform before committing.",
+    "Commit to 10 videos in the niche before judging it — one video proves nothing."
+  ],
+  "tips": [
+    "Seasonal niches have a deadline — an autumn niche found in November must launch within days, not weeks.",
+    "A competition score of 4 or lower with rising demand is the sweet spot for new creators."
+  ],
+  "tags": ["niche discovery", "autumn", "creator growth", "chatgpt", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "rainy-day-content-calendar-gemini",
+  "title": "Viral Rainy-Day Content Calendar — Gemini Prompt for TikTok & Reels Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Turn one rainy week into 14 days of viral TikTok and Reels ideas — Gemini builds the full calendar with hooks, formats and posting times.",
+  "prompt": "Act as a short-form content strategist. Build a 14-day content calendar for a faceless creator in the cozy rainy-day niche on TikTok and Instagram Reels. For each day give: the video idea, the exact hook line for the first 2 seconds, the format (loop, story, satisfying macro, comedy), the best posting time, and one caption idea. Make days 1-3 easy wins, days 4-10 build a running series, and days 11-14 turn the best-performing idea into a 3-part finale. Keep every idea filmable with AI video tools only — no camera, no face. End with 3 backup ideas for days a video flops.",
+  "howto": [
+    "Open Gemini and paste the prompt above exactly as written.",
+    "Ask it to adjust the calendar to your real posting schedule if you post once a day or less.",
+    "Generate the first 3 days of clips with your video tool before the week starts.",
+    "Track which format wins by day 7 and ask Gemini to rebuild week 2 around it.",
+    "Save the calendar as a reusable template and re-run it every season."
+  ],
+  "tips": [
+    "A calendar only works if you batch — film or generate all 3 opening videos in one sitting.",
+    "Rainy-day content peaks on actual rainy days, so watch the weather forecast for your audience's region."
+  ],
+  "tags": ["content calendar", "rainy day", "planning", "gemini", "tiktok", "creator-niche"],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "niche-brand-deal-pitch-kit-claude",
+  "title": "Niche-to-Brand-Deal Pitch Kit — Claude Prompt to Turn a Small Channel Into Sponsorships",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Ask Claude to write your first brand pitch — the outreach email, media kit outline and rate card for a small niche channel that brands actually answer.",
+  "prompt": "Act as a creator-economy brand strategist. I run a small faceless channel in the [NICHE] niche with [SUBSCRIBERS] subscribers and [VIEWS] average views per video, on [PLATFORM]. Write me a complete first brand-deal pitch kit: 1) a short outreach email to a brand in my niche that sounds confident, not desperate, 2) a one-page media kit outline with the exact numbers brands care about, 3) a starter rate card for a 30-second mention, a dedicated video and a 3-video package, 4) a list of 10 brands in my niche most likely to say yes, and 5) three follow-up email templates for when they go quiet. Keep the tone professional and warm. No fake numbers — use only the figures I gave you.",
+  "howto": [
+    "Open Claude and paste the prompt above, replacing [NICHE], [SUBSCRIBERS], [VIEWS] and [PLATFORM] with your real numbers.",
+    "Ask Claude to tailor the brand list to your country if most of your audience is local.",
+    "Send 5 outreach emails a week — small channels win on volume and fit, not fame.",
+    "Track every reply in a simple sheet and follow up once after 5 days.",
+    "Raise your rate card by 20 percent after your first 3 paid deals."
+  ],
+  "tips": [
+    "Brands buy your audience's trust, not your subscriber count — lead with engagement and comments, not vanity numbers.",
+    "Never pitch a brand you would not genuinely use; one bad sponsor costs more trust than it pays."
+  ],
+  "tags": ["brand deals", "sponsorship", "monetization", "claude", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 86
 }
 ];
 
