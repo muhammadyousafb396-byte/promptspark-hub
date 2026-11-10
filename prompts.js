@@ -13237,7 +13237,238 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
-},];
+},
+{
+  "id": "underwater-coral-city-tour-veo3",
+  "title": "Underwater Coral City Tour — Veo 3 Prompt for Faceless YouTube Ocean Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A slow cinematic dive through a glowing coral city where tiny fish commute between neon anemone towers — the dreamy ocean loop faceless creators use to grow relaxing YouTube channels.",
+  "prompt": "Slow cinematic underwater tour through a vibrant coral reef city, glowing pink and orange corals shaped like tiny towers and bridges, schools of small blue and yellow fish drifting between them, sunbeams cutting down through turquoise water, a sea turtle gliding past in the distance, gentle floating particles, smooth slow camera push forward, dreamy color grading, photorealistic, ultra detailed, 16:9, 10 seconds, no people, no on-screen text",
+  "howto": [
+    "Open Veo 3 and start a new 16:9 video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the coral city reads clearly and the fish movement feels calm.",
+    "Chain two or three clips for a 30-second relaxing loop and add soft underwater ambience.",
+    "Post as part of an ocean-relaxation series with a calm hook in the first 3 seconds."
+  ],
+  "tips": [
+    "Swap 'coral city' for 'kelp forest' or 'deep-sea cave' to spin a whole ocean series from one prompt.",
+    "Relaxing ocean loops earn huge watch time — keep the camera slow and never cut mid-glide."
+  ],
+  "tags": ["ocean", "coral reef", "relaxing", "veo 3", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "miniature-candy-train-town-veo3",
+  "title": "Miniature Candy Train Town — Veo 3 Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A tiny toy train chugs through a town built entirely of candy — gumdrop houses, licorice rails and a chocolate bridge — pure satisfying sweetness for TikTok.",
+  "prompt": "A miniature toy train chugging through a tiny town built entirely of candy, gumdrop houses in bright pink and mint green, licorice railway tracks, a chocolate bridge over a river of glowing syrup, cotton-candy clouds drifting overhead, the little train puffing sparkly steam, smooth camera tracking alongside the train, vibrant saturated colors, playful tilt-shift miniature look, photorealistic, ultra detailed, 9:16 vertical, 8 seconds, no people, no on-screen text",
+  "howto": [
+    "Open Veo 3 and paste the prompt above for a 9:16 vertical generation.",
+    "Generate until the train motion looks smooth and the candy town reads clearly.",
+    "Loop the best clip twice for a 16-second satisfying Short.",
+    "Add a cheerful chime sound on each puff of steam for extra charm.",
+    "Caption it with a one-line question like 'Which house would you live in?' to drive comments."
+  ],
+  "tips": [
+    "The tilt-shift miniature look is the hook — mention it in the first frame of your caption.",
+    "Re-skin the same prompt for a gingerbread village or a cookie castle to reuse the format."
+  ],
+  "tags": ["candy", "miniature", "satisfying", "veo 3", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "talking-cactus-comedy-kling",
+  "title": "Talking Cactus Stand-Up Comedy — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Intermediate",
+  "desc": "A grumpy little cactus in a tiny pot does stand-up comedy on a desert stage, complaining about watering schedules — a silly character clip built for TikTok comedy niches.",
+  "prompt": "A small grumpy cactus in a tiny terracotta pot stands on a miniature desert comedy stage at sunset, a single spotlight on it, its little arms gesturing as it tells jokes, tiny audience of pebbles and succulents laughing in the front row, warm orange desert light, playful cartoon-realistic style, expressive face, bouncy movement, smooth camera slowly pushing in, 9:16 vertical, 5 seconds, no on-screen text",
+  "howto": [
+    "Open Kling and paste the prompt above for a 9:16 vertical clip.",
+    "Generate 3 variations and keep the one where the cactus's gestures feel funniest.",
+    "Add a rimshot sound effect after each joke beat for comedy timing.",
+    "Post as episode one of a 'grumpy things that talk' series to build returning viewers.",
+    "Reply to comments with a poll asking what the cactus should complain about next."
+  ],
+  "tips": [
+    "Keep the cactus's face simple — one big grumpy frown reads instantly on a phone screen.",
+    "Desert-sunset lighting makes a silly clip look cinematic, which stops the scroll."
+  ],
+  "tags": ["comedy", "cactus", "stand-up", "kling", "tiktok", "creator-niche"],
+  "trending": false,
+  "popularity": 81
+},
+{
+  "id": "lighthouse-keeper-secret-life-sora",
+  "title": "The Secret Life of a Lighthouse Keeper — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Advanced",
+  "desc": "At dawn a lonely lighthouse keeper winds the great lamp, feeds a seagull and writes in a logbook nobody reads — a quiet story hook for faceless YouTube channels.",
+  "prompt": "A lonely lighthouse on a rocky cliff at golden dawn, waves crashing below, inside the lamp room a keeper in a yellow raincoat winds the great brass lamp as it begins to turn, a white seagull perched on the railing watches him, an old logbook open on the desk with a steaming mug beside it, warm lamp light sweeping across the sea, moody cinematic lighting, slow camera circling the lamp room, mysterious storybook atmosphere, photorealistic, ultra detailed, 16:9, 10 seconds, no on-screen text",
+  "howto": [
+    "Open Sora and paste the prompt above for a 16:9 cinematic generation.",
+    "Generate several takes and pick the one where the rotating lamp beam reads clearly.",
+    "Chain the dawn scene with a storm-night scene from the same prompt for a two-part story.",
+    "Narrate over it in a calm voice — one quiet fact per scene keeps viewers watching.",
+    "Post long-form story episodes with chapters like 'The Lamp', 'The Storm', 'The Logbook'."
+  ],
+  "tips": [
+    "The lamp beam is the hook — open every episode on the light sweeping across the sea.",
+    "Title trick: use the keeper's secret as the title — 'The Lighthouse Keeper's Last Logbook' beats 'Lighthouse Story Episode 1'."
+  ],
+  "tags": ["lighthouse", "story", "mystery", "sora", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "neon-jellyfish-ballet-runway",
+  "title": "Neon Jellyfish Ballet — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "Glowing neon jellyfish drift and twirl like ballerinas through a dark blue ocean, trailing ribbons of light — hypnotic art Reels that stop the scroll.",
+  "prompt": "Glowing neon jellyfish drifting like ballerinas through a deep dark-blue ocean, translucent bells pulsing in electric pink, cyan and violet, long luminous tentacles trailing ribbons of light, tiny plankton sparkling like stars around them, slow graceful twirls in perfect sync, dreamy cinematic lighting, smooth floating camera, artistic and hypnotic, ultra detailed, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Runway and paste the prompt above for a 9:16 vertical generation.",
+    "Generate until the jellyfish glow reads vivid against the dark water.",
+    "Loop the best clip twice and add slow dreamy music underneath for a hypnotic Reel.",
+    "Post as part of a glowing-ocean art series with a one-line wonder hook in the caption.",
+    "Save the best still frame as a Reel cover — the neon glow earns taps."
+  ],
+  "tips": [
+    "Dark background plus neon glow is the whole trick — never brighten the water or the jellyfish lose their magic.",
+    "Pair with a 'deep sea facts' caption to catch both art lovers and curious scrollers."
+  ],
+  "tags": ["jellyfish", "neon", "ocean art", "runway", "instagram", "creator-niche"],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "glassblowing-slow-motion-flow",
+  "title": "Glassblowing Art in Slow Motion — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Molten glass blooms into a glowing orange vase in slow motion, sparks flying as the blower spins the pipe — pure satisfying craft for Facebook Reels.",
+  "prompt": "A glassblower shaping molten glass in slow motion, a glowing orange blob of glass on the end of a long steel pipe, spinning gently as it blooms into a vase shape, tiny sparks flying, warm furnace glow lighting the workshop, the glass stretching and folding like honey, extreme close-up macro shots, smooth slow camera orbit, rich warm colors, cinematic and satisfying, photorealistic, ultra detailed, 9:16 vertical, 8 seconds, no on-screen text",
+  "howto": [
+    "Open Google Flow and paste the prompt above for a 9:16 vertical generation.",
+    "Generate until the glowing glass reads clearly and the spin looks smooth.",
+    "Slow the clip to half speed for an extra-satisfying 16-second Reel.",
+    "Add a soft crackle sound as the glass cools for ASMR crossover appeal.",
+    "Caption it with the name of the finished piece to hook craft lovers."
+  ],
+  "tips": [
+    "Macro close-ups of glowing glass are the hook — keep the camera close and the background dark.",
+    "Re-skin the same prompt for pottery, blacksmithing or candle-making to build a craft series."
+  ],
+  "tags": ["glassblowing", "craft", "satisfying", "google flow", "facebook", "creator-niche"],
+  "trending": false,
+  "popularity": 79
+},
+{
+  "id": "floating-islands-illustration-pack-midjourney",
+  "title": "Floating Islands Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Intermediate",
+  "desc": "Dreamy floating islands with tiny waterfalls, lighthouses and hot-air balloons — a whimsical illustration pack that makes Instagram and Facebook pages pop.",
+  "prompt": "Dreamy floating island in the sky, a tiny lighthouse on top, a small waterfall pouring off the edge into the clouds below, a colorful hot-air balloon drifting past, lush green grass and tiny glowing windows, soft golden-hour light, whimsical storybook illustration style, rich saturated colors, clean detailed linework, magical and uplifting mood, 9:16 vertical, no text, --ar 9:16 --v 6.1 --style raw",
+  "howto": [
+    "Open Midjourney and paste the prompt above into the imagine box.",
+    "Upscale the best of the four results and save it at full resolution.",
+    "Swap 'lighthouse' for 'windmill', 'treehouse' or 'castle' to build a full pack of 4-6 islands.",
+    "Post one island per day as a carousel with a one-line wonder caption.",
+    "Offer the pack as a free phone-wallpaper set to grow your page followers."
+  ],
+  "tips": [
+    "Keep the sky soft and bright — a cheerful sky is what makes viewers save and share the image.",
+    "One tiny detail per island (a cat on the roof, a flag, a lantern) gives followers a reason to zoom in."
+  ],
+  "tags": ["floating islands", "illustration", "storybook", "midjourney", "instagram", "creator-niche"],
+  "trending": false,
+  "popularity": 83
+},
+{
+  "id": "hidden-hobby-niche-finder-chatgpt",
+  "title": "Hidden Hobby Niche Finder — ChatGPT Prompt for Untapped Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Find 10 untapped hobby niches with hungry audiences and weak competition — the niche-discovery prompt that turns a blank channel idea into a launch plan.",
+  "prompt": "Act as a YouTube and TikTok niche researcher. Find 10 UNTAPPED hobby niches for faceless channels in 2026. For each niche give: (1) the exact niche name, (2) why the audience is hungry for it, (3) 3 example video titles that would get clicked, (4) how crowded it is on a 1-10 scale, (5) the easiest first video to make with AI tools. Only include niches with competition below 4/10. Focus on hobbies people spend money on — model building, rare plants, old tools, tiny crafts, forgotten games. Rank the 10 from easiest to start to hardest, and end with your #1 pick and why it wins.",
+  "howto": [
+    "Open ChatGPT and paste the prompt above exactly as written.",
+    "Read the ranked list and pick the niche that excites you most, not just the easiest one.",
+    "Ask ChatGPT for 10 more video titles inside your chosen niche.",
+    "Check the top 3 niches on YouTube search to confirm the competition score is honest.",
+    "Launch with the easiest first video from the list within 48 hours."
+  ],
+  "tips": [
+    "Re-run the prompt once a month with a different hobby family — 'outdoor hobbies', 'indoor crafts' — to keep finding fresh niches.",
+    "A niche with competition below 4/10 and a money-spending audience is the sweet spot — never pick a niche on views alone."
+  ],
+  "tags": ["niche discovery", "hobby niches", "chatgpt", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "viral-challenge-idea-generator-gemini",
+  "title": "Viral Challenge Idea Generator — Gemini Prompt for TikTok & Reels Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Generate 20 safe, copyable TikTok and Reels challenge ideas with hooks, rules and hashtags — the fast way to ride trends without copying anyone.",
+  "prompt": "Act as a viral TikTok and Instagram Reels strategist. Generate 20 ORIGINAL challenge ideas I can film with just a phone, no budget and no team. For each challenge give: (1) a catchy challenge name, (2) the 3-second hook that stops the scroll, (3) simple rules anyone can follow, (4) the sound or music style to use, (5) 3 hashtags. All challenges must be safe, family-friendly and filmable in under 60 seconds. Mix the list across comedy, skill, transformation and kindness challenges. End with your top 3 picks ranked by viral potential and one sentence each on why they would spread.",
+  "howto": [
+    "Open Gemini and paste the prompt above exactly as written.",
+    "Pick one challenge from the top 3 and film it the same day while the idea is fresh.",
+    "Film your own version first, then invite followers to try it with your hashtag.",
+    "Post the challenge at peak hours for your audience — usually 6-9pm local time.",
+    "Track which challenge gets the most duets and double down on that style next week."
+  ],
+  "tips": [
+    "A challenge spreads when the rules fit in one sentence — if it needs a paragraph, simplify it.",
+    "Film the challenge yourself first — nobody joins a challenge the creator has not tried."
+  ],
+  "tags": ["viral challenge", "tiktok", "reels", "gemini", "instagram", "creator-niche"],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "one-video-thirty-shorts-repurposing-claude",
+  "title": "One Video to 30 Shorts Repurposing Plan — Claude Prompt to Grow Any Channel Fast",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Turn one long video into 30 Shorts, Reels and TikToks with hooks, captions and a posting calendar — the repurposing plan that makes one upload work for a month.",
+  "prompt": "Act as a content repurposing strategist. I will paste the transcript of one long YouTube video. Turn it into 30 short-form clips for TikTok, Reels and Shorts. For each clip give: (1) the clip number and the exact timestamp range from the transcript, (2) a 3-second hook line, (3) the core point in one sentence, (4) an on-screen text suggestion, (5) a caption with 3 hashtags, (6) which platform it fits best. Group the 30 clips into 4 weekly batches of 7-8, add a posting calendar with best times, and flag the 5 clips most likely to go viral with one sentence each on why. Keep every clip under 60 seconds and never repeat the same hook twice.",
+  "howto": [
+    "Open Claude and paste the prompt above, then paste your video transcript right after it.",
+    "Review the 30-clip list and mark your 5 viral-flagged clips as week-one priorities.",
+    "Edit the clips in batches of 7-8 using the timestamp ranges Claude gave you.",
+    "Schedule one clip per day following the posting calendar in the plan.",
+    "After two weeks, tell Claude your top 3 performing clips and ask for 10 more in that style."
+  ],
+  "tips": [
+    "Start with your best-performing long video — proven watch time means proven clip material.",
+    "Never reuse the same hook twice in the batch — a repeated hook trains viewers to scroll past."
+  ],
+  "tags": ["repurposing", "shorts", "growth plan", "claude", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 89
+}
+];
 
 if (typeof module !== "undefined") {
   module.exports = { CATEGORIES, PROMPTS };
