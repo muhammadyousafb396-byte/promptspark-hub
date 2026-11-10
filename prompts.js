@@ -13467,7 +13467,98 @@ const PROMPTS = [
   "tags": ["repurposing", "shorts", "growth plan", "claude", "youtube", "creator-niche"],
   "trending": false,
   "popularity": 89
+},
+{
+  "id": "niche-2026-11-10-ai-rural-homestead-reels",
+  "title": "Rural Homestead Life (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Slow living is comfort viewing — the 35-55 Facebook audience watches farm mornings like a warm blanket. Nostalgia plus the \"I could do this\" dream keeps them watching, and every chore is a satisfying loop with a visible payoff. Is niche ki videos 186.4M / 152.8M / 127.3M / 98.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-rural-homestead-reels.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a peaceful rural homestead scene — [SCENE: golden sunrise over a farmhouse with garden / hands harvesting giant vegetables into a wooden basket / wood-stove kitchen with bubbling pot and fresh bread / farmer feeding goats and chickens at golden hour], [SEASON: spring planting / summer harvest / autumn preserves / winter fireside], warm golden-hour light, gentle natural sounds (birds, crackling fire, soft breeze), slow cinematic camera movement, cozy self-sufficient living, vibrant saturated colors, photorealistic, no text, no watermark",
+  "howto": [
+    "Open with the single most beautiful golden-hour shot in the first 2 seconds — a sunrise farmhouse or a basket of giant vegetables — Facebook's 35-55 audience stops for calm beauty, not noise.",
+    "Structure each Reel as one small chore with a satisfying payoff: plant → water → harvest → cook, so viewers stay to see the result.",
+    "Post 1-2 Reels per day at 7-9am and 7-9pm, when the homestead audience is scrolling with their morning coffee or after dinner."
+  ],
+  "tips": [
+    "Hook rule: the first frame must feel like a deep breath — warm light, green garden, smoke from a chimney. No talking head, no intro text.",
+    "Caption trick: start with \"POV: you left the city for this\" and end with a question — \"Which chore would you do first?\" Comments push it to Reels explore.",
+    "Batch a whole week in one afternoon: same farmhouse, different chores and seasons — the account feels like a real place viewers keep returning to."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "homestead",
+    "rural life",
+    "reels"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "niche-2026-11-10-ai-ocean-depth-comparison-reels",
+  "title": "How Deep Is the Ocean? (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Scale shock breaks the brain's sense of size — every depth marker is a new surprise that forces a rewatch, and viewers save the video to show friends later. Saves plus shares are exactly what Instagram's algorithm rewards most. Is niche ki videos 148.2M / 121.7M / 96.4M / 74.0M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-ocean-depth-comparison-reels.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a dramatic ocean-depth comparison — the camera dives past [CREATURE OR OBJECT: a blue whale next to a tiny diver / a glowing anglerfish in the midnight zone / a sunken shipwreck on the ocean floor / the Burj Khalifa sinking past the Titanic wreck], [DEPTH MARKER: 200m sunlight zone / 1,000m twilight zone / 4,000m abyss / 10,935m Mariana Trench], scale labels appear as the camera descends, light fading from turquoise to pitch black, bioluminescent creatures glowing in the dark, awe-inspiring scale shock, vibrant deep-blue colors, photorealistic, no text, no watermark",
+  "howto": [
+    "Start at the surface with something familiar (a diver, a boat, a famous building) then dive — the first 3 seconds must set up a scale the viewer thinks they understand.",
+    "Drop one depth marker every 4-5 seconds so each beat delivers a new \"wait, WHAT?\" moment; end at the deepest point with the most shocking comparison.",
+    "Post 1 Reel per day; pin your best-performing depth video to your profile — new visitors binge the whole series from it."
+  ],
+  "tips": [
+    "Hook rule: open with the question on screen — \"How deep is the ocean, really?\" — curiosity gaps are what Instagram saves and shares reward.",
+    "Caption trick: end with \"Save this for your next ocean fact\" — saves are Instagram's #1 Explore signal, and this niche is built for saves.",
+    "Use a real comparison in every video (whale vs diver, building vs wreck) — a number alone is forgettable, a visual scale comparison is unforgettable."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "ocean",
+    "facts",
+    "reels"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "niche-2026-11-10-ai-faceless-comedy-skits",
+  "title": "Faceless Comedy Skits (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Laughter is the fastest share trigger on TikTok — a joke that lands in 3 seconds gets sent to friends before the video even ends. Relatable everyday fails need no face, just perfect timing, and the twist ending forces a replay. Is niche ki videos 198.7M / 171.2M / 149.6M / 124.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-faceless-comedy-skits.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a hilarious faceless comedy skit — [CHARACTER: a cat in a tiny chef hat ruining dinner / a dog in sunglasses driving a toy car / a penguin slipping on ice / an office worker's coffee cup tipping in slow motion], [SITUATION: the character tries something simple and it goes hilariously wrong], [PUNCHLINE TWIST: the pet looks at the camera / the coffee lands perfectly in the plant / the penguin gets up and slides again on purpose], exaggerated timing, expressive reactions, bright vibrant colors, fast punchy cuts, funny sound effects, photorealistic, no text, no watermark",
+  "howto": [
+    "Land the joke in the first 3 seconds — TikTok decides in a blink, so the funny setup must be visible before anyone can scroll.",
+    "One joke per video, one clear punchline at the end: setup (5s) → escalation (10s) → twist (last 3s) that makes viewers replay it.",
+    "Post 2-3 skits per day with different characters (cat, dog, penguin, office) so the account feels like a comedy channel, not one repeated gag."
+  ],
+  "tips": [
+    "Hook rule: the funniest frame goes first — a cat mid-chaos or a dog in sunglasses. If the first frame is not funny, the scroll wins.",
+    "Caption trick: write the punchline as a question — \"He really thought he had it 😂\" — comments and duets multiply reach.",
+    "Reuse the same characters across videos (same cat chef, same penguin) — viewers subscribe for characters, not one-off jokes."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "comedy",
+    "funny",
+    "skits"
+  ],
+  "trending": true,
+  "popularity": 93
 }
+
 ];
 
 if (typeof module !== "undefined") {
