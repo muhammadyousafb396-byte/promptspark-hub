@@ -13789,6 +13789,99 @@ const PROMPTS = [
   "trending": false,
   "popularity": 88
 }
+,
+{
+  "id": "niche-2026-11-11-ai-horror-thriller-short-films",
+  "title": "AI Horror & Thriller Short Films (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Fear is the strongest retention tool in short-form — tension keeps viewers frozen until the payoff, and the jump scare in the last 3 seconds forces a replay to catch what they missed. Horror is also the most bingeable faceless format: one scare leads straight to the next film. Is niche ki videos 48.6M / 36.2M / 27.9M / 19.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-horror-thriller-short-films.jpg",
+  "prompt": "AI video, [DURATION: 30-60 seconds], vertical 9:16: a chilling horror short film — [SETTING: a foggy hallway with a shadowy figure / an abandoned mansion under a full moon / a creepy doll in a dusty attic / a dark forest with glowing eyes watching], [SCARE BEAT: a door creaks open on its own / the lights flicker and something moves / a whisper from behind the camera / the flashlight dies at the worst moment], slow dread-building pacing, sudden jump scare in the final 3 seconds, dark cinematic lighting, fog, eerie ambient sound, photorealistic, no text, no watermark",
+  "howto": [
+    "Open with the scariest image in the first 2 seconds — YouTube Shorts decide in a blink, so the shadowy figure or the creepy doll must appear before anyone can scroll.",
+    "Build dread slowly for 20 seconds, then drop ONE jump scare in the last 3 seconds — one scare per film keeps viewers rewatching to catch what they missed.",
+    "Post 1 short film per day at night (8-11pm) when horror audiences are scrolling in the dark — and end every film with Part 2? to pull comments."
+  ],
+  "tips": [
+    "Hook rule: the thumbnail frame IS the scare — a cracked doll face or glowing eyes in the dark. If the first frame is not unsettling, the scroll wins.",
+    "Title trick: ask the question viewers must answer — Would you walk down this hallway? — comments and shares multiply reach.",
+    "Reuse the same haunted location across films (same mansion, same hallway) — viewers subscribe for the place, not one-off scares."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "horror",
+    "thriller",
+    "short films"
+  ],
+  "trending": true,
+  "popularity": 91
+}
+,
+{
+  "id": "niche-2026-11-11-ai-betrayal-revenge-stories",
+  "title": "Betrayal & Revenge Stories (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Betrayal is the most comment-baiting emotion on Facebook — everyone has an opinion on what the cheater deserves, and the revenge twist is the payoff they wait for. Cliffhangers turn one view into a follow, and the 35-55 audience shares drama Reels like gossip with friends. Is niche ki videos 172.8M / 146.5M / 121.3M / 94.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-betrayal-revenge-stories.jpg",
+  "prompt": "AI video, [DURATION: 30-60 seconds], vertical 9:16: a dramatic betrayal and revenge story — [BETRAYAL: a shocking text discovered on a phone at midnight / a partner caught lying in a luxury living room / a secret envelope of photos left on the table], [REVENGE TWIST: she walks away from the mansion at sunset, free / the liar's own secret gets exposed in front of everyone / the quiet one had the evidence all along], emotional cinematic acting, golden-hour and moody night lighting, dramatic music swell, cliffhanger ending with Part 2?, photorealistic, no text, no watermark",
+  "howto": [
+    "Open on the discovery moment — the shocked face reading the phone — Facebook's 35-55 audience stops for emotion, not introductions.",
+    "Structure every Reel as betrayal (15s) → confrontation (15s) → revenge twist (last 10s) with a Part 2? cliffhanger so viewers follow for the payoff.",
+    "Post 1-2 Reels per day at 7-9pm when the drama audience is scrolling after dinner — and pin the best-performing story to your profile."
+  ],
+  "tips": [
+    "Hook rule: the first frame must be a face full of shock — the phone glow, the caught lie. No scenery, no slow build.",
+    "Caption trick: end with What would YOU do? — betrayal stories live on comments, and comments push the Reel to Explore.",
+    "Keep the same characters across a story arc (same couple, same mansion) — viewers return for the next episode like a TV serial."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "drama",
+    "revenge",
+    "stories"
+  ],
+  "trending": true,
+  "popularity": 92
+}
+,
+{
+  "id": "niche-2026-11-11-ai-beauty-skincare-reels",
+  "title": "Beauty & Skincare Demos (Instagram Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Glow is the ultimate save trigger — viewers bookmark skincare routines to try later, and saves are Instagram's strongest ranking signal. Before-and-after reveals create a curiosity gap that forces a full watch, and beauty is the most brand-deal-friendly faceless niche on the platform. Is niche ki videos 134.6M / 108.9M / 87.2M / 64.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-beauty-skincare-reels.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a satisfying beauty and skincare demo — [DEMO: golden face cream melting into glowing skin / a luxury serum bottle with a golden splash / a jade roller gliding over dewy skin with cucumber and green leaves / a before-and-after glow reveal with fresh roses], [RESULT: visibly radiant glass skin / a dewy highlight that catches the light], bright airy lighting, soft pastel tones, slow satisfying close-ups, fresh and clean mood, vibrant saturated colors, photorealistic, no text, no watermark",
+  "howto": [
+    "Open with the glow — the dewy skin or the golden serum splash must fill the first frame, because Instagram decides on beauty in under a second.",
+    "One product, one result per Reel: apply (5s) → massage in (10s) → glow reveal (last 5s) so viewers save it as a routine to copy.",
+    "Post 1 Reel per day in the morning (7-9am) when the beauty audience plans its routine — and pin your best glow reveal to your profile."
+  ],
+  "tips": [
+    "Hook rule: the first frame must shine — golden serum, dewy highlight, sparkling droplets. Dull first frames die on Instagram.",
+    "Caption trick: end with Save this for your morning routine — saves are Instagram's #1 Explore signal, and beauty routines are the most-saved category.",
+    "Keep the same product style across videos (same gold-and-pastel look) — a recognizable aesthetic makes viewers follow the account, not just the video."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "beauty",
+    "skincare",
+    "reels"
+  ],
+  "trending": false,
+  "popularity": 88
+}
 ];
 
 if (typeof module !== "undefined") {
