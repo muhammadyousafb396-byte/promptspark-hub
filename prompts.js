@@ -13558,7 +13558,237 @@ const PROMPTS = [
   "trending": true,
   "popularity": 93
 }
-
+,
+{
+  "id": "giant-koi-fish-city-canal-veo3",
+  "title": "Giant Koi Fish Swim Through a City Canal — Veo 3 Prompt for Viral TikTok Fantasy Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Enormous glowing koi fish glide slowly through a narrow city canal while tiny pedestrians stop and stare — the dreamlike scale-twist clip that makes TikTok viewers watch twice.",
+  "prompt": "Cinematic vertical 9:16 video: giant koi fish, each the size of a small car, swimming slowly and gracefully through a narrow city canal at golden hour, their orange, white and black scales glowing in the warm light, tiny pedestrians on the stone bridges stopping to watch in wonder, ripples spreading across the water, reflections of old brick buildings shimmering, smooth slow camera follow, dreamy magical-realism mood, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the koi size reads clearly against the tiny pedestrians.",
+    "Loop the best clip twice with a gentle crossfade for a 20-second satisfying watch.",
+    "Post with a curiosity hook in the first frame — the giant fish must be visible before anyone can scroll."
+  ],
+  "tips": [
+    "Scale contrast is the whole trick: keep the people tiny and the fish huge, or the magic disappears.",
+    "Swap 'city canal' for 'subway station' or 'shopping street' to spin a whole giant-koi series from one prompt."
+  ],
+  "tags": ["koi fish", "fantasy", "magical realism", "veo 3", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "tiny-bakers-giant-wedding-cake-veo3",
+  "title": "Tiny Bakers Frost a Giant Wedding Cake — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A team of tiny bakers in white hats climbs a towering wedding cake with ropes and ladders to pipe the final frosting swirls — the miniature-world story TikTok food pages love.",
+  "prompt": "Whimsical vertical 9:16 video: a team of tiny bakers in white chef hats and aprons climbing a giant three-tier white wedding cake with little ropes and ladders, piping delicate frosting swirls and placing tiny sugar flowers, one baker sliding comically down a frosting slope, warm bakery light, soft flour dust floating in the air, rich creamy colors, smooth cinematic camera circling the cake, charming miniature-world storytelling, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the bakers' scale against the cake is clearest.",
+    "Chain two clips — climbing, then the frosting finish — for a 20-second mini story with a payoff.",
+    "Post as part of a tiny-world series so viewers follow for the next miniature job."
+  ],
+  "tips": [
+    "One tiny accident per video (a slip, a dropped flower) doubles comments — viewers love miniature chaos.",
+    "Keep the camera moving slowly around the cake; a static shot kills the miniature-world illusion."
+  ],
+  "tags": ["miniature world", "baking", "wedding cake", "veo 3", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "dancing-traffic-light-comedy-kling",
+  "title": "Dancing Traffic Light Comedy — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A bored traffic light starts dancing to the beat while confused drivers tap along — the silly everyday-object comedy that TikTok comedy pages turn into millions of views.",
+  "prompt": "Funny vertical 9:16 video: a traffic light at a city crosswalk suddenly starts dancing — its red, yellow and green lights bouncing and flashing in rhythm to an upbeat beat, the pole swaying side to side, confused drivers in their cars slowly starting to nod and tap their steering wheels, a pedestrian doing a little happy dance while waiting, bright sunny city colors, exaggerated cartoon timing, fast punchy cuts, playful and joyful, photorealistic, no on-screen text, no watermark",
+  "howto": [
+    "Open Kling and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the dancing rhythm reads funniest.",
+    "Add a bouncy royalty-free beat in editing — the music sells the dance.",
+    "Post 2-3 object-dance videos a week so the account builds a recognizable comedy format."
+  ],
+  "tips": [
+    "The joke lands in the first 3 seconds — the traffic light must already be dancing in frame one.",
+    "Swap 'traffic light' for 'mailbox', 'vending machine' or 'parking meter' to spin a whole dancing-objects series."
+  ],
+  "tags": ["comedy", "dancing objects", "funny", "kling", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "abandoned-toy-factory-midnight-sora",
+  "title": "The Abandoned Toy Factory at Midnight — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A slow flashlight walk through a toy factory frozen in time — dusty teddy bears, a rocking horse that moves on its own — the eerie mystery opener faceless YouTube channels build whole series on.",
+  "prompt": "Cinematic 16:9 video: slow flashlight walkthrough of an abandoned toy factory at midnight, dusty conveyor belts, shelves of forgotten teddy bears and dolls with faded paint, a wooden rocking horse swaying gently on its own in the moonlight from a broken window, cobwebs drifting, faint dust motes in the flashlight beam, cold blue moonlight mixed with warm flashlight glow, slow steady camera push forward, eerie but beautiful atmosphere, high tension, photorealistic, ultra detailed, no people, no on-screen text",
+  "howto": [
+    "Open Sora and start a new 16:9 video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one with the strongest flashlight-and-moonlight contrast.",
+    "Chain the best two clips for a 30-second mystery opener and add soft ambient drone audio.",
+    "End every episode on one unanswered question so viewers return for the next explore."
+  ],
+  "tips": [
+    "Never show the scare directly — the rocking horse moving on its own is scarier than any monster.",
+    "Mystery channels grow on consistency: same flashlight, same pacing, new location every video."
+  ],
+  "tags": ["mystery", "abandoned places", "horror", "sora", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "living-chalk-art-sidewalk-world-runway",
+  "title": "Living Chalk Art Sidewalk World — Runway Prompt for Viral Instagram Art Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "Chalk drawings on a sidewalk peel off the pavement and come alive — a chalk butterfly flutters away, a chalk sun rises — the street-art magic loop Instagram art pages repost endlessly.",
+  "prompt": "Magical vertical 9:16 video: colorful chalk drawings on a sunny city sidewalk slowly peeling off the pavement and coming alive — a chalk butterfly fluttering up into the sky, a chalk sun rising and glowing, a chalk rainbow arching over the street, a child's hand reaching out as a chalk bird lands on their finger, bright pastel chalk colors against warm grey pavement, golden afternoon light, smooth dreamy camera movement, whimsical and joyful, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Runway and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the chalk-to-life transition reads clearest.",
+    "Loop the ending back to the start for a seamless 15-second art reel.",
+    "Post with a caption asking viewers which chalk drawing they would bring to life — comments drive reach."
+  ],
+  "tips": [
+    "The transformation moment is the share trigger — make the first chalk object lift off within 3 seconds.",
+    "Swap chalk for 'sand art', 'neon signs' or 'graffiti' to spin a whole living-street-art series."
+  ],
+  "tags": ["street art", "chalk art", "magical", "runway", "instagram", "creator-niche"],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "sand-art-world-map-timelapse-flow",
+  "title": "Sand Art World Map Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Golden sand pours and swirls into a glowing world map on a light table, then a hand sweeps it into a new continent — the satisfying art timelapse Facebook reels watch to the end.",
+  "prompt": "Satisfying vertical 9:16 video: golden sand pouring from a hand onto a glowing light table, swirling and settling into a detailed world map, tiny sand mountains rising where continents form, a hand gently sweeping the sand into flowing rivers and new coastlines, warm amber backlight making every grain sparkle, slow overhead camera, mesmerizing smooth motion, ASMR sand sounds, calming and hypnotic, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the world map shape is most recognizable.",
+    "Add soft ASMR sand audio in editing — the sound is half the satisfaction.",
+    "Post as part of a sand-art series (maps, animals, portraits) so viewers follow for the next pour."
+  ],
+  "tips": [
+    "The reveal matters: hold the finished map for a full 2 seconds before the sweep so viewers screenshot it.",
+    "Satisfying art reels earn huge saves — end with a clean finished image, never a messy wipe."
+  ],
+  "tags": ["sand art", "satisfying", "timelapse", "google flow", "facebook", "creator-niche"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "enchanted-winter-forest-fairy-midjourney",
+  "title": "Enchanted Winter Forest Fairy Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Tiny glowing fairies light up a snow-covered forest with lanterns and frost magic — the storybook illustration pack cozy fantasy pages use for winter posts, covers and cards.",
+  "prompt": "Enchanted winter forest storybook illustration, tiny glowing fairies with delicate wings lighting frost-covered pine trees with little golden lanterns, sparkling snowflakes drifting through soft blue moonlight, a frozen stream reflecting warm lantern glow, mushrooms dusted with snow, whimsical detailed fantasy art, soft painterly style, rich teal and gold palette, cozy magical mood, ultra detailed, --ar 4:5 --style raw",
+  "howto": [
+    "Open Midjourney and paste the prompt above exactly as written.",
+    "Generate a grid of 4 and upscale the fairy scene with the clearest lantern glow.",
+    "Vary the prompt by swapping 'fairies' for 'fireflies', 'owls' or 'mice' to build a full winter forest pack.",
+    "Post one illustration per day as a series — series posts earn far more follows than one-offs.",
+    "Use the best image as a page cover or story background to brand the whole winter season."
+  ],
+  "tips": [
+    "The gold-on-teal contrast is what stops the scroll — never let the palette drift into flat grey-blue.",
+    "Keep one recurring fairy character across the pack so viewers recognize your series instantly."
+  ],
+  "tags": ["fantasy", "winter", "fairy", "storybook", "midjourney", "instagram", "facebook", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "quiet-luxury-niche-finder-chatgpt",
+  "title": "Quiet Luxury Niche Finder — ChatGPT Prompt for High-RPM Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Find the calm, wealthy, underserved corners of YouTube and TikTok — quiet luxury, slow living, old money — where small channels earn big RPMs with almost no competition.",
+  "prompt": "Act as a creator-economy strategist who specializes in high-RPM faceless niches. Find me 10 'quiet luxury' creator niches for YouTube and TikTok in 2026 — calm, elegant, slow-living topics (old money style, quiet wealth, slow mornings, heritage crafts, understated travel) that attract viewers aged 30-55 with high spending power. For EACH niche give: (1) the exact channel angle, (2) why the audience is valuable to advertisers, (3) estimated RPM range, (4) 5 video ideas that fit the aesthetic, (5) 3 real channels already proving it works, (6) the biggest mistake beginners make in this niche. Rank the 10 niches by profit potential, not by views. Exclude any niche with more than 20 established channels. Be specific — no generic advice.",
+  "howto": [
+    "Open ChatGPT and paste the prompt above exactly as written.",
+    "Read the ranked list and shortlist the top 3 niches by profit potential.",
+    "Ask ChatGPT to deep-dive your favourite: 'Expand niche #2 into a 30-video launch plan.'",
+    "Validate each niche by searching YouTube and TikTok — fewer than 20 real channels means the gap is real.",
+    "Pick ONE niche and commit to 30 videos before judging it — quiet niches grow slow, then compound."
+  ],
+  "tips": [
+    "RPM beats views: a 10k-view quiet-luxury video can out-earn a 200k-view prank video.",
+    "The aesthetic IS the niche — muted colors, slow pacing and calm voiceover filter out the wrong audience automatically."
+  ],
+  "tags": ["niche discovery", "quiet luxury", "high rpm", "chatgpt", "youtube", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "niche-newsjacking-engine-gemini",
+  "title": "Niche Newsjacking Engine — Gemini Prompt to Turn Breaking News Into Viral Niche Content",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Turn today's breaking news into tomorrow's viral video in your niche — before bigger channels even notice the story. The speed advantage small creators win with.",
+  "prompt": "Act as a viral content strategist for faceless creators. My niche is [YOUR NICHE — e.g. space, history, finance, pets]. Here is today's breaking news: [PASTE THE HEADLINE + 2 SENTENCES]. Give me 10 video angles that connect this news to my niche, each with: (1) a curiosity-gap title under 60 characters, (2) a 3-second opening hook script, (3) the exact twist that makes it niche-relevant, (4) whether to post on YouTube Shorts, TikTok, Facebook or Instagram and why, (5) how fast I must post before the story peaks. Then rank the 10 angles by viral potential and tell me the ONE to post first. Be fast and specific — no generic 'stay consistent' advice.",
+  "howto": [
+    "Open Gemini and paste the prompt above, filling in your niche and today's news.",
+    "Take the #1 ranked angle and script it within 30 minutes — newsjacking dies after 24 hours.",
+    "Generate the visuals with your usual video tool while the script is still fresh.",
+    "Post to the platform Gemini recommended first, then re-cut for the others the same day.",
+    "Track which news angles spiked and save the pattern — some news types repeat every month."
+  ],
+  "tips": [
+    "Speed beats polish on news: a good video posted in 2 hours outperforms a perfect one posted tomorrow.",
+    "Never fake the news angle — if the connection is forced, viewers smell it and the video dies."
+  ],
+  "tags": ["newsjacking", "trends", "viral strategy", "gemini", "youtube", "tiktok", "facebook", "instagram", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "channel-rebrand-playbook-claude",
+  "title": "Channel Rebrand Playbook — Claude Prompt to Pivot Your Niche Without Losing Subs",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Your niche is dying or boring you — this playbook pivots your channel to a fresh niche without losing your audience, your algorithm trust, or your income.",
+  "prompt": "Act as a YouTube channel strategist who has managed 50+ successful niche pivots. My channel: [CHANNEL NAME + CURRENT NICHE + SUBSCRIBER COUNT + AVERAGE VIEWS]. I want to pivot to [NEW NICHE]. Build me a complete 30-day rebrand playbook: (1) a bridge-content plan — 5 videos that slowly move my current audience toward the new niche, (2) the exact new channel name, description and banner concept (keep my current subscribers feeling at home), (3) a 12-video launch calendar for the new niche, (4) how to announce the pivot without triggering unsubscribes, (5) what to do with my old videos — delete, unlist or re-cut, (6) the 3 biggest pivot mistakes and how to avoid them, (7) a go/no-go checklist to confirm the new niche is actually better before I commit. Be honest about the risks — if this pivot is a bad idea, say so and suggest a safer one.",
+  "howto": [
+    "Open Claude and paste the prompt above, filling in your channel details and target niche.",
+    "Read the go/no-go checklist FIRST — if it fails, do not pivot yet.",
+    "Produce the 5 bridge videos in order before announcing anything.",
+    "Announce the pivot in a community post and one short video, then launch the new calendar.",
+    "Measure subscriber retention weekly — a healthy pivot keeps 80%+ of subs after 30 days."
+  ],
+  "tips": [
+    "Bridge content is everything: jump straight to the new niche and the algorithm treats you as a new channel.",
+    "Never delete old videos in a panic — unlist them first; you can always bring winners back."
+  ],
+  "tags": ["rebrand", "pivot", "channel growth", "claude", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 88
+}
 ];
 
 if (typeof module !== "undefined") {
