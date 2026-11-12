@@ -13881,6 +13881,236 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 88
+},
+{
+  "id": "tiny-window-washers-skyscraper-veo3",
+  "title": "Tiny Window Washers Clean a Giant Skyscraper — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A crew of tiny window washers in yellow helmets dangles from ropes down a glittering skyscraper, squeegeeing one giant window at a time while the city sparkles below — the miniature-world wonder TikTok story pages love.",
+  "prompt": "Whimsical vertical 9:16 video: a crew of tiny window washers in yellow helmets and blue overalls dangling from thin ropes down the glass face of a giant glittering skyscraper, squeegeeing one enormous window at a time, one tiny washer sliding comically down a soapy pane, another waving at a tiny office worker inside, sparkling city skyline far below in golden evening light, reflections of clouds in the glass, smooth cinematic camera slowly tracking down the building, charming miniature-world storytelling, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the washers' tiny scale against the skyscraper is clearest.",
+    "Chain two clips — the descent, then the soapy slide — for a 20-second mini story with a payoff.",
+    "Post as part of a tiny-workers series so viewers follow for the next miniature job."
+  ],
+  "tips": [
+    "Scale contrast is the whole trick: keep the building enormous and the workers tiny, or the magic disappears.",
+    "One tiny accident per video (a slip, a dropped sponge) doubles comments — viewers love miniature chaos."
+  ],
+  "tags": ["miniature world", "skyscraper", "tiny workers", "veo 3", "tiktok", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "underwater-library-fish-read-veo3",
+  "title": "Underwater Library Where Fish Read Books — Veo 3 Prompt for Faceless YouTube Fantasy Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A sunken library where glowing fish drift between tall shelves, turning pages with their fins while shafts of blue light fall through the water — the dreamlike fantasy world faceless YouTube channels build whole series on.",
+  "prompt": "Dreamlike vertical 9:16 video: a grand underwater library with tall wooden shelves rising from the ocean floor, glowing orange and blue fish drifting slowly between the shelves, one fish gently turning a page with its fin, another wearing tiny round glasses, shafts of blue sunlight falling through the water, dust and bubbles floating like stars, ancient leather books glowing faintly, smooth slow camera gliding down the aisle, magical and peaceful mood, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the fish and the books read clearly together.",
+    "Loop the best clip with a slow fade for a 25-second dreamy watch.",
+    "Post as part of an underwater-worlds series so viewers follow for the next impossible place."
+  ],
+  "tips": [
+    "The glasses fish is the star — one absurd detail makes the whole scene shareable.",
+    "Keep the camera slow and the light shafts strong; rushing ruins the underwater dream."
+  ],
+  "tags": ["fantasy", "underwater", "library", "veo 3", "youtube", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "grumpy-vending-machine-comedy-kling",
+  "title": "Grumpy Vending Machine Comedy — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A grumpy old vending machine judges every customer — shaking its head at healthy snacks, throwing chips at rude people — the everyday-object comedy TikTok turns into millions of views.",
+  "prompt": "Funny vertical 9:16 video: a grumpy old vending machine with a tired face on its glowing front panel, judging every customer — shaking its whole body when someone picks a salad, happily spitting out two chocolate bars for a polite kid, throwing a bag of chips at a rude man who kicks it, coins rattling, fluorescent hallway light, exaggerated cartoon timing, fast punchy cuts, playful and joyful, bright colors, photorealistic, no on-screen text, no watermark",
+  "howto": [
+    "Open Kling and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the machine's grumpy face reads funniest.",
+    "Add a silly sound effect for each reaction — the shake, the spit, the throw — in editing.",
+    "Post 2-3 object-comedy videos a week so the account builds a recognizable format."
+  ],
+  "tips": [
+    "The joke lands in the first 3 seconds — the machine must already be judging someone in frame one.",
+    "Swap 'vending machine' for 'ATM', 'elevator' or 'coffee machine' to spin a whole grumpy-machines series."
+  ],
+  "tags": ["comedy", "grumpy machines", "funny", "kling", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "abandoned-airport-dawn-sora",
+  "title": "Abandoned Airport at Dawn — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A slow walk through a deserted airport at first light — departure boards frozen mid-flight, a luggage cart rolling on its own, one gate still glowing — the eerie mystery opener faceless YouTube channels build whole series on.",
+  "prompt": "Cinematic 16:9 video: slow walkthrough of an abandoned airport terminal at dawn, dusty departure boards frozen mid-flight, rows of empty seats covered in thin dust, a luggage cart rolling slowly on its own across the polished floor, one departure gate still glowing warm in the distance, pale pink sunrise light pouring through huge glass windows, cobwebs on the check-in counters, slow steady camera push forward, eerie but beautiful atmosphere, high tension, photorealistic, ultra detailed, no people, no on-screen text",
+  "howto": [
+    "Open Sora and start a new 16:9 video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one with the strongest dawn-light-and-dust contrast.",
+    "Chain the best two clips for a 30-second mystery opener and add soft ambient drone audio.",
+    "End every episode on one unanswered question so viewers return for the next explore."
+  ],
+  "tips": [
+    "Never show the scare directly — the cart rolling on its own is scarier than any monster.",
+    "Mystery channels grow on consistency: same pacing, same slow push, new location every video."
+  ],
+  "tags": ["mystery", "abandoned places", "airport", "sora", "youtube", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "living-vintage-circus-posters-runway",
+  "title": "Living Vintage Circus Posters — Runway Prompt for Viral Instagram Art Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "Old circus posters on a brick wall peel off and come alive — the painted strongman flexes, the trapeze lady swings, the lion winks — the vintage-magic loop Instagram art pages repost endlessly.",
+  "prompt": "Magical vertical 9:16 video: vintage circus posters pasted on an old brick wall slowly peeling off and coming alive — a painted strongman flexing his muscles, a trapeze lady swinging gracefully from the poster's edge, a painted lion winking at the camera, a tiny clown juggling glowing balls, warm faded red and gold poster colors against weathered brick, golden evening light, smooth dreamy camera movement, whimsical and joyful, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Runway and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the poster-to-life transition reads clearest.",
+    "Loop the ending back to the start for a seamless 15-second art reel.",
+    "Post with a caption asking viewers which poster act they would bring to life — comments drive reach."
+  ],
+  "tips": [
+    "The transformation moment is the share trigger — make the first poster character move within 3 seconds.",
+    "Swap circus for 'old travel posters', 'vintage movie posters' or 'retro ads' to spin a whole living-poster series."
+  ],
+  "tags": ["vintage", "circus", "living posters", "runway", "instagram", "creator-niche"],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "melting-snowman-rebuilds-flow",
+  "title": "Melting Snowman Rebuilds Itself — Google Flow Prompt for Satisfying Facebook & TikTok Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A snowman melts into a puddle in the warm sun — then the puddle swirls, rises and rebuilds him, carrot nose and all — the impossible satisfying loop Facebook and TikTok watch to the end.",
+  "prompt": "Satisfying vertical 9:16 video: a cheerful snowman with a carrot nose and red scarf slowly melting into a sparkling puddle under warm winter sun, then the puddle swirling in reverse, rising up and rebuilding the snowman piece by piece — snowball body, stick arms, coal eyes, carrot nose popping back in last — bright snowy garden, soft sunlight, sparkling melt water, smooth mesmerizing reverse motion, ASMR dripping sounds, calming and magical, photorealistic, ultra detailed, no on-screen text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new 9:16 vertical video generation.",
+    "Paste the prompt above exactly as written into the prompt box.",
+    "Generate 3-4 variations and keep the one where the rebuild moment reads clearest.",
+    "Loop the melt-and-rebuild seamlessly for a 20-second satisfying watch.",
+    "Post as part of a reverse-magic series (melting, breaking, blooming) so viewers follow for the next loop."
+  ],
+  "tips": [
+    "The rebuild is the payoff — hold the finished snowman for a full 2 seconds before the loop restarts.",
+    "Reverse loops earn huge saves — end with a clean finished image, never a messy puddle."
+  ],
+  "tags": ["satisfying", "snowman", "reverse magic", "google flow", "facebook", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "magical-bakery-window-midjourney",
+  "title": "Magical Bakery Window Display Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A tiny magical bakery window glowing at dusk — floating croissants, a gingerbread house cake, sugar stars drifting like snow — the cozy illustration pack food and fantasy pages use for winter posts and covers.",
+  "prompt": "Magical bakery window display illustration, a tiny cozy bakery shop window glowing warm gold at dusk, floating croissants and cinnamon rolls drifting gently in the air, a gingerbread house cake with frosting snow on the sill, sugar stars sparkling like snowflakes, striped awning and warm wooden shelves, soft painterly storybook style, rich amber and cream palette, cozy magical mood, ultra detailed, --ar 4:5 --style raw",
+  "howto": [
+    "Open Midjourney and paste the prompt above exactly as written.",
+    "Generate a grid of 4 and upscale the window scene with the warmest golden glow.",
+    "Vary the prompt by swapping 'bakery' for 'flower shop', 'bookshop' or 'toy shop' to build a full magical-window pack.",
+    "Post one illustration per day as a series — series posts earn far more follows than one-offs.",
+    "Use the best image as a page cover or story background to brand the whole cozy season."
+  ],
+  "tips": [
+    "The gold window glow is what stops the scroll — never let the palette drift into flat grey.",
+    "Keep one recurring shopkeeper cat in the window across the pack so viewers recognize your series instantly."
+  ],
+  "tags": ["bakery", "cozy", "storybook", "midjourney", "instagram", "facebook", "creator-niche"],
+  "trending": false,
+  "popularity": 87
+},
+{
+  "id": "rural-village-life-niche-finder-chatgpt",
+  "title": "Rural Village Life Niche Finder — ChatGPT Prompt for Underserved 2026 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Find the quiet gold in village life — slow mornings, farm cooking, old crafts, mountain routines — the underserved rural niches where small channels grow loyal audiences with almost no competition.",
+  "prompt": "Act as a creator-economy strategist who specializes in underserved rural and village-life niches. Find me 10 faceless YouTube and TikTok niches built around rural village life in 2026 — slow village mornings, farm-to-table cooking, old crafts (pottery, weaving, blacksmithing), mountain and countryside routines, village festivals, traditional food preservation. For EACH niche give: (1) the exact channel angle, (2) why viewers watch it (calm, nostalgia, escape), (3) 5 video ideas that need no filming crew, (4) 3 real channels already proving it works, (5) the monetization path — ads, sponsors, digital products, (6) the biggest mistake beginners make in this niche. Rank the 10 niches by growth potential for a brand-new channel. Exclude any niche with more than 20 established channels. Be specific — no generic advice.",
+  "howto": [
+    "Open ChatGPT and paste the prompt above exactly as written.",
+    "Read the ranked list and shortlist the top 3 niches by growth potential.",
+    "Ask ChatGPT to deep-dive your favourite: 'Expand niche #2 into a 30-video launch plan.'",
+    "Validate each niche by searching YouTube and TikTok — fewer than 20 real channels means the gap is real.",
+    "Pick ONE niche and commit to 30 videos before judging it — calm niches grow slow, then compound."
+  ],
+  "tips": [
+    "Nostalgia is the engine: village niches win on calm, not on shock — never chase trends inside them.",
+    "One village, one voice: film or generate everything in the same place so viewers feel they live there."
+  ],
+  "tags": ["niche discovery", "village life", "rural", "chatgpt", "youtube", "tiktok", "creator-niche"],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "thumbnail-ab-test-engine-gemini",
+  "title": "Thumbnail A/B Test Engine — Gemini Prompt for YouTube CTR in Any Niche",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Stop guessing thumbnails — feed Gemini your title and two thumbnail ideas and get a scored verdict on which one wins the click, plus 5 better variants. The CTR system every niche channel needs.",
+  "prompt": "Act as a YouTube CTR specialist who has tested 10,000+ thumbnails. My video title is: [YOUR TITLE]. My niche is: [YOUR NICHE]. Here are my two thumbnail ideas: (A) [DESCRIBE THUMBNAIL A — main subject, text, colors] and (B) [DESCRIBE THUMBNAIL B]. Score each thumbnail 1-10 on: (1) scroll-stopping power at small size, (2) curiosity gap, (3) emotion, (4) text readability, (5) niche fit. Declare a winner with the exact reason, then generate 5 NEW thumbnail concepts that beat both — each with: the main visual, the exact 2-4 word text, the color scheme, and why it would out-click A and B. Be blunt — if both my ideas are weak, say so and show me what a winner looks like.",
+  "howto": [
+    "Open Gemini and paste the prompt above, filling in your title, niche and two thumbnail ideas.",
+    "Take the winner and the best of the 5 new concepts into your thumbnail tool.",
+    "Make both thumbnails and run YouTube's Test & Compare if you have access — data beats opinion.",
+    "Track CTR for 7 days, then ask Gemini to iterate on the winner: 'Beat this thumbnail.'",
+    "Save every winning concept pattern — after 20 tests you will know your niche's CTR formula by heart."
+  ],
+  "tips": [
+    "Test ONE thing at a time — change the face or the text, never both, or you learn nothing.",
+    "Small-size check first: if the thumbnail is unreadable at phone size, no score matters."
+  ],
+  "tags": ["thumbnails", "ctr", "youtube growth", "gemini", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "niche-exit-strategy-claude",
+  "title": "Niche Exit Strategy — Claude Prompt to Sell, Sunset or Pivot a Channel Profitably",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Your niche has run its course — this playbook tells you whether to sell the channel, sunset it gracefully, or pivot it, and exactly how to do each without burning your audience or your income.",
+  "prompt": "Act as a creator-business advisor who has brokered channel sales and managed 50+ niche exits. My channel: [CHANNEL NAME + NICHE + SUBSCRIBER COUNT + MONTHLY REVENUE + AVERAGE VIEWS]. I think this niche is dying or I am burned out. Build me a complete exit decision kit: (1) a 10-point diagnosis — is the niche dying, or am I just tired, with the exact metrics that prove each, (2) three exit paths compared — SELL the channel, SUNSET it gracefully, or PIVOT to a new niche — with realistic money, time and reputation cost for each, (3) if selling: how to value the channel, where to list it, and the 5 red flags that kill a sale, (4) if sunsetting: a 4-week farewell plan that keeps the audience's trust and moves them to my next project, (5) if pivoting: a bridge-content plan that carries 80% of the audience across, (6) a go/no-go checklist for each path. Be honest — if the best move is to stay and fix the channel, say so and give me the fix.",
+  "howto": [
+    "Open Claude and paste the prompt above, filling in your channel details and revenue numbers.",
+    "Read the 10-point diagnosis FIRST — most 'dead niches' are actually burnout, not death.",
+    "Score all three paths on money, time and reputation before picking one.",
+    "If selling, get the valuation before telling anyone — a leaked sale kills subscriber trust.",
+    "Whatever you choose, announce it once, clearly, and never apologize for moving on."
+  ],
+  "tips": [
+    "Burnout lies: if the metrics are healthy but you are tired, the fix is a break or a hire, not an exit.",
+    "A sunset done well is an asset — loyal viewers follow creators, not niches, to the next channel."
+  ],
+  "tags": ["exit strategy", "channel sale", "pivot", "claude", "youtube", "creator-niche"],
+  "trending": false,
+  "popularity": 87
 }
 ];
 
