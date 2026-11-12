@@ -14111,7 +14111,100 @@ const PROMPTS = [
   "tags": ["exit strategy", "channel sale", "pivot", "claude", "youtube", "creator-niche"],
   "trending": false,
   "popularity": 87
+},
+{
+  "id": "niche-2026-11-12-ai-data-visualization-shorts",
+  "title": "AI Data Visualization Shorts (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Numbers feel like facts, not opinions — viewers trust a chart instantly, and a race with a surprise winner creates a curiosity gap that forces a full watch. The final frozen ranking is a screenshot moment, and screenshots become shares. Is niche ki videos 187.3M / 154.8M / 129.6M / 103.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-data-visualization-shorts.jpg",
+  "prompt": "AI video, [DURATION: 30 seconds], vertical 9:16: a stunning animated data visualization — [STAT: the world's richest countries racing as bars / population of every country as a growing bubble / how much money the top companies make every second / the size of the ocean vs the tallest mountain], [REVEAL: one bar suddenly overtakes the leader / the tiny dot becomes the giant / the number ticks up in real time], bold glowing charts, smooth satisfying motion, animated counters as the only text, a final shocking number that freezes on screen, vibrant colors on a dark background, clean modern motion graphics, no watermark",
+  "howto": [
+    "Open with the most shocking number in the first 2 seconds — TikTok decides in a blink, so the giant bar or the exploding number must appear before anyone can scroll.",
+    "Build the race for 20 seconds, then freeze on the final ranking for 3 seconds so viewers screenshot and share it.",
+    "Post 1-2 Shorts per day at 6-9pm and always end with 'Which country surprised you?' to pull comments."
+  ],
+  "tips": [
+    "Hook rule: the first frame must be a number that feels impossible — 'This country makes $1M every 10 seconds' beats any intro.",
+    "Caption trick: ask viewers to guess the #1 before watching — wrong guesses in the comments push the video to the FYP.",
+    "Reuse the same chart style across videos (same colors, same font) — viewers subscribe for the format, not one chart."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "data visualization",
+    "charts",
+    "infographics"
+  ],
+  "trending": true,
+  "popularity": 90
 }
+,
+{
+  "id": "niche-2026-11-12-ai-ancient-humans-prehistory",
+  "title": "AI Ancient Humans & Prehistory Daily Life (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Prehistory is a world no one has seen — every scene is automatically new, and a 'day in the life' turns dry history into a story viewers live inside. Wonder plus story equals watch time, and watch time is what YouTube rewards most. Is niche ki videos 18.2M / 14.6M / 11.3M / 8.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-ancient-humans-prehistory.jpg",
+  "prompt": "AI video, [DURATION: 8-12 minutes], horizontal 16:9: a cinematic prehistory explainer — [SCENE: what ancient humans actually did all day / the first mammoth hunt at dawn / how the first fire was discovered / a day in a cave-painting family], [MOMENT: the mammoth charges and the hunters hold their ground / the first spark catches and the cave glows gold / the hunter paints the animal he just killed on the wall], epic golden-hour and firelight cinematography, slow dramatic camera moves, a calm curious narrator voice, photorealistic, no text, no watermark",
+  "howto": [
+    "Open on the most epic image — the mammoth, the first fire, the painted cave — YouTube's first 15 seconds decide everything, so the wonder must come before the explanation.",
+    "Structure every video as one day in one life — morning hunt, midday danger, evening fire — a day-arc keeps viewers watching to the end.",
+    "Post 1 long video per week and cut 3 Shorts from it (the hunt, the fire, the painting) to feed the algorithm daily."
+  ],
+  "tips": [
+    "Hook rule: ask the question viewers can't resist — 'What did ancient humans actually do ALL day?' — then answer it with a scene, not a lecture.",
+    "Title trick: put the surprising fact first — 'They Hunted Mammoths With Sticks' out-pulls any generic history title.",
+    "Keep one recurring tribe across videos (same hunters, same cave) — viewers subscribe for the people, not one video."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "prehistory",
+    "ancient humans",
+    "documentary"
+  ],
+  "trending": true,
+  "popularity": 89
+}
+,
+{
+  "id": "niche-2026-11-12-ai-relatable-life-reels",
+  "title": "Funny Relatable Life Reels (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Relatability is a mirror — when viewers see their own life on screen, they tag the friend who lives it too. Every tag is a free view, and Facebook's algorithm reads tags and shares as the strongest signal to push a Reel further. Is niche ki videos 168.7M / 142.3M / 117.9M / 91.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-relatable-life-reels.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a funny relatable-life moment — [MOMENT: the Wi-Fi dies in the middle of an important video call / mom says 'we have food at home' while you crave fast food / the alarm rings and Monday arrives too fast / the phone battery hits 1% at the worst moment], [REACTION: the frozen horror face / the dramatic sigh / the slow-motion fall], bright everyday settings, expressive acting, quick punchy pacing, a relatable caption moment at the end, vibrant colors, photorealistic, no text, no watermark",
+  "howto": [
+    "Open on the reaction face — the horror, the sigh, the eye-roll — Facebook's 25-55 audience stops for emotion, not setups.",
+    "Keep it under 30 seconds: setup (5s) → disaster (10s) → reaction (5s) → caption punchline. One moment, one laugh, no filler.",
+    "Post 2 Reels per day at 7-9pm and always end with 'Tag someone this happened to' — tags are Facebook's free distribution."
+  ],
+  "tips": [
+    "Hook rule: the first frame must be a face everyone recognizes — we've ALL made that face when the Wi-Fi died.",
+    "Caption trick: 'POV: ...' captions turn a funny video into a share — shares to friends are what make Facebook Reels explode.",
+    "Mine your own life: the funniest Reels come from moments that actually happened to you — real beats written."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "relatable",
+    "comedy",
+    "funny"
+  ],
+  "trending": true,
+  "popularity": 90
+}
+
 ];
 
 if (typeof module !== "undefined") {
