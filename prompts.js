@@ -14203,6 +14203,316 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 90
+},
+{
+  "id": "tiny-chefs-giant-thanksgiving-turkey-veo3",
+  "title": "Tiny Chefs Cook a Giant Thanksgiving Turkey — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A team of tiny chefs roasts a turkey ten times their size in a warm, glowing kitchen — the tiny-world formula that already owns TikTok, now dressed for Thanksgiving week when food content peaks. Cute, chaotic, and impossible to scroll past.",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a team of tiny chefs in white hats and aprons cooking a giant golden Thanksgiving turkey in a cozy kitchen — [SCENE: one chef climbs a ladder to baste the turkey with a giant brush / two chefs carry a huge sprig of rosemary like a log / a chef slides down a gravy boat like a sled], steam rising, warm amber kitchen light, cranberries and autumn leaves scattered on the wooden table, tiny pots bubbling, playful teamwork, cinematic shallow depth of field, photorealistic, vibrant warm colors, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and start a new text-to-video generation in 9:16 vertical.",
+    "Paste the full prompt above and pick ONE bracketed scene per clip — one gag per video keeps it punchy.",
+    "Generate 3-4 variations of the same scene and keep the one with the clearest tiny-chef action.",
+    "Chain 2-3 clips into a 20-30 second story: prep → chaos → the golden finished turkey.",
+    "Add a trending Thanksgiving sound and a caption like 'The chefs are TINY but the turkey is HUGE' — post 1-2 days before Thanksgiving for peak search."
+  ],
+  "tips": [
+    "Tiny-world rule: the turkey must look ENORMOUS next to the chefs — scale contrast is the whole joke.",
+    "Keep the camera low, at chef height — shooting from their eye level makes viewers feel inside the tiny world.",
+    "Post a 'part 2' the next day (the tiny chefs serve the feast) — sequels double the watch time of a one-off."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "thanksgiving",
+    "tiny-chefs",
+    "food",
+    "viral"
+  ],
+  "trending": true,
+  "popularity": 94
+},
+{
+  "id": "thanksgiving-table-timelapse-feast-veo3",
+  "title": "Thanksgiving Table Time-Lapse Feast — Veo 3 Prompt for Viral YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "An empty table blooms into a full Thanksgiving feast in seconds — dishes appear, candles light themselves, steam curls up. Time-lapse magic is a proven Shorts format, and Thanksgiving week is when everyone searches for it.",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a cinematic time-lapse of an empty wooden dining table transforming into a full Thanksgiving feast — [SEQUENCE: a golden roast turkey appears in the center / bowls of mashed potatoes, cranberry sauce and green beans slide in / candles light themselves one by one / autumn leaves and pumpkins settle as decoration], golden-hour light streaming through a window, steam rising from every dish, camera slowly orbits the table, warm amber and crimson color grade, photorealistic, ultra detailed, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and generate in 9:16 vertical for Shorts and TikTok.",
+    "Paste the full prompt and keep the sequence order — empty table first, feast last, so the reveal lands.",
+    "Generate 2-3 takes and pick the one where the dishes appear smoothest, without flicker.",
+    "Add soft piano or lo-fi music and a text overlay: 'POV: Thanksgiving in 20 seconds'.",
+    "Post on Thanksgiving morning — 'feast reveal' searches spike all day."
+  ],
+  "tips": [
+    "The reveal is everything: the last 3 seconds should be the full table, glowing and steaming — hold that shot, don't cut early.",
+    "Swap the dishes for any holiday — Christmas dinner, Eid feast, Diwali sweets — the time-lapse formula works all year.",
+    "Film-style color grade matters: warm amber light sells 'cozy holiday' far better than flat white light."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "thanksgiving",
+    "food",
+    "timelapse",
+    "shorts"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "grumpy-grandma-thanksgiving-kitchen-kling",
+  "title": "Grumpy Grandma's Thanksgiving Kitchen Chaos — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A grumpy grandma runs her Thanksgiving kitchen like a boot camp while the family chaos erupts around her — flour explosions, a turkey on the run, everyone in trouble. Family comedy is TikTok's most relatable genre, and Thanksgiving is its Super Bowl.",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a funny Thanksgiving kitchen scene — a grumpy grandma in an apron and hair rollers [ACTION: scolding a grandson who dropped the cranberry sauce / chasing a dog that stole the turkey leg / catching flour exploding all over her glasses], family members panicking in the background, steam and chaos everywhere, warm cozy kitchen, exaggerated expressive faces, fast comedic timing, slapstick energy, bright warm colors, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Kling and start a new text-to-video generation in 9:16 vertical.",
+    "Paste the full prompt and choose ONE bracketed action — one joke per clip lands harder than three.",
+    "Generate 3-4 variations and keep the take with the funniest grandma expression in the first frame.",
+    "Add a trending funny sound or a 'grandma voice' voiceover — audio sells the joke.",
+    "Caption it 'POV: Grandma runs Thanksgiving like the military' and post 2-3 days before the holiday."
+  ],
+  "tips": [
+    "First frame rule: grandma's face must be visible and expressive in frame one — TikTok decides in under a second.",
+    "Keep the chaos in the background and grandma sharp in the foreground — one clear star, everyone else is the joke around her.",
+    "Make it a series: 'Grandma vs. Christmas', 'Grandma vs. the BBQ' — the same character across holidays builds a loyal audience."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "comedy",
+    "thanksgiving",
+    "family",
+    "viral"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "cozy-cabin-thanksgiving-story-sora",
+  "title": "Cozy Cabin Thanksgiving Story — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A snow-dusted cabin, a crackling fire, and a Thanksgiving story told without ever showing a face — Sora's cinematic long shots are perfect for the cozy storytelling niche that keeps viewers watching to the end.",
+  "prompt": "AI video, [DURATION: 30-60 seconds], cinematic 16:9: a cozy Thanksgiving story inside a snow-dusted wooden cabin — [SCENE: golden light spills from the windows onto fresh snow / hands place a pumpkin pie on a worn wooden table / a rocking chair creaks beside a crackling fireplace / snow falls past the window as a family laughs out of frame], slow drifting camera, warm amber firelight against cool blue snow light, film grain, nostalgic autumn atmosphere, photorealistic, ultra detailed, no text, no watermark",
+  "howto": [
+    "Open Sora and start a text-to-video generation in 16:9 for YouTube.",
+    "Paste the full prompt and generate one clip per bracketed scene — 4 scenes make a complete 60-second story.",
+    "Pick the takes with the smoothest slow camera drift and the warmest firelight.",
+    "Stitch the scenes in story order and narrate over them with a warm, slow voiceover — the story is the product, the visuals are the mood.",
+    "Title it like a story, not a prompt: 'The Cabin Where Thanksgiving Never Ended' — story titles out-click generic ones."
+  ],
+  "tips": [
+    "Sound design is half the video: fire crackle + soft piano under the narration makes a simple cabin feel like a film.",
+    "Never show a face — hands, silhouettes and out-of-frame laughter keep the mystery that faceless channels run on.",
+    "End on the window shot with snow falling — a calm final image makes viewers stay for the outro and subscribe."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "thanksgiving",
+    "cozy",
+    "storytelling",
+    "faceless"
+  ],
+  "trending": false,
+  "popularity": 88
+},
+{
+  "id": "paper-cut-autumn-forest-runway",
+  "title": "Paper-Cut Autumn Forest Comes Alive — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "A layered paper-cut forest in red, gold and orange rustles, folds and comes alive — a deer steps out of the paper trees, leaves flutter off the page. Craft-style animation is Instagram's quiet viral machine, and autumn is its peak season.",
+  "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: a layered paper-cut autumn forest in deep red, burnt orange and gold — [MOTION: paper leaves flutter off the trees and drift across the frame / a paper deer steps out from behind a paper oak / layered paper hills fold and unfold like a pop-up book], crisp cut-paper edges, soft shadows between layers, warm afternoon light, gentle camera push-in, handcrafted storybook feel, vibrant saturated colors, no text, no watermark",
+  "howto": [
+    "Open Runway and start a text-to-video generation in 9:16 vertical.",
+    "Paste the full prompt and choose ONE bracketed motion per clip — a single clean movement reads better than three at once.",
+    "Generate 3-4 takes and keep the one where the paper layers stay crisp with no warping.",
+    "Loop the clip seamlessly (end frame matches start frame) so it plays forever on Reels — loops are free watch time.",
+    "Pair it with soft acoustic music and a caption like 'Autumn, but make it paper' — craft audiences save and share."
+  ],
+  "tips": [
+    "Layer depth sells the craft: ask for visible shadows between paper layers or the scene looks flat.",
+    "One animal, one action: a deer stepping out beats a whole forest of animals moving at once.",
+    "Reuse the style across seasons — paper-cut winter village, paper-cut spring garden — one style becomes a recognizable brand."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "autumn",
+    "art",
+    "papercraft",
+    "reels"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "gratitude-jar-glow-timelapse-flow",
+  "title": "Gratitude Jar Glow Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A plain glass jar fills with glowing golden notes of gratitude, one by one, until the whole jar shines — a satisfying, heartwarming loop that Facebook's 25-55 audience saves, shares and tags friends in. Thanksgiving week is its moment.",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a satisfying time-lapse of a glass gratitude jar on a wooden table — [SEQUENCE: a hand drops in the first glowing golden note / more notes float down one by one, each glowing warmly / the jar fills and begins to glow like a lantern / soft golden light spills across the table], cozy evening light, autumn leaves beside the jar, gentle camera drift, warm golden color grade, photorealistic, ultra detailed, no text, no watermark",
+  "howto": [
+    "Open Google Flow and start a new text-to-video generation in 9:16 vertical.",
+    "Paste the full prompt and keep the sequence order — empty jar first, glowing jar last.",
+    "Generate 2-3 takes and keep the one where the glow builds smoothly without flicker.",
+    "Add gentle piano music and a caption: 'What are you grateful for this year?' — questions drive comments.",
+    "Post in the evening (7-9pm) when Facebook's core audience scrolls — and pin the best comment reply."
+  ],
+  "tips": [
+    "The glow is the payoff: the final jar should shine bright enough to light the table — hold that shot for 3 full seconds.",
+    "End with a question, not a statement — 'What would YOU put in the jar?' turns viewers into commenters.",
+    "Make a matching series: gratitude jar, kindness jar, dream jar — one satisfying format, endless variations."
+  ],
+  "tags": [
+    "creator-niche",
+    "facebook",
+    "gratitude",
+    "satisfying",
+    "timelapse",
+    "thanksgiving"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "cozy-friendsgiving-table-illustrations-midjourney",
+  "title": "Cozy Friendsgiving Table Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Warm, storybook illustrations of a friends' Thanksgiving table — mismatched mugs, string lights, a pie cooling on the sill. Cozy illustrated holiday art is the most-saved image style on Instagram and Facebook in November.",
+  "prompt": "Cozy storybook illustration of a Friendsgiving dinner table, [STYLE: warm watercolor storybook / soft digital painting / whimsical children's-book art], mismatched mugs and plates, string lights glowing above, a golden pumpkin pie cooling on the windowsill, autumn leaves scattered on a checkered tablecloth, [DETAIL: friends' hands reaching for dishes, just out of frame / a sleepy cat curled on a chair / steam curling from mugs of cider], warm amber and cranberry palette, soft textured brushwork, inviting and heartwarming, --ar 4:5 --style raw --v 6.1",
+  "howto": [
+    "Open Midjourney and paste the full prompt into the imagine bar.",
+    "Pick ONE bracketed style and ONE bracketed detail per generation — mixing all three muddies the image.",
+    "Upscale the best of the four results, then run 2-3 variations on it for a matching set.",
+    "Post as a carousel: table scene → pie close-up → mug detail → full table again — carousels get 2-3x the saves of single images.",
+    "Caption it with a question: 'Who's coming to your Friendsgiving?' — saves + comments beat likes for reach."
+  ],
+  "tips": [
+    "Keep hands out of frame or cropped — Midjourney still fumbles fingers, and cropped hands look intentional.",
+    "One consistent palette across the pack (amber + cranberry) makes the carousel feel like a real set, not random images.",
+    "Save the best image as your page's November cover — seasonal covers signal an active, current page."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "thanksgiving",
+    "illustration",
+    "cozy"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "black-friday-niche-finder-chatgpt",
+  "title": "Black Friday Niche Finder — ChatGPT Prompt for Q4 Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Black Friday week is the biggest buying week of the year — and the biggest content-opportunity week for creators who pick the right niche. This ChatGPT prompt finds the underserved Black Friday angles nobody else is covering yet.",
+  "prompt": "Act as a Q4 content strategist who has launched 50+ creator channels. I want to find an underserved Black Friday / holiday-shopping content niche for [PLATFORM: YouTube / TikTok / Facebook / Instagram] in 2026. My skills are [YOUR SKILLS: e.g. video editing, product reviews, thrifting, cooking] and I can post [POSTING CAPACITY: e.g. 3 videos per week]. Give me: (1) 10 Black Friday niche angles ranked by demand vs competition, with a 1-10 score for each; (2) for the top 3, the exact audience, their biggest pain point, and 5 video ideas each; (3) 3 niches to AVOID because they are saturated or low-RPM; (4) a 14-day launch plan from today to Black Friday with daily tasks. Be specific — name real product categories and real search phrases, no generic advice.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above.",
+    "Fill in the three brackets: your platform, your skills, and how often you can realistically post.",
+    "Ask it to justify the top 3 scores with real search trends or shopping data it knows — push back on vague answers.",
+    "Take the top niche and validate it: search the platform for the exact phrases it gave you and count how many strong competitors show up.",
+    "Launch the 14-day plan immediately — Black Friday content posted 7+ days early ranks, content posted on the day drowns."
+  ],
+  "tips": [
+    "The 'niches to avoid' section is the most valuable part — a wrong niche costs you the whole Q4 season.",
+    "Run the prompt once per platform — a Black Friday niche that wins on TikTok often flops on YouTube, and vice versa.",
+    "Save the output as your November playbook and re-run it in early December for the Christmas-gift version."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "black-friday",
+    "niche-discovery",
+    "q4"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "holiday-hook-pack-gemini",
+  "title": "Holiday Hook Pack — Gemini Prompt for Thanksgiving & Black Friday Hooks for TikTok & Reels",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "The first 2 seconds decide everything — and holiday feeds are the most crowded feeds of the year. This Gemini prompt writes 50 platform-specific hooks for your Thanksgiving and Black Friday videos, so none of your videos opens weak.",
+  "prompt": "Act as a viral short-form copywriter who writes hooks for the top 1% of TikTok and Reels creators. My niche is [YOUR NICHE: e.g. budget cooking, thrift flips, cozy home, tech deals] and my next videos are about [TOPIC: e.g. Thanksgiving on a budget / Black Friday deals worth it / Friendsgiving ideas]. Write 50 opening hooks (first 2 seconds, spoken on camera or as on-screen text) split into 5 styles: (1) curiosity gaps — 10 hooks; (2) bold claims — 10 hooks; (3) relatable pain — 10 hooks; (4) pattern interrupts — 10 hooks; (5) questions that demand an answer — 10 hooks. Every hook must be under 12 words, specific to my niche and the holiday, and written for [PLATFORM: TikTok / Instagram Reels / Facebook Reels]. No generic hooks like 'You won't believe this'. Rank the top 10 overall and explain in one line each why they stop the scroll.",
+  "howto": [
+    "Open Gemini and paste the full prompt above.",
+    "Fill in your niche, your holiday topic, and the platform — the hooks change completely per platform.",
+    "Pick the top 10 it ranks, then test 3 per day across your videos — never reuse the same hook twice in a week.",
+    "Say the hook out loud before filming: if it sounds awkward spoken, rewrite it in your own words.",
+    "Track which style wins for your audience (curiosity vs bold claim) and ask Gemini for 20 more in that winning style."
+  ],
+  "tips": [
+    "Under 12 words is a hard rule — a hook you can't say in one breath is a hook viewers skip.",
+    "Pattern interrupts win in November: a hook that breaks the holiday cliché ('Stop buying turkey') beats another cozy one.",
+    "Keep a running hook bank — paste your winners back into Gemini each week and ask it to riff 10 variations on each."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "instagram",
+    "hooks",
+    "holiday",
+    "black-friday"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "q4-monetization-sprint-planner-claude",
+  "title": "Q4 Monetization Sprint Planner — Claude Prompt to Turn November Views Into December Income",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Intermediate",
+  "desc": "November views are worthless if they don't turn into December income. This Claude prompt builds a full 45-day Q4 monetization sprint — affiliate picks, digital products, sponsorship outreach — matched to your exact niche and audience size.",
+  "prompt": "Act as a creator-business coach who has helped 200+ small channels monetize. My channel is about [YOUR NICHE] on [PLATFORM: YouTube / TikTok / Facebook / Instagram], with [AUDIENCE SIZE: e.g. 4,200 subscribers] and [MONTHLY VIEWS: e.g. 85,000]. My audience is mostly [AUDIENCE: e.g. US moms 25-44 / students 18-24]. Build me a 45-day Q4 monetization sprint from November 15 to December 31: (1) rank 6 income streams for MY niche by expected money in 45 days — affiliate, digital product, sponsorship, ad revenue, membership, services — with realistic dollar estimates; (2) pick the top 2 streams and give me a week-by-week execution plan with exact deliverables; (3) write 3 sponsorship outreach emails I can send this week, tailored to brands in my niche; (4) list 5 affiliate products that fit my content and my audience's budget; (5) flag the 3 biggest mistakes small creators make in Q4 that kill their income. Be honest about what is unrealistic at my size — no hype numbers.",
+  "howto": [
+    "Open Claude and paste the full prompt above.",
+    "Fill in every bracket honestly — inflated audience numbers produce a plan you can't execute.",
+    "Challenge the dollar estimates: ask Claude to show its math for the top 2 streams before you commit.",
+    "Start with the top stream only — two streams at once splits your focus and both underperform.",
+    "Send the 3 outreach emails within 48 hours — brands finalize December budgets in mid-November, not December."
+  ],
+  "tips": [
+    "The 'mistakes' section saves real money — most Q4 income is lost to bad affiliate picks, not low views.",
+    "Ask Claude to re-rank the streams if your audience size doubles — the right stream at 5K subs is wrong at 50K.",
+    "Re-run this prompt on December 1 with your real November numbers — a plan built on real data beats one built on guesses."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "monetization",
+    "q4",
+    "creator-business",
+    "sponsorship"
+  ],
+  "trending": false,
+  "popularity": 87
 }
 
 ];
