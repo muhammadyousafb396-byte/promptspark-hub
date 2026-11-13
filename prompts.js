@@ -14513,6 +14513,96 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 87
+},
+{
+  "id": "niche-2026-11-13-ai-stickman-comparison-reels",
+  "title": "AI Stickman Comparison Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Comparisons trigger the brain's 'who wins?' instinct — viewers physically cannot scroll until they know the winner, and the tiny stickman makes any giant scale feel personal and funny. Is niche ki videos 95.9M / 74.2M / 58.6M / 41.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-stickman-comparison-reels.jpg",
+  "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a stickman comparison showdown — [MATCHUP: a tiny stickman vs a giant stickman / a stickman vs a shark in the ocean / a stickman lifting a car vs an ant lifting a leaf / a stickman next to a skyscraper vs a mountain], [TWIST: the tiny one wins by a clever trick / the scale flips at the last second / the underdog's secret is revealed], simple white stick figures on bold saturated color backgrounds, dramatic zoom-ins on the size difference, punchy snappy motion, a big visual reveal at the end, no text, no watermark",
+  "howto": [
+    "Open with both sides on screen at once — the size gap must hit in the first second, because Reels viewers decide by the thumbnail frame.",
+    "Build the comparison in 3 beats: show A (3s) → show B (3s) → the twist reveal (5s) that flips the winner. One matchup, one twist, no filler.",
+    "Post 1-2 Reels per day and always end with 'Who wins next? Comment!' — matchup votes in the comments push the Reel to non-followers."
+  ],
+  "tips": [
+    "Hook rule: the first frame must be the impossible scale — a stickman next to a shark stops the scroll before any words are needed.",
+    "Caption trick: 'Part 2 if this hits 10K likes' turns one comparison into a series — viewers follow for the next matchup.",
+    "Keep the stickman identical in every video (same white figure, same style) — viewers subscribe for the character, not one comparison."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "stickman",
+    "comparison",
+    "versus"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "niche-2026-11-13-ai-podcast-clip-pages",
+  "title": "AI Podcast Clip Pages (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A shocking confession in a podcast clip feels like eavesdropping on a real conversation — curiosity plus 'wait, what did he just say?' replays, and every replay tells TikTok to push it further. Is niche ki videos 42.8M / 31.5M / 24.9M / 18.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-podcast-clip-pages.jpg",
+  "prompt": "AI video, [DURATION: 60-90 seconds], vertical 9:16: a viral podcast clip — [SCENE: two hosts at microphones in a neon-lit studio / a guest leaning in to confess a shocking story / a host reacting with wide eyes to a wild claim], [CONFESSION: 'I found out my boss was stealing from the company' / 'I lived in a stranger's house for a month' / 'My millionaire uncle left everything to his dog'], cinematic studio lighting, close-up reaction shots, dramatic pauses, captions burned in word by word, the most shocking line as the hook in the first 2 seconds, photorealistic, no watermark",
+  "howto": [
+    "Open with the most shocking line of the story in the first 2 seconds — TikTok decides in a blink, so the confession must come before any intro.",
+    "Cut the clip into a 60-90 second arc: hook line (2s) → setup (20s) → twist (20s) → cliffhanger ending that demands Part 2.",
+    "Post 3-5 clips per week at 6-9pm and always end with 'Part 2 tomorrow' — open loops are what turn one viral clip into 10K followers."
+  ],
+  "tips": [
+    "Hook rule: the first sentence must sound like a secret — 'I never told anyone this, but...' beats any polished intro.",
+    "Caption trick: burn captions in word by word — 85% of TikTok plays start muted, so captions carry the story.",
+    "Keep the same two hosts and the same studio across every clip — viewers subscribe for the show, not one confession."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "podcast",
+    "clips",
+    "storytime"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "niche-2026-11-13-ai-psychology-of-people-shorts",
+  "title": "Psychology of People Who… Shorts (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "'People who…' titles make viewers check themselves — 'is that me?' — and self-recognition drives comments, saves and shares, the exact signals YouTube Shorts rewards most. Is niche ki videos 5.4M / 4.1M / 3.2M / 2.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-psychology-of-people-shorts.jpg",
+  "prompt": "AI video, [DURATION: 30-60 seconds], vertical 9:16: a 'Psychology of People Who…' Short — [TOPIC: people who don't get tattoos / people who always arrive early / people who talk to their pets / people who can't throw anything away], [REVEAL: the hidden trait science links to the habit / the surprising reason behind the behavior / the one thing they all have in common], a glowing brain visual with thought bubbles, split-screen contrasts of two people, bold saturated colors, a curious narrator voice, the answer revealed only in the last 5 seconds, photorealistic, no text, no watermark",
+  "howto": [
+    "Open with the question as the title and the first frame — 'Psychology of people who…' is the hook itself, so the question must appear before anything else.",
+    "Tease 2 traits in the middle, then save the most surprising one for the last 5 seconds — viewers who wait for the payoff watch to the end.",
+    "Post 1 Short per day and pin a comment asking 'Which one are you?' — self-identification comments drive the Shorts algorithm."
+  ],
+  "tips": [
+    "Hook rule: the title must make viewers check themselves — 'is that ME?' is the strongest scroll-stopper on Shorts.",
+    "Title trick: put the specific habit first — 'People Who Don't Get Tattoos' out-pulls any generic psychology title.",
+    "Use the same brain visual and narrator voice in every Short — viewers subscribe for the format, not one fact."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "psychology",
+    "shorts",
+    "human behavior"
+  ],
+  "trending": true,
+  "popularity": 90
 }
 
 ];
