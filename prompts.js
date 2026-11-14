@@ -14907,7 +14907,98 @@ const PROMPTS = [
   ],
   "trending": false,
   "popularity": 87
+},
+{
+  "id": "niche-2026-11-14-ai-tool-reviews-workflows",
+  "title": "AI Tool Reviews & Workflows (Facebook Reels Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Screen-recorded AI tool demos are Facebook's fastest-growing faceless format — 'this free AI tool just replaced a $500/month software' hooks, one tool per Reel, and the demo IS the content. Is niche ki videos 174.2M / 149.6M / 126.8M / 101.3M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-tool-reviews-workflows.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30-60 seconds], vertical 9:16: an AI tool review Reel — screen-recording style of [TOOL NAME: e.g. a free AI video editor] doing [TASK: e.g. turning a script into a finished video], opening with the bold claim '[THIS FREE AI TOOL JUST REPLACED A $500/MONTH SOFTWARE]', a fast before/after split — slow manual work on the left, one-click AI result on the right — [RESULT: e.g. a polished 60-second video in 40 seconds], bright modern workspace, glowing screen, crisp motion, energetic pacing, photorealistic, no text, no watermark",
+  "howto": [
+    "Pick ONE tool and ONE job it does — 'this AI edits your video' beats '10 AI tools' every time, because one clear promise is easier to believe.",
+    "Open with the money or time saved in the first 2 seconds ('free', '$500/month', '40 seconds') — the saving IS the hook, show the before/after proof right after.",
+    "Post 1 tool per day and pin a comment asking 'Which tool should I test next?' — the comments become your next 30 video ideas."
+  ],
+  "tips": [
+    "Hook rule: lead with the saving, not the tool name — 'This free AI just replaced a $500/month software' stops the scroll; the tool name can wait 3 seconds.",
+    "Caption trick: put the exact saving in the caption first line ('Saves $500/month — free link in comments') so the caption itself sells the click.",
+    "Use the same screen layout and voice in every Reel — viewers subscribe for the format, and Facebook pushes series they recognise."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "ai-tools",
+    "reels",
+    "workflows"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "niche-2026-11-14-ai-aesthetic-motivation-reels",
+  "title": "Aesthetic Lifestyle & Motivation Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Golden-hour loops + one short motivational line = Instagram's save machine. Clean cinematic visuals make people stop, the quote makes them save, and saves are the #1 signal Instagram rewards. Is niche ki videos 158.9M / 132.4M / 107.6M / 84.2M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-aesthetic-motivation-reels.jpg",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: an aesthetic lifestyle loop — [SCENE: golden-hour rooftop skyline / calm luxury morning coffee by a sunny window / mountain sunrise with a lone hiker / minimal elegant desk in warm morning light], slow cinematic drift, warm golden light, soft dreamy haze, the feeling of one short motivational line — [QUOTE: e.g. 'small steps every day'], peaceful and inspiring, perfectly loopable, photorealistic, no text, no watermark",
+  "howto": [
+    "Pick ONE scene and ONE short line (5-8 words max) — a loop people rewatch beats a lecture nobody finishes.",
+    "Keep the camera moving slowly in one direction the whole Reel — a smooth drift is what makes the loop feel endless and rewatchable.",
+    "Post at the same time daily and use the same golden-hour colour grade — Instagram rewards accounts whose Reels look like a series, not random posts."
+  ],
+  "tips": [
+    "Hook rule: beauty stops the scroll in the first frame — the golden light must be visible before the viewer even reads anything.",
+    "Caption trick: end the caption with 'Save this for a day you need it' — a save prompt turns a pretty Reel into Instagram's #1 ranking signal.",
+    "One quote per Reel, never a paragraph — a line people can remember is a line people share to their story."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "motivation",
+    "aesthetic",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "niche-2026-11-14-ai-roblox-what-if",
+  "title": "Roblox 'What If' Videos (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Blocky Roblox avatars acting out impossible 'what if' scenarios — gravity off, avatar comes alive, giant in a tiny city — is TikTok's newest kid-and-teen magnet: funny, surprising, and built for comments. Is niche ki videos 196.5M / 171.8M / 146.3M / 119.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-roblox-what-if.jpg",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a Roblox 'What If' video — a blocky Roblox avatar with [AVATAR LOOK: blue hoodie, yellow hair, red sneakers] in [SCENARIO: a bedroom where gravity just switched off / a living room where the avatar climbs out of a phone screen / a tiny blocky city with a giant avatar / a neon street race against a red sports car], [TWIST: the twist revealed only in the last 3 seconds], bright saturated colors, playful 3D cartoon style, bouncy energetic motion, funny and surprising, no text, no watermark",
+  "howto": [
+    "Start with the 'what if' question as the title and the first frame — the question is the hook, so it must appear before anything else.",
+    "Build the impossible scene for 10 seconds, then save the twist for the last 3 seconds — viewers who wait for the payoff watch to the end.",
+    "Post 1 what-if per day and pin a comment asking 'What if next?' — the comments write your next 30 videos for you."
+  ],
+  "tips": [
+    "Hook rule: the 'what if' must break a rule kids know — gravity off, avatar alive, giant in a tiny city — a small change nobody cares about.",
+    "Title trick: put the impossible thing first — 'What If Roblox Had NO Gravity?' out-pulls any generic Roblox title.",
+    "Keep the same avatar look in every video — kids subscribe to the character, not to one scenario."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "roblox",
+    "gaming",
+    "what-if"
+  ],
+  "trending": true,
+  "popularity": 92
 }
+
 ];
 
 if (typeof module !== "undefined") {
