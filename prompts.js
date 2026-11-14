@@ -14604,7 +14604,310 @@ const PROMPTS = [
   "trending": true,
   "popularity": 90
 }
-
+,
+{
+  "id": "sugar-cube-city-build-timelapse-veo3",
+  "title": "Sugar Cube City Build Timelapse — Veo 3 Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A whole miniature city built from sugar cubes — towers rising, bridges sliding into place, tiny windows glowing — in one hypnotic timelapse. Satisfying build videos are TikTok's most rewatchable format, and a sugar city is a version nobody has seen yet.",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a satisfying timelapse of a miniature city being built entirely from white sugar cubes on a pastel kitchen table — tiny hands stacking glowing towers, a sugar-cube bridge sliding into place, miniature street lights flickering on one by one, a final sprinkle of powdered-sugar 'snow' over the rooftops, warm morning light, crisp macro detail, gentle upbeat music feel, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Pick your city style first — a cozy village, a skyline, or a fairytale castle — and name it in the prompt so every clip in the series matches.",
+    "Generate 3 versions and keep the one where the final 'snow' sprinkle lands cleanly — that 2-second moment is the share trigger.",
+    "Post as a series: one district per video (downtown, the bridge, the palace) and pin a comment asking which district to build next.",
+    "Loop the last 2 seconds back to the first frame in your editor so the video replays seamlessly and racks up rewatches."
+  ],
+  "tips": [
+    "The snow sprinkle is the payoff — if Veo 3 buries it, regenerate with the sprinkle as the final sentence of the prompt.",
+    "Keep the table pastel and uncluttered; a busy background kills the satisfying effect.",
+    "Title it as a question ('Can a city be made of sugar?') — curiosity titles beat descriptive ones on this format."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "satisfying",
+    "miniature",
+    "timelapse"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "cozy-winter-greenhouse-night-veo3",
+  "title": "Cozy Winter Greenhouse at Night — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Outside, snow falls on a dark garden. Inside a glowing greenhouse, plants bloom, fairy lights twinkle and steam curls from a mug of tea. Cozy winter visuals are YouTube Shorts' highest-retention comfort niche — and a greenhouse at night is a fresh angle on it.",
+  "prompt": "Veo 3 video, [DURATION: 20-30 seconds], vertical 9:16: a cozy glass greenhouse glowing warm gold on a snowy night — snowflakes drifting past the glass, lush green plants and winter blooms inside, warm fairy lights strung between the rafters, steam curling from a mug of tea on a wooden bench, a cat curled asleep among the pots, soft cinematic glow, slow gentle camera drift, peaceful and magical, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Decide your recurring detail — the cat, the tea mug, or one signature plant — and keep it in every clip so viewers recognize your series instantly.",
+    "Generate the clip at dusk-glow warmth: if the greenhouse looks cold or blue, add 'warm golden light' twice in the prompt.",
+    "Pair the clip with soft piano or rain-and-fire ambience in your editor; cozy Shorts live or die on their sound.",
+    "Post one greenhouse moment per day (watering, blooming, snowfall) and let the series compound into a faceless cozy channel."
+  ],
+  "tips": [
+    "The cat is the retention hack — viewers stay to see what the cat does, so keep it visible in the first frame.",
+    "Snow outside + warmth inside is the contrast that stops the scroll; never let the greenhouse look like daytime.",
+    "Add a one-line on-screen caption in your editor ('the warmest place in winter') — Shorts viewers read before they listen."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "cozy",
+    "winter",
+    "shorts"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "grumpy-office-printer-comedy-kling",
+  "title": "Grumpy Office Printer Comedy — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Everyone has fought a printer. This Kling prompt turns the office printer into a grumpy character that jams, beeps and refuses to cooperate — relatable workplace comedy that TikTok's 9-to-5 audience shares instantly.",
+  "prompt": "Kling video, [DURATION: 8-15 seconds], vertical 9:16: a funny office scene where a grumpy old office printer comes alive as a character — its paper tray sighs, its lights blink like annoyed eyes, it spits out one crumpled page then jams dramatically while a stressed employee pleads with it, bright office lighting, exaggerated cartoon expressions on the machine, snappy comedic timing, playful and relatable, no text, no watermark",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Give the printer one personality trait per clip — grumpy, dramatic, or passive-aggressive — and keep it consistent across the series.",
+    "Generate 3-4 takes and keep the one with the clearest 'jam' moment; the jam is the punchline.",
+    "Add a trending office sound or a sigh sound effect in your editor — audio sells the joke twice as hard.",
+    "Caption it with a relatable line ('POV: the printer on Monday morning') and post at lunch hour when office workers scroll."
+  ],
+  "tips": [
+    "Relatability beats production value here — the more ordinary the office, the funnier the living printer feels.",
+    "Keep clips under 15 seconds; office comedy dies when the setup outruns the punchline.",
+    "Reply to every 'this is literally my printer' comment with a follow-up clip idea — comment replies are free reach."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "comedy",
+    "office",
+    "relatable"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "lost-and-found-office-forgotten-dreams-sora",
+  "title": "The Lost-and-Found Office of Forgotten Dreams — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "Somewhere between midnight and morning, a quiet office collects the dreams people forgot — a pilot's wings, a painter's first brush, a song nobody finished. Sora's cinematic storytelling makes this the kind of faceless story series viewers binge at 2 a.m.",
+  "prompt": "Sora video, [DURATION: 30-60 seconds], vertical 9:16: a cinematic story scene inside a mysterious lost-and-found office of forgotten dreams — tall wooden shelves holding glowing objects (a pilot's wings, a painter's brush, a half-finished song in a glass jar), a kind old clerk in a waistcoat cataloguing each dream by lamplight, dust motes floating in warm golden light, a young visitor finding the dream they gave up years ago, emotional, storybook cinematic, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Choose one dream-object per episode — the wings, the brush, the song — and build the episode around the person who lost it.",
+    "Generate the clerk and the office first and reuse that exact description in every episode prompt so the world stays consistent.",
+    "Narrate over the clip in your editor with a calm storyteller voice; the narration carries the emotion, the visuals carry the wonder.",
+    "End every episode with a question on screen ('What dream did you leave behind?') to turn viewers into commenters."
+  ],
+  "tips": [
+    "One dream per episode is the rule — two dreams in one video halves the emotional payoff.",
+    "The glass jar with the song is your thumbnail moment; generate a still of it for the cover.",
+    "Keep the clerk's look locked (waistcoat, lamplight, kind eyes) — a consistent character is what turns one video into a series."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "storytelling",
+    "fantasy",
+    "shorts"
+  ],
+  "trending": false,
+  "popularity": 89
+},
+{
+  "id": "living-pop-up-book-winter-tales-runway",
+  "title": "Living Pop-Up Book of Winter Tales — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A storybook opens and winter rises off the page — paper mountains fold up, a tiny paper train puffs across the spread, snowflakes lift into the air. Pop-up book magic is pure Reels candy: nostalgic, beautiful, and endlessly rewatchable.",
+  "prompt": "Runway video, [DURATION: 10-20 seconds], vertical 9:16: a magical pop-up storybook opening on a wooden table — as the pages turn, a paper winter world rises off the page: folded paper mountains, a tiny paper train puffing steam across the spread, paper snowflakes lifting gently into the air, warm lamplight, delicate paper-craft detail, whimsical and enchanting, soft cinematic motion, no text, no watermark",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Pick one tale per Reel — the train, the mountains, the snowflakes — and let that single pop-up carry the whole clip.",
+    "Generate 3 versions and keep the one where the paper rises smoothest; a jerky pop-up breaks the magic.",
+    "Add a soft page-turn sound and a gentle music box melody in your editor — Reels with crafted sound outperform silent ones.",
+    "Post as a series ('Tale 1: The Paper Train') so viewers follow for the next page of the book."
+  ],
+  "tips": [
+    "Warm lamplight is essential — cold light makes paper look flat and cheap.",
+    "The page turn is your hook: make sure the first frame already shows the book half-open.",
+    "Keep the table wood-toned and clean; a cluttered table competes with the paper world."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "winter",
+    "storybook",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "colorful-smoke-rings-dance-flow",
+  "title": "Colorful Smoke Rings Dance — Google Flow Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Rings of jewel-colored smoke drift, spin and braid themselves into impossible shapes against a black background — a pure satisfying loop that TikTok's algorithm loves because viewers watch it three times before they even notice.",
+  "prompt": "Google Flow video, [DURATION: 8-15 seconds], vertical 9:16: a mesmerizing loop of colorful smoke rings dancing against a pure black background — rings of teal, magenta and gold smoke drifting, spinning and braiding into each other, slow graceful motion, glowing edges, hypnotic and satisfying, seamless loop, ultra-smooth, no text, no watermark",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Choose one color trio per clip (teal-magenta-gold, violet-orange-pink) and keep it consistent so your page has a recognizable palette.",
+    "Generate 3 versions and keep the one where the rings braid cleanly — a messy tangle reads as smoke, not art.",
+    "Loop the clip seamlessly in your editor (first and last frames matching) so viewers rewatch without noticing the loop point.",
+    "Post with a lo-fi or ambient track and a one-word caption ('breathe') — minimal captions let the visual carry the video."
+  ],
+  "tips": [
+    "Black background is non-negotiable — any other background washes the colors out.",
+    "The loop point is everything: a visible jump kills rewatch value, so test it on mute before posting.",
+    "Batch 5 color trios in one session and drip-feed them across the week — satisfying pages grow on consistency."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "satisfying",
+    "macro",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "cozy-hygge-winter-interiors-midjourney",
+  "title": "Cozy Hygge Winter Interiors — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Chunky knit blankets, candlelight, steaming cocoa and snow glowing outside the window — hygge interiors are the most saved image niche of winter. This Midjourney prompt builds a whole pack of them for Instagram and Facebook pages.",
+  "prompt": "Midjourney image, cozy hygge winter interior, [ROOM: reading nook / bedroom / kitchen corner / window seat], chunky knit blankets and sheepskin throws, warm candlelight and a glowing fireplace, steaming mug of cocoa on a wooden tray, snow falling softly outside a frosted window, soft warm tones, inviting and peaceful, photorealistic interior photography, --ar 4:5 --v 6.1",
+  "howto": [
+    "Open Midjourney and paste the full prompt above.",
+    "Fill in one room per image — a reading nook, a window seat, a kitchen corner — so the pack feels like a real home, not one room repeated.",
+    "Generate 4 variations per room and keep the warmest one; cold-looking hygge defeats the point.",
+    "Post as a carousel on Instagram (4-5 rooms) and as single images on Facebook with a cozy caption.",
+    "Save the best room as your page's pinned winter post — it becomes the visual anchor new visitors see first."
+  ],
+  "tips": [
+    "The frosted window with snow outside is the signature detail — without it, the image could be any season.",
+    "Warm candlelight beats bright overhead light every time; if Midjourney gives you daylight, add 'candlelit evening' to the prompt.",
+    "Use the same blanket-and-cocoa palette across the pack so the images look like one collection, not random finds."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "cozy",
+    "winter",
+    "interior"
+  ],
+  "trending": true,
+  "popularity": 86
+},
+{
+  "id": "winter-to-2027-niche-bridge-finder-chatgpt",
+  "title": "Winter-to-2027 Niche Bridge Finder — ChatGPT Prompt to Carry November Views Into January Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "November views die in January — unless your niche bridges the gap. This ChatGPT prompt finds the niches that start hot in winter and keep paying into 2027, so your channel never has to start over on New Year's Day.",
+  "prompt": "Act as a creator-niche strategist who studies seasonal audience behavior. My channel is about [YOUR NICHE: e.g. cozy home, budget cooking, winter crafts] on [PLATFORM: YouTube / TikTok / Facebook / Instagram] with [AUDIENCE SIZE] and my best November videos are about [YOUR TOP 3 NOVEMBER TOPICS]. Find me 10 'bridge niches' — topics that start with my winter audience in November-December but stay relevant into January-March 2027. For each bridge niche give: (1) the winter hook that catches my current audience; (2) the January version of the same topic that keeps them watching; (3) why the audience carries over instead of churning; (4) 3 video ideas for the bridge; (5) a competition score (low/medium/high) with the reason. Rank the 10 by how smoothly they carry my existing audience into 2027, and flag any niche that only works for 2 weeks.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above.",
+    "Fill in your real top 3 November topics from your analytics — guessed topics produce bridge niches your audience won't follow.",
+    "Take the top 3 ranked niches and test one video in each before December 1 — a bridge you test beats a bridge you plan.",
+    "Ask ChatGPT to rewrite the top niche's January version as 5 titles, then pick the one you'd actually click.",
+    "Re-run this prompt on January 2 with your real December numbers to find the next bridge into spring."
+  ],
+  "tips": [
+    "The carry-over reason is the whole test — if ChatGPT can't explain why the SAME viewer watches in January, the bridge is fake.",
+    "A 2-week niche is not a bridge; the flag at the end saves you from building a channel on a spike.",
+    "Bridge niches work best when the January version solves a New Year problem (money, health, fresh starts) your winter audience already has."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "niche-discovery",
+    "2027",
+    "planning"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "viral-winter-caption-pack-gemini",
+  "title": "Viral Winter Caption Pack — Gemini Prompt for Reels & Shorts Captions That Stop the Scroll",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "The video gets the view, the caption gets the save. This Gemini prompt writes 50 winter captions for Reels and Shorts — cozy, funny, and curiosity-led — matched to your niche, so no video ever ships with a lazy caption again.",
+  "prompt": "Act as a short-form copywriter who writes captions for the top 1% of Reels and Shorts creators. My niche is [YOUR NICHE: e.g. cozy home, winter food, crafts, travel] and my videos are [VIDEO TYPE: e.g. cozy winter routines, snow day vlogs, holiday cooking]. Write 50 captions for my winter Reels and Shorts, split into 5 styles: (1) cozy one-liners — 10 captions; (2) funny relatable lines — 10 captions; (3) curiosity questions that beg a comment — 10 captions; (4) mini-stories in 2 sentences — 10 captions; (5) save-worthy tips in one line — 10 captions. Every caption must be under 150 characters, fit [PLATFORM: Instagram Reels / YouTube Shorts / TikTok], and include 3 relevant hashtags. No generic captions like 'Winter vibes'. Rank the top 10 overall and explain in one line each why they earn saves.",
+  "howto": [
+    "Open Gemini and paste the full prompt above.",
+    "Fill in your niche and video type honestly — a caption written for the wrong niche reads as generic to your real audience.",
+    "Pick the top 10 it ranks and test 2 per day; track which style earns the most saves, not likes.",
+    "Pair curiosity-question captions with videos that actually answer the question — a question with no payoff kills trust.",
+    "Keep a caption bank: paste your winners back into Gemini weekly and ask for 10 variations on each."
+  ],
+  "tips": [
+    "Saves beat likes in winter: a caption that makes someone save for later ('try this cocoa recipe') outranks one that just gets a heart.",
+    "Under 150 characters is a hard rule — a caption that needs 'more' to be read is a caption nobody finishes.",
+    "Hashtags go at the end, never in the middle of the sentence — mid-sentence hashtags break the reading flow."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "tiktok",
+    "captions",
+    "hooks",
+    "winter"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "creator-year-in-review-story-planner-claude",
+  "title": "Creator Year-in-Review Story Planner — Claude Prompt to Turn 2026 Into a Viral Recap Series",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Intermediate",
+  "desc": "Your year is a story — and December is when audiences binge recap content. This Claude prompt turns your 2026 wins, fails and lessons into a 5-part year-in-review series your viewers will actually finish.",
+  "prompt": "Act as a creator strategist who has planned year-in-review series for channels from 1K to 1M subscribers. My channel is about [YOUR NICHE] on [PLATFORM: YouTube / TikTok / Facebook / Instagram] with [SUBSCRIBER COUNT]. My 2026 looked like this: my biggest win was [WIN], my biggest fail was [FAIL], the video I'm proudest of is [VIDEO], and the lesson I learned is [LESSON]. Turn my year into a 5-part year-in-review series: (1) a series arc with one emotional through-line; (2) each episode's title, hook (first 5 seconds), and the one moment that makes it shareable; (3) the order to post them for maximum binge-watching; (4) 3 community posts to tease the series before episode 1; (5) a final episode that turns the recap into a 2027 promise viewers want to follow. Be honest and specific to MY year — no generic 'best of 2026' filler.",
+  "howto": [
+    "Open Claude and paste the full prompt above.",
+    "Fill in a real fail, not a humble-brag — audiences trust a recap that admits something went wrong.",
+    "Film episode 1 first and post it while you edit the rest; a series that starts beats a series that waits for perfection.",
+    "Post the 3 community teasers on consecutive days before episode 1 — teasers build the binge queue.",
+    "End the final episode with a 2027 promise that names a specific video your viewers can look forward to."
+  ],
+  "tips": [
+    "The emotional through-line is the series — without it, 5 episodes are just 5 separate videos.",
+    "Your proudest video is usually not your biggest video; the recap should feature the one you loved making, not the one that went viral.",
+    "A real fail in episode 2 or 3 keeps viewers watching — a perfect year is boring and nobody believes it."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "storytelling",
+    "year-in-review",
+    "planning"
+  ],
+  "trending": false,
+  "popularity": 87
+}
 ];
 
 if (typeof module !== "undefined") {
