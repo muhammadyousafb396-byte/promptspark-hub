@@ -15297,6 +15297,96 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 89
+},
+{
+  "id": "niche-2026-11-15-ai-ambient-sleep-soundscapes",
+  "title": "AI Ambient Sleep Soundscapes (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Rain on a window, a crackling fireplace, a warm lo-fi desk, a misty forest at dawn — AI ambient soundscapes are YouTube's calmest goldmine: 30-second Shorts funnel sleepy viewers into 8-hour videos with extreme session time. Is niche ki videos 18.6M / 14.2M / 11.8M / 8.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-ambient-sleep-soundscapes.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30 seconds], vertical 9:16: an AI ambient sleep soundscape teaser — [SOUNDSCAPE: heavy rain streaming down a glowing window at night / a crackling fireplace with rising embers in a dark cozy cabin / a warm lo-fi study desk with a glowing lamp and rain outside / a misty forest at dawn with golden light through tall pines], slow hypnotic motion, rich warm light against deep calm shadows, the sound of [SOUND: rain / fire crackle / soft lo-fi hum / forest birds] filling the silence, peaceful and deeply relaxing, photorealistic, no people, no text, no watermark",
+  "howto": [
+    "Pick ONE soundscape and ONE scene — rain, fire, lo-fi desk or forest dawn — and make a 30-second Short that ends with 'full 8 hours on my channel' on screen.",
+    "Post the 30-second teaser as a Short daily, and upload the matching 8-hour version as a long-form video the same day — the Short is the funnel, the long video is the money.",
+    "Keep the same visual style and the same channel name across every soundscape — viewers subscribe to the calm, not to one sound."
+  ],
+  "tips": [
+    "Hook rule: the first 2 seconds must sound AND look like the escape — rain already falling, fire already crackling — a slow fade-in gets scrolled past.",
+    "Title trick: lead with the benefit and the length — 'Rain Sounds for Deep Sleep (8 Hours)' out-pulls any clever title, because sleepy viewers search for exactly that.",
+    "Loop the teaser seamlessly so it replays itself — a loop that never ends is watch time that never stops."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "sleep",
+    "ambience",
+    "soundscape"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "niche-2026-11-15-ai-would-you-rather-reels",
+  "title": "AI Would-You-Rather Reels (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Fly or be invisible? Unlimited money or unlimited time? Would-You-Rather Reels force every viewer to pick a side — and picking a side means commenting, and comments mean reach. Is niche ki videos 178.4M / 152.6M / 129.3M / 104.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-would-you-rather-reels.jpg",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: an AI 'Would You Rather' Reel — a dramatic split-screen choice: [CHOICE A: fly above a glowing city at sunset / live in a glowing underwater city with whales / have unlimited money in gold coins] versus [CHOICE B: turn invisible at will / live in a space station with Earth in the window / have unlimited time on a giant golden clock], both sides vivid and tempting, a tense pause before the reveal, bright saturated colors, cinematic, photorealistic, no text, no watermark",
+  "howto": [
+    "Pick ONE impossible choice where both sides are tempting — if one side is obviously better, nobody comments, and comments are the whole game.",
+    "Show choice A for 5 seconds, choice B for 5 seconds, then hold both on screen for the last 3 seconds so viewers pick a side in the comments.",
+    "Post 1 choice per day and pin a comment asking 'A or B — and WHY?' — the 'why' is what starts the arguments that push the Reel."
+  ],
+  "tips": [
+    "Hook rule: the choice must appear in the first 2 seconds — 'Would you rather fly or be invisible?' stops the scroll; a slow intro kills it.",
+    "Caption trick: put the choice in the caption's first line and end with 'Comment A or B' — a caption that asks a question gets answered, and answers are reach.",
+    "Make the two sides equally painful to give up — the best choices are the ones where even YOU cannot decide."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "would-you-rather",
+    "reels",
+    "choices"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "niche-2026-11-15-ai-what-if-3d-simulation-reels",
+  "title": "AI 'What If' 3D Simulation Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "What if the Earth stopped spinning? A calm 3D city, a live counter, one line of text — and then everything flies. One account passed 71M views in 9 days with this exact format. Is niche ki videos 30.6M / 18.5M / 14.2M / 9.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-what-if-3d-simulation-reels.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30-60 seconds], vertical 9:16: an AI 'What If' 3D simulation Reel — a calm miniature 3D city with [SCENARIO: the Earth stopping spinning so everything flies off / the sun exploding into a giant fireball over the skyline / the Moon looming impossibly close over the city / the ocean draining away to reveal a glowing sunken city], a live counter ticking in the corner, one short line of text at a time, the disaster unfolding in slow realistic motion, dramatic scale contrast, bright saturated colors, cinematic 3D animation style, no watermark",
+  "howto": [
+    "Start with the 'What if' question as the title and the first frame — the question IS the hook, and the 3D city is what makes people stop.",
+    "Let the simulation play out slowly for 20 seconds, then drop the payoff in the last 5 seconds — viewers who wait for the end watch to the end.",
+    "Post 1 simulation per day and pin a comment asking 'What if next?' — the comments write your next 30 videos, and every suggestion is a guaranteed viewer."
+  ],
+  "tips": [
+    "Hook rule: the question must break a law of nature everyone knows — Earth stops, sun explodes, ocean vanishes — a small change nobody cares about.",
+    "Caption trick: end the caption with 'Save this — you'll want to show a friend' — saves are Instagram's #1 ranking signal, and a mind-blowing simulation is built to be saved.",
+    "Keep the same 3D city in every video — viewers subscribe to the world, and a familiar city makes each new disaster hit harder."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "what-if",
+    "3d-simulation",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 94
 }
 
 ];
