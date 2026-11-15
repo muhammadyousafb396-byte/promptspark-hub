@@ -14997,6 +14997,306 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 92
+},
+{
+  "id": "tiny-reindeer-flight-school-veo3",
+  "title": "Tiny Reindeer Flight School — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A class of baby reindeer learning to fly — wobbly takeoffs, crash landings in snowdrifts, one tiny student who finally soars. Cute-animal story videos are TikTok's most saved format, and a reindeer flight school is a Christmas angle nobody has milked yet.",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a heartwarming Christmas story scene at a tiny reindeer flight school in a snowy pine forest — baby reindeer with tiny red scarves practicing takeoffs from a snowy hill, one wobbling and tumbling into a soft snowdrift, an old reindeer teacher with round glasses encouraging them, the smallest reindeer finally lifting off and soaring over the glowing village below, golden sunset light, sparkling snow, playful and magical, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Pick your star student — the smallest reindeer — and describe it exactly the same way in every episode so viewers follow its journey.",
+    "Generate 3 versions and keep the one where the final takeoff feels triumphant — that lift-off moment is the save trigger.",
+    "Post one lesson per day (takeoff, landing, night flight) and pin a comment asking which lesson the reindeer should learn next.",
+    "Add gentle sleigh-bell music in your editor; Christmas sound is half the reason these clips get saved."
+  ],
+  "tips": [
+    "The crash landing is the laugh — if Veo 3 makes the tumble too graceful, add 'clumsy tumble into a soft snowdrift' to the prompt.",
+    "Keep the teacher reindeer in every clip; a consistent mentor character turns one cute video into a series people follow.",
+    "Title it as a lesson ('Flight Lesson #1: Takeoff') — numbered series titles pull binge-watchers."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "christmas",
+    "cute-animals",
+    "storytelling"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "frozen-waterfall-ice-climbers-veo3",
+  "title": "Frozen Waterfall Ice Climbers — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Intermediate",
+  "desc": "A giant waterfall frozen mid-crash — blue ice, hanging icicles — and two tiny climbers picking their way up it at dawn. Extreme-nature visuals are YouTube Shorts' highest-retention spectacle niche, and a frozen waterfall climb is a jaw-dropper in the first two seconds.",
+  "prompt": "Veo 3 video, [DURATION: 20-30 seconds], vertical 9:16: an epic scene of two ice climbers scaling a massive frozen waterfall at dawn — a towering wall of blue ice with icicles like crystal chandeliers, climbers in bright orange jackets swinging ice axes, sparkling ice chips falling, cold blue morning light with a warm pink sunrise breaking behind the cliff, dramatic scale, slow cinematic camera rise, awe-inspiring and majestic, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Decide the scale story first — tiny climbers against a giant frozen wall — and keep the climbers small in frame so the waterfall feels enormous.",
+    "Generate 3 versions and keep the one with the cleanest ice-chip fall; that sparkling detail is the rewatch moment.",
+    "Pair the clip with deep wind ambience and a single low drum hit in your editor; spectacle Shorts need sound that matches the scale.",
+    "Post as a series (the climb, the summit, the descent) and let the trilogy compound into a faceless adventure channel."
+  ],
+  "tips": [
+    "The orange jackets are the visual anchor — bright climbers against blue ice is the contrast that stops the scroll.",
+    "If Veo 3 makes the waterfall look like a flat wall, add 'icicles like crystal chandeliers' to force depth into the ice.",
+    "Never show faces clearly — tiny distant climbers keep the mystery and the faceless-channel feel."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "adventure",
+    "winter",
+    "shorts"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "grumpy-snowman-meltdown-comedy-kling",
+  "title": "Grumpy Snowman Meltdown Comedy — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A snowman who is DONE with winter — complaining about the cold, side-eyeing the sun, dramatically melting one carrot at a time. Grumpy-character comedy is TikTok's most duetted format, and a snowman who hates snow is a joke that writes itself.",
+  "prompt": "Kling video, [DURATION: 8-15 seconds], vertical 9:16: a hilarious winter comedy scene starring a grumpy snowman with a crooked carrot nose and a tiny scarf — he shivers dramatically, glares at the sun, wipes melting snow off his face with a twig arm, and sighs as one snowball arm droops, a snowy backyard with a red sled behind him, bright daylight, exaggerated cartoon expressions, snappy comedic timing, playful and relatable, no text, no watermark",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Give the snowman one complaint per clip — the cold, the sun, the kids who built him wrong — and keep his grumpy face identical across the series.",
+    "Generate 3-4 takes and keep the one with the clearest sigh or eye-roll; the reaction is the punchline.",
+    "Add a dramatic sigh sound effect or a trending grumpy audio in your editor — audio doubles the joke.",
+    "Caption it relatable ('POV: me on a Monday in December') and post in the morning when commuters scroll."
+  ],
+  "tips": [
+    "The melting arm is the visual gag — if Kling keeps him frozen solid, add 'one snowball arm droops as he melts' to the prompt.",
+    "Keep clips under 15 seconds; character comedy dies when the setup outruns the punchline.",
+    "Reply to every 'same' comment with a new snowman complaint — comment replies are free reach."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "comedy",
+    "winter",
+    "christmas"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "midnight-christmas-bakery-sora",
+  "title": "Midnight Christmas Bakery — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "At midnight, a tiny bakery lights up and bakes Christmas for the whole town — gingerbread rising, ovens glowing, a baker who whistles while the snow falls. Cozy craft stories are YouTube's highest-retention comfort niche, and a midnight bakery is a fresh spin on it.",
+  "prompt": "Sora video, [DURATION: 30-60 seconds], vertical 9:16: a cinematic cozy story scene inside a tiny Christmas bakery at midnight — a kind old baker in a flour-dusted apron sliding gingerbread trays into a glowing oven, warm golden light spilling onto snowy cobblestones outside, fairy lights and hanging cinnamon sticks, steam rising from fresh buns, a cat asleep by the hearth, snowflakes drifting past the window, peaceful and magical, storybook cinematic, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Choose one baked good per episode — gingerbread, stollen, cinnamon buns — and build the episode around who it is baked for.",
+    "Generate the baker and the bakery first and reuse that exact description in every episode prompt so the world stays consistent.",
+    "Narrate over the clip in your editor with a warm storyteller voice; the narration carries the comfort, the visuals carry the magic.",
+    "End every episode with a question on screen ('What does your Christmas smell like?') to turn viewers into commenters."
+  ],
+  "tips": [
+    "The glowing oven is your thumbnail moment; generate a still of the baker silhouetted against it for the cover.",
+    "One bake per episode is the rule — two bakes in one video halves the cozy payoff.",
+    "Keep the cat visible in the first frame — viewers stay to see what the cat does next."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "cozy",
+    "christmas",
+    "storytelling"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "living-christmas-card-loop-runway",
+  "title": "Living Christmas Card Loop — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A vintage Christmas card that comes alive — the painted snow starts falling, the cottage windows glow, the tiny train puffs across the card. Living-art loops are Instagram's most shared Reels format, and a Christmas card is the most sendable version of it.",
+  "prompt": "Runway video, [DURATION: 10-20 seconds], vertical 9:16: a magical living Christmas card — a vintage illustrated card showing a snowy village with a glowing cottage, painted snowflakes that begin to fall for real, warm light flickering in the tiny windows, a miniature steam train puffing across the bottom of the card, a red robin landing on the card's edge, rich vintage colors with gold foil accents, gentle looping motion, nostalgic and enchanting, no text, no watermark",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Pick one card scene first — village, forest, or fireplace — and name it in the prompt so every card in the series matches.",
+    "Generate 3 versions and keep the one where the loop point is invisible — a seamless loop is what earns rewatches.",
+    "Loop the clip in your editor so the last frame flows back into the first without a jump.",
+    "Post one living card per day through December and let followers collect the set — scarcity makes people follow."
+  ],
+  "tips": [
+    "The falling snow is the life of the loop — if Runway freezes it, add 'painted snowflakes begin to fall for real' to the prompt.",
+    "Gold foil accents read as premium on Instagram; keep them warm, never garish.",
+    "Caption it as a gift ('Send this to someone who needs Christmas magic') — sendable captions drive shares."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "christmas",
+    "loop",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "aurora-ice-skating-pond-flow",
+  "title": "Aurora Ice-Skating Pond — Google Flow Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A frozen pond under the northern lights — skaters gliding in slow arcs, their blades leaving glowing trails, aurora ribbons rippling above. Satisfying motion videos are TikTok's most rewatchable format, and skating under the aurora is a version nobody has filmed yet.",
+  "prompt": "Google Flow video, [DURATION: 15-30 seconds], vertical 9:16: a mesmerizing scene of ice skaters gliding across a frozen forest pond beneath the northern lights — green and violet aurora ribbons rippling across a starry sky, skaters in warm winter coats tracing slow graceful arcs, their skate blades leaving faint glowing trails on the glassy ice, pine trees dusted with snow around the pond, a tiny lantern glowing on the bank, serene and magical, cinematic, no text, no watermark",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Decide your skater count first — one lone skater feels dreamy, a pair feels romantic — and keep it consistent across the series.",
+    "Generate 3 versions and keep the one where the aurora ripples most clearly; the sky is the star of this clip.",
+    "Pair the clip with soft piano or wind ambience in your editor; satisfying clips live or die on their sound.",
+    "Post at night when your audience is winding down — calm satisfying content performs best in the evening scroll."
+  ],
+  "tips": [
+    "The glowing skate trails are the signature detail — if Flow drops them, add 'blades leaving faint glowing trails' twice in the prompt.",
+    "Keep the pond glassy and uncluttered; a busy foreground kills the satisfying effect.",
+    "Title it as a feeling ('the calmest place on Earth tonight') — mood titles beat descriptive ones on this format."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "satisfying",
+    "winter",
+    "aurora"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "cozy-christmas-book-cover-pack-midjourney",
+  "title": "Cozy Christmas Book Cover Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "Warm, storybook Christmas book covers — a lantern-lit bookshop, a snow-covered cottage library, a cat asleep on a pile of winter novels. Cozy bookish art is Instagram's most saved image niche in December, and a cover pack gives theme pages a whole month of posts.",
+  "prompt": "Midjourney image, cozy Christmas book cover illustration, [SCENE: a lantern-lit bookshop window full of winter novels / a snow-covered cottage library with smoke curling from the chimney / a ginger cat asleep on a pile of red and gold Christmas books by a fireplace], warm storybook watercolor style, rich reds and golds, soft glowing light, snowflakes drifting, intricate charming detail, festive and heartwarming, portrait orientation, no text, no watermark --ar 4:5 --v 6.1",
+  "howto": [
+    "Open Midjourney and paste the full prompt above, swapping in one scene per generation.",
+    "Generate 4 covers per scene and keep the one with the warmest glow — warmth is what makes people save bookish art.",
+    "Upscale your favorite and use it as the cover image for a carousel post with a matching book recommendation.",
+    "Post one cover per day as a 'December reading list' series and ask followers to vote for the next book.",
+    "Offer the pack as a free download in exchange for a follow — cozy art is a proven follower magnet."
+  ],
+  "tips": [
+    "The cat is the save trigger — a sleeping cat on books doubles saves on bookish pages.",
+    "Keep the palette warm reds and golds; cold blue covers get scrolled past in December.",
+    "Use --ar 4:5 for Instagram feed posts; the taller frame fills the screen and holds attention longer."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "christmas",
+    "books",
+    "cozy"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "side-hustle-niche-finder-chatgpt",
+  "title": "Side-Hustle Niche Finder — ChatGPT Prompt for Untapped Creator Niches",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Not every niche needs a camera. This ChatGPT prompt hunts for side-hustle creator niches — the quiet, money-making corners of YouTube, TikTok and Instagram where a faceless channel can earn before it ever goes viral.",
+  "prompt": "Act as a creator-economy researcher who finds profitable side-hustle niches for faceless channels. My constraints: [SKILLS: list 3 things you can already do, e.g. writing, basic editing, research], [TIME: hours per week you can spend], [PLATFORM: YouTube, TikTok, Facebook or Instagram]. First, list 15 side-hustle creator niches that fit my skills and time — each with: the niche name, why it earns money (ad revenue, affiliate, digital products, services), the typical RPM or income range, how crowded it is on a 1-10 scale, and the simplest first video to make. Then rank the top 3 by money-per-hour and explain exactly why. Then give me a 30-day launch plan for the #1 niche: 12 video ideas, titles, and the one skill I must learn first. Be brutally honest about niches that look profitable but are traps for beginners.",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above, filling in your real skills, weekly hours and platform.",
+    "Read the full list of 15 before falling in love with any one niche — the ranking is where the value is.",
+    "Check the top 3 niches on your platform yourself: search each one and count how many channels under 10k subscribers are getting real views.",
+    "Pick the niche where small channels are winning, not the one with the biggest numbers — small-channel wins mean the door is open.",
+    "Run the prompt again every month with your updated skills; your best niche changes as you get better."
+  ],
+  "tips": [
+    "Be honest about your hours — a niche that needs 20 hours a week will kill a channel built on 5.",
+    "The 'trap' warning matters most: if ChatGPT flags a niche as a beginner trap, believe it and move on.",
+    "Save the 30-day plan as your channel's first document — creators who plan 30 days ahead outlast creators who post randomly."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "side-hustle",
+    "monetization"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "scroll-stopper-first-frame-factory-gemini",
+  "title": "Scroll-Stopper First-Frame Factory — Gemini Prompt for Reels & Shorts Hooks",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "The first frame decides everything — viewers judge your video in under a second. This Gemini prompt generates 30 scroll-stopping first frames for your niche, each tuned to YouTube Shorts, TikTok, Facebook Reels and Instagram so the same idea hits on every platform.",
+  "prompt": "Act as a short-form retention expert who designs first frames that stop the scroll. My niche is [NICHE: e.g. cozy winter cooking, faceless history, satisfying builds] and my audience is [AUDIENCE: who watches and what they care about]. Generate 30 first-frame ideas, grouped by platform: 8 for YouTube Shorts, 8 for TikTok, 7 for Facebook Reels, 7 for Instagram Reels. For each idea give: the exact visual in frame one (what the viewer sees in the first 0.5 seconds), the 3-6 word on-screen text, the emotion it triggers (shock, curiosity, comfort, FOMO), and why it works for that platform's audience. Then rank the top 5 overall and explain the pattern they share. Rules: no clickbait that the video cannot deliver, no faces needed, every idea must be filmable with AI video tools in under an hour.",
+  "howto": [
+    "Open Gemini and paste the full prompt above, filling in your niche and audience honestly.",
+    "Film or generate the top 5 first frames first — test them before you build full videos around them.",
+    "Post the same video with two different first frames on two platforms and compare the 3-second retention in analytics.",
+    "Keep a running list of your winning first frames; after 20 videos you will see your niche's own pattern.",
+    "Re-run the prompt whenever you enter a new niche — first frames that work in cooking fail in history."
+  ],
+  "tips": [
+    "The visual must be understandable with the sound off — most scrollers watch muted, so the frame does the stopping, not the audio.",
+    "Curiosity beats shock in the long run: a half-finished scene ('what happens next?') retains better than a loud explosion.",
+    "If a first frame idea needs more than an hour to make, cut it — speed is what lets you test 30 ideas instead of 3."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "hooks",
+    "shorts"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "one-person-content-studio-system-claude",
+  "title": "One-Person Content Studio System — Claude Prompt to Run a Channel Like a Team",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "One creator, one channel, zero burnout — if the system is right. This Claude prompt builds you a complete one-person studio: weekly workflow, AI tool stack, batching schedule and quality checks, so a solo creator ships like a team of five.",
+  "prompt": "Act as a content operations consultant who builds one-person studios for faceless creators. My situation: [NICHE: your channel's niche], [OUTPUT: videos per week you want to publish], [TOOLS: the AI tools you already use, e.g. Veo 3, Midjourney, Claude], [HOURS: hours per week you can work]. Design my complete one-person content studio: 1) A weekly workflow broken into 4 batch days (research, scripting, production, posting) with exact hours per day. 2) An AI tool stack for each step with a cheaper backup tool for each. 3) A 10-point quality checklist that every video must pass before publishing. 4) A content pipeline template: idea bank, in-production, scheduled, published — with rules for when an idea moves forward or gets killed. 5) A burnout guard: the maximum videos per week I can sustain at my hours, and what to cut first when life gets busy. 6) A monthly review ritual: the 5 numbers I check on the 1st of each month and the decision each number triggers. Be specific with hours, counts and templates — no vague advice.",
+  "howto": [
+    "Open Claude and paste the full prompt above, filling in your niche, target output, tools and real weekly hours.",
+    "Follow the 4 batch days for two full weeks before changing anything — systems need a real test, not a first impression.",
+    "Print the 10-point quality checklist and tape it where you edit; a checklist beats willpower on tired days.",
+    "Run the monthly review on the 1st without skipping it — the review is what turns a busy month into a growing channel.",
+    "When life gets busy, cut output before you cut quality — one great video beats three rushed ones."
+  ],
+  "tips": [
+    "The burnout guard is the most valuable part — if Claude says your target is unsustainable, lower the target, not the sleep.",
+    "Keep the backup tool for every step written down; when your main tool breaks or raises prices, you switch in minutes, not days.",
+    "Kill ideas ruthlessly: an idea bank with 100 ideas and a kill rule beats a bank with 10 ideas and no rule."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "instagram",
+    "systems",
+    "productivity"
+  ],
+  "trending": true,
+  "popularity": 89
 }
 
 ];
