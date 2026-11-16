@@ -15689,6 +15689,99 @@ const PROMPTS = [
   "trending": true,
   "popularity": 93
 }
+,
+{
+  "id": "niche-2026-11-16-ai-argument-conversation-shorts",
+  "title": "AI Argument Conversation Shorts (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Two AI characters, one ridiculous argument, and a punchline that makes everyone tag a friend. Korpi shipped 'Argument Conversation' as a brand-new November 2026 niche — original cast, original hooks. Is niche ki videos 186.3M / 159.7M / 134.2M / 108.5M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-argument-conversation-shorts.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30-60 seconds], vertical 9:16: an AI argument conversation short — two animated characters, [CHARACTER A: a grumpy orange cat in a tiny sweater / a sassy robot with a cracked screen / a stubborn grandma with curlers / an overconfident fox in glasses] and [CHARACTER B: a calm blue monster in a beanie / a smug dog in a suit / a nervous robot vacuum / a sarcastic owl], arguing about [TOPIC: the last slice of pizza / who ate the leftovers / the Wi-Fi password / whose turn it is to cook / who left the lights on], exaggerated facial expressions, dramatic pointing and gesturing, the argument escalating until a shocking twist or punchline lands in the last 5 seconds, bright saturated colors, cinematic 3D animation style, no text, no watermark",
+  "howto": [
+    "Pick ONE character pair and ONE silly topic — the smaller the topic, the funnier the argument (pizza beats politics every time).",
+    "Keep the same two characters in every episode and give each one a fixed look and catchphrase — viewers subscribe to the cast, not the topic.",
+    "End every video on the punchline twist, then cut to black — never explain the joke, and pin a comment asking 'Who was right?'"
+  ],
+  "tips": [
+    "Hook rule: the argument must already be mid-shout in the first 2 seconds — 'THAT WAS MY PIZZA!' stops the scroll; a calm intro gets skipped.",
+    "Caption trick: write the topic as a question in the caption's first line — 'Who was right, the cat or the robot?' — and end with 'Tag someone who argues like this'.",
+    "Give the loser a tiny revenge in the last frame — a stolen slice, a switched-off vacuum — so viewers rewatch to catch it."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "argument",
+    "comedy",
+    "characters"
+  ],
+  "trending": true,
+  "popularity": 93
+}
+,
+{
+  "id": "niche-2026-11-16-ai-animal-rivalry-docs",
+  "title": "AI Animal Rivalry Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Lion vs tiger. Eagle vs snake. Shark vs octopus. One question — 'who actually wins?' — and viewers cannot click away before the verdict. Swarm Theory proved the format with millions of views on animal rivalries. Is niche ki videos 52.4M / 41.8M / 33.6M / 26.1M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-animal-rivalry-docs.jpg",
+  "prompt": "Veo 3 video, [DURATION: 8-12 minutes], horizontal 16:9: an AI animal rivalry documentary — [RIVALRY: lion vs tiger in the golden savanna / golden eagle vs rattlesnake in a desert canyon / army ants vs stag beetle on the forest floor / great white shark vs giant octopus on a coral reef], a calm documentary narrator voice explaining each rival's weapons, size and strategy in three rounds, slow cinematic shots building tension, the clash shown in dramatic slow motion, a surprising verdict at the end — who actually wins and why — rich natural colors, BBC-style wildlife cinematography, photorealistic, no text, no watermark",
+  "howto": [
+    "Pick ONE rivalry where both sides have a real chance — a fixed fight is boring, a 50/50 fight is a debate.",
+    "Structure it in three rounds — weapons, size, strategy — then the verdict; viewers who watch round one stay for the verdict.",
+    "End with 'Which rivalry should I settle next?' and pin the best suggestion — the comments write your next 20 videos."
+  ],
+  "tips": [
+    "Hook rule: ask 'who wins?' in the first 5 seconds over the two animals facing off — the question IS the video, and nobody leaves before the answer.",
+    "Title trick: lead with the matchup — 'Lion vs Tiger — Who Actually Wins?' — because people search the exact matchup they argue about.",
+    "Keep one calm narrator voice across every episode — viewers subscribe to the voice that settles their arguments."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "animals",
+    "documentary",
+    "rivalry"
+  ],
+  "trending": true,
+  "popularity": 92
+}
+,
+{
+  "id": "niche-2026-11-16-ai-startup-failure-stories",
+  "title": "AI Startup Failure Story Reels (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A startup burned $100 million in a year — and the whole story fits in 60 seconds. Failure stories are Facebook's #2 faceless Reels niche: the crash hooks viewers, the lesson makes them share. Is niche ki videos 171.9M / 146.2M / 119.8M / 93.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-startup-failure-stories.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30-60 seconds], vertical 9:16: an AI startup failure story Reel — the rise and fall of [STARTUP: a food-delivery app that burned $100M in a year / a scooter company that flooded a city overnight / a crypto exchange that vanished with the money / a smart-juicer startup selling a $400 machine for squeezing bags], cinematic scenes of the empty office, the collapsing tower of gold coins, the founder staring at a crashing red chart, a calm narrator telling the story in three beats — the dream, the mistake, the lesson — ending with one copyable lesson, dramatic golden-hour light, photorealistic, no watermark",
+  "howto": [
+    "Pick ONE real famous failure and check the numbers first — a wrong number in the comments kills the whole Reel.",
+    "Tell it in three beats only — the dream (10 seconds), the mistake (20 seconds), the lesson (10 seconds) — anything longer loses the scroll.",
+    "End on the lesson, not the crash — 'Never spend investor money like it is yours' is the line people screenshot and share."
+  ],
+  "tips": [
+    "Hook rule: open with the shocking number — 'They burned $100M in 12 months' — a big number in the first 2 seconds is the scroll-stopper.",
+    "Caption trick: end the caption with 'Would YOU have spotted the mistake?' — a question that asks for a verdict gets answered, and answers are reach.",
+    "Use a real company name in the title — people search the failure they already heard about, and the search brings them to you."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "business",
+    "startup",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 92
+}
 
 ];
 
