@@ -15388,6 +15388,307 @@ const PROMPTS = [
   "trending": true,
   "popularity": 94
 }
+,
+{
+  "id": "tiny-squirrels-hot-chocolate-stand-veo3",
+  "title": "Tiny Squirrels Run a Winter Hot Chocolate Stand — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A crew of tiny squirrels in knitted scarves run a steaming hot chocolate stand in a snowy forest — one stirs a giant mug, one slides marshmallows down a ramp, and a grumpy owl customer keeps sending his drink back. Cute-animal business videos are TikTok's most saved story format, and a squirrel cocoa stand is a cozy winter angle nobody has claimed yet.",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a heartwarming winter story scene of tiny squirrels running a hot chocolate stand in a snowy pine forest — squirrels in tiny red knitted scarves stirring a giant steaming mug of cocoa, one sliding marshmallows down a wooden ramp into cups, a grumpy owl in a tiny scarf sipping and nodding approval, warm golden lantern light against blue snow, steam curling in the cold air, playful and cozy, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Pick your star squirrel — the one stirring the giant mug — and describe it exactly the same way in every episode so viewers follow its business.",
+    "Generate 3 versions and keep the one where the steam and marshmallow slide look most satisfying — that cozy detail is the save trigger.",
+    "Post one stand scene per day (opening day, the owl's complaint, the blizzard rush) and pin a comment asking what the squirrels should serve next.",
+    "Add soft crackling-fire audio in your editor; winter sound is half the reason these clips get saved."
+  ],
+  "tips": [
+    "The marshmallow slide is the laugh — if Veo 3 makes it too neat, add 'marshmallows tumbling down a wooden ramp' to the prompt.",
+    "Keep the grumpy owl in every clip; a regular fussy customer turns one cute video into a series people follow.",
+    "Title it as an episode ('Cocoa Stand Ep. 1: The Owl's Order') — numbered series titles pull binge-watchers."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "winter",
+    "cute-animals",
+    "storytelling"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "frozen-river-skating-rink-sunrise-veo3",
+  "title": "Frozen River Skating Rink at Sunrise — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Intermediate",
+  "desc": "A whole frozen river turned into a skating rink at dawn — skaters gliding between snow-covered banks, breath fogging in pink morning light, a dog in a red scarf chasing a puck. Winter spectacle Shorts are YouTube's highest-retention niche, and a river rink at sunrise is a jaw-dropper in the first two seconds.",
+  "prompt": "Veo 3 video, [DURATION: 20-30 seconds], vertical 9:16: a breathtaking scene of a frozen river turned into a skating rink at sunrise — skaters gliding along a wide ribbon of blue ice between snow-covered banks, breath fogging in the cold air, a dog in a tiny red scarf chasing a hockey puck, warm pink and gold sunrise light breaking over frosted trees, sparkling ice, slow cinematic camera glide, majestic and peaceful, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Decide the scale story first — tiny skaters on a vast frozen river — and keep the skaters small in frame so the river feels enormous.",
+    "Generate 3 versions and keep the one with the cleanest sunrise light on the ice; that golden-pink glow is the rewatch moment.",
+    "Pair the clip with soft skate-blade sounds and a gentle piano line in your editor; spectacle Shorts need sound that matches the calm.",
+    "Post as a series (the rink at dawn, the night skate, the dog's game) and let the trilogy compound into a faceless winter channel."
+  ],
+  "tips": [
+    "The dog in the red scarf is the visual anchor — a tiny bright character against blue ice is the contrast that stops the scroll.",
+    "If Veo 3 makes the river look like a flat rink, add 'snow-covered banks on both sides' to force depth into the scene.",
+    "Never show faces clearly — distant skaters keep the mystery and the faceless-channel feel."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "winter",
+    "shorts",
+    "spectacle"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "grumpy-cat-gift-wrapping-service-kling",
+  "title": "Grumpy Cat Runs a Christmas Gift-Wrapping Service — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A grumpy tabby cat in a tiny apron runs a gift-wrapping service — taping boxes crooked, sitting on the wrapping paper, judging every ribbon choice. Grumpy-animal comedy is TikTok's most shared format, and a cat who hates wrapping gifts is a Christmas angle that writes its own jokes.",
+  "prompt": "Kling video, [DURATION: 10-20 seconds], vertical 9:16: a hilarious Christmas comedy scene of a grumpy tabby cat running a gift-wrapping service in a cozy workshop — the cat in a tiny green apron taping a box crooked, sitting flat on the wrapping paper, glaring at a tangled ribbon, surrounded by torn paper and tilted gift boxes, warm fairy lights, a tiny 'NO REFUNDS' sign on the counter, expressive and funny, cinematic lighting, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Lock the cat's look — tabby, green apron, permanent unimpressed glare — and repeat it word for word in every episode.",
+    "Generate 3 versions and keep the one where the cat sits on the paper at the worst possible moment — that timing is the laugh.",
+    "Post one wrapping disaster per day and let viewers vote in comments on which gift the cat ruins next.",
+    "Add a deadpan sigh sound effect in your editor; the contrast between festive music and the cat's attitude is the joke."
+  ],
+  "tips": [
+    "The 'NO REFUNDS' sign is the punchline — if Kling drops it, add 'tiny hand-painted NO REFUNDS sign on the counter' to the prompt.",
+    "Keep the workshop messy in every clip; the chaos is the character, and a tidy set kills the joke.",
+    "End every clip on the glare — a two-second hold on the cat's face is the loop point viewers rewatch."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "christmas",
+    "comedy",
+    "cats"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "north-pole-post-office-midnight-sora",
+  "title": "The North Pole Post Office at Midnight — Sora Prompt for Faceless YouTube Story Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "At midnight the North Pole post office wakes up — elves sorting letters by candlelight, a conveyor belt of wishes, one letter glowing gold because a child asked for something impossible. Magical workplace stories are YouTube's coziest faceless niche, and a midnight post office is a Christmas world viewers want to live inside.",
+  "prompt": "Sora video, [DURATION: 20-30 seconds], horizontal 16:9: a magical story scene inside the North Pole post office at midnight — tiny elves in red hats sorting mountains of letters by warm candlelight, a wooden conveyor belt carrying glowing envelopes, one golden letter floating above the pile and lighting the room, snow falling past frosted windows, sacks of mail stacked to the ceiling, warm amber glow against deep blue night, whimsical and cinematic, photorealistic, no text, no watermark",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Decide the story beat first — the glowing golden letter — and build every shot around that one impossible wish.",
+    "Generate 3 versions and keep the one where the golden letter's glow feels warmest; that light is the emotional hook.",
+    "Narrate in a soft storyteller voice in your editor; faceless story channels live or die on the voiceover.",
+    "Post as a series (the letter arrives, the wish is read, the gift is made) and let the trilogy build a Christmas story audience."
+  ],
+  "tips": [
+    "The conveyor belt of letters is the visual engine — if Sora freezes it, add 'envelopes gliding along a wooden conveyor belt' to the prompt.",
+    "Keep the candlelight warm and the windows cold blue; that warm-versus-cold contrast is the whole mood.",
+    "Never explain the wish in the video — the mystery of the golden letter is what makes viewers come back for part two."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "christmas",
+    "storytelling",
+    "cozy"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "living-advent-calendar-doors-runway",
+  "title": "Living Advent Calendar Doors — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A giant advent calendar on a snowy village square — each tiny door swings open to reveal a miniature world inside: a skating mouse, a baking elf, a sleeping bear. Miniature-world loops are Instagram Reels' most saved format, and a living advent calendar is a December series that posts itself.",
+  "prompt": "Runway video, [DURATION: 10-15 seconds], vertical 9:16: a magical loop of a giant wooden advent calendar standing in a snowy village square at dusk — one tiny numbered door swinging open to reveal a miniature world inside, a tiny mouse ice-skating on a frozen pond, warm golden light spilling from the open door, snowflakes drifting past, fairy lights strung across the square, the door gently closing and another beginning to open, seamless loop, whimsical and cozy, cinematic, no text, no watermark",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Change only the door number and the miniature world inside it for each day — the calendar itself stays identical so the series feels connected.",
+    "Generate 3 versions and keep the one with the smoothest door swing; the loop point is everything in a Reels series.",
+    "Post one door per day through December and pin a comment asking followers to guess tomorrow's world.",
+    "Add a soft music-box chime in your editor; the same chime on every door becomes your channel's signature sound."
+  ],
+  "tips": [
+    "The miniature world inside the door is the surprise — if Runway makes it too dark, add 'warm golden light spilling from the open door' to the prompt.",
+    "Keep the camera locked off; a static frame makes the loop seamless and the tiny world feel real.",
+    "Number the doors in your caption, not in the video — 'Door 7' in the caption builds the daily-opening ritual."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "christmas",
+    "reels",
+    "miniature-worlds"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "candy-cane-forest-walkthrough-flow",
+  "title": "Candy Cane Forest Walkthrough — Google Flow Prompt for Satisfying Facebook Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A slow walk through a forest where the trees are candy canes — red-and-white stripes, peppermint snow, a path of crushed candy crunching underfoot. Satisfying fantasy walks are Facebook Reels' most shared format, and a candy cane forest is pure December eye candy.",
+  "prompt": "Google Flow video, [DURATION: 15-25 seconds], vertical 9:16: a satisfying slow walkthrough of a magical candy cane forest — towering red-and-white striped candy cane trees, peppermint snow sparkling on the ground, a path of crushed candy crunching underfoot, gumdrop bushes and lollipop flowers along the trail, soft golden winter light filtering through the stripes, gentle snowfall, dreamy and delicious, cinematic, no text, no watermark",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Set the camera to a slow forward walk — the forward motion is what makes a walkthrough satisfying.",
+    "Generate 3 versions and keep the one where the light through the candy stripes looks most magical; that glow is the share trigger.",
+    "Add soft crunching footsteps and a gentle chime in your editor; satisfying Reels are half sound.",
+    "Post as a series (the forest, the gumdrop village, the chocolate river) and let the sweet world build a Facebook following."
+  ],
+  "tips": [
+    "The crushed-candy path is the satisfying detail — if Flow makes it plain snow, add 'a path of crushed candy crunching underfoot' to the prompt.",
+    "Keep the stripes bold and the light golden; washed-out candy looks like a hospital corridor.",
+    "End on a wide reveal of the whole forest — the scale shot is the frame people screenshot and share."
+  ],
+  "tags": [
+    "creator-niche",
+    "facebook",
+    "christmas",
+    "satisfying",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "whimsical-winter-animal-carolers-midjourney",
+  "title": "Whimsical Winter Animal Carolers Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A choir of woodland animals caroling in the snow — a fox in a scarf holding sheet music, a rabbit conducting with a twig, a bear humming into a lantern. Whimsical animal illustration packs are Instagram and Facebook's most saved December content, and caroling animals are a Christmas card that never goes out of style.",
+  "prompt": "Midjourney illustration, storybook watercolor style: a choir of woodland animals caroling in a snowy forest clearing at dusk — a red fox in a knitted scarf holding sheet music, a small rabbit conducting with a twig, a brown bear humming beside a glowing lantern, a deer and an owl singing in the back row, snowflakes drifting, warm golden lantern light, soft painterly textures, cozy and heartwarming, --ar 4:5 --style cute --v 6",
+  "howto": [
+    "Open Midjourney and paste the full prompt above.",
+    "Generate 4 variations and pick the one where the fox's scarf and the lantern glow feel warmest — warmth is the save trigger.",
+    "Re-run the same prompt swapping the lead animal (owl, deer, badger) to build a full caroler set from one prompt.",
+    "Upscale your favorite and post it as a carousel — one caroler per slide — so followers swipe through the whole choir.",
+    "Add a short carol lyric as the caption; lyrics in captions double the shares on Facebook pages."
+  ],
+  "tips": [
+    "The lantern glow is the warmth anchor — if Midjourney makes the scene too blue, add 'warm golden lantern light' to the prompt.",
+    "Keep the animals in a tight choir row; a scattered group reads as a crowd, not a choir.",
+    "Use the same seed for the whole pack so the forest, light and style stay consistent across every caroler."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "christmas",
+    "illustration"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "festive-food-niche-finder-chatgpt",
+  "title": "Festive Food Niche Finder — ChatGPT Prompt for Holiday Cooking Channels",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Beginner",
+  "desc": "Find the one holiday food niche nobody owns yet — ChatGPT mines festive cooking trends, spots the underserved angles, and hands you a channel concept with 30 video ideas. Food is YouTube and TikTok's highest-RPM December niche, and the right festive angle launched now can pay all year.",
+  "prompt": "Act as a YouTube and TikTok niche researcher specializing in food content. I want to launch a faceless holiday food channel in December 2026. First, list 10 festive food sub-niches (e.g. forgotten Christmas recipes, one-pot holiday meals, regional winter street food) and score each 1-10 on: search demand, competition, video production difficulty, and monetization potential. Then pick the single best sub-niche and explain WHY it wins in 3 sentences. Finally, give me: a channel name, a 30-video content plan for the first month (title + one-line hook for each), the 5 ingredients I should feature most, and 3 mistakes that kill new food channels. My constraints: [YOUR SKILLS, e.g. 'I can cook but I hate filming my face' / YOUR BUDGET, e.g. 'under $50 a month' / YOUR PLATFORM, e.g. 'YouTube Shorts first'].",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above, filling in your skills, budget and platform in the brackets.",
+    "Read the 10 scored sub-niches first — do not skip to the winner; a #3 niche that fits your skills beats a #1 that does not.",
+    "Ask ChatGPT to expand the winning niche's 30-video plan into full scripts for your first 5 videos.",
+    "Check the top 3 channels in your chosen sub-niche and confirm the gap ChatGPT found is real before you commit.",
+    "Launch with 3 videos in week one — festive demand peaks fast, and early uploads compound through December."
+  ],
+  "tips": [
+    "The constraints in brackets are the whole trick — without them ChatGPT recommends niches you cannot actually make.",
+    "Ask for the same analysis for a second platform; a niche that wins on YouTube Shorts and TikTok is worth twice as much.",
+    "Re-run this prompt in January with 'winter comfort food' swapped in — the same framework finds your next niche for free."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "food",
+    "niche-discovery"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "holiday-story-hook-pack-gemini",
+  "title": "Holiday Story Hook Pack — Gemini Prompt for YouTube & TikTok Winter Niches",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Intermediate",
+  "desc": "Fifty scroll-stopping opening lines for winter story videos — Gemini writes hooks tailored to your niche, your platform and your audience's exact curiosity. The first 3 seconds decide everything in December's crowded feed, and a hook pack means you never open a video with 'hey guys' again.",
+  "prompt": "Act as a viral video hook writer for faceless YouTube and TikTok story channels. My niche is [YOUR NICHE, e.g. 'cozy winter mysteries' / 'Christmas animal stories' / 'forgotten holiday history']. My audience is [YOUR AUDIENCE, e.g. 'women 25-45 who watch before bed']. Write 50 opening hooks for short videos, grouped into 5 styles: 10 curiosity-gap hooks ('Nobody noticed that...'), 10 bold-claim hooks ('This Christmas tradition was actually banned...'), 10 story hooks ('On the coldest night of 1924...'), 10 question hooks ('What if Santa's workshop...?'), and 10 pattern-interrupt hooks ('Stop scrolling — this reindeer...'). Every hook must be under 12 words, spoken naturally, and specific to my niche — no generic hooks. Then rank your top 10 overall and explain in one line each WHY it stops the scroll. End with 5 hooks I should NEVER use and why they fail.",
+  "howto": [
+    "Open Gemini and paste the full prompt above, filling in your niche and audience in the brackets.",
+    "Test the top 10 ranked hooks first — record each one as a cold open and compare retention at 3 seconds.",
+    "Keep a running doc of the hooks that beat your channel average; after 20 videos you will have your own proven hook library.",
+    "Ask Gemini to rewrite your 3 weakest hooks in the style of your 3 strongest — it learns your voice from the examples.",
+    "Never reuse the same hook twice in a week; December feeds punish repetition fast."
+  ],
+  "tips": [
+    "The audience line matters more than the niche line — Gemini writes for 'women 25-45 before bed' completely differently than for 'teens on TikTok'.",
+    "The 'never use' list at the end is gold — it stops you from copying the tired hooks every other channel is already running.",
+    "Pair each hook with its matching first frame; a hook without a visual payoff in 2 seconds loses the viewer anyway."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "hooks",
+    "storytelling"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "first-1000-month-monetization-timeline-claude",
+  "title": "Faceless Channel First-$1,000-Month Monetization Timeline — Claude Prompt for Creator Niches",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "A month-by-month plan from zero to your first $1,000 month — Claude maps every income stream against your subscriber count, tells you exactly when to turn each one on, and warns you what to skip. Most creators monetize too late or chase the wrong stream; this timeline tells you what to do in which month.",
+  "prompt": "Act as a faceless-channel monetization strategist. My channel: [YOUR NICHE, e.g. 'cozy winter stories' / YOUR PLATFORM, e.g. 'YouTube + TikTok' / YOUR CURRENT SIZE, e.g. '0 subscribers, 0 videos' / YOUR HOURS PER WEEK, e.g. '10']. Build me a 12-month monetization timeline to my first $1,000 month. For each month, list: the subscriber/view target, which income stream to activate (AdSense, affiliate links, digital products, sponsorships, channel memberships, brand deals), the exact action to take that month, and the expected income from that stream. Flag any stream I should NOT touch before month 6 and explain why. Include: a realistic income table by month, the 3 biggest monetization mistakes in my niche, and a 'what to do if growth stalls at month 4' rescue plan. Be honest about what is realistic — no hype, no guaranteed numbers.",
+  "howto": [
+    "Open Claude and paste the full prompt above, filling in your niche, platform, current size and weekly hours.",
+    "Read the month-by-month table first — if the month-1 actions feel impossible in your hours, tell Claude to rebuild it for fewer hours.",
+    "Set up affiliate links in month 1 even though income is $0; the links compound while you grow.",
+    "Ask Claude to write the exact outreach email for your first sponsorship in the month it says you are ready.",
+    "Re-run the prompt every quarter with your real numbers — the timeline should get more accurate as your channel grows."
+  ],
+  "tips": [
+    "The 'do NOT touch before month 6' list is the most valuable part — early sponsorships at tiny audiences underprice you for a year.",
+    "Your hours-per-week number controls everything; a 10-hour plan and a 30-hour plan are completely different timelines.",
+    "Track actual vs planned income monthly in a spreadsheet; the gap between them is where your real strategy lives."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "monetization",
+    "faceless-channel",
+    "strategy"
+  ],
+  "trending": true,
+  "popularity": 93
+}
 
 ];
 
