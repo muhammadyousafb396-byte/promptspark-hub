@@ -15781,8 +15781,317 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 92
+},
+{
+  "category": "Video Prompts",
+  "desc": "A crew of tiny baristas in aprons brews coffee inside a giant espresso cup — one steams milk with a ladder-sized wand, one slides a sugar cube down like a bobsled, and the crema swirls into a heart. Tiny-world workplace videos are TikTok's most rewatched story format, and a miniature coffee shop is a cozy winter angle nobody has claimed yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Pick your star barista — the one on the milk-steaming ladder — and describe it exactly the same way in every episode so viewers follow its tiny coffee shop.",
+    "Generate 3 versions and keep the one where the crema heart forms most clearly — that satisfying swirl is the save trigger.",
+    "Post one coffee-shop scene per day (opening day, the sugar-cube bobsled race, the rush-hour rush) and pin a comment asking what the baristas should brew next.",
+    "Add soft cafe ambience and a gentle espresso-machine hiss in your editor; cozy sound is half the reason these clips get saved."
+  ],
+  "id": "tiny-baristas-giant-espresso-cup-veo3",
+  "popularity": 93,
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a heartwarming tiny-world scene of miniature baristas brewing coffee inside a giant espresso cup — tiny baristas in aprons climbing a ladder to steam milk, one sliding a sugar cube down a ramp like a bobsled, rich brown crema swirling into a heart shape, warm cafe light, steam curling up, playful and cozy, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "tiny-world",
+    "coffee",
+    "story"
+  ],
+  "tips": [
+    "The sugar-cube bobsled is the laugh — if Veo 3 makes it too neat, add 'sugar cube tumbling down a wooden ramp' to the prompt.",
+    "Keep the same tiny barista in every clip; a regular character turns one cute video into a series people follow.",
+    "Title it as an episode ('Tiny Cafe Ep. 1: The Crema Heart') — numbered series titles pull binge-watchers."
+  ],
+  "title": "Tiny Baristas Brew Coffee in a Giant Espresso Cup — Veo 3 Prompt for Viral TikTok Story Niches",
+  "tool": "Veo 3",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "A glass-bottom boat glides across a frozen lake while fish swim in glowing blue water beneath the ice — skaters wave from above, a seal pops up through a hole, and the whole lake lights up at dusk. Impossible winter travel videos stop the scroll, and a frozen-lake tour is a faceless niche nobody owns yet.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Keep the same boat and the same seal in every clip so the series feels like one continuous tour.",
+    "Generate 3 versions and keep the one where the fish under the ice look sharpest — the impossible view is the hook.",
+    "Post the tour as a 3-part series (boarding, the seal encounter, the dusk lights) and link the parts in pinned comments.",
+    "Add soft wind and gentle water sounds under the narration; quiet winter audio makes viewers stay longer."
+  ],
+  "id": "frozen-lake-glass-boat-tour-veo3",
+  "popularity": 88,
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a magical winter travel scene of a glass-bottom boat gliding across a frozen lake — glowing blue water and fish visible beneath the clear ice, ice skaters waving as the boat passes, a curious seal popping up through a round hole in the ice, the whole lake lit golden at dusk, cinematic and dreamlike, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "winter",
+    "travel",
+    "faceless"
+  ],
+  "tips": [
+    "The seal popping through the ice is the rewatch moment — put it in the first 3 seconds of the clip.",
+    "Shoot the dusk version last in the series; golden light over blue ice is the thumbnail that wins clicks.",
+    "Add 'no text, no watermark' every time — Veo 3 sometimes bakes captions into winter scenes."
+  ],
+  "title": "Frozen Lake Glass-Bottom Boat Tour — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "tool": "Veo 3",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A robot vacuum stages a great escape from a tidy living room — dodging a cat, ramping off a rug, and making a break for the open front door while the family chases it in slow motion. Household-object comedy is TikTok's most shareable format, and a runaway vacuum is a character nobody has turned into a series yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Give the vacuum one clear personality — brave, clumsy, determined — and keep that same attitude in every episode.",
+    "Generate 3 versions and keep the one where the rug ramp looks funniest — the tiny jump is the laugh.",
+    "Post one escape attempt per day (the cat blockade, the staircase plan, the front-door dash) and ask viewers where the vacuum should go next.",
+    "Add fast cartoon chase music in your editor; the music sells the slapstick."
+  ],
+  "id": "robot-vacuum-great-escape-kling",
+  "popularity": 91,
+  "prompt": "Kling video, [DURATION: 10-20 seconds], vertical 9:16: a hilarious chase scene of a robot vacuum escaping a tidy living room — the little vacuum speeding across the floor, dodging a surprised orange cat, ramping off a rug edge, racing toward the open front door while the family chases it in slow motion behind, bright daylight, slapstick comedy timing, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "comedy",
+    "pets",
+    "household"
+  ],
+  "tips": [
+    "The cat's shocked face is the thumbnail — freeze the frame where the cat first spots the runaway vacuum.",
+    "Keep the chase under 20 seconds; comedy clips that end before the joke wears out get shared most.",
+    "Name the vacuum in the caption ('Roomba's Revenge Ep. 1') — named characters get followers, not just views."
+  ],
+  "title": "Robot Vacuum's Great Escape — Kling Prompt for Viral TikTok Comedy Niches",
+  "tool": "Kling",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "The last lighthouse keeper spends his final winter alone on a snowy cliff — polishing the great lamp, writing letters he never sends, and watching the last ship of the season disappear into the fog. Slow, emotional story niches hold faceless YouTube viewers longer than any trend, and a lighthouse keeper's farewell is a story arc that runs for weeks.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Keep the same keeper, the same coat and the same lamp in every clip so the series feels like one continuous winter.",
+    "Generate 3 versions and keep the one where the lamp light feels warmest against the cold sea — that contrast is the emotion.",
+    "Post one chapter per week (the first storm, the last letter, the final light) and end each video on a quiet question for the comments.",
+    "Add a soft piano line and distant foghorn in your editor; silence between notes is what makes viewers feel the loneliness."
+  ],
+  "id": "last-lighthouse-keeper-final-winter-sora",
+  "popularity": 87,
+  "prompt": "Sora video, [DURATION: 20-40 seconds], vertical 9:16: a quiet emotional story scene of the last lighthouse keeper spending his final winter alone — an old keeper in a wool coat polishing the great brass lamp, snow falling past the tower windows, a handwritten letter on the desk, the last ship of the season fading into grey fog below the cliff, warm lamp light against cold blue sea, slow and cinematic, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "story",
+    "winter",
+    "faceless"
+  ],
+  "tips": [
+    "The letter on the desk is your series engine — let viewers guess what it says, then reveal one line per episode.",
+    "Never show the keeper's face clearly; mystery keeps faceless-story viewers coming back.",
+    "Title each chapter like a book ('The Keeper: Chapter 1 — The Last Ship') — chapter titles build binge-watchers."
+  ],
+  "title": "The Last Lighthouse Keeper's Final Winter — Sora Prompt for Faceless YouTube Story Niches",
+  "tool": "Sora",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A whole city commutes inside a giant snow globe — tiny buses circle the base, skaters glide past the town hall, and snow falls gently over the rooftops while the globe sits on a windowsill at dusk. Miniature-world loops are Instagram Reels' most saved format, and a snow-globe city is a winter loop nobody has animated yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Ask for a seamless loop in the prompt — loops that restart invisibly get watched twice, and double views count.",
+    "Generate 3 versions and keep the one where the buses' circle lines up perfectly at the loop point.",
+    "Post the loop as a Reel with a cozy lo-fi track and pin a comment asking which tiny building viewers would live in.",
+    "Re-cut the same loop at different times of day (dawn, noon, dusk) — one scene becomes three Reels."
+  ],
+  "id": "animated-snow-globe-city-commute-runway",
+  "popularity": 90,
+  "prompt": "Runway video, [DURATION: 8-15 seconds], vertical 9:16: a charming miniature-world loop of a whole city commuting inside a giant snow globe — tiny buses circling the base, skaters gliding past a tiny town hall, snow falling gently over glowing rooftops, the globe sitting on a windowsill at dusk, warm window light, seamless loop, playful and cozy, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "winter",
+    "miniature",
+    "loop"
+  ],
+  "tips": [
+    "The loop point is everything — if the buses jump, add 'seamless loop, identical first and last frame' to the prompt.",
+    "Keep the globe on a windowsill, not floating in space; the windowsill makes the miniature feel real.",
+    "Use the same snow-globe city for a 7-day series — one tiny event per day turns a loop into a following."
+  ],
+  "title": "Animated Snow Globe City Commute — Runway Prompt for Viral Instagram Reels Niches",
+  "tool": "Runway",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "Glassblowers spin glowing candy-cane ornaments in slow motion — red and white stripes spiralling, sparks of light catching the glass, and each ornament cooling into a perfect swirl. Satisfying craft videos are Facebook Reels' most shared format, and candy-cane glass is a holiday angle nobody has filmed this way yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Keep the same workshop glow and the same red-and-white palette in every clip so the series feels like one artisan's bench.",
+    "Generate 3 versions and keep the one where the stripes spiral most cleanly — the perfect swirl is the satisfaction.",
+    "Post one ornament per day (the first swirl, the giant candy cane, the ornament that cracks) and ask viewers which colour to spin next.",
+    "Add soft workshop sounds — the glass hum and the cooling hiss — in your editor; craft ASMR is why these Reels get saved."
+  ],
+  "id": "spinning-candy-cane-ornaments-flow",
+  "popularity": 86,
+  "prompt": "Google Flow video, [DURATION: 10-20 seconds], vertical 9:16: a satisfying craft scene of glassblowers spinning glowing candy-cane ornaments in slow motion — red and white stripes spiralling around molten glass, sparks of light catching the surface, each ornament cooling into a perfect swirl, warm workshop glow, mesmerizing and relaxing, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "satisfying",
+    "craft",
+    "holiday"
+  ],
+  "tips": [
+    "The cooling moment is the payoff — end the clip exactly when the swirl sets, not after.",
+    "Slow motion is the whole trick; if Flow speeds it up, add 'extreme slow motion' twice in the prompt.",
+    "Pair the Reel with a still photo of the finished ornament in the comments — the before/after drives shares."
+  ],
+  "title": "Spinning Candy Cane Glass Ornaments — Google Flow Prompt for Satisfying Facebook Reels",
+  "tool": "Google Flow",
+  "trending": false
+},
+{
+  "category": "Image Prompts",
+  "desc": "A set of vintage travel posters for winter places that never existed — a ski lodge on the moon, a train to the North Pole, a beach resort inside an iceberg. Retro poster art is Instagram's most saved image format, and imaginary winter destinations are a theme page angle nobody has packed yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Midjourney and paste the full prompt above.",
+    "Swap only the destination in each run — moon ski lodge, North Pole train, iceberg beach resort — and keep the palette and poster style identical so the pack feels like one series.",
+    "Generate 4 versions per destination and keep the one with the cleanest empty space at the bottom for your own text.",
+    "Post one poster per day as a carousel, and ask followers which imaginary destination they would book first.",
+    "Add your own short destination name in the blank space with a retro font in your editor — the text makes each poster shareable."
+  ],
+  "id": "vintage-winter-travel-posters-midjourney",
+  "popularity": 85,
+  "prompt": "Midjourney image, [ASPECT: 4:5]: a vintage 1950s travel poster for an imaginary winter destination — a ski lodge on the moon with tiny skiers under Earthrise, bold retro typography space left blank at the bottom, flat colours, screen-print texture, warm red and cream palette, nostalgic and charming, highly detailed, --ar 4:5 --v 6 --style raw",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "vintage",
+    "travel",
+    "poster-art"
+  ],
+  "tips": [
+    "The blank space at the bottom is the feature — if Midjourney fills it with gibberish text, add '--no text, letters' to the prompt.",
+    "Keep the palette to two or three colours per poster; limited palettes look more vintage and more premium.",
+    "Sell the pack as a printable set after posting — poster packs are the easiest first product for an art page."
+  ],
+  "title": "Vintage Winter Travel Poster Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+  "tool": "Midjourney",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "A ChatGPT prompt that mines your own town for creator niches — the cobbler nobody filmed, the 100-year-old bakery, the night-shift jobs nobody talks about. Local-business niches have almost no competition and built-in audiences, and this prompt finds ten of them in one run.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above, replacing [YOUR TOWN/CITY] with your real town.",
+    "Ask it to re-rank the list by 'easiest to film first' if you want quick wins instead of fastest growth.",
+    "Pick the top niche and ask ChatGPT for a 30-day video calendar for it before you film anything.",
+    "Film the first video with your phone this week — local niches reward speed, not polish.",
+    "Post the first video and share it in one local Facebook group; a town audience is the fastest first 100 subscribers."
+  ],
+  "id": "forgotten-local-business-niche-finder-chatgpt",
+  "popularity": 92,
+  "prompt": "Act as a viral YouTube niche researcher. I live in [YOUR TOWN/CITY]. Find 10 untapped faceless-channel niches built around local businesses and everyday jobs in my area — the old cobbler, the 100-year-old bakery, night-shift workers, the family-run market stall. For each niche give: the channel angle in one sentence, 5 video ideas that could be filmed with a phone, why it has almost no competition, and the first video to post. Rank them by how fast a new channel could reach 1,000 subscribers. Only include niches I can start this week with zero budget.",
+  "tags": [
+    "creator-niche",
+    "chatgpt",
+    "niche-discovery",
+    "youtube",
+    "local",
+    "faceless"
+  ],
+  "tips": [
+    "Small towns beat big cities for this prompt — fewer creators have mined them, so the niches are genuinely empty.",
+    "Ask the shop owners before filming; a yes from the cobbler turns into a free location and a free first fan.",
+    "Repeat the prompt for a neighbouring town once your first channel works — the same system scales town by town."
+  ],
+  "title": "Forgotten Local Business Niche Finder — ChatGPT Prompt to Turn Small-Town Shops Into Viral Channels",
+  "tool": "ChatGPT",
+  "trending": true
+},
+{
+  "category": "Text Prompts",
+  "desc": "A Gemini prompt that turns any breaking trend into a 7-day content calendar for YOUR niche — the news hook, the angle only your channel can take, and the video to post each day while the trend is still hot. Trend-jacking is the fastest growth lever a small creator has, and this prompt makes it a repeatable weekly system.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Gemini and paste the full prompt above, filling in [YOUR NICHE] and [DESCRIBE THE TREND OR NEWS].",
+    "Paste in the trend's top 3 viral posts or headlines so Gemini works from the real angle, not a guess.",
+    "Film Day 1 the same day — trend-jacking only works while the trend is still climbing.",
+    "Post Days 2-4 on your main platform, then re-cut the best one for the other three platforms.",
+    "Watch the 'dying signs' Gemini listed; the moment two of them appear, pivot back to your evergreen content."
+  ],
+  "id": "trend-jacking-calendar-gemini",
+  "popularity": 90,
+  "prompt": "Act as a viral content strategist for my channel about [YOUR NICHE]. A trend is exploding right now: [DESCRIBE THE TREND OR NEWS]. Build me a 7-day trend-jacking calendar. For each day give: the video idea that connects this trend to my niche, the hook line for the first 3 seconds, the format (Short, Reel, or long video), and the best time to post. Day 1 must be filmable today with zero budget. End with 3 signs that tell me when the trend is dying and I should stop posting about it.",
+  "tags": [
+    "creator-niche",
+    "gemini",
+    "trends",
+    "youtube",
+    "tiktok",
+    "strategy"
+  ],
+  "tips": [
+    "The angle is everything — never copy the trend, connect it to your niche in a way only your channel can.",
+    "Keep a running list of trends in your notes; the fastest jackers spot the trend before it peaks.",
+    "One trend-jack per week is the limit — more than that and your channel looks like a news page, not a niche."
+  ],
+  "title": "Trend-Jacking Calendar — Gemini Prompt to Ride Viral Moments in Any Niche",
+  "tool": "Gemini",
+  "trending": true
+},
+{
+  "category": "Text Prompts",
+  "desc": "A Claude prompt that audits a dead or stalled channel and writes a 30-day comeback plan — which videos to delete, which to remake, the new upload rhythm, and the exact first 10 videos to post. Every creator has a dead channel somewhere, and a comeback plan is the most searched creator topic after niche ideas.",
+  "difficulty": "Advanced",
+  "howto": [
+    "Open Claude and paste the full prompt above, filling in your niche, subscriber count, months inactive, and your last 10 titles with views.",
+    "Ask Claude to rank the first 10 comeback videos by 'most likely to bring back old subscribers' if you want retention first.",
+    "Delete or unlist only what Claude flags as actively hurting the channel — keep the rest as proof of your history.",
+    "Film the first comeback video within 48 hours; a plan without a video is just a document.",
+    "Watch the one metric Claude named every morning for 30 days — if it climbs for 7 straight days, the comeback is real."
+  ],
+  "id": "channel-comeback-playbook-claude",
+  "popularity": 89,
+  "prompt": "Act as a YouTube growth consultant. My channel about [YOUR NICHE] has [SUBSCRIBER COUNT] subscribers and has stalled — views dropped, uploads stopped [X] months ago. Here are my last 10 video titles and views: [PASTE THEM]. Audit the channel and write a 30-day comeback plan: which videos to delete, unlist, or remake; the new upload schedule; the exact first 10 videos to post with titles and hooks; and what to change about thumbnails and titles. Be brutally honest about what killed the channel. End with the single metric I should watch every day to know the comeback is working.",
+  "tags": [
+    "creator-niche",
+    "claude",
+    "channel-growth",
+    "youtube",
+    "comeback",
+    "strategy"
+  ],
+  "tips": [
+    "Paste real titles and real view counts — Claude's audit is only as honest as the data you give it.",
+    "The comeback video should name the gap ('I disappeared for 6 months — here's why') — honesty brings old subscribers back faster than a silent return.",
+    "Comeback channels grow faster than new ones; your old subscribers are still there, waiting for a reason to click."
+  ],
+  "title": "Channel Comeback Playbook — Claude Prompt to Revive a Dead Channel in 30 Days",
+  "tool": "Claude",
+  "trending": false
 }
-
 ];
 
 if (typeof module !== "undefined") {
