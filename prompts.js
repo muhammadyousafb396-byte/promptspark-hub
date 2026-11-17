@@ -15783,6 +15783,99 @@ const PROMPTS = [
   "popularity": 92
 },
 {
+  "id": "niche-2026-11-17-ai-art-speed-painting-reels",
+  "title": "AI Art & Speed-Painting Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Ek blank canvas, 30 second mein ek masterpiece — speed-painting Reels Instagram ke sab se faceless art niche hain: art & design viral Reels mein 64% faceless hain. Is niche ki videos 148.2M / 121.6M / 97.4M / 72.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-art-speed-painting-reels.jpg",
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: an AI art speed-painting Reel — a blank [CANVAS: white canvas / black paper / wooden panel / old wall] transforming into [SUBJECT: a glowing sunset landscape / a hyper-real portrait / a neon phoenix mural / a swirling galaxy] in fast-forward, the brush moving like magic, paint splashing in vivid [PALETTE: warm oranges and golds / electric pinks and turquoise / deep purples and blues], the final reveal in the last 3 seconds with a satisfying zoom into the finished detail, bright saturated colors, ASMR brush sounds, no text, no watermark",
+  "howto": [
+    "Pick ONE painting style and ONE subject — a sunset landscape in thick oils beats five random styles; viewers follow a painter, not a gallery.",
+    "Film the process in fast-forward but slow down for the last 3 seconds — the final reveal is the save; a rushed reveal loses the rewatch.",
+    "Post the same painting as a 15-second Reel and a 60-second TikTok — the short one hooks, the long one keeps the art crowd."
+  ],
+  "tips": [
+    "Hook rule: the first frame must already show paint flying — a blank canvas in the first 2 seconds gets skipped; a brush mid-stroke stops the scroll.",
+    "Caption trick: ask 'Which colour should I paint next?' in the first line — a choice question gets answered, and answers are reach.",
+    "Post at golden hour in your audience's timezone — art Reels peak when people are relaxing, not working."
+  ],
+  "why_it_works": "Satisfaction plus the reveal: the brain loves watching chaos become beauty, the final 3 seconds deliver a payoff worth saving, and every painting is a fresh Reel — endless supply, zero filming, built for Instagram saves.",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "art",
+    "painting",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "niche-2026-11-17-ai-eco-minimalism-shorts",
+  "title": "AI Eco Minimalism & Sustainable Living Shorts (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Ek chhota sa swap, $200 mahina bachat — eco minimalism TikTok ka 2026 ka breakout niche hai: zero-waste kitchen, balcony garden, bamboo home. Is niche ki videos 168.5M / 142.3M / 117.9M / 91.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-eco-minimalism-shorts.jpg",
+  "prompt": "Veo 3 video, [DURATION: 30-60 seconds], vertical 9:16: an AI eco minimalism short — [SCENE: a sunny zero-waste kitchen with glass jars and fresh herbs / a tiny balcony vegetable garden at golden hour / a cozy bamboo minimalist home full of plants / a reusable-items flat-lay on linen], a calm narrator showing ONE simple swap that saves [MONEY: $50 / $100 / $200] a month — [SWAP: glass jars instead of plastic / growing your own herbs / bamboo instead of disposable / a capsule wardrobe], before-and-after shots, warm natural light, soft morning sounds, bright fresh colors, no text, no watermark",
+  "howto": [
+    "Pick ONE swap per video and show the exact money saved — 'this jar saves $12 a month' beats 'save the planet' every time.",
+    "Film before-and-after in the same light, same angle — the contrast is the proof, and proof is what gets shared.",
+    "End with 'Day 1 of 30 swaps' and number the series — a numbered challenge turns one viral short into a 30-day habit for viewers."
+  ],
+  "tips": [
+    "Hook rule: open with the money number — 'I save $200 a month with this one swap' — a real number in the first 2 seconds is the scroll-stopper.",
+    "Caption trick: put the swap cost first — 'Costs $3, saves $200/year' — people save posts that save them money.",
+    "Show your own hands and your own home — eco content wins on trust, and a real kitchen beats a stock photo every time."
+  ],
+  "why_it_works": "Money plus meaning: viewers save the video because it saves them cash, share it because it feels good, and the swap format is endlessly repeatable — one small change per video, zero filming, built for TikTok saves.",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "eco",
+    "sustainability",
+    "minimalism"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "niche-2026-11-17-ai-disaster-documentaries",
+  "title": "AI Disaster & Accident Documentaries (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Ek volcano, ek tsunami, ek earthquake — aur woh log jo bach gaye. Disaster documentaries November 2026 ke breakout faceless format hain: 2 hafte purana channel, 5 videos, ~385,000 views per video. Is niche ki videos 46.8M / 35.2M / 27.6M / 19.4M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-disaster-documentaries.jpg",
+  "prompt": "Veo 3 video, [DURATION: 10-15 minutes], horizontal 16:9: an AI disaster documentary — [DISASTER: a volcanic eruption burying a town in ash / a tsunami wave racing toward a coastal city / a 1906-style earthquake splitting a city street / a wildfire storm sweeping a pine forest], cinematic reconstruction with slow sweeping shots, a calm authoritative narrator telling the story in three beats — the warning signs nobody saw, the moment it hit, the people who survived — real timeline, real numbers, dramatic golden-hour and firelight, epic orchestral score, photorealistic, no on-screen text, no watermark",
+  "howto": [
+    "Pick ONE real disaster and check the timeline and numbers first — a wrong death toll in the comments kills a documentary channel.",
+    "Structure it in three beats — the warning signs, the moment it hit, the survivors — viewers who watch the warning stay for the survival.",
+    "End with 'What should I document next?' and pin the best suggestion — the comments write your next 20 documentaries."
+  ],
+  "tips": [
+    "Hook rule: open on the impossible shot — a town under ash, a wave taller than a building — a world that cannot be filmed stops the YouTube scroll.",
+    "Title trick: lead with the disaster + the number — 'The Volcano That Buried a Town in 24 Hours' earns the click; 'Volcano Documentary' does not.",
+    "Keep one calm narrator voice across every episode — disaster wins on tension, and a steady voice makes the chaos hit harder."
+  ],
+  "why_it_works": "Awe plus survival: viewers stay to learn how people made it out, the disaster is a story shape humans never stop watching, and every catastrophe is a fresh documentary — endless supply, evergreen demand, the strongest retention shape in long-form YouTube.",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "documentary",
+    "disaster",
+    "history"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
   "category": "Video Prompts",
   "desc": "A crew of tiny baristas in aprons brews coffee inside a giant espresso cup — one steams milk with a ladder-sized wand, one slides a sugar cube down like a bobsled, and the crema swirls into a heart. Tiny-world workplace videos are TikTok's most rewatched story format, and a miniature coffee shop is a cozy winter angle nobody has claimed yet.",
   "difficulty": "Beginner",
