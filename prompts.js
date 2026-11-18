@@ -16184,6 +16184,316 @@ const PROMPTS = [
   "title": "Channel Comeback Playbook — Claude Prompt to Revive a Dead Channel in 30 Days",
   "tool": "Claude",
   "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A crew of tiny beekeepers in veils harvests honey from a giant glowing honeycomb city — one rappels down a golden wall with a tiny bucket, one directs traffic as bees the size of buses drift past, and honey drips like slow amber rain. Tiny-world workplace videos are TikTok's most rewatched story format, and a honeycomb city is a cozy nature angle nobody has claimed yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Pick your star beekeeper — the one rappelling with the tiny bucket — and describe it exactly the same way in every episode so viewers follow its tiny honey crew.",
+    "Generate 3 versions and keep the one where the honey drip looks thickest and slowest — that amber drip is the save trigger.",
+    "Post one honeycomb scene per day (harvest day, the bee traffic jam, the golden honey flood) and pin a comment asking what the beekeepers should harvest next.",
+    "Add soft buzzing and gentle dripping sounds in your editor; cozy nature audio is half the reason these clips get saved."
+  ],
+  "id": "tiny-beekeepers-giant-honeycomb-city-veo3",
+  "popularity": 92,
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a heartwarming tiny-world scene of miniature beekeepers harvesting honey inside a giant glowing honeycomb city — tiny beekeepers in white veils rappelling down golden honeycomb walls with tiny buckets, giant friendly bees drifting past like buses, thick amber honey dripping slowly in golden light, warm sunset glow through the comb, playful and cozy, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "tiny-world",
+    "nature",
+    "story"
+  ],
+  "tips": [
+    "The amber honey drip is the rewatch moment — put it in the first 3 seconds of the clip.",
+    "Keep the same tiny beekeeper in every clip; a regular character turns one cute video into a series people follow.",
+    "Title it as an episode ('Tiny Honeycomb Ep. 1: The Great Harvest') — numbered series titles pull binge-watchers."
+  ],
+  "title": "Tiny Beekeepers Harvest a Giant Honeycomb City — Veo 3 Prompt for Viral TikTok Story Niches",
+  "tool": "Veo 3",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "A hot-air balloon drifts underwater through a coral reef — its basket glowing like a lantern, clownfish swirling around the ropes, a sea turtle gliding past the burner, and the whole reef lighting up in pink and gold. Impossible travel videos stop the scroll, and an underwater balloon ride is a faceless niche nobody owns yet.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Veo 3 and paste the full prompt above.",
+    "Keep the same balloon colours and the same sea turtle in every clip so the series feels like one continuous dive.",
+    "Generate 3 versions and keep the one where the reef glows brightest — the impossible lantern light is the hook.",
+    "Post the ride as a 3-part series (the descent, the turtle encounter, the glowing reef at dusk) and link the parts in pinned comments.",
+    "Add soft underwater bubbles and gentle whale-song ambience in your editor; quiet ocean audio makes viewers stay longer."
+  ],
+  "id": "underwater-hot-air-balloon-coral-reef-veo3",
+  "popularity": 88,
+  "prompt": "Veo 3 video, [DURATION: 15-30 seconds], vertical 9:16: a magical impossible-travel scene of a hot-air balloon drifting underwater through a coral reef — the balloon basket glowing like a warm lantern, clownfish swirling around the ropes, a gentle sea turtle gliding past, coral glowing pink and gold in the deep blue water, sunbeams rippling down from the surface, cinematic and dreamlike, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "travel",
+    "ocean",
+    "faceless"
+  ],
+  "tips": [
+    "The glowing basket against the deep blue is the thumbnail — freeze the frame where the turtle first passes the balloon.",
+    "Shoot the dusk-glow version last in the series; pink coral light over blue water is the frame that wins clicks.",
+    "Add 'no text, no watermark' every time — Veo 3 sometimes bakes captions into underwater scenes."
+  ],
+  "title": "Underwater Hot-Air Balloon Ride Through a Coral Reef — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "tool": "Veo 3",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A grumpy pigeon in a tiny cap runs a taxi service for the neighbourhood's smallest animals — a ladybug hails a ride with a leaf, a beetle argues over the fare, and the pigeon sighs as the meter runs. Grumpy-animal comedy is TikTok's most shareable format, and a pigeon taxi driver is a character nobody has turned into a series yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Kling and paste the full prompt above.",
+    "Give the pigeon one clear personality — grumpy, tired, secretly kind — and keep that same attitude in every episode.",
+    "Generate 3 versions and keep the one where the ladybug hailing the ride looks funniest — the tiny leaf wave is the laugh.",
+    "Post one fare per day (the ladybug rush, the beetle who won't pay, the midnight airport run) and ask viewers where the taxi should go next.",
+    "Add fast cartoon taxi-horn music in your editor; the music sells the slapstick."
+  ],
+  "id": "grumpy-pigeon-tiny-taxi-service-kling",
+  "popularity": 91,
+  "prompt": "Kling video, [DURATION: 10-20 seconds], vertical 9:16: a hilarious comedy scene of a grumpy pigeon running a tiny taxi service — a pigeon in a little cap driving a matchbox-sized taxi, a ladybug hailing a ride by waving a tiny leaf, a beetle arguing over the fare in the back seat, city birds watching from a wire above, bright daylight, slapstick comedy timing, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "comedy",
+    "animals",
+    "city"
+  ],
+  "tips": [
+    "The ladybug waving the leaf is the thumbnail — freeze the frame where the pigeon first spots the tiny passenger.",
+    "Keep the rides under 20 seconds; comedy clips that end before the joke wears out get shared most.",
+    "Name the pigeon in the caption ('Percy the Pigeon Taxi Ep. 1') — named characters get followers, not just views."
+  ],
+  "title": "Grumpy Pigeon Runs a Tiny Taxi Service — Kling Prompt for Viral TikTok Comedy Niches",
+  "tool": "Kling",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "An abandoned aquarium comes alive after closing time — the empty tanks refill themselves, a ghostly octopus rearranges the coral, and the ticket booth glows as if the last visitor never left. Slow, eerie mystery niches hold faceless YouTube viewers longer than any trend, and a haunted aquarium is a story arc that runs for weeks.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open Sora and paste the full prompt above.",
+    "Keep the same aquarium halls, the same flickering lights and the same octopus in every clip so the series feels like one continuous night.",
+    "Generate 3 versions and keep the one where the tank water looks most alive — the self-refilling tank is the chill.",
+    "Post one chapter per week (the first drip, the octopus curator, the glowing ticket booth) and end each video on a quiet question for the comments.",
+    "Add dripping water and distant whale calls in your editor; silence between sounds is what makes viewers feel the emptiness."
+  ],
+  "id": "abandoned-aquarium-comes-alive-sora",
+  "popularity": 87,
+  "prompt": "Sora video, [DURATION: 20-40 seconds], vertical 9:16: a quiet eerie mystery scene of an abandoned aquarium coming alive at night — dusty empty tanks slowly refilling themselves with glowing blue water, a ghostly octopus rearranging coral in the dark, the old ticket booth glowing faintly as if the last visitor never left, moonlight through cracked glass, slow and cinematic, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "mystery",
+    "story",
+    "faceless"
+  ],
+  "tips": [
+    "The self-refilling tank is your series engine — let viewers guess what fills it, then reveal one clue per episode.",
+    "Never show the octopus clearly; mystery keeps faceless-story viewers coming back.",
+    "Title each chapter like a book ('The Aquarium: Chapter 1 — The First Drip') — chapter titles build binge-watchers."
+  ],
+  "title": "The Abandoned Aquarium Comes Alive at Night — Sora Prompt for Faceless YouTube Mystery Niches",
+  "tool": "Sora",
+  "trending": false
+},
+{
+  "category": "Video Prompts",
+  "desc": "A watercolor koi pond paints itself alive — orange koi swim out of the brushstrokes, lily pads bloom in wet paint, and the paper ripples like real water under a paper sun. Living-art loops are Instagram Reels' most saved format, and a watercolor pond is a loop nobody has animated yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Runway and paste the full prompt above.",
+    "Ask for a seamless loop in the prompt — loops that restart invisibly get watched twice, and double views count.",
+    "Generate 3 versions and keep the one where the koi's tail strokes line up perfectly at the loop point.",
+    "Post the loop as a Reel with a soft piano track and pin a comment asking which koi viewers would name.",
+    "Re-cut the same loop at different seasons (spring blossom, summer green, autumn gold) — one scene becomes three Reels."
+  ],
+  "id": "watercolor-koi-pond-runway",
+  "popularity": 90,
+  "prompt": "Runway video, [DURATION: 8-15 seconds], vertical 9:16: a beautiful living-art loop of a watercolor koi pond painting itself alive — orange koi swimming out of wet brushstrokes, lily pads blooming in fresh paint, the paper rippling like real water, a soft paper sun glowing above, gentle and dreamy, seamless loop, photorealistic watercolor texture, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "art",
+    "watercolor",
+    "loop"
+  ],
+  "tips": [
+    "The loop point is everything — if the koi jump, add 'seamless loop, identical first and last frame' to the prompt.",
+    "Keep the paper texture visible; the handmade paper is what makes the pond feel like art, not animation.",
+    "Use the same koi pond for a 7-day series — one tiny event per day turns a loop into a following."
+  ],
+  "title": "Watercolor Koi Pond Comes Alive — Runway Prompt for Viral Instagram Art Niches",
+  "tool": "Runway",
+  "trending": true
+},
+{
+  "category": "Video Prompts",
+  "desc": "Candles melt into living art in slow motion — coloured wax drips layer into rainbow rivers, a flame bends the wax into tiny waves, and each puddle cools into a perfect marbled swirl. Satisfying craft videos are Facebook Reels' most shared format, and candle-wax art is a holiday angle nobody has filmed this way yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Google Flow and paste the full prompt above.",
+    "Keep the same candle colours and the same warm glow in every clip so the series feels like one artisan's bench.",
+    "Generate 3 versions and keep the one where the wax layers swirl most cleanly — the perfect marble is the satisfaction.",
+    "Post one candle per day (the first drip, the rainbow river, the candle that never melts) and ask viewers which colour to melt next.",
+    "Add soft crackling wick sounds in your editor; candle ASMR is why these Reels get saved."
+  ],
+  "id": "melting-candle-wax-art-flow",
+  "popularity": 85,
+  "prompt": "Google Flow video, [DURATION: 10-20 seconds], vertical 9:16: a satisfying craft scene of candles melting into living art in slow motion — coloured wax dripping in slow ribbons, red and gold layers swirling into rainbow rivers, a flame bending the wax into tiny waves, each puddle cooling into a perfect marbled swirl, warm candlelight glow, mesmerizing and relaxing, photorealistic, no text, no watermark",
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "satisfying",
+    "craft",
+    "holiday"
+  ],
+  "tips": [
+    "The cooling moment is the payoff — end the clip exactly when the marble sets, not after.",
+    "Slow motion is the whole trick; if Flow speeds it up, add 'extreme slow motion' twice in the prompt.",
+    "Pair the Reel with a still photo of the finished wax art in the comments — the before/after drives shares."
+  ],
+  "title": "Melting Candle Wax Art Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "tool": "Google Flow",
+  "trending": false
+},
+{
+  "category": "Image Prompts",
+  "desc": "A set of vintage apothecary shop illustrations — dusty amber bottles, hand-lettered remedy labels, dried herbs hanging from the beams, and a brass scale catching golden window light. Retro shop art is Instagram's most saved image format, and an old apothecary is a theme page angle nobody has packed yet.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Midjourney and paste the full prompt above.",
+    "Swap only the shop detail in each run — the amber bottles, the herb wall, the brass scale — and keep the palette and illustration style identical so the pack feels like one series.",
+    "Generate 4 versions per scene and keep the one with the cleanest empty space at the bottom for your own text.",
+    "Post one illustration per day as a carousel, and ask followers which remedy bottle they would open first.",
+    "Add your own short shop name in the blank space with a vintage serif font in your editor — the text makes each illustration shareable."
+  ],
+  "id": "vintage-apothecary-shop-midjourney",
+  "popularity": 86,
+  "prompt": "Midjourney image, [ASPECT: 4:5]: a vintage apothecary shop illustration in warm storybook style — dusty amber bottles with hand-lettered remedy labels, dried herbs hanging from wooden beams, a brass scale catching golden window light, a sleepy cat curled on the counter, empty space left blank at the bottom for text, rich warm browns and gold, cozy and nostalgic, highly detailed, --ar 4:5 --v 6 --style raw",
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "vintage",
+    "illustration",
+    "cozy"
+  ],
+  "tips": [
+    "The blank space at the bottom is the feature — if Midjourney fills it with gibberish text, add '--no text, letters' to the prompt.",
+    "Keep the palette to warm browns and golds; a limited palette looks more vintage and more premium.",
+    "Sell the pack as a printable set after posting — illustration packs are the easiest first product for an art page."
+  ],
+  "title": "Vintage Apothecary Shop Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+  "tool": "Midjourney",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "A ChatGPT prompt that finds creator niches hiding around every new AI tool — the tool just launched, the tutorials nobody made yet, the comparison videos nobody filmed. New-tool niches have almost no competition and built-in search traffic, and this prompt finds ten of them in one run.",
+  "difficulty": "Intermediate",
+  "howto": [
+    "Open ChatGPT and paste the full prompt above, replacing [NEW AI TOOL NAME] with a tool that launched in the last 30 days.",
+    "Ask it to re-rank the list by 'easiest video to film today' if you want quick wins instead of fastest growth.",
+    "Pick the top niche and ask ChatGPT for a 30-day video calendar for it before you film anything.",
+    "Film the first tutorial with your phone this week — new-tool niches reward speed, not polish.",
+    "Post the first video and share it in one AI-tools Facebook group; early adopters are the fastest first 100 subscribers."
+  ],
+  "id": "ai-tool-niche-finder-chatgpt",
+  "popularity": 93,
+  "prompt": "Act as a viral YouTube niche researcher. A brand-new AI tool just launched: [NEW AI TOOL NAME]. It does [WHAT IT DOES IN ONE SENTENCE]. Find 10 untapped faceless-channel niches built around this tool — the tutorial nobody made yet, the comparison nobody filmed, the workflow nobody showed, the mistakes beginners keep making. For each niche give: the channel angle in one sentence, 5 video ideas filmable with a phone or screen recording, why it has almost no competition yet, and the first video to post. Rank them by how fast a new channel could reach 1,000 subscribers. Only include niches I can start this week with zero budget.",
+  "tags": [
+    "creator-niche",
+    "chatgpt",
+    "niche-discovery",
+    "youtube",
+    "ai-tools",
+    "faceless"
+  ],
+  "tips": [
+    "Tools launched in the last 30 days beat famous tools — fewer creators have mined them, so the niches are genuinely empty.",
+    "Repeat the prompt every month with the newest tool; new-tool niches are a renewable goldmine.",
+    "Pair the winning niche with a prompt pack or template as your first product — tool audiences buy templates fast."
+  ],
+  "title": "AI-Tool Niche Finder — ChatGPT Prompt to Find Creator Niches Around New AI Tools",
+  "tool": "ChatGPT",
+  "trending": true
+},
+{
+  "category": "Text Prompts",
+  "desc": "A Gemini prompt that turns your own comments section into a viral Shorts machine — it reads your top comments, finds the questions viewers keep asking, and turns each one into a reply video with a hook. Comment-reply videos are TikTok and Shorts' highest-retention format, and this prompt makes them a repeatable daily system.",
+  "difficulty": "Beginner",
+  "howto": [
+    "Open Gemini and paste the full prompt above, filling in [YOUR NICHE] and pasting your 20 most-liked comments.",
+    "Ask Gemini to re-rank the ideas by 'most likely to get a comment back' if you want engagement first.",
+    "Film the top reply video the same day — commenters who see their question answered become your loudest fans.",
+    "Post one reply video per day, tag the original commenter in the caption, and pin the original comment.",
+    "Watch which reply videos earn follow-up questions; those topics are your next 10 videos."
+  ],
+  "id": "comment-reply-video-idea-machine-gemini",
+  "popularity": 89,
+  "prompt": "Act as a viral short-form content strategist for my channel about [YOUR NICHE]. Here are my 20 most-liked comments: [PASTE THEM]. Turn them into a 14-day comment-reply video plan. For each day give: the comment to answer, the reply video idea in one sentence, the hook line for the first 3 seconds, and the call to action that gets viewers to comment again. Day 1 must be filmable today with zero budget. The replies should feel like a conversation, not a lecture. End with 3 signs that tell me when a comment thread deserves its own full video.",
+  "tags": [
+    "creator-niche",
+    "gemini",
+    "shorts",
+    "youtube",
+    "tiktok",
+    "engagement"
+  ],
+  "tips": [
+    "Answer the commenter's name out loud in the video — named replies get shared by the person you answered.",
+    "Keep replies under 30 seconds; a short answer that leaves one detail out earns a follow-up comment.",
+    "One reply video per day is the limit — more than that and your channel looks like a Q&A page, not a niche."
+  ],
+  "title": "Comment Reply Video Idea Machine — Gemini Prompt to Turn Comments Into Viral Shorts",
+  "tool": "Gemini",
+  "trending": false
+},
+{
+  "category": "Text Prompts",
+  "desc": "A Claude prompt that turns a faceless channel's silent viewers into a real community — the ritual that makes them return, the inside joke only your audience gets, and the weekly habit that makes them feel like members, not numbers. Faceless channels die without community, and this prompt builds one without ever showing your face.",
+  "difficulty": "Advanced",
+  "howto": [
+    "Open Claude and paste the full prompt above, filling in your niche, subscriber count, and your last 10 titles with views.",
+    "Ask Claude to design the community ritual first — a weekly habit is worth more than any single viral video.",
+    "Launch the ritual in your next video and name it in the title so new viewers can join from day one.",
+    "Run the ritual every week for 30 days before judging it; communities are built on repetition, not one event.",
+    "Watch the one metric Claude named every morning — if commenters start answering each other, the community is alive."
+  ],
+  "id": "faceless-channel-community-builder-claude",
+  "popularity": 88,
+  "prompt": "Act as a YouTube community strategist. My faceless channel about [YOUR NICHE] has [SUBSCRIBER COUNT] subscribers and gets views but almost no comments — viewers watch and leave. Design a 30-day community-building system I can run without ever showing my face: a weekly ritual that makes viewers return, an inside joke or catchphrase only my audience will get, 10 community posts that start conversations, and a way to feature loyal viewers in videos. For each idea give the exact post or video to make, the first line, and why it makes a viewer feel like a member instead of a number. End with the single metric I should watch every day to know the community is growing.",
+  "tags": [
+    "creator-niche",
+    "claude",
+    "community",
+    "youtube",
+    "faceless",
+    "strategy"
+  ],
+  "tips": [
+    "The inside joke is the glue — a catchphrase viewers repeat in the comments turns watchers into members.",
+    "Feature one loyal commenter in every video; being seen is the fastest way to turn a viewer into a regular.",
+    "Communities grow slowly then suddenly; run the ritual 30 days before deciding it failed."
+  ],
+  "title": "Faceless Channel Community Builder — Claude Prompt to Turn Viewers Into a Tribe",
+  "tool": "Claude",
+  "trending": false
 }
 ];
 
