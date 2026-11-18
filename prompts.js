@@ -16494,7 +16494,97 @@ const PROMPTS = [
   "title": "Faceless Channel Community Builder — Claude Prompt to Turn Viewers Into a Tribe",
   "tool": "Claude",
   "trending": false
-}
+},
+  {
+    "id": "niche-2026-11-18-ai-how-things-work-reels",
+    "title": "How Everyday Things Work (Facebook Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Curiosity gap: the brain cannot resist seeing inside a familiar object. The peel-away reveal is a visual payoff that forces viewers to watch to the end, and the final surprising fact turns a watch into a save or share. Is niche ki videos 92.4M/74.8M/61.3M/48.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-how-things-work-reels.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 20-30 seconds], vertical 9:16: a photorealistic 3D cutaway animation of [OBJECT: computer mouse / dishwasher / AirTag / cable car / toaster / washing machine], the outer shell peeling away to reveal the hidden mechanism inside — [HIDDEN MECHANISM: tiny camera sensor scanning the desk / spinning water jets and spray arms / miniature circuit board and battery / giant gears and steel cables], [CAMERA: slow orbit around the object / macro push-in on the mechanism / cross-section dolly], [LIGHTING: glowing tech-blue highlights / warm golden workshop light], [SOUND: soft mechanical clicks and whirrs / satisfying water rush], one surprising fact revealed on screen in the final 3 seconds, no watermark",
+    "howto": [
+      "Pick one everyday object everyone owns — the more ordinary, the stronger the curiosity gap when it opens up.",
+      "Open with the shell peeling away in the first 2 seconds; the reveal IS the hook, so never start with a title card.",
+      "End every video with one surprising fact on screen (\"Your mouse takes thousands of pictures of your desk every second\") — facts get saved and shared."
+    ],
+    "tips": [
+      "Hook rule: the cut-open moment must land in second 0-2 — Facebook's algorithm decides reach on the first scroll-past.",
+      "Caption trick: ask \"You had NO idea your [OBJECT] does this, right?\" — questions in captions double comments on Reels.",
+      "Post in the US evening window and share to 2-3 relevant Facebook groups; Reels get their first push from group shares, not followers."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "science",
+      "how-it-works",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-2026-11-18-ai-untold-history-stories-reels",
+    "title": "Untold History Stories (Instagram Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Narrative transportation plus the 'I never knew that' jolt: a true story with a twist makes the viewer feel smarter, and people share things that make them look smart. The twist-at-the-end structure forces full watch time, which Instagram reads as quality. Is niche ki videos 86.5M/69.2M/54.8M/41.3M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-untold-history-stories-reels.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 25-35 seconds], vertical 9:16: a little-known true story from history — [STORY: the WWII pilot who spared his enemy / the forgotten hero who saved a city / the twist nobody knows about a famous event], [OPENING SCENE: fighter cockpit at golden sunset / crowded ancient marketplace / stormy sea at night / medieval castle at dusk], [VISUAL STYLE: painterly cinematic realism / dramatic golden-hour light / moody teal-and-gold grade], narrator voiceover in 3 beats — the setup, the impossible choice, the twist — ending on a freeze frame with the one shocking fact, [ERA: WWII / Ancient Rome / Medieval / Age of Sail], no text, no watermark",
+    "howto": [
+      "Find one true story with a twist — the more 'nobody knows this' it feels, the better; verify the fact before you film it.",
+      "Structure in 3 beats: setup (5s) → impossible choice (10s) → twist payoff (5s); the twist must land in the last 3 seconds.",
+      "Post 1 Reel per day at the same time; history audiences binge a series, so number them (\"Untold History #12\")."
+    ],
+    "tips": [
+      "Hook rule: open with the twist as a question — \"The German pilot was ordered to kill... but chose to save his enemy. This story is real.\" Questions hold the thumb.",
+      "Caption trick: put the source in the first comment, not the caption — 'Source in comments' doubles comment count and Reels explore reach.",
+      "End on a freeze frame of the hero's face, not a logo — faces (even AI ones) at the emotional peak earn saves."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "history",
+      "storytelling",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-18-ai-impossible-challenge-videos",
+    "title": "Impossible Challenge Videos (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Challenge framing triggers ego (\"I could do that\") and the Zeigarnik effect (an unfinished task the brain must close). Viewers rewatch to check the answer, and the comment section explodes with 'I did it' vs 'impossible' — replays plus comments are TikTok's two biggest ranking signals. Is niche ki videos 214.7M/183.5M/156.2M/128.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-impossible-challenge-videos.jpg",
+    "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: an impossible challenge — [CHALLENGE: balance a tower of [OBJECTS] without it falling / trace the glowing neon maze to the exit in 10 seconds / hold your breath underwater as the timer counts down / stop the falling dominoes before the last one tips], [HOOK TEXT ON SCREEN: 'Only 1% can do this' / 'Don't blink' / 'Wait for the end'], [CAMERA: tight close-up on the action / slow-motion on the critical moment], [MOOD: tense, playful, high-energy], fast cuts, satisfying sound design, the result revealed in the final 2 seconds, no watermark",
+    "howto": [
+      "Pick a challenge anyone can attempt in their head — balance, maze, breath-hold, spot-the-difference — mental participation is the retention engine.",
+      "Put the challenge text on screen in second 0 (\"Only 1% can do this\") so the viewer accepts the dare before they can scroll.",
+      "Reveal the result only in the final 2 seconds and pin a comment asking \"Did you pass?\" — comments are the viral fuel."
+    ],
+    "tips": [
+      "Hook rule: the dare must be visible before second 1 — TikTok's first-second rule is brutal for challenge formats.",
+      "Title trick: \"Only 1% can pass this — are you the 1%?\" Ego-bait titles pull clicks and comments in equal measure.",
+      "Make the challenge genuinely hard but solvable; impossible-every-time videos get 'fake' comments, solvable ones get 'I did it' comments — and both boost reach."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "challenge",
+      "brain-teaser",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 96
+  }
 ];
 
 if (typeof module !== "undefined") {
