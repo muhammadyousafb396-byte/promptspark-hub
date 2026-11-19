@@ -16894,7 +16894,98 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-19-ai-unsolved-mysteries-docs",
+    "title": "Unsolved Mysteries & Conspiracy Documentaries (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "The Zeigarnik effect: an unsolved mystery is an open loop the brain cannot close, so viewers watch to the end — and then click the next video hoping for the answer. Real mysteries add a second engine: people share them to look smart, and the theory debate in the comments feeds the algorithm. Is niche ki videos 48.6M/36.2M/27.8M/19.5M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-unsolved-mysteries-docs.jpg",
+    "prompt": "Cinematic AI documentary, [DURATION: 8-15 minutes], 16:9: an unsolved mystery retold as a gripping investigation — [MYSTERY: the lost colony of Roanoke / the Voynich manuscript / a cursed shipwreck / a sealed government archive], [OPENING SCENE: foggy ancient ruins at dusk / a dusty classified-files room / a ghost ship in a storm / standing stones glowing under moonlight], [NARRATION: calm, measured documentary voiceover — the known facts first, then the three leading theories, then the one detail nobody can explain], [VISUAL STYLE: cinematic realism, dramatic golden-hour and teal shadows, slow push-ins, archival-style maps and documents], end on the unanswered question that keeps viewers up at night, no watermark",
+    "howto": [
+      "Pick a mystery with a real paper trail — documented facts plus one genuinely unexplained detail; pure fiction gets 'fake' comments, real mysteries get binge sessions.",
+      "Structure in 3 acts: the facts (2 min) → the three theories (5 min) → the unexplainable detail (2 min); the final question IS the retention engine.",
+      "Post one documentary per week at the same time; mystery audiences subscribe for the series, so number them ('Unsolved #07')."
+    ],
+    "tips": [
+      "Hook rule: open with the single most impossible fact — 'In 1587, 115 people vanished and left only one word carved into a tree.' Questions hold the thumb.",
+      "Title trick: 'The [MYSTERY] Nobody Can Explain' outperforms 'The Mystery of [X]' — promise the unexplained, not the topic.",
+      "End every video with 'Which theory do YOU believe? Comment 1, 2 or 3' — theory voting turns comments into a debate, and debates push the video."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "mystery",
+      "documentary",
+      "long-form"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-2026-11-19-ai-car-detailing-transformations",
+    "title": "Car Detailing Transformation Reels (Facebook Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Satisfaction plus transformation: the brain loves watching chaos become order — every layer of mud removed is a tiny dopamine hit, and the before/after reveal is a visual payoff viewers wait for. Dirty-to-clean is also the ultimate 'I could watch this forever' loop, so completion rates stay sky-high. Is niche ki videos 176.8M/149.3M/124.6M/98.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-car-detailing-transformations.jpg",
+    "prompt": "Satisfying AI video, [DURATION: 30-60 seconds], vertical 9:16: an extreme car detailing transformation — [CAR: mud-caked luxury sports car / filthy family SUV / abandoned vintage classic / mold-covered work truck], [PROCESS: pressure washer blasting thick mud / snow foam burying the car / steam deep-cleaning the interior / polishing chrome to a mirror shine], [CAMERA: tight close-ups on the dirt melting away / slow-motion water spray / satisfying wipe reveals], [SOUND: pressure-washer hiss and foam ASMR], the before/after reveal in the final 3 seconds — the original colour appearing from under the dirt, no watermark",
+    "howto": [
+      "Pick the dirtiest car you can find — the worse the 'before', the stronger the payoff; a clean car has nothing to transform.",
+      "Show the dirt melting in the first 3 seconds — the transformation IS the hook, so never start with a title card or intro.",
+      "End on the mirror-shine reveal with the original colour popping — and pin a comment asking 'Which car should I clean next?'"
+    ],
+    "tips": [
+      "Hook rule: the first frame must already show mud flying — Facebook decides reach on the first scroll-past, so no slow build-up.",
+      "Caption trick: 'I found a luxury [CAR] under all this mud' — the hidden-treasure angle doubles comments ('what car is it?').",
+      "Post in the US evening window and share to car groups; detailing Reels get their first push from group shares, not followers."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "car-detailing",
+      "satisfying",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-2026-11-19-ai-viral-recipe-reels",
+    "title": "Viral Recipe Reels (Instagram Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Sensory storytelling: the brain tastes with its eyes — steam, stretch and sizzle trigger appetite before a single word is read. Recipes are also Instagram's highest-save category, because a saved recipe is a plan, not just a video — and saves are the strongest signal the algorithm rewards. Is niche ki videos 96.4M/78.2M/61.5M/44.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-viral-recipe-reels.jpg",
+    "prompt": "Vibrant AI video, [DURATION: 15-30 seconds], vertical 9:16: a viral recipe Reel — [RECIPE: giant crispy chicken cutlet / creamy Dubai-style Iffa chicken / rainbow layered cake / butter-basted steak], [STYLE: overhead hands-only shots, steam rising, cheese stretching, sauce pouring in slow motion], [HOOK: the most satisfying moment in the first 2 seconds — the cut, the pour, the cheese pull], [TEXT ON SCREEN: 3 ingredients only, big bold text], end on the first bite or the perfect slice, the full recipe in the caption, no watermark",
+    "howto": [
+      "Pick one recipe with a single 'wow' moment — the cheese pull, the sauce pour, the crunch — and build the whole Reel around that one shot.",
+      "Put the satisfying moment in second 0-2; the recipe steps come after the hook, never before it.",
+      "Keep the on-screen text to 3 ingredients max — viewers save Reels they can actually cook, and long ingredient lists kill saves."
+    ],
+    "tips": [
+      "Hook rule: open with the money shot (cheese stretch, sauce pour, crunch) — Instagram's algorithm reads the first 2 seconds as a quality signal.",
+      "Caption trick: put the full recipe in the caption with 'SAVE this for tonight' — save-rate is Instagram's #1 ranking signal for Reels.",
+      "Ride a trending food moment the same day it appears — viral recipes have a 48-hour window before every food page copies them."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "recipes",
+      "food",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 95
   }
+
 ];
 
 if (typeof module !== "undefined") {
