@@ -16584,6 +16584,316 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 96
+  },
+  {
+    "id": "niche-2026-11-19-tiny-snow-globe-workshop-veo3",
+    "title": "Tiny Snow Globe Workshop (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Tiny artisans build a whole winter village inside a snow globe — miniature-scale wonder is TikTok's most reliable scroll-stopper, and the 'how is this real?' comments do the distribution for you. This niche has already produced multiple 50M+ view clips.",
+    "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: inside a giant snow globe, tiny artisans in warm winter coats build a miniature snow-covered village — [SCENE: a tiny carpenter hammering a wooden cottage roof / a tiny baker carrying a gingerbread house twice her size / a tiny lamplighter lighting glowing street lamps one by one], [CAMERA: slow push-in through the glass, macro close-ups of tiny hands at work], snowflakes drifting, warm golden light from the tiny windows, soft Christmas music, magical and cozy, photorealistic miniature scale, no watermark",
+    "howto": [
+      "Pick one tiny job for the scene — carpenter, baker, lamplighter — one clear action beats a busy workshop every time.",
+      "Start the clip outside the glass with the globe in frame, then push in: the scale reveal is the hook.",
+      "Keep the camera moves slow and smooth; fast pans break the miniature illusion.",
+      "Add warm window glow against cool blue snow — the contrast is what makes the thumbnail pop.",
+      "End on the finished village twinkling inside the globe with on-screen text: 'Would you live here?'"
+    ],
+    "tips": [
+      "Tiny-world videos earn saves because viewers show friends — add 'Send this to someone who needs cozy' in the caption.",
+      "Run the same workshop in a different season (spring garden, autumn harvest) and you have a repeatable series.",
+      "Post between 7-9 PM when people scroll for comfort content — cozy niches peak at night."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "tiny-world",
+      "winter",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-2026-11-19-gingerbread-house-tour-veo3",
+    "title": "Gingerbread House Tour (YouTube Shorts Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A first-person walkthrough of a life-size gingerbread house — candy windows, frosting snow, a fireplace made of peppermint. Real-estate parody meets holiday fantasy, and Shorts viewers watch to the end to see every room.",
+    "prompt": "AI video, [DURATION: 15-30 seconds], vertical 9:16: a first-person walkthrough tour of a life-size gingerbread house — [ROOMS: a living room with a candy-cane fireplace and frosting snow on the windowsills / a kitchen where the counters are giant chocolate bars / a bedroom with a bed made of stacked wafer cookies], [CAMERA: smooth slow walkthrough, gentle pans to reveal each room], warm golden light, steam rising from a cocoa mug on the table, cozy holiday music, hyper-detailed edible textures, no watermark",
+    "howto": [
+      "Open on the front door with a 'POV: your dream house is edible' text overlay — the premise lands in 2 seconds.",
+      "Move room to room in one continuous-feeling walkthrough; cut on doorways so the tour feels real.",
+      "Name each room out loud in the voiceover like a real estate agent — the parody is the joke.",
+      "Keep every texture edible and specific: frosting, peppermint, wafer, chocolate — vague sweets look fake.",
+      "End at the fireplace with the line 'Rent: 3 cookies a month' and a subscribe prompt."
+    ],
+    "tips": [
+      "Real-estate parody is a proven Shorts format — the same tour works for a 'chocolate castle' or 'candy cloud house' next week.",
+      "Add a tiny gingerbread person waving from a window in the final shot; viewers rewatch to find it.",
+      "Pin a comment asking 'Which room would you sleep in?' — room debates drive comment volume."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "gingerbread",
+      "winter",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-19-snowman-talent-show-kling",
+    "title": "Snowman Talent Show (TikTok Comedy Niche)",
+    "category": "Viral Niches",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "Snowmen compete in a talent show and every act goes wrong in a charming way — the carrot-nose singer loses his nose mid-note, the juggler drops his own head. Physical comedy with zero dialogue travels across every language on TikTok.",
+    "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: a snowman talent show on a snowy stage with fairy lights — [ACT: a snowman sings opera and his carrot nose pops off mid high-note / a snowman juggles snowballs and accidentally juggles his own head / a snowman tap-dances and melts a little with every step], [AUDIENCE: a crowd of snowmen gasping and laughing, one fainting dramatically], [CAMERA: wide stage shot, then quick close-up on the fail], bright festive lighting, playful cartoon-realistic style, funny and heartwarming, no watermark",
+    "howto": [
+      "Pick ONE act per video — a single joke lands harder than three rushed ones.",
+      "Build the fail into the act's climax: the nose pops on the highest note, the head drops on the final juggle.",
+      "Give the audience snowmen big reactions — gasps and laughter sell the joke twice as hard.",
+      "Keep the snowman design consistent (same hat, same scarf) so the series is instantly recognizable.",
+      "End with the judges holding up score cards — 10, 10, and one melting 6."
+    ],
+    "tips": [
+      "No-dialogue comedy is language-proof: the same clip can trend in any country without re-editing.",
+      "Post a new act every 2-3 days and number them — 'Talent Show Act #4' trains viewers to come back.",
+      "Duet the clip with your own reaction face for a second video from the same render."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "comedy",
+      "winter",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-2026-11-19-midnight-toy-train-sora",
+    "title": "The Midnight Toy Train (Faceless YouTube Story Niche)",
+    "category": "Viral Niches",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "Every night at midnight, the toys in a closed shop wake up and ride a tiny train through the shelves — a wordless story in the style of a bedtime film. Faceless story channels built on this exact format are growing fast because parents replay them for kids.",
+    "prompt": "Cinematic AI video, [DURATION: 20-40 seconds], horizontal 16:9: a cozy toy shop after closing time — at midnight, the toys wake up and board a tiny glowing toy train that winds through the shelves — [BEATS: a teddy bear conductor punches golden tickets / a wooden duck waves from a window as the train crosses a bridge made of books / a dollhouse lights up as the train passes, tiny windows glowing], [CAMERA: slow tracking shots beside the train, low angles that make the shelves feel like mountains], warm amber light against deep blue night, gentle piano music, storybook film look, no dialogue, no watermark",
+    "howto": [
+      "Open on the dark, silent shop with a clock striking midnight — the contrast makes the magic land.",
+      "Give the train a clear route with three beats: ticket, bridge, dollhouse — a beginning, middle and end.",
+      "Keep the camera low and slow; shelf-scale tracking shots are what make a toy train feel epic.",
+      "Let the music carry the emotion — no narration needed, which makes the video replayable for kids.",
+      "End on the train disappearing into a tunnel of wrapped presents as the shop goes quiet again."
+    ],
+    "tips": [
+      "Bedtime-story videos get rewatched nightly by the same families — watch time per viewer is far above average.",
+      "Make a 'part 2' where the train visits a different shop (bakery, bookshop) and link it in the end screen.",
+      "Add a soft title card 'A story for dreamers' — parents share anything that helps kids sleep."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "story",
+      "faceless",
+      "winter"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "niche-2026-11-19-paper-snowflake-factory-runway",
+    "title": "Paper Snowflake Factory (Instagram Reels Art Niche)",
+    "category": "Viral Niches",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A tiny factory where paper snowflakes are cut, folded and launched out the window into the night — craft ASMR meets fantasy. Satisfying process videos are Instagram's most saved format, and the paper-craft angle is still wide open.",
+    "prompt": "AI video, [DURATION: 10-20 seconds], vertical 9:16: a tiny magical paper snowflake factory inside a cozy attic — [PROCESS: paper sheets fold themselves into perfect six-point stars / tiny scissors snip delicate patterns, paper curls drifting down like snow / finished snowflakes float up and fly out the open window into the night sky], [CAMERA: overhead shots of the folding, macro close-ups of the cutting, slow-motion on the launch], soft warm lamp light, gentle paper-rustling ASMR sound, dreamy and satisfying, no watermark",
+    "howto": [
+      "Show the full process in three beats — fold, cut, launch — so viewers get the satisfaction payoff.",
+      "Use macro close-ups for the cutting: the detail is what makes people save and share.",
+      "Keep the sound soft and paper-y; ASMR viewers watch with headphones and reward quiet audio.",
+      "End with a wide shot of hundreds of snowflakes rising into the night — the scale reveal is the share trigger.",
+      "Add on-screen text 'Each one is different. Just like you.' for an emotional save."
+    ],
+    "tips": [
+      "Process videos get saved at 3-4x the rate of talking videos — saves are Instagram's strongest ranking signal.",
+      "Film a real paper snowflake in your hands as the Reel cover so the thumbnail looks handmade.",
+      "Series it: snowflakes this week, paper stars next week, paper lanterns after that."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "craft",
+      "satisfying",
+      "winter"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "niche-2026-11-19-aurora-ice-skating-flow",
+    "title": "Aurora Ice Skating (Facebook Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A lone skater glides across a frozen lake under the northern lights while the ice glows beneath her — pure awe in 15 seconds. Facebook Reels over-index on beautiful, shareable moments, and aurora clips are shared by people who have never skated in their lives.",
+    "prompt": "AI video, [DURATION: 15-25 seconds], vertical 9:16: a lone ice skater glides across a vast frozen lake at night under the aurora borealis — [VISUALS: green and purple lights rippling across the sky, reflected in the glassy ice / the skater's blade leaving a glowing trail behind her / a slow spin as snowflakes drift through the colored light], [CAMERA: wide drone-style shot pulling back to reveal the whole lake, then a low tracking shot beside the skater], cinematic, serene and breathtaking, soft orchestral music, no watermark",
+    "howto": [
+      "Open on the widest shot — lake, sky, aurora — so the first frame alone is worth sharing.",
+      "Let the skater enter the frame after 2 seconds; the empty landscape first makes her arrival feel magical.",
+      "Use the glowing blade trail as the visual hook — it is the detail viewers screenshot.",
+      "Keep the music slow and swelling; fast cuts would kill the awe.",
+      "End on the skater stopping center-frame, arms out, under the brightest part of the aurora."
+    ],
+    "tips": [
+      "Facebook shares beat likes for reach — awe videos get shared to timelines, not just liked.",
+      "Caption it with a question: 'Tag someone you would skate here with' — tags pull in new viewers.",
+      "The same scene works as a loop: cut the end back to the opening wide shot for infinite replay."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "aurora",
+      "satisfying",
+      "winter"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "niche-2026-11-19-cozy-winter-book-nook-midjourney",
+    "title": "Cozy Winter Book Nook Illustration Pack (Instagram & Facebook Art Niche)",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Illustrations of tiny reading nooks tucked inside winter scenes — a bookshelf in a snow globe, a reading chair inside a lantern. Cozy-book art pages are exploding on Instagram, and a consistent illustration pack gives a new art page its entire first month of posts.",
+    "prompt": "Cozy winter book nook illustration, [SCENE: a tiny reading chair and bookshelf inside a glowing glass lantern covered in snow / a miniature library built inside a snow globe, tiny reader by the fire / a window seat piled with blankets and books, snow falling outside, a cat asleep on the books], warm golden lamplight, soft snowflakes, storybook watercolor style, rich detail, inviting and peaceful, [ASPECT: --ar 4:5 for Instagram portrait], --v 6 --style raw",
+    "howto": [
+      "Generate the pack in one sitting with the same style suffix so all 10 images feel like one series.",
+      "Vary the nook's container — lantern, snow globe, window seat, teacup — the container is the novelty.",
+      "Keep one warm light source in every image; consistent lighting is what makes a feed look curated.",
+      "Post one nook per day with a book quote in the caption — quotes double the saves.",
+      "Offer the pack as a phone wallpaper set in your bio link to convert followers to email subscribers."
+    ],
+    "tips": [
+      "Art pages grow on saves and shares, not likes — cozy images are saved for later mood boards.",
+      "Add a tiny hidden cat in every illustration and tell followers to find it — comments flood in.",
+      "Sell the pack as a printable on Etsy after the series ends; the audience is already warm."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "facebook",
+      "creator-niche",
+      "illustration",
+      "winter"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "niche-2026-11-19-new-year-niche-reset-chatgpt",
+    "title": "New Year Niche Reset Finder (ChatGPT Niche Discovery)",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "January is the biggest channel-launch month of the year — and most new creators pick a niche that is already dead. This ChatGPT prompt audits your skills, finds niches that are rising for 2027, and hands you a ranked shortlist with proof before you post a single video.",
+    "prompt": "You are a YouTube and TikTok niche strategist. I want to start a faceless channel in January 2027. My skills: [SKILLS: e.g. video editing, storytelling, basic animation]. My interests: [INTERESTS: e.g. history, space, cooking]. Time I can give per week: [HOURS: e.g. 10]. Budget: [BUDGET: e.g. $0].\n\nDo this in order:\n1. List 15 faceless niches that are RISING for 2027 (not saturated in 2026), each with: why it is rising, one proof signal (search trend, a breakout channel, a viral format), and a difficulty score 1-10.\n2. Rank the top 5 for ME specifically, matching my skills, interests, time and budget.\n3. For the #1 niche, give me: 10 video ideas for the first month, the exact first video to make and why, 3 channels to study, and the monetization path (ads, affiliates, digital products) with a realistic month-3 income range.\n4. List 5 niches I should AVOID and why (saturated, low CPM, copyright risk).\n\nBe honest and specific. No generic advice. If a niche is a bad fit for my time or budget, say so.",
+    "howto": [
+      "Fill in the brackets honestly — skills, interests, hours and budget change the ranking completely.",
+      "Ask for the 15-niche list first, then drill into the top 1; doing it in one pass keeps the answer focused.",
+      "Cross-check the 'rising' claim for your top pick with a quick Google Trends search before committing.",
+      "Save the top-5 ranking and revisit it after your first 10 videos — pivot early if the data disagrees.",
+      "Use the month-1 video ideas as your posting calendar; consistency in one niche beats hopping."
+    ],
+    "tips": [
+      "January niche-hunting searches spike every year — post this prompt's results as a video and ride the wave.",
+      "The 'niches to avoid' section is the most valuable part: it stops you wasting 3 months on a dead niche.",
+      "Run the prompt again with a friend's skills and compare — the differences teach you how niche fit actually works."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "niche-discovery",
+      "chatgpt",
+      "new-year"
+    ],
+    "trending": true,
+    "popularity": 96
+  },
+  {
+    "id": "niche-2026-11-19-viral-hook-swipe-file-gemini",
+    "title": "Viral Hook Swipe File (Gemini Prompt for YouTube & TikTok Hooks)",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "The first 3 seconds decide everything — and most creators write hooks last. This Gemini prompt studies the hooks of viral videos in YOUR niche and generates 30 plug-and-play openers matched to your exact video topic, so you never start a video with 'Hey guys, welcome back' again.",
+    "prompt": "You are a short-form hook writer for YouTube Shorts and TikTok. My niche: [NICHE: e.g. space facts, budget cooking, true crime]. My next video topic: [TOPIC: e.g. 'the largest black hole ever found'].\n\nStep 1: Analyze the 5 hook styles that work best in my niche: curiosity gap, bold claim, pattern interrupt, relatable pain, and shocking visual. Give one real-style example of each (do not copy any real creator's exact words).\nStep 2: Write 30 hooks for my topic — 6 per style. Rules: under 12 words each, speak in the second person ('you'), no clickbait lies, every hook must be true to the video's content.\nStep 3: Rank the top 5 and explain in one line each why it will stop the scroll in my niche.\nStep 4: For the #1 hook, write the exact first 3 seconds: what is on screen, what is said, and what sound plays.\n\nOutput as a clean list I can copy into my notes.",
+    "howto": [
+      "Fill in your real niche and topic — generic inputs give generic hooks.",
+      "Test the top 5 hooks as the first line of 5 different videos and keep the winner's style.",
+      "Match the hook to the visual: if the hook says 'you will never believe this', the first frame must show the unbelievable thing.",
+      "Retire any hook that gets under 40% retention in the first 3 seconds — the data is the judge.",
+      "Rebuild the swipe file monthly; hooks go stale as audiences learn the patterns."
+    ],
+    "tips": [
+      "Save the 30-hook list in your phone notes — it becomes your pre-production checklist for every video.",
+      "The bold-claim style works best in fact niches; relatable-pain wins in money and fitness niches.",
+      "Never reuse the same hook twice in a week — your regulars notice and scroll past."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "hooks",
+      "viral",
+      "gemini"
+    ],
+    "trending": true,
+    "popularity": 95
+  },
+  {
+    "id": "niche-2026-11-19-faceless-channel-90-day-roadmap-claude",
+    "title": "Faceless Channel 90-Day Roadmap (Claude Prompt for Creator Niches)",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Intermediate",
+    "desc": "Most faceless channels die in week 3 because there was never a plan — just vibes. This Claude prompt builds a complete 90-day roadmap for your channel: what to post, when to post, what to measure, and the exact moment to pivot, monetize, or double down.",
+    "prompt": "You are a faceless-channel growth strategist. Build me a 90-day roadmap. My niche: [NICHE: e.g. ancient history stories]. My platform: [PLATFORM: YouTube Shorts / TikTok / both]. Videos I can make per week: [NUMBER: e.g. 5]. My tools: [TOOLS: e.g. Veo 3, CapCut, free only]. My goal: [GOAL: e.g. 10,000 subscribers and first payout].\n\nStructure it in three 30-day phases:\nPHASE 1 (Days 1-30) — Test: 5 content angles to test, how many videos per angle, the exact metrics that decide a winner (retention %, CTR, shares), and the kill criteria for a losing angle.\nPHASE 2 (Days 31-60) — Double down: a weekly posting schedule for the winning angle, 20 video titles, thumbnail rules for my niche, and the first collaboration or trend to ride.\nPHASE 3 (Days 61-90) — Monetize: the monetization path for my niche and platform (ads, affiliate, digital product, sponsorship), realistic revenue range, and the subscriber milestone that triggers each step.\n\nEnd with: a one-page weekly checklist I can print, and 3 honest warnings about what usually kills channels in my niche.",
+    "howto": [
+      "Fill in every bracket with real numbers — a roadmap built on fantasy hours collapses in week 2.",
+      "Run Phase 1 exactly as written: test 5 angles, kill losers fast, and do not fall in love with your first idea.",
+      "Check the kill criteria every Sunday — the roadmap only works if you actually cut failing angles.",
+      "Print the weekly checklist and tick it off by hand; visible progress keeps motivation alive.",
+      "At day 90, rerun the prompt with your real metrics and let Claude rebuild the next 90 days."
+    ],
+    "tips": [
+      "The kill criteria are the secret: most creators keep posting a dead angle for months because nobody told them to stop.",
+      "Phase 2's 20 titles are your content bank — batch-film them in one weekend and schedule ahead.",
+      "Share your roadmap progress as a video series — 'Day 30 of my faceless channel' is itself a viral format."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "tiktok",
+      "roadmap",
+      "faceless",
+      "strategy"
+    ],
+    "trending": true,
+    "popularity": 94
   }
 ];
 
