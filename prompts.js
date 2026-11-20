@@ -17214,6 +17214,96 @@ const PROMPTS = [
     tags: ["growth", "strategy", "creator-niche", "youtube"],
     trending: false,
     popularity: 89
+  },
+  {
+    "id": "niche-2026-11-20-ai-strange-space-facts",
+    "title": "Strange Space Facts (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Curiosity gap plus a search gap: people are literally typing 'strange facts about space' into TikTok search — 297,551 searches in one week — and finding zero videos answering it. One impossible fact per video ('a day on Venus is longer than its year') is a self-contained 'wait, really?' moment that earns a rewatch, a share and a follow. Is niche ki videos 8.1M/6.8M/5.3M/4.1M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-strange-space-facts.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 30-60 seconds], vertical 9:16: one strange fact about space, told like a mystery — [FACT: a day on Venus is longer than its year / there is a planet made of diamond / sound cannot travel in space, so explosions are silent / a teaspoon of neutron star weighs a billion tons], [VISUAL: a lone astronaut floating before a glowing spiral galaxy / a giant ringed planet looming over a tiny astronaut / a black hole swallowing a star / Earth glowing at sunrise with aurora], [NARRATION: calm voiceover, the number on screen first, then the fact, then the 'why' in one line], [STYLE: vivid saturated space colours, dramatic scale, slow cinematic camera moves], end with the question 'Which fact broke your brain the most?', no watermark",
+    "howto": [
+      "Pick one fact that sounds fake but is real — the weirder the number, the stronger the hook; verify it in 30 seconds before you build the video.",
+      "Put the number on screen in the first second ('1 teaspoon = 1 BILLION tons') — the number IS the hook, the explanation comes after.",
+      "Post 1-2 facts per day and pin a comment asking 'Fact 1, 2 or 3 — which one shocked you?' — voting comments push the video to the For You feed."
+    ],
+    "tips": [
+      "Hook rule: never open with 'Did you know?' — open with the fact itself. 'A day on Venus is longer than its year.' Full stop. The shock does the work.",
+      "Caption trick: put the exact search phrase in your caption ('strange facts about space') — TikTok search is sending 297K searches a week to a phrase almost nobody is answering.",
+      "Ride the search gap fast: this niche is empty because it is new — the first accounts to answer these searches own the results page."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "space",
+      "facts",
+      "science"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-20-ai-physics-explainers",
+    "title": "AI Physics Explainers (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Physics answers questions everyone has secretly wondered — 'why does time slow down near a black hole?' — and a good explainer turns that wonder into a 10-minute watch. Question titles match YouTube search exactly, the content is evergreen, and education CPMs are premium. Is niche ki videos 3.8M/2.7M/1.9M/1.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-physics-explainers.jpg",
+    "prompt": "Cinematic AI explainer video, [DURATION: 8-12 minutes], 16:9: one physics idea explained so simply a 12-year-old gets it — [TOPIC: why time slows down near a black hole / why the sky is blue / how a bowling ball and a feather fall at the same speed / what happens inside a levitating maglev train], [OPENING: the paradox first — show the impossible thing happening, then ask 'how?'], [VISUALS: a giant glass vacuum chamber / a glowing pendulum over a city at dusk / a rocket clock racing past the stars / a maglev train floating in a bright lab], [NARRATION: calm, curious documentary voice, one idea per scene, everyday examples only, no equations on screen], [STYLE: vivid cinematic realism, dramatic scale, slow push-ins], end by naming the next law to break down, no watermark",
+    "howto": [
+      "Pick one physics paradox with a visual demo — if you cannot show it, do not explain it; the demo is the video.",
+      "Open with the impossible result ('the feather and the bowling ball hit the ground together') and spend the video earning the 'why'.",
+      "Publish one explainer per week as a numbered series ('Physics, Explained #04') — series viewers subscribe for the next law, not the last one."
+    ],
+    "tips": [
+      "Hook rule: the title is a question viewers have already Googled — 'Why Does Time Slow Down Near a Black Hole?' — question titles win YouTube search.",
+      "Title trick: put the paradox in the thumbnail as a number or a contrast ('SAME SPEED?!') — a visual contradiction stops the scroll.",
+      "Keep every explanation to everyday words — the moment a viewer needs a dictionary, they click away; simple words are the retention strategy."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "physics",
+      "science",
+      "explainers"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-2026-11-20-ai-minecraft-block-worlds",
+    "title": "Minecraft-Style Block World Stories (Facebook Reels Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Instant recognition: a young audience reads a cube world in a single frame — nostalgia plus storytelling in one shot. Block worlds turn any true story into something that feels like a game, so viewers stay to see the world built, and the finished reveal is a payoff worth waiting for. Is niche ki videos 96.4M/74.8M/58.3M/42.6M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-minecraft-block-worlds.jpg",
+    "prompt": "Playful AI video, [DURATION: 30-60 seconds], vertical 9:16: a true story told inside a Minecraft-style block world — [STORY: the first lighthouse ever built / the Great Fire of London / how the pyramids were raised / a tiny hero crossing a cube ocean], [VISUAL: a voxel world of bright cubes — blocky lighthouse on a cliff / cube castle at golden hour / voxel underwater world with cube coral / blocky city glowing at night], [RULE: one hero, one action per shot — the world builds itself around the story], [NARRATION: warm storyteller voice, one sentence per shot, the reveal saved for the final 3 seconds], [STYLE: bright saturated cube animation, playful, crisp edges], end on the finished world in one wide shot, no watermark",
+    "howto": [
+      "Pick a true story with a visual payoff — a lighthouse, a fire, a castle — the block world must BUILD toward something viewers want to see finished.",
+      "One hero, one action per shot: the cube style only works when each shot is simple; crowded shots turn into visual noise.",
+      "End on the wide reveal of the finished world and pin a comment asking 'Which story should I build next?' — the next build is the subscription hook."
+    ],
+    "tips": [
+      "Hook rule: the first frame must already show the block world moving — Facebook decides reach on the first scroll-past, so no title card, no slow build-up.",
+      "Caption trick: 'Wait for the reveal at the end' — block-world viewers stay for the finished build, and completion rate is the metric Facebook rewards.",
+      "Share each Reel to gaming and nostalgia groups the same evening you post — block worlds get their first push from group shares, not followers."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "block-worlds",
+      "storytelling",
+      "reels"
+    ],
+    "trending": true,
+    "popularity": 94
   }
 
 ];
