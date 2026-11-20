@@ -16984,6 +16984,236 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 95
+  },
+  {
+    id: "tiny-gnomes-winter-village-veo3",
+    title: "Tiny Gnomes Build a Winter Village — Veo 3 Prompt for Viral TikTok Story Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Beginner",
+    desc: "A team of tiny garden gnomes builds a glowing miniature winter village on a snowy tabletop — the cozy tiny-world format that dominates TikTok story niches.",
+    prompt: "Adorable cinematic video of tiny garden gnomes in red hats building a miniature winter village on a snowy wooden tabletop, one gnome hammering a tiny candy-cane lamppost, another stringing warm fairy lights between tiny gingerbread cottages, a third pushing a miniature snowplow, soft falling snow, warm golden window glow, steam rising from a tiny cocoa pot, camera slowly orbits the village in one smooth arc, macro depth of field, cozy warm color grade, storybook charm, photorealistic miniature detail, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above — keep every tiny-world action detail.",
+      "Set aspect ratio to 9:16 for TikTok and Reels, duration 8 seconds.",
+      "Generate 2-3 variations and pick the one with the clearest gnome action.",
+      "Add soft cozy music and a caption like 'The gnomes are back', then post."
+    ],
+    tips: [
+      "Tiny-world videos win on the 'aww' factor — keep the camera low and close so the village feels huge.",
+      "Post as a series: one tiny build per day keeps viewers coming back for the next scene."
+    ],
+    tags: ["tiny world", "winter", "gnomes", "creator-niche", "tiktok"],
+    trending: true,
+    popularity: 88
+  },
+  {
+    id: "tiny-mechanics-clock-tower-veo3",
+    title: "Tiny Mechanics Repair a Giant Clock Tower — Veo 3 Prompt for Faceless YouTube Shorts",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Intermediate",
+    desc: "Tiny mechanics in hard hats climb a giant clock tower and fix its gears — a satisfying miniature-world Short built for faceless YouTube channels.",
+    prompt: "Cinematic miniature-world video of tiny mechanics in yellow hard hats repairing a giant clock tower, one mechanic tightening a huge brass gear with a wrench, another abseiling down the clock face with a rope, a third polishing the giant Roman numerals, golden sunset light, pigeons watching from a ledge, camera slowly pulls back to reveal the full tower against a pink evening sky, satisfying mechanical detail, warm cinematic color grade, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above into the prompt field.",
+      "Set aspect ratio to 9:16 for YouTube Shorts and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one with the smoothest pull-back.",
+      "Add a ticking-clock sound effect and post as part of a tiny-workers series."
+    ],
+    tips: [
+      "The pull-back reveal is the payoff — make sure the tower is fully visible in the final frames.",
+      "Swap the clock tower for a lighthouse, a windmill or a Ferris wheel to spin off a whole series."
+    ],
+    tags: ["tiny world", "clock tower", "creator-niche", "youtube"],
+    trending: false,
+    popularity: 84
+  },
+  {
+    id: "grumpy-penguin-cocoa-stand-kling",
+    title: "Grumpy Penguin Runs a Hot Chocolate Stand — Kling Prompt for Viral TikTok Comedy Niches",
+    category: "Video Prompts",
+    tool: "Kling",
+    difficulty: "Beginner",
+    desc: "A grumpy penguin in a tiny apron runs a hot chocolate stand in the snow, arguing with customers — the character-comedy format TikTok comedy pages grow on.",
+    prompt: "Funny animated video of a grumpy penguin in a tiny red apron running a hot chocolate stand in a snowy forest, the penguin slides a steaming mug across the counter with an annoyed sigh, a cheerful snowman customer waves, steam curls in the cold air, fairy lights glow on the wooden stand, a hand-painted sign reads COCOA, camera holds a steady medium shot with a slow push-in on the penguin's unimpressed face, bright cheerful colors, expressive character animation, playful comedy timing, vertical 9:16, no watermark",
+    howto: [
+      "Open Kling and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the grumpy expression and the cocoa stand details.",
+      "Set aspect ratio to 9:16 and duration to 5-10 seconds.",
+      "Generate 2-3 takes and pick the one with the funniest penguin expression.",
+      "Add a grumpy voiceover or a funny caption and post to TikTok."
+    ],
+    tips: [
+      "One grumpy character with a clear personality beats ten random jokes — give the penguin a catchphrase.",
+      "Film a new customer every episode and the stand becomes a running series viewers follow."
+    ],
+    tags: ["comedy", "penguin", "creator-niche", "tiktok"],
+    trending: true,
+    popularity: 86
+  },
+  {
+    id: "abandoned-winter-carnival-sora",
+    title: "The Abandoned Winter Carnival at Midnight — Sora Prompt for Faceless YouTube Mystery Niches",
+    category: "Video Prompts",
+    tool: "Sora",
+    difficulty: "Intermediate",
+    desc: "An empty winter carnival at midnight, its Ferris wheel turning by itself under falling snow — a haunting mystery opener for faceless YouTube channels.",
+    prompt: "Haunting cinematic video of an abandoned winter carnival at midnight, a Ferris wheel turning slowly by itself under falling snow, empty carousel horses frozen mid-gallop, a single string of flickering carnival lights, a ticket booth with its door swinging, fog drifting between striped tents, a lone crow on a popcorn cart, camera drifts forward in one slow unbroken tracking shot, cold blue moonlight with warm flickers of light, eerie quiet atmosphere, photorealistic, ultra detailed, 16:9, no people, no text, no watermark",
+    howto: [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the slow tracking shot and the self-turning Ferris wheel.",
+      "Set aspect ratio to 16:9 for YouTube and duration to 10 seconds.",
+      "Generate 2-3 variations and choose the one with the strongest eerie mood.",
+      "Add a quiet ambient drone and a mystery title card, then post."
+    ],
+    tips: [
+      "Mystery niches live on the unanswered question — end the clip before anything is explained.",
+      "Pair the clip with a voiceover that asks one question and never answers it in the video."
+    ],
+    tags: ["mystery", "carnival", "creator-niche", "youtube"],
+    trending: false,
+    popularity: 82
+  },
+  {
+    id: "living-gingerbread-village-runway",
+    title: "Living Gingerbread Village Map — Runway Prompt for Viral Instagram Reels Niches",
+    category: "Video Prompts",
+    tool: "Runway",
+    difficulty: "Beginner",
+    desc: "A gingerbread village map comes alive — candy trains roll, icing rivers flow and gumdrop lights blink — a magical map loop built for Instagram Reels.",
+    prompt: "Magical animated video of a living gingerbread village map seen from above, a candy train chugging along a chocolate track, an icing river flowing between cookie cottages, gumdrop streetlights blinking on one by one, tiny gingerbread people waving from sugar-dusted rooftops, a peppermint carousel spinning in the town square, camera slowly zooms out to reveal the whole edible map, warm golden light, rich candy colors, whimsical storybook animation, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Runway and start a new text-to-video generation.",
+      "Paste the full prompt above into the prompt field.",
+      "Set aspect ratio to 9:16 for Instagram Reels.",
+      "Generate 2-3 variations and pick the one with the clearest zoom-out reveal.",
+      "Loop the clip seamlessly and add festive music before posting."
+    ],
+    tips: [
+      "Map loops are endlessly rewatchable — the zoom-out should feel like the viewer just discovered a whole world.",
+      "Swap gingerbread for chocolate, candy or cookie themes to make a holiday series."
+    ],
+    tags: ["gingerbread", "map", "creator-niche", "instagram"],
+    trending: false,
+    popularity: 80
+  },
+  {
+    id: "ice-lantern-festival-glow-flow",
+    title: "Melting Ice Lantern Festival Glow — Google Flow Prompt for Satisfying Facebook Reels",
+    category: "Video Prompts",
+    tool: "Google Flow",
+    difficulty: "Beginner",
+    desc: "Hundreds of glowing ice lanterns melt and shimmer on a frozen river at dusk — a hypnotic satisfying loop made for Facebook Reels.",
+    prompt: "Mesmerizing satisfying video of a festival of glowing ice lanterns floating on a frozen river at dusk, hundreds of carved ice lanterns with warm candlelight inside, one lantern slowly melting and dripping into the ice, soft blue twilight sky, gentle snow falling, reflections shimmering on the frozen surface, camera glides low across the lanterns in one smooth slow motion, calming ambient feel, rich blue and amber contrast, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Google Flow and start a new video generation.",
+      "Paste the full prompt above — keep the low glide and the warm-blue contrast.",
+      "Set aspect ratio to 9:16 for Facebook Reels.",
+      "Generate 2-3 variations and keep the smoothest camera glide.",
+      "Add soft ambient music and post with a calm, cozy caption."
+    ],
+    tips: [
+      "Satisfying videos win on loopability — make the first and last frames match so it replays forever.",
+      "The melting lantern is the hook — put it in the first two seconds."
+    ],
+    tags: ["satisfying", "ice lanterns", "creator-niche", "facebook"],
+    trending: false,
+    popularity: 83
+  },
+  {
+    id: "cozy-winter-cabin-window-midjourney",
+    title: "Cozy Winter Cabin Window Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+    category: "Image Prompts",
+    tool: "Midjourney",
+    difficulty: "Beginner",
+    desc: "A glowing winter cabin window seen from the snowy dark outside — a warm, save-worthy illustration pack for cozy Instagram and Facebook pages.",
+    prompt: "Cozy storybook illustration of a small wooden cabin window glowing warm amber in a snowy blue night, frost patterns on the glass, a cat curled on the windowsill, a steaming mug and a stack of books inside, pine trees heavy with snow outside, soft falling snowflakes, warm light spilling onto the snow, rich cozy color palette, whimsical detailed illustration style, soft painterly texture, --ar 4:5 --style raw --v 6.1",
+    howto: [
+      "Open Midjourney and paste the prompt above into the imagine bar.",
+      "Keep the --ar 4:5 ratio for Instagram portrait posts.",
+      "Generate 4 variations and upscale the warmest, coziest one.",
+      "Swap the cat for a dog, a bird or a teapot to build a matching pack.",
+      "Post as a carousel with a cozy caption and a save-this prompt."
+    ],
+    tips: [
+      "The warm window against the cold blue night is the whole image — protect that contrast in every variation.",
+      "Cozy illustration packs get saved, not just liked — add 'save this for a snowy night' to the caption."
+    ],
+    tags: ["illustration", "winter", "creator-niche", "instagram"],
+    trending: false,
+    popularity: 81
+  },
+  {
+    id: "forgotten-winter-traditions-niche-finder-chatgpt",
+    title: "Forgotten Winter Traditions Niche Finder — ChatGPT Prompt for Untapped Creator Niches",
+    category: "Text Prompts",
+    tool: "ChatGPT",
+    difficulty: "Intermediate",
+    desc: "Ask ChatGPT to dig up forgotten winter traditions from around the world and turn each one into a faceless channel niche nobody owns yet.",
+    prompt: "Act as a niche-research strategist for faceless YouTube and TikTok creators. Find 15 forgotten or dying winter traditions from different countries and cultures — festivals, foods, crafts, rituals, games — that almost nobody makes videos about today. For each tradition, give me: (1) the tradition and where it comes from, (2) why it is visually interesting on camera, (3) the search demand signal (YouTube/TikTok results count, low = good), (4) 5 video ideas for a faceless channel in that niche, (5) a 1-10 opportunity score. Then rank all 15 by opportunity score and tell me which 3 I should launch first and why. Focus on traditions with strong visuals, low competition and year-round or repeatable seasonal demand.",
+    howto: [
+      "Open ChatGPT and paste the full prompt above.",
+      "Ask it to run the research and give you the ranked list of 15 traditions.",
+      "Check the top 3 on YouTube and TikTok yourself — fewer than 50,000 results means low competition.",
+      "Pick one tradition and ask ChatGPT for a 30-video content plan in that niche.",
+      "Launch with the 5 video ideas it gave you for that tradition."
+    ],
+    tips: [
+      "Traditions with a food, craft or costume angle film best — skip purely spoken-word rituals.",
+      "Ask ChatGPT to re-run this every season — winter, spring, harvest — and you get a fresh niche list four times a year."
+    ],
+    tags: ["niche discovery", "winter", "creator-niche", "youtube"],
+    trending: true,
+    popularity: 85
+  },
+  {
+    id: "2027-niche-trend-radar-gemini",
+    title: "2027 Niche Trend Radar — Gemini Prompt to Spot Next Year's Creator Niches Early",
+    category: "Text Prompts",
+    tool: "Gemini",
+    difficulty: "Intermediate",
+    desc: "Use Gemini to scan rising searches, new tools and cultural shifts and hand you the creator niches that will peak in 2027 — before everyone else finds them.",
+    prompt: "Act as a trend forecaster for content creators. I want the creator niches that will peak in 2027, found early. Analyze these signals: (1) Google Trends rising queries in the last 12 months, (2) new AI tools and gadgets launching in 2026-2027, (3) cultural shifts — new hobbies, new sports, new subcultures, (4) TikTok and YouTube formats that are growing fast but still have few dedicated channels. Give me 12 niche predictions, each with: the niche, the signal that proves it is rising, the best platform (YouTube, TikTok, Facebook or Instagram), the faceless format that fits it, a 1-10 timing score (10 = perfect to enter now), and the first 5 video titles to make. Then rank them and tell me the top 3 to start before January 2027.",
+    howto: [
+      "Open Gemini and paste the full prompt above.",
+      "Let it produce the 12 niche predictions with timing scores.",
+      "Verify the top 3 by searching each niche on YouTube and TikTok — look for rising views but few dedicated channels.",
+      "Ask Gemini for a 30-day launch plan for your chosen niche.",
+      "Publish the first 5 video titles it suggested, one per day."
+    ],
+    tips: [
+      "A timing score of 8 or higher with low channel counts is the sweet spot — high scores with crowded fields are already too late.",
+      "Re-run this radar every quarter; niches that stay on the list for two quarters are the real ones."
+    ],
+    tags: ["niche discovery", "2027 trends", "creator-niche", "tiktok"],
+    trending: true,
+    popularity: 87
+  },
+  {
+    id: "faceless-channel-2027-growth-playbook-claude",
+    title: "Faceless Channel 2027 Growth Playbook — Claude Prompt to Scale Any Creator Niche",
+    category: "Text Prompts",
+    tool: "Claude",
+    difficulty: "Advanced",
+    desc: "Give Claude your niche and current numbers and get a full 2027 growth playbook — content system, posting cadence, monetization ladder and the exact next 90 days.",
+    prompt: "Act as a faceless-channel growth consultant. Here is my channel: NICHE: [your niche], PLATFORM: [YouTube/TikTok/Facebook/Instagram], SUBSCRIBERS: [number], VIDEOS POSTED: [number], AVERAGE VIEWS: [number], UPLOAD SCHEDULE: [how often you post], MONTHLY INCOME: [amount or zero]. Build me a complete 2027 growth playbook: (1) a brutally honest diagnosis of what is holding the channel back, (2) a content system — 3 repeatable formats I can produce weekly without burning out, (3) a posting cadence for my platform with exact days and times, (4) a 90-day sprint plan with weekly targets, (5) a monetization ladder — the first 4 income streams in order, with the subscriber/view thresholds for each, (6) 3 growth levers specific to my niche that bigger channels are ignoring, (7) the one metric I should check every Sunday and the number that means I am on track. Be specific, use my real numbers, and do not give generic advice.",
+    howto: [
+      "Open Claude and paste the full prompt above.",
+      "Fill in every bracket with your real channel numbers before sending.",
+      "Read the diagnosis first — fix the bottleneck before adding more content.",
+      "Ask Claude to turn the 90-day sprint into a week-by-week checklist.",
+      "Re-run the playbook every 90 days with updated numbers."
+    ],
+    tips: [
+      "Honest numbers in, honest plan out — inflated subscriber counts only produce a useless playbook.",
+      "The Sunday metric is the most valuable part — if it is flat for 3 weeks, ask Claude to re-diagnose."
+    ],
+    tags: ["growth", "strategy", "creator-niche", "youtube"],
+    trending: false,
+    popularity: 89
   }
 
 ];
