@@ -4748,7 +4748,7 @@ const PROMPTS = [
     "image": "images/niches/niche-grid-ai-house-restoration.jpg",
     "prompt": "Take this [BEFORE_PHOTO] of a [ROOM_TYPE: living room / kitchen / bedroom / house facade] — dilapidated, damaged, overgrown. Create a seamless before/after restoration transformation video: same camera angle throughout, the scene gradually morphs — debris dissolves, walls rebuild, paint freshens, furniture appears — ending on a stunning fully renovated [RESTORED_STYLE: modern luxury / farmhouse / Victorian] result with warm inviting light. Smooth 6-second morph, photorealistic, cinematic slow dolly push-in. No text on screen.",
     "howto": [
-      "Source before-photos (abandoned-house listings, Reddit r/AbandonedPorn, old real-estate photos) — same angle and framing matter most.",
+      "Source before-photos (abandoned-house listings, Reddit abandoned-places communities, old real-estate photos) — same angle and framing matter most.",
       "Generate the restored after-version in Midjourney/Flux image-to-image, keeping the exact composition of the before-photo.",
       "Animate the morph in Google Flow / Veo 3 image-to-video; narrate what got fixed each beat. Hook rule = show the AFTER for 1 second first, then 'yeh kaise bana?' open loop; title keyword-first: 'Abandoned Since [YEAR] → Dream [STYLE] Home (AI Restoration)'."
     ],
@@ -17304,6 +17304,237 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 94
+  }
+,
+{
+    id: "giant-tortoise-tiny-village-veo3",
+    title: "Giant Tortoise Carries a Tiny Village on Its Back — Veo 3 Prompt for Viral TikTok Fantasy Niches",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Beginner",
+    desc: "A giant ancient tortoise slowly walks through a misty valley with a tiny glowing village built on its shell — the epic scale-contrast format that dominates TikTok fantasy niches.",
+    prompt: "Cinematic fantasy video of a giant ancient tortoise slowly walking through a misty valley with a tiny glowing village built on its shell, tiny villagers lighting lanterns in miniature windows, a tiny farmer tending a rooftop garden, smoke curling from a tiny chimney, fireflies drifting around the tortoise's head, camera slowly orbits the tortoise in one smooth arc, golden dusk light, epic scale contrast, heartwarming storybook mood, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above — keep every tiny-village detail on the shell.",
+      "Set aspect ratio to 9:16 for TikTok and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the lanterns glow brightest.",
+      "Add soft orchestral music and post as episode one of a travelling-village series."
+    ],
+    tips: [
+      "The orbit shot is the magic — a slow circle around the tortoise makes the village feel like a real place.",
+      "Give one tiny villager a name in the caption so viewers follow the village, not just the tortoise."
+    ],
+    tags: ["tiny world", "fantasy", "creator-niche", "tiktok"],
+    trending: true,
+    popularity: 91
+  },
+  {
+    id: "tiny-sailors-teacup-ocean-storm-veo3",
+    title: "Tiny Sailors Navigate a Teacup Ocean Storm — Veo 3 Prompt for Faceless YouTube Shorts",
+    category: "Video Prompts",
+    tool: "Veo 3",
+    difficulty: "Intermediate",
+    desc: "Tiny sailors in yellow raincoats steer a miniature sailboat through a stormy teacup ocean — a playful tiny-world Short built for faceless YouTube channels.",
+    prompt: "Adorable cinematic video of tiny sailors in yellow raincoats steering a miniature wooden sailboat through a stormy teacup ocean, giant tea waves splashing over the rim, a tiny captain shouting orders from the helm, a spoon lighthouse flashing in the distance, steam rising like fog, a sugar-cube island on the horizon, camera follows the boat in one smooth tracking shot, warm cozy kitchen light, playful and epic at once, photorealistic miniature detail, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above into the prompt field.",
+      "Set aspect ratio to 9:16 for YouTube Shorts and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the tea wave looks biggest.",
+      "Add storm sounds and a creaking-boat effect, then post as part of a tiny-sailors series."
+    ],
+    tips: [
+      "The spoon lighthouse is the thumbnail — freeze the frame where its beam first hits the boat.",
+      "Swap the teacup for a soup bowl or a bathtub to spin off a whole tiny-ocean series."
+    ],
+    tags: ["tiny world", "ocean", "creator-niche", "youtube"],
+    trending: false,
+    popularity: 86
+  },
+  {
+    id: "grumpy-owl-midnight-library-kling",
+    title: "Grumpy Owl Runs a Midnight Library — Kling Prompt for Viral TikTok Comedy Niches",
+    category: "Video Prompts",
+    tool: "Kling",
+    difficulty: "Beginner",
+    desc: "A grumpy old owl in round glasses runs a tiny midnight library and shushes noisy readers — grumpy-animal comedy, TikTok's most shareable format.",
+    prompt: "Hilarious comedy video of a grumpy old owl in round glasses running a tiny midnight library, the owl shushing a noisy mouse reader with a feather, stamping books with a tiny brass stamp, a sleepy hedgehog returning an overdue book, moonlight through tall windows, floating dust in warm lamplight, candles flickering on a wooden desk, slapstick timing, cozy storybook charm, photorealistic, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Kling and paste the full prompt above.",
+      "Give the owl one clear personality — grumpy, tired, secretly kind — and keep that same attitude in every episode.",
+      "Generate 3 versions and keep the one where the shush looks funniest — the feather wave is the laugh.",
+      "Post one library scene per day (the noisy mouse, the overdue book, the midnight story hour) and ask viewers what the owl should shelve next.",
+      "Add soft library ambience and a tiny stamp sound in your editor; the sounds sell the slapstick."
+    ],
+    tips: [
+      "The shush is the thumbnail — freeze the frame where the owl first raises the feather.",
+      "Name the owl in the caption ('Professor Hoot Ep. 1') — named characters get followers, not just views."
+    ],
+    tags: ["comedy", "animals", "creator-niche", "tiktok"],
+    trending: true,
+    popularity: 90
+  },
+  {
+    id: "last-train-station-end-of-world-sora",
+    title: "The Last Train Station at the End of the World — Sora Prompt for Faceless YouTube Story Niches",
+    category: "Video Prompts",
+    tool: "Sora",
+    difficulty: "Intermediate",
+    desc: "A single lamplit platform at the edge of a cliff where the tracks simply stop — a quiet, haunting story niche that holds faceless YouTube viewers to the end.",
+    prompt: "Quiet cinematic video of the last train station at the end of the world, a single lamplit platform at the edge of a cliff where the tracks simply stop, a lone traveller with a suitcase watching the sea below, an old station clock ticking past midnight, a train's headlight glowing in the fog but never arriving, gulls circling the empty benches, slow and haunting, muted blue and gold palette, photorealistic, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Sora and paste the full prompt above.",
+      "Keep the same platform, the same clock and the same fog in every clip so the series feels like one continuous night.",
+      "Generate 3 versions and keep the one where the headlight glow looks most mysterious — the train that never arrives is the hook.",
+      "Post one chapter per week (the traveller, the clock, the light in the fog) and end each video on a quiet question for the comments.",
+      "Add distant waves and a slow ticking clock in your editor; silence between sounds is what makes viewers feel the emptiness."
+    ],
+    tips: [
+      "Never show the train clearly; mystery keeps faceless-story viewers coming back for the next chapter.",
+      "Title each chapter like a book ('The Last Station: Chapter 1 — The Traveller') — chapter titles build binge-watchers."
+    ],
+    tags: ["story", "mystery", "creator-niche", "youtube"],
+    trending: false,
+    popularity: 87
+  },
+  {
+    id: "felt-puppet-forest-morning-runway",
+    title: "Felt Puppet Forest Morning — Runway Prompt for Viral Instagram Reels Niches",
+    category: "Video Prompts",
+    tool: "Runway",
+    difficulty: "Beginner",
+    desc: "A handmade felt-puppet forest wakes up at dawn — stitched fox, wool birds and a felt deer in a soft stop-motion loop Instagram Reels viewers save and share.",
+    prompt: "Charming handmade felt-puppet animation of a forest waking up at dawn, a stitched fox stretching outside a felt treehouse, felt birds made of coloured wool flapping their wings, a felt deer sipping from a blue felt stream, soft morning sun through felt leaves, gentle stop-motion texture, visible stitching and fabric grain, warm and cozy, seamless loop, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Runway and paste the full prompt above.",
+      "Ask for a seamless loop in the prompt — loops that restart invisibly get watched twice, and double views count.",
+      "Generate 3 versions and keep the one where the fox's stretch lines up perfectly at the loop point.",
+      "Post the loop as a Reel with a soft acoustic track and pin a comment asking which felt animal viewers want next.",
+      "Re-cut the same forest at different times of day (dawn, noon, dusk) — one scene becomes three Reels."
+    ],
+    tips: [
+      "The loop point is everything — if the birds jump, add 'seamless loop, identical first and last frame' to the prompt.",
+      "Keep the stitching visible; the handmade fabric is what makes the forest feel crafted, not animated."
+    ],
+    tags: ["felt", "stop-motion", "creator-niche", "instagram"],
+    trending: false,
+    popularity: 85
+  },
+  {
+    id: "rainbow-ice-cream-tower-meltdown-flow",
+    title: "Rainbow Ice Cream Tower Meltdown — Google Flow Prompt for Satisfying Facebook Reels",
+    category: "Video Prompts",
+    tool: "Google Flow",
+    difficulty: "Beginner",
+    desc: "A towering rainbow ice cream stack melts in warm sunlight in glossy slow motion — satisfying food videos are Facebook Reels' most shared format.",
+    prompt: "Satisfying slow-motion video of a towering rainbow ice cream stack melting in warm sunlight, pink, mint and vanilla scoops sliding down in glossy ribbons, sprinkles cascading like confetti, a cherry slowly rolling off the top, a waffle cone softening at the base, golden light through the melting swirls, extreme close-up macro detail, mesmerizing and relaxing, photorealistic, vertical 9:16, no text, no watermark",
+    howto: [
+      "Open Google Flow and paste the full prompt above.",
+      "Keep the same ice cream colours and the same warm light in every clip so the series feels like one dessert counter.",
+      "Generate 3 versions and keep the one where the scoops slide most cleanly — the glossy ribbon is the satisfaction.",
+      "Post one melt per day (the tower, the sundae, the cone that never melts) and ask viewers which flavour to melt next.",
+      "Add soft dripping and fizzing sounds in your editor; dessert ASMR is why these Reels get saved."
+    ],
+    tips: [
+      "The cherry rolling off the top is the payoff — end the clip exactly when it drops, not after.",
+      "Slow motion is the whole trick; if Flow speeds it up, add 'extreme slow motion' twice in the prompt."
+    ],
+    tags: ["satisfying", "food", "creator-niche", "facebook"],
+    trending: true,
+    popularity: 89
+  },
+  {
+    id: "cozy-winter-train-window-midjourney",
+    title: "Cozy Winter Train Window Views — Midjourney Prompt for Instagram & Facebook Art Pages",
+    category: "Image Prompts",
+    tool: "Midjourney",
+    difficulty: "Beginner",
+    desc: "A set of cozy winter train compartment illustrations — snowy pines rushing past the window, cocoa steaming on the sill, a cat asleep on a red cushion.",
+    prompt: "Midjourney image, [ASPECT: 4:5]: a cozy winter train compartment illustration in warm storybook style — a window framing a snowy pine forest rushing past, a steaming mug of cocoa on a wooden sill, a knitted blanket folded on the seat, a sleeping cat curled on a red cushion, warm golden lamplight, soft snowflakes outside the glass, empty space left blank at the bottom for text, rich warm reds and golds, cozy and nostalgic, highly detailed, --ar 4:5 --v 6 --style raw",
+    howto: [
+      "Open Midjourney and paste the full prompt above.",
+      "Swap only the view outside the window in each run — the pine forest, a frozen lake, a village at dusk — and keep the palette and illustration style identical so the pack feels like one series.",
+      "Generate 4 versions per scene and keep the one with the cleanest empty space at the bottom for your own text.",
+      "Post one illustration per day as a carousel, and ask followers which window view they would ride past.",
+      "Add your own short journey quote in the blank space with a vintage serif font in your editor — the text makes each illustration shareable."
+    ],
+    tips: [
+      "The blank space at the bottom is the feature — if Midjourney fills it with gibberish text, add '--no text, letters' to the prompt.",
+      "Keep the palette to warm reds and golds; a limited palette looks more vintage and more premium."
+    ],
+    tags: ["illustration", "winter", "creator-niche", "instagram", "cozy"],
+    trending: false,
+    popularity: 84
+  },
+  {
+    id: "micro-documentary-niche-finder-chatgpt",
+    title: "Micro-Documentary Niche Finder — ChatGPT Prompt to Find Small True Stories Worth a Channel",
+    category: "Text Prompts",
+    tool: "ChatGPT",
+    difficulty: "Intermediate",
+    desc: "A ChatGPT prompt that finds faceless YouTube niches hiding in tiny true stories — a forgotten invention, a one-person rescue, a lost trade nobody has filmed yet.",
+    prompt: "Act as a viral documentary niche researcher. I want to start a faceless YouTube channel built on tiny true stories — the kind nobody has filmed yet. Find 10 micro-documentary niches for me: a forgotten invention, a one-person rescue, a village tradition, a lost trade, a tiny museum. For each niche give: the story in one sentence, why it has almost no competition, 5 video ideas filmable with AI video and stock footage, the first video to post, and how to monetize it. Rank them by how fast a new channel could reach 1,000 subscribers. Only include stories I can research and film this week with zero budget.",
+    howto: [
+      "Open ChatGPT and paste the full prompt above.",
+      "Ask it to re-rank the list by 'easiest story to research today' if you want quick wins instead of fastest growth.",
+      "Pick the top niche and verify the story with two sources before you film anything — true stories need true facts.",
+      "Film the first micro-documentary with AI video and stock footage this week — small stories reward speed, not polish.",
+      "Post the first video and share it in one history or documentary Facebook group; true-story fans are the fastest first 100 subscribers."
+    ],
+    tips: [
+      "Tiny stories beat big topics — a one-person rescue has almost no competition while 'World War II' has millions of videos.",
+      "Repeat the prompt every month with a new theme (inventions, rescues, villages); small true stories are a renewable goldmine."
+    ],
+    tags: ["creator-niche", "chatgpt", "niche-discovery", "youtube", "documentary"],
+    trending: true,
+    popularity: 92
+  },
+  {
+    id: "shorts-series-hook-tester-gemini",
+    title: "Shorts Series Hook Tester — Gemini Prompt to A/B Test 10 Hooks Before You Film",
+    category: "Text Prompts",
+    tool: "Gemini",
+    difficulty: "Beginner",
+    desc: "A Gemini prompt that writes 10 scroll-stopping opening hooks for each of your next 5 video ideas — then ranks all 50 so you film the strongest first.",
+    prompt: "Act as a viral short-form strategist for my channel about [YOUR NICHE]. Here are my next 5 video ideas: [LIST THEM]. Write 10 different opening hooks for each idea — the first 3 seconds that stop the scroll. For every hook give: the exact first line, the visual that plays under it, why it works psychologically, and which platform it fits best (YouTube Shorts, TikTok, Facebook Reels or Instagram). Then rank all 50 hooks from strongest to weakest and tell me the 5 to film first. Every hook must be filmable today with zero budget and no face on camera.",
+    howto: [
+      "Open Gemini and paste the full prompt above, filling in your niche and your 5 video ideas.",
+      "Ask Gemini to re-rank the hooks by 'most likely to get a comment back' if you want engagement first.",
+      "Film the top 5 hooks the same day — a tested hook beats a guessed one every time.",
+      "Post one hooked video per day and watch the first-3-seconds retention in your analytics.",
+      "Feed the winning hooks back to Gemini and ask for 10 variations of each — your best hooks are your next series."
+    ],
+    tips: [
+      "Test hooks before you film the video — a great video with a weak first 3 seconds still dies on the scroll.",
+      "Keep a swipe file of your top 10 hooks; the same hook pattern works across niches with one word swapped."
+    ],
+    tags: ["creator-niche", "gemini", "shorts", "youtube", "tiktok", "hooks"],
+    trending: false,
+    popularity: 88
+  },
+  {
+    id: "creator-niche-portfolio-builder-claude",
+    title: "Creator Niche Portfolio Builder — Claude Prompt to Run 3 Niches From One Channel Without Confusing Viewers",
+    category: "Text Prompts",
+    tool: "Claude",
+    difficulty: "Advanced",
+    desc: "A Claude prompt that designs a portfolio system for running 3 niches from one faceless channel — one umbrella brand, a rotating calendar, and playlists that keep each audience in its own lane.",
+    prompt: "Act as a YouTube channel strategist. I have 3 niches I love: [NICHE 1], [NICHE 2], [NICHE 3]. Design a portfolio system that runs all three from ONE faceless channel without confusing viewers or the algorithm: the umbrella brand idea that connects them, a weekly upload calendar that rotates the niches, a playlist and series structure that keeps each audience in its own lane, 10 video ideas per niche that cross-promote the other two, and the exact title and thumbnail rules that keep the channel looking like one brand. End with the warning signs that tell me one niche should be split into its own channel.",
+    howto: [
+      "Open Claude and paste the full prompt above, filling in your 3 niches.",
+      "Ask Claude to design the umbrella brand idea first — one sentence that connects all three niches is worth more than any single video.",
+      "Build the rotating weekly calendar before you film anything; a portfolio fails without a schedule.",
+      "Launch the first video from each niche in the same week so viewers meet all three lanes from day one.",
+      "Watch the one metric Claude named every week — if one niche's audience never watches the other two, it is time to split it off."
+    ],
+    tips: [
+      "The umbrella brand is the glue — a one-sentence idea viewers can repeat turns three niches into one channel.",
+      "Cross-promote with playlists, not random mentions; a viewer who finishes one niche's series should be offered the next lane, not a mixed feed."
+    ],
+    tags: ["creator-niche", "claude", "strategy", "youtube", "portfolio"],
+    trending: false,
+    popularity: 87
   }
 
 ];
