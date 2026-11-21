@@ -17536,6 +17536,103 @@ const PROMPTS = [
     trending: false,
     popularity: 87
   }
+,
+  {
+
+    "id": "niche-2026-11-21-ai-cube-slicing-reels",
+    "title": "AI Cube Slicing Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Impossible but real-looking: a glass cube with a whole world inside stops the scroll in half a second, and the slow cut plus the ASMR sound makes people watch to the reveal — then replay it. Cutting videos on Instagram already hit 86M, 81M and 64M views across three separate accounts, and one cutting reel passed 1.9M likes. Is niche ki videos 86.4M/64.2M/41.7M/28.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-cube-slicing-reels.jpg",
+    "prompt": "Hyper-realistic AI video, [DURATION: 15-25 seconds], vertical 9:16: a knife slowly slices a translucent glass cube — [CUBE: cherry-blossom garden / forest waterfall / tiny sushi restaurant / cozy library / mountain lake], [CUT: one slow clean slice, the cube cracking open to reveal the tiny world inside, glass cubes falling onto a glass board], [SOUND: crisp ASMR slicing sound, no music, no voiceover], [STYLE: bright natural light, macro close-up, vivid saturated colours, camera never moves], end on the revealed miniature world in one still frame, no watermark",
+    "howto": [
+        "Pick one cube and one hidden world — the weirder the world inside, the stronger the 'wait, what?' stop.",
+        "Keep the camera locked and the cut slow — one object, one knife, one board; the sound of the cut is the whole video.",
+        "Post one cube a day and pin a comment asking 'Which cube should I cut next?' — the next cube is the subscription hook."
+    ],
+    "tips": [
+        "Hook rule: the first frame must already show the knife touching the cube — Instagram decides reach in the first scroll-past, so no title card.",
+        "Caption trick: 'Which world is inside?' — viewers comment their guess before the reveal, and comments push the Reel.",
+        "Series it: 'Cube #12' numbering makes viewers hunt for the earlier cubes — a numbered series is a follow machine."
+    ],
+    "tags": [
+        "viral-niche",
+        "instagram",
+        "creator-niche",
+        "asmr",
+        "satisfying",
+        "reels"
+    ],
+    "trending": true,
+    "popularity": 93
+
+  },
+  {
+
+    "id": "niche-2026-11-21-ai-micro-conspiracy-debunked",
+    "title": "AI Micro-Conspiracy Debunked (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Conspiracy panics are free distribution — millions of people are already searching for the claim, and a calm debunk is the video they actually need. The 'Gravity Shutdown 2026' panic swept TikTok, Instagram and X; Antarctic ice-wall clips passed millions of views within days in late Oct–early Nov 2026; the Nov 17 internet-shutdown rumour hit 1.2M views on one German TikTok and 15M on a Spanish Facebook video. Is niche ki videos 15.3M/8.7M/5.4M/3.2M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-micro-conspiracy-debunked.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 30-60 seconds], vertical 9:16: one viral conspiracy claim, debunked in 3 beats — [CLAIM: gravity will shut off for 7 seconds / a hidden world lies behind the Antarctic ice wall / the internet will die on a set date], [BEAT 1: show the viral claim in its wildest form — floating people / towering ice cliffs / a blackout warning screen], [BEAT 2: the calm fact — the real physics / the real map / what actually happened that day], [BEAT 3: the source on screen — NASA / Snopes / the public record], [NARRATION: calm, curious voice, no mockery, facts first], [STYLE: dramatic scale, vivid cinematic realism], end with 'True or fake — what should I check next?', no watermark",
+    "howto": [
+        "Pick one claim that is already viral — check TikTok search first; a claim with millions of views is your distribution.",
+        "Show the wild claim first (30 seconds of drama), then the fact in one calm line — the twist is the retention.",
+        "Always name the real source on screen (NASA, Snopes, the public record) — credibility is what turns a debunk into a follow."
+    ],
+    "tips": [
+        "Hook rule: open with the claim itself, not 'this is fake' — 'Gravity will switch off for 7 seconds' stops the scroll; the verdict comes last.",
+        "Caption trick: ask 'True or fake?' in the caption — debate comments are the algorithm's favourite fuel.",
+        "Ride the wave fast: conspiracy panics peak in days, not weeks — the debunk posted on day 2 gets the wave, day 7 gets nothing."
+    ],
+    "tags": [
+        "viral-niche",
+        "tiktok",
+        "creator-niche",
+        "debunk",
+        "conspiracy",
+        "fact-check"
+    ],
+    "trending": true,
+    "popularity": 91
+
+  },
+  {
+
+    "id": "niche-2026-11-21-ai-what-if-you-stories",
+    "title": "AI What If You Stories (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Everyone has asked 'what if…' — and a 60-second answer with a visual twist is the most repeatable Shorts format there is. 'What If' 3D explainers have a top post at 84.9M views, and ViralFeed ranks What If History the #1 faceless Shorts niche of 2026 with Shorts RPM of $4–12. One question, one twist, endless scenarios. Is niche ki videos 84.9M/52.6M/31.4M/18.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-what-if-you-stories.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 30-60 seconds], vertical 9:16: a 'What if you…' scenario played out step by step — [SCENARIO: you fell into a black hole / you never slept again / the Moon disappeared / dinosaurs never went extinct / the Earth stopped spinning], [STRUCTURE: the hook in one line — 'What if you fell into a black hole?' — then step 1, step 2, the twist], [VISUAL: one vivid scene per step — astronaut stretching toward the event horizon / a sleepless city at 3am / a moonless night sky / a T-Rex crossing a modern street], [NARRATION: second-person storyteller voice, one idea per scene, everyday words only], [STYLE: vivid cinematic realism, dramatic scale, slow push-ins], end by asking viewers 'What if should I do next?', no watermark",
+    "howto": [
+        "Pick one scenario with a visual twist — if you cannot show it, do not pick it; the image is the hook.",
+        "Play it out in steps, one per sentence — viewers stay to see step 3, and the twist at the end is the share.",
+        "End every video asking 'What if should I do next?' — the comments write your next 10 videos for you."
+    ],
+    "tips": [
+        "Hook rule: the title is the question — 'What If You Fell Into a Black Hole?' — question titles match YouTube search exactly.",
+        "Thumbnail trick: put the impossible moment in the thumbnail (astronaut at the black hole, T-Rex on the street) — a visual contradiction stops the scroll.",
+        "Keep it second-person ('you') — 'what if YOU' makes the viewer the hero, and heroes watch to the end."
+    ],
+    "tags": [
+        "viral-niche",
+        "youtube",
+        "creator-niche",
+        "what-if",
+        "shorts",
+        "storytelling"
+    ],
+    "trending": true,
+    "popularity": 94
+
+  }
 
 ];
 
