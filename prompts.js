@@ -17874,6 +17874,100 @@ const PROMPTS = [
     "trending": false,
     "popularity": 88
   }
+,
+  {
+      "id": "niche-2026-11-22-ai-wolf-fable-reels",
+      "title": "AI Wolf Fable Reels (Facebook Niche)",
+      "category": "Viral Niches",
+      "tool": "Veo 3",
+      "difficulty": "Beginner",
+      "desc": "A wolf telling fables is the perfect faceless character — mysterious, wise, and instantly recognisable, and a 30-second moral with a twist is built to be shared. @quietwolfzz grew to 1.3M followers on cartoon noir wolf fables, with its most-viewed reel at 10.3M views — proof that one recurring character plus one lesson per video is a follow machine. Is niche ki videos 10.3M/8.7M/7.2M/5.9M views tak gayi hain.",
+      "image": "images/niches/niche-grid-ai-wolf-fable-reels.jpg",
+      "prompt": "Cartoon noir AI video, [DURATION: 30-45 seconds], vertical 9:16: a wise grey wolf tells a fable to the forest — [FABLE: the wolf who trusted too fast / the rabbit who outsmarted the hunter / the fox who learned patience / the owl who kept a secret], [SCENE 1: moonlit forest clearing, animals gathered around the wolf], [SCENE 2: the fable's turning point — the mistake, the trap, the choice], [SCENE 3: the wolf's lesson in one line], [NARRATION: deep calm storyteller voice, one idea per scene], [STYLE: cartoon noir, deep blue night tones, warm golden lantern light, glowing amber eyes, dramatic rim lighting], end with 'Which animal are you?', no watermark",
+      "howto": [
+          "Pick one fable with a one-line moral — if the lesson needs two sentences, the fable is wrong.",
+          "Keep the wolf the same character in every video — same grey fur, same amber eyes, same moonlit forest — a recurring character is a follow machine.",
+          "End every Reel asking 'Which animal are you?' — the comments answer with their animal and the algorithm reads that as engagement."
+      ],
+      "tips": [
+          "Hook rule: open on the wolf's glowing eyes in the dark — Facebook decides reach in the first scroll-past, so the first frame must be the wolf, not a title card.",
+          "Caption trick: post the moral as the caption — 'The wolf trusted too fast. Never trust a smile before you see the teeth.' — quotable captions get shared.",
+          "Series it: 'Fable #7' numbering makes viewers hunt for earlier fables — a numbered series is a follow machine."
+      ],
+      "tags": [
+          "viral-niche",
+          "facebook",
+          "creator-niche",
+          "fable",
+          "storytelling",
+          "reels"
+      ],
+      "trending": true,
+      "popularity": 92
+
+  },
+  {
+      "id": "niche-2026-11-22-ai-stretchy-couple-gags",
+      "title": "AI Stretchy Couple Gags (Instagram Niche)",
+      "category": "Viral Niches",
+      "tool": "Google Flow",
+      "difficulty": "Beginner",
+      "desc": "No dialogue means no language barrier — a stretchy clay couple is funny in every country, and a 15-second visual gag is the most rewatchable format on Reels. @mr._stretchy grew to 1.3M followers on silent claymation couple gags, with its most-viewed reel at 27M views — proof that one recurring couple plus one gag per video is a save-and-share machine. Is niche ki videos 27.0M/21.4M/18.6M/14.2M views tak gayi hain.",
+      "image": "images/niches/niche-grid-ai-stretchy-couple-gags.jpg",
+      "prompt": "Claymation-style 3D AI video, [DURATION: 15-30 seconds], vertical 9:16, no dialogue: a cute clay couple with super-stretchy rubber bodies in one everyday gag — [GAG: both stretch across the kitchen for the same cookie jar / one stretches tall to reach a high shelf / arms stretch like noodles to grab the TV remote / a stretchy hug tangles them both up], [STYLE: bright colourful claymation, sunny cozy home, vivid saturated colours, soft studio light], [SOUND: playful boings and pops, no voiceover], end on the funniest stretched pose frozen for one beat, no watermark",
+      "howto": [
+          "Pick one gag, one room, one stretch — the joke must read in the first 2 seconds with the sound off.",
+          "Keep the couple identical in every video — same clay colours, same faces — a recurring couple is what turns viewers into followers.",
+          "Post one gag a day and pin a comment asking 'What should they stretch for next?' — the next gag is the subscription hook."
+      ],
+      "tips": [
+          "Hook rule: the first frame must already show the stretch — Instagram decides reach in the first scroll-past, so no setup shot.",
+          "Caption trick: 'Tag someone who stretches like this' — tags are free distribution.",
+          "Series it: 'Stretchy Couple #12' numbering makes viewers hunt for earlier gags — a numbered series is a follow machine."
+      ],
+      "tags": [
+          "viral-niche",
+          "instagram",
+          "creator-niche",
+          "claymation",
+          "comedy",
+          "reels"
+      ],
+      "trending": true,
+      "popularity": 94
+
+  },
+  {
+      "id": "niche-2026-11-22-ai-first-person-what-if-pov",
+      "title": "AI First-Person What If POV (TikTok Niche)",
+      "category": "Viral Niches",
+      "tool": "Veo 3",
+      "difficulty": "Beginner",
+      "desc": "First-person POV turns a thought experiment into something the viewer feels in their own body — and 'what if' is the most repeatable Shorts format there is. @realityrendered__ built 72K followers on realistic first-person 'what if' POV videos, with its most-viewed reel at 1.5M views, and faceless.so's November 2026 trend check lists POV history and scale facts among the formats pulling the most plays for their size. Is niche ki videos 1.5M/1.2M/0.9M/0.6M views tak gayi hain.",
+      "image": "images/niches/niche-grid-ai-first-person-what-if-pov.jpg",
+      "prompt": "Realistic first-person POV AI video, [DURATION: 30-60 seconds], vertical 9:16: 'What if [ABSURD THING] happened to you?' played out from your own eyes — [SCENARIO: you woke up with the Moon in your bedroom / gravity switched off for 10 seconds / you could hold the sun in your hands / you shrank to the size of an ant], [SHOT 1: your hands reaching toward the impossible thing], [SHOT 2: the world reacting — floating objects / bending light / the ground far below], [SHOT 3: the twist — what it would actually feel like], [NARRATION: second-person voice, 'you' in every line, one idea per shot], [STYLE: realistic cinematic, dramatic scale, vivid saturated colours], end by asking 'What if should I try next?', no watermark",
+      "howto": [
+          "Pick one absurd scenario with a visual twist — if you cannot show it from your own eyes, do not pick it; the POV shot is the hook.",
+          "Shoot every scene as 'your' hands and 'your' view — first-person is what makes the viewer feel it instead of just watching it.",
+          "End every video asking 'What if should I try next?' — the comments write your next 10 videos for you."
+      ],
+      "tips": [
+          "Hook rule: open with the impossible thing already in frame — 'You wake up and the Moon is in your bedroom' — TikTok decides in the first second, so no intro.",
+          "Caption trick: ask 'What would YOU do?' in the caption — first-person comments are the algorithm's favourite fuel.",
+          "Keep it 'you' — second-person turns a viewer into the hero, and heroes watch to the end."
+      ],
+      "tags": [
+          "viral-niche",
+          "tiktok",
+          "creator-niche",
+          "what-if",
+          "pov",
+          "shorts"
+      ],
+      "trending": true,
+      "popularity": 90
+
+  }
 
 ];
 
