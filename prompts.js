@@ -17633,6 +17633,247 @@ const PROMPTS = [
     "popularity": 94
 
   }
+,
+{
+    "id": "tiny-bakers-gingerbread-skyscraper-veo3",
+    "title": "Tiny Bakers Build a Gingerbread Skyscraper — Veo 3 Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A team of tiny bakers in chef hats constructs a towering gingerbread skyscraper, floor by frosted floor — the tiny-world build format that owns TikTok story niches.",
+    "image": "images/niches/niche-grid-tiny-bakers-gingerbread-skyscraper.jpg",
+    "prompt": "Cinematic video of a team of tiny bakers in white chef hats and aprons building a towering gingerbread skyscraper on a kitchen counter, one baker piping frosting windows with a tiny bag, another hoisting a candy-cane crane, a third sliding a chocolate elevator into place, gumdrop workers carrying sprinkles up a sugar staircase, warm golden kitchen light, steam rising from a mug of cocoa in the background, camera slowly rising alongside the tower in one smooth move, cozy festive mood, photorealistic miniature detail, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above — keep every tiny-baker job on the tower.",
+      "Set aspect ratio to 9:16 for TikTok and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the candy-cane crane looks tallest.",
+      "Post as episode one of a tiny-builders series and ask viewers what the bakers should build next."
+    ],
+    "tips": [
+      "The rising camera move is the hook — a tower that keeps growing makes viewers watch to the top.",
+      "Give the head baker a name in the caption so viewers follow the crew, not just the building."
+    ],
+    "tags": ["tiny world", "festive", "creator-niche", "tiktok", "baking"],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "baby-elephant-first-snow-day-veo3",
+    "title": "Baby Elephant's First Snow Day — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A baby elephant discovers snow for the first time, trumpeting at falling flakes and sliding down a snowy hill — pure joy that stops the Shorts scroll.",
+    "image": "images/niches/niche-grid-baby-elephant-first-snow-day.jpg",
+    "prompt": "Heartwarming cinematic video of a baby elephant discovering snow for the first time in a bright winter meadow, the calf trumpeting with delight at falling snowflakes, playfully sliding down a gentle snowy hill on its belly, its mother watching with warm eyes nearby, snowflakes sparkling in golden morning light, pine trees dusted white in the background, camera follows the calf in one smooth low tracking shot, joyful and tender mood, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above into the prompt field.",
+      "Set aspect ratio to 9:16 for YouTube Shorts and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the calf's trumpet looks happiest.",
+      "Add gentle music and a soft snowfall sound, then post as part of a first-time animals series."
+    ],
+    "tips": [
+      "The first trumpet is the thumbnail — freeze the frame where the calf looks up at the snow.",
+      "Swap the elephant for a baby panda or a lion cub to spin off a whole first-snow series."
+    ],
+    "tags": ["animals", "cute", "creator-niche", "youtube", "shorts"],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "grumpy-cat-tiny-post-office-kling",
+    "title": "Grumpy Cat Runs a Tiny Post Office — Kling Prompt for Viral TikTok Comedy Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Intermediate",
+    "desc": "A grumpy cat in tiny spectacles runs a miniature post office, stamping letters with attitude while a queue of mice waits — the deadpan comedy format TikTok loves.",
+    "image": "images/niches/niche-grid-grumpy-cat-tiny-post-office.jpg",
+    "prompt": "Funny cinematic video of a grumpy orange tabby cat in tiny round spectacles running a miniature post office, the cat stamping letters with dramatic annoyance, a long queue of tiny mice waiting with miniature parcels, one mouse nervously offering a stamp, the cat sighing and sliding a letter across the counter with one paw, warm cozy shop light, tiny shelves of parcels behind the counter, camera holds a steady medium shot with a slow push-in on the cat's unimpressed face, deadpan comedy mood, photorealistic miniature detail, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Kling and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the cat's grumpy face as the centre of the shot.",
+      "Set aspect ratio to 9:16 for TikTok and duration to 5-10 seconds.",
+      "Generate 2-3 variations and keep the one where the stamp slam looks most dramatic.",
+      "Add a sigh sound effect and a tiny bell ding, then post as part of a grumpy-animals-at-work series."
+    ],
+    "tips": [
+      "The unimpressed stare is the thumbnail — freeze the frame where the cat looks straight at the camera.",
+      "Let the mice do the slapstick and the cat stay deadpan — the contrast is the whole joke."
+    ],
+    "tags": ["comedy", "cats", "creator-niche", "tiktok", "tiny world"],
+    "trending": false,
+    "popularity": 89
+  },
+  {
+    "id": "library-only-opens-midnight-sora",
+    "title": "The Library That Only Opens at Midnight — Sora Prompt for Faceless YouTube Mystery Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Advanced",
+    "desc": "A hidden library appears only at midnight, its books glowing and its shelves rearranging themselves — a mystery format built for faceless YouTube story channels.",
+    "image": "images/niches/niche-grid-library-only-opens-midnight.jpg",
+    "prompt": "Mysterious cinematic video of a hidden library that only appears at midnight, tall wooden shelves stretching into darkness, books glowing faintly gold on the shelves, a brass ladder sliding along the shelves by itself, dust motes drifting through a single beam of moonlight, a leather-bound book opening on its own to a page of glowing writing, a hooded figure browsing in the far aisle, camera gliding slowly down the central aisle in one smooth move, deep blue and gold palette, quiet wonder and suspense, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the glowing books and the gliding aisle shot.",
+      "Set aspect ratio to 9:16 for YouTube Shorts and duration to 10 seconds.",
+      "Generate 2-3 variations and keep the one where the moonlight beam looks most magical.",
+      "Add soft page-turn sounds and a low drone, then post as episode one of a midnight-places series."
+    ],
+    "tips": [
+      "The glowing book page is the thumbnail — freeze the frame where the writing first lights up.",
+      "Never show the hooded figure's face — mystery channels keep viewers by hiding the reveal."
+    ],
+    "tags": ["mystery", "storytelling", "creator-niche", "youtube", "fantasy"],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "origami-crane-paper-city-flight-runway",
+    "title": "Origami Crane Takes Flight Over a Paper City — Runway Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "A delicate origami crane unfolds its wings and soars over a folded-paper city at sunset — the craft-art format Instagram Reels saves and shares.",
+    "image": "images/niches/niche-grid-origami-crane-paper-city-flight.jpg",
+    "prompt": "Beautiful paper-craft animation of a delicate white origami crane unfolding its wings and taking flight over a folded-paper city at sunset, tiny paper windows glowing warm gold, paper clouds drifting across a peach-coloured sky, the crane gliding between paper skyscrapers with graceful wing beats, a paper river sparkling below, camera following the crane in one smooth soaring move, delicate handmade craft texture, calm and magical mood, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Runway and start a new image-to-video or text-to-video generation.",
+      "Paste the full prompt above — keep the paper-city depth and the crane's graceful flight.",
+      "Set aspect ratio to 9:16 for Instagram Reels and duration to 5-10 seconds.",
+      "Generate 2-3 variations and keep the one where the crane's wing unfold looks smoothest.",
+      "Add soft wind and gentle piano, then post as part of a paper-world journeys series."
+    ],
+    "tips": [
+      "The crane mid-glide between glowing windows is the thumbnail — freeze the frame where the sunset frames its wings.",
+      "Swap sunset for a starry night or a rainy morning to spin off a whole paper-city series."
+    ],
+    "tags": ["paper art", "origami", "creator-niche", "instagram", "craft"],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "golden-honey-drip-cake-google-flow",
+    "title": "Golden Honey Drip Cake Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "Golden honey drips in slow motion over a tall frosted cake while a tiny bee lands on top — the satisfying food format Facebook Reels watches to the last drop.",
+    "image": "images/niches/niche-grid-golden-honey-drip-cake.jpg",
+    "prompt": "Satisfying cinematic timelapse video of golden honey slowly dripping down the sides of a tall white frosted cake, thick amber streams catching warm light, a tiny bee landing gently on a honeycomb decoration on top, honey pooling in glossy ripples on the cake stand, a honey dipper twirling above in slow motion, soft warm bakery light, camera holds a steady close-up with a very slow push-in, rich golden palette, deeply calming and delicious mood, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Google Flow and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the slow honey drip as the centre of the shot.",
+      "Set aspect ratio to 9:16 for Facebook Reels and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the honey stream looks thickest.",
+      "Add a soft honey-pour sound and gentle music, then post as part of a satisfying-food series."
+    ],
+    "tips": [
+      "The thickest drip is the thumbnail — freeze the frame where the honey stream catches the light.",
+      "Keep the camera almost still — satisfying videos work because the food moves, not the camera."
+    ],
+    "tags": ["satisfying", "food", "creator-niche", "facebook", "timelapse"],
+    "trending": false,
+    "popularity": 88
+  },
+  {
+    "id": "cozy-winter-market-stall-midjourney",
+    "title": "Cozy Winter Market Stall Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "A pack of warm, storybook winter market stall illustrations — glowing lanterns, steaming cocoa, knitted scarves — built for Instagram and Facebook art pages.",
+    "image": "images/niches/niche-grid-cozy-winter-market-stall.jpg",
+    "prompt": "Warm storybook illustration of a cozy winter market stall at dusk, glowing paper lanterns strung above, a wooden stall piled with knitted scarves and jars of honey, steam rising from mugs of cocoa, snowflakes drifting through golden lantern light, a friendly vendor in a red scarf handing a cup to a child, soft painterly texture, rich warm oranges and deep winter blues, charming children's book style, highly detailed, --ar 4:5 --style raw --v 6.1",
+    "howto": [
+      "Open Midjourney and paste the full prompt above into the prompt bar.",
+      "Keep the --ar 4:5 ratio for Instagram and Facebook feeds.",
+      "Generate 4 variations and upscale the one with the warmest lantern glow.",
+      "Vary the stall goods in the prompt — swap scarves for ornaments, honey for gingerbread — to build a full pack of 6-8 images.",
+      "Post as a carousel with the prompt in the caption so followers save it."
+    ],
+    "tips": [
+      "The lantern glow against blue dusk is the scroll-stopper — keep the warm-cool contrast strong in every variation.",
+      "One small human moment (the vendor handing over the cocoa) makes a market scene feel alive instead of staged."
+    ],
+    "tags": ["illustration", "winter", "creator-niche", "instagram", "facebook"],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "niche-2026-11-22-untapped-2027-niche-finder",
+    "title": "Untapped 2027 Niche Finder — ChatGPT Prompt to Find Creator Niches Before Everyone Else",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Intermediate",
+    "desc": "A ChatGPT prompt that hunts for creator niches that will boom in 2027 — scoring each one on competition, monetisation and faceless-friendliness before you commit.",
+    "image": "images/niches/niche-grid-untapped-2027-niche-finder.jpg",
+    "prompt": "Act as a YouTube and TikTok trend researcher. I want 10 creator niches that are still untapped but will boom in 2027. For each niche give me: the niche name and one-sentence pitch, proof it is growing (a rising search term, a viral format, or a new tool that makes it possible), competition level from 1-10 with a reason, how a faceless channel would make the first 10 videos, the easiest monetisation path (ads, affiliates, digital products), and one channel already succeeding quietly in it. Rank all 10 by opportunity score and tell me which one I should start this week and why. My interests are: [YOUR INTERESTS]. My skills are: [YOUR SKILLS]. I can post [3 TIMES PER WEEK].",
+    "howto": [
+      "Open ChatGPT and paste the full prompt above, filling in your interests, skills and posting frequency.",
+      "Ask for the ranked top 10 first — do not start a channel on a niche ranked below the top 3.",
+      "Check the proof for the top niche yourself in YouTube search before committing — a rising search term is the green light.",
+      "Ask ChatGPT to turn the winning niche's first 10 videos into a 30-day posting calendar.",
+      "Re-run the prompt every quarter — untapped niches stay untapped for months, not years."
+    ],
+    "tips": [
+      "The opportunity score matters more than your passion — a niche you like with a score of 4 will lose to one you tolerate with a score of 9.",
+      "Ask for the quiet channel already succeeding — studying a small winner beats copying a giant one."
+    ],
+    "tags": ["creator-niche", "chatgpt", "niche discovery", "youtube", "tiktok"],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-22-comment-to-video-machine",
+    "title": "Comment-to-Video Machine — Gemini Prompt to Turn Comments Into Viral YouTube & TikTok Shorts",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "A Gemini prompt that mines your own comments section for video ideas — ranking every comment by viral potential and turning the best ones into ready-to-film Shorts.",
+    "image": "images/niches/niche-grid-comment-to-video-machine.jpg",
+    "prompt": "Act as a Shorts strategist for my channel. Here are my 30 most recent comments: [PASTE COMMENTS]. For each comment, decide if it hides a video idea. Rank the top 10 ideas by viral potential and for each one give me: the comment it came from, the video idea in one sentence, a scroll-stopping hook line under 8 words, the best format (story, list, demo, reaction), and the platform it fits best (YouTube Shorts or TikTok). Then write a 30-second script outline for the number 1 idea. My niche is: [YOUR NICHE]. My last 5 videos were about: [YOUR LAST 5 TOPICS].",
+    "howto": [
+      "Open Gemini and paste the full prompt above with 30 of your recent comments.",
+      "Film the number 1 idea first — comments that ask a question are the easiest wins.",
+      "Reply to the original comment with the video link so the commenter becomes your first promoter.",
+      "Ask Gemini to refresh the ranking weekly — your comments section is a free idea machine that refills itself.",
+      "Keep a running list of ideas you reject — a weak idea today can be the perfect video after a trend shifts."
+    ],
+    "tips": [
+      "Questions in comments are gold — a viewer who asks is a viewer who will watch the answer.",
+      "Always credit the commenter on screen — it turns one comment into ten more."
+    ],
+    "tags": ["creator-niche", "gemini", "shorts", "youtube", "tiktok"],
+    "trending": false,
+    "popularity": 89
+  },
+  {
+    "id": "niche-2026-11-22-faceless-brand-kit-builder",
+    "title": "Faceless Channel Name & Brand Kit Builder — Claude Prompt for Creator Niches",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A Claude prompt that builds a complete faceless channel brand — name, tagline, colour palette, logo direction and voice — so a new niche channel looks pro from video one.",
+    "image": "images/niches/niche-grid-faceless-brand-kit-builder.jpg",
+    "prompt": "Act as a branding expert for faceless YouTube and TikTok channels. My niche is: [YOUR NICHE]. My audience is: [YOUR AUDIENCE]. Build me a complete brand kit: 10 channel name ideas that are short, memorable and searchable (with a one-line reason each), a tagline under 8 words, a 3-colour palette with hex codes and where each colour is used, a logo direction described so an AI image tool can draw it, a voice and tone guide in 5 rules, and a thumbnail style rule (font feel, layout, one thing that is always the same). End by picking the single best name and telling me why it wins. Avoid names that are already famous channels.",
+    "howto": [
+      "Open Claude and paste the full prompt above, filling in your niche and audience.",
+      "Check the top 3 name ideas in YouTube and TikTok search — if a big channel already owns one, drop it.",
+      "Ask Claude to generate the logo from the logo direction in your favourite image tool.",
+      "Apply the thumbnail rule to your first 10 videos without exception — consistency is what makes a new channel look established.",
+      "Revisit the kit after 30 videos — keep what viewers recognise, change what they ignore."
+    ],
+    "tips": [
+      "A name viewers can spell after hearing it once beats a clever name they cannot — test every name by saying it out loud.",
+      "One thing always the same on every thumbnail is worth more than a perfect logo — recognition is built on repetition."
+    ],
+    "tags": ["creator-niche", "claude", "branding", "youtube", "tiktok"],
+    "trending": false,
+    "popularity": 88
+  }
 
 ];
 
