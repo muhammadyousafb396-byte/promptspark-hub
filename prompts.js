@@ -17967,8 +17967,304 @@ const PROMPTS = [
       "trending": true,
       "popularity": 90
 
+  },
+  {
+    "id": "tiny-musicians-giant-grand-piano-veo3",
+    "title": "Tiny Musicians Play a Giant Grand Piano — Veo 3 Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A tiny orchestra of mice in tuxedos playing a giant grand piano is impossible-scale wonder — the kind of clip TikTok saves, shares and replays before the viewer even knows why.",
+    "image": "images/niches/niche-grid-tiny-musicians-giant-grand-piano.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 15-30 seconds], vertical 9:16: a tiny orchestra of mice in black tuxedos performs on a giant grand piano in a warm concert hall — [SCENE 1: a mouse conductor taps his tiny baton and the curtain rises], [SCENE 2: tiny paws dance across piano keys the size of park benches, hammers striking in slow motion], [SCENE 3: the final chord lands and golden dust sparkles over the cheering mouse audience], [STYLE: warm golden light, rich wood tones, Pixar-style charm, shallow depth of field, smooth slow push-in], [SOUND: a gentle classical piano piece that swells with the performance], no watermark",
+    "howto": [
+      "Open Veo 3 and paste the full prompt, choosing one scene to lead with — the conductor's first tap is the strongest hook.",
+      "Generate in 9:16 vertical and keep the clip under 30 seconds so it loops cleanly on TikTok.",
+      "Post as episode one of a series — 'Tiny Orchestra #1' — and let viewers vote for the next instrument in the comments.",
+      "Add a caption with the piece's name and a question: 'What should they play next?'",
+      "Repost the best-performing clip to YouTube Shorts with a different first frame to catch a second audience."
+    ],
+    "tips": [
+      "Hook rule: the first frame must show the scale gap — a tiny mouse beside a giant piano key — or the scroll-past wins.",
+      "One orchestra, one hall, every video — a recurring tiny world is what turns viewers into followers."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "tiny-world",
+      "music",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "frozen-forest-glass-sleigh-ride-veo3",
+    "title": "Frozen Forest Glass-Bottom Sleigh Ride — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Intermediate",
+    "desc": "A glass-bottom sleigh gliding over a frozen forest lets viewers see two worlds at once — the snowy trees above and the glowing ice world below — pure faceless wonder in 30 seconds.",
+    "image": "images/niches/niche-grid-frozen-forest-glass-sleigh-ride.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 20-40 seconds], vertical 9:16: a glass-bottom sleigh glides silently through a frozen forest at blue hour — [SCENE 1: the sleigh's glass floor reveals glowing ice crystals and frozen fish far below], [SCENE 2: snow-laden pines slide past, breath fogging in the cold air, lanterns swaying on the sleigh], [SCENE 3: the sleigh crests a ridge and the whole valley of frozen waterfalls opens up in golden light], [STYLE: deep blue and gold, photorealistic, gentle camera drift, sparkling snow, cinematic wide shots], [SOUND: soft sleigh bells and wind, no voiceover], no watermark",
+    "howto": [
+      "Open Veo 3 and paste the full prompt, setting the aspect ratio to 9:16 for Shorts.",
+      "Generate the glass-floor reveal first — that shot is the thumbnail and the hook in one.",
+      "Chain two or three clips into a 40-second Short with a slow fade between scenes.",
+      "Add a one-line on-screen caption at the reveal: 'The floor is glass.' — the comment section will do the rest.",
+      "Post the same clip to TikTok with winter and travel hashtags to catch a second audience."
+    ],
+    "tips": [
+      "Hook rule: open on the glass floor, not the forest — the impossible view is what stops the scroll.",
+      "Keep the camera slow and steady — fast movement breaks the dreamlike calm that makes this niche bingeable."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "winter",
+      "fantasy",
+      "shorts"
+    ],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "grumpy-walrus-tiny-fish-market-kling",
+    "title": "Grumpy Walrus Runs a Tiny Fish Market — Kling Prompt for Viral TikTok Comedy Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "A grumpy walrus haggling over fish prices at his tiny market stall is instant comedy — one recurring character, one grumpy line per video, and TikTok does the rest.",
+    "image": "images/niches/niche-grid-grumpy-walrus-tiny-fish-market.jpg",
+    "prompt": "Funny AI video, [DURATION: 15-30 seconds], vertical 9:16: a grumpy walrus in a striped apron runs a tiny fish market stall on a snowy harbour — [GAG: a seal customer asks for a discount and the walrus slaps the counter with his flipper / the walrus counts coins one by one with a magnifying glass / a seagull steals a fish and the walrus chases it in slow motion], [STYLE: bright cheerful colours, Pixar-style 3D, expressive grumpy face, snowy harbour background, soft daylight], [SOUND: cartoon boings, a grumpy mumble, market ambience, no clear dialogue], end on the walrus's funniest glare frozen for one beat, no watermark",
+    "howto": [
+      "Open Kling and paste the full prompt, picking one gag — the discount slap is the strongest opener.",
+      "Keep the walrus identical in every video — same apron, same stall, same grumpy face — a recurring character is a follow machine.",
+      "Generate in 9:16 and post one gag a day, numbering each one: 'Walrus Market #4'.",
+      "Pin a comment asking 'What should the walrus sell next?' — the answers write your next ten videos.",
+      "Cross-post the best gag to Instagram Reels with a different caption to catch a second audience."
+    ],
+    "tips": [
+      "Hook rule: the first frame must already show the grump — no setup shot, the walrus's face IS the hook.",
+      "One gag per video, never two — a second joke dilutes the first and kills the rewatch."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "comedy",
+      "animals",
+      "shorts"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "hotel-changes-with-every-guest-sora",
+    "title": "The Hotel That Changes With Every Guest — Sora Prompt for Faceless YouTube Mystery Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Advanced",
+    "desc": "A hotel that rebuilds itself for every guest — a pirate's cabin for one, a space station for the next — is a mystery series with endless episodes and a built-in 'what's next?' hook.",
+    "image": "images/niches/niche-grid-hotel-changes-with-every-guest.jpg",
+    "prompt": "Cinematic AI video, [DURATION: 30-60 seconds], 16:9: a mysterious grand hotel that rebuilds itself for every guest — [SCENE 1: a traveller pushes open the lobby doors and the room ripples, walls folding into a pirate captain's cabin / a space station / a jungle treehouse], [SCENE 2: the guest explores the impossible room — a porthole showing stars, a parrot on the chandelier, a waterfall in the bathtub], [SCENE 3: the guest leaves and the room folds back into an empty lobby, waiting for the next knock], [STYLE: warm golden lobby light, rich detail, slow cinematic camera moves, a sense of wonder and quiet mystery], [NARRATION: calm storyteller voice, one line per scene], no watermark",
+    "howto": [
+      "Open Sora and paste the full prompt, choosing one guest transformation per video — one room, one wonder.",
+      "Generate in 16:9 for YouTube and keep each episode under 60 seconds so it also works as a Short.",
+      "End every episode with the same line — 'The hotel is waiting. Who knocks next?' — and let comments choose the next guest.",
+      "Keep the lobby identical in every episode — the same doors, the same desk — so viewers recognise the series instantly.",
+      "Compile the best five episodes into a 5-minute compilation for a second wave of views."
+    ],
+    "tips": [
+      "Hook rule: open on the door opening — the transformation must start within the first 3 seconds.",
+      "One transformation per episode — two rooms in one video halves the wonder of each."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "mystery",
+      "storytelling",
+      "shorts"
+    ],
+    "trending": false,
+    "popularity": 88
+  },
+  {
+    "id": "living-origami-zoo-runway",
+    "title": "Living Origami Zoo Comes Alive — Runway Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "Paper animals that fold themselves alive — a crane that flaps, a frog that hops off the page — is the kind of satisfying art magic Instagram saves and shares on sight.",
+    "image": "images/niches/niche-grid-living-origami-zoo.jpg",
+    "prompt": "Artistic AI video, [DURATION: 15-30 seconds], vertical 9:16: a paper zoo folds itself alive on a craft table — [SCENE 1: a flat sheet of coloured paper folds into a crane that flaps its wings and lifts off], [SCENE 2: a paper frog hops across the table, a paper elephant trumpets with a paper trunk, a paper lion shakes its folded mane], [SCENE 3: all the animals gather in a circle and bow together as the camera pulls back], [STYLE: bright craft-table colours, crisp paper textures, soft window light, gentle stop-motion feel, satisfying folding sounds], [SOUND: soft paper rustles and a light music-box melody, no voiceover], no watermark",
+    "howto": [
+      "Open Runway and paste the full prompt, picking one animal to lead — the crane's first flap is the hook.",
+      "Generate in 9:16 and keep the clip under 30 seconds so it loops cleanly on Reels.",
+      "Post one animal per day as a series — 'Origami Zoo #6' — and let followers vote for the next animal.",
+      "Add a caption naming the animal and the fold count: 'The crane — 14 folds, 1 flap.'",
+      "Repost the full zoo circle scene as a standalone clip — it is the most shareable frame of the series."
+    ],
+    "tips": [
+      "Hook rule: the first fold must happen in the first 2 seconds — Reels decides reach before the paper even moves.",
+      "Keep the craft table the same in every video — one consistent setting makes a scattered idea feel like a series."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "art",
+      "origami",
+      "reels"
+    ],
+    "trending": false,
+    "popularity": 85
+  },
+  {
+    "id": "candy-glass-sculpture-meltdown-flow",
+    "title": "Candy Glass Sculpture Meltdown — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A glowing candy-glass sculpture melting in slow motion — colours swirling, drips catching the light — is pure satisfying content, the kind Facebook Reels viewers watch twice.",
+    "image": "images/niches/niche-grid-candy-glass-sculpture-meltdown.jpg",
+    "prompt": "Satisfying AI video, [DURATION: 15-30 seconds], vertical 9:16: a glowing candy-glass sculpture melts in slow motion under warm light — [SCENE 1: a crystal swan / rose / hummingbird made of translucent candy glass, sparkling under a spotlight], [SCENE 2: the first drip falls, colours swirling — ruby red into amber gold into emerald green], [SCENE 3: the sculpture softens into a glowing pool of liquid colour, the last sparkle fading], [STYLE: vivid saturated colour, macro close-ups, soft studio light, ultra-smooth slow motion, hypnotic and clean], [SOUND: gentle ambient tones and soft drips, no voiceover], no watermark",
+    "howto": [
+      "Open Google Flow and paste the full prompt, choosing one sculpture — the swan melts the most beautifully.",
+      "Generate in 9:16 vertical and keep the clip under 30 seconds for a clean Reels loop.",
+      "Post one sculpture per day and number the series — 'Glass Melt #8' — so viewers hunt for earlier melts.",
+      "Add a caption asking 'Which colour should melt next?' — the answers pick your next sculpture.",
+      "Cross-post the best melt to TikTok with satisfying and ASMR hashtags for a second audience."
+    ],
+    "tips": [
+      "Hook rule: the first drip must fall within 2 seconds — the melt IS the video, so never start with a still sculpture.",
+      "One colour story per melt — too many colours at once turns satisfying into messy."
+    ],
+    "tags": [
+      "creator-niche",
+      "facebook",
+      "satisfying",
+      "art",
+      "reels"
+    ],
+    "trending": false,
+    "popularity": 84
+  },
+  {
+    "id": "dreamy-winter-stargazing-pack-midjourney",
+    "title": "Dreamy Winter Stargazing Illustration Pack — Midjourney Prompt for Instagram & Facebook Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Cozy stargazing scenes — a cabin roof under the Milky Way, a telescope on a snowy hill, a fox watching shooting stars — are the dreamy winter images that get saved, shared and set as wallpapers.",
+    "image": "images/niches/niche-grid-dreamy-winter-stargazing-pack.jpg",
+    "prompt": "Dreamy winter stargazing illustration, [SCENE: a cozy cabin roof under the Milky Way / a brass telescope on a snowy hill / a fox watching shooting stars from a pine branch / a child in a blanket pointing at a meteor], [STYLE: storybook watercolour, deep indigo night sky, glowing stars, warm golden window light, soft snow, whimsical and peaceful], [DETAILS: constellations, a crescent moon, breath fog in the cold air, a mug of cocoa steaming nearby], --ar 4:5 --v 6 --style raw",
+    "howto": [
+      "Open Midjourney and paste the full prompt, choosing one scene — the cabin roof under the Milky Way is the strongest cover image.",
+      "Generate 4 variations and pick the one with the clearest stars and warmest window light.",
+      "Upscale your favourite and post it as a 4:5 carousel with the other three scenes as a pack.",
+      "Caption it with a question — 'What would you wish on tonight?' — to pull comments.",
+      "Offer the pack as a free phone wallpaper in your bio link to turn saves into follows."
+    ],
+    "tips": [
+      "Swap the scene bracket for any winter moment — a frozen lake, a lighthouse, a snowman — the prompt's night-sky style holds the pack together.",
+      "Keep the palette consistent — deep indigo sky plus one warm gold light — so the four images read as one set."
+    ],
+    "tags": [
+      "creator-niche",
+      "instagram",
+      "facebook",
+      "winter",
+      "illustration"
+    ],
+    "trending": false,
+    "popularity": 83
+  },
+  {
+    "id": "underrated-sports-niche-finder-chatgpt",
+    "title": "Underrated Sports Niche Finder — ChatGPT Prompt to Find Overlooked Sports Worth a Channel",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Intermediate",
+    "desc": "Everyone covers football and cricket — the gold is in the sports nobody films: kabaddi comebacks, arm-wrestling leagues, parkour fails. This ChatGPT prompt finds the overlooked sport with a real audience and weak competition.",
+    "prompt": "Act as a YouTube niche researcher specialising in sports. My interests are: [YOUR INTERESTS, e.g. strength sports, outdoor games, niche athletics]. My skills are: [YOUR SKILLS, e.g. editing, commentary, filming]. Find me 10 underrated sports niches for 2026 that meet ALL of these tests: (1) a real audience exists — at least 3 channels over 50K subscribers or one viral video over 1M views, (2) competition is weak — fewer than 20 active channels posting weekly, (3) the sport is filmable faceless — clips, commentary or animation work without showing my face, (4) it has repeatable content — at least 50 video ideas without repeating a format. For each niche give: the sport, why it is overlooked, 3 example channels or videos with view counts, the best platform (YouTube, TikTok, Facebook or Instagram), 5 first video ideas, and a difficulty score out of 10. Rank all 10 by a final score that weighs audience size against competition. End by picking the single best niche for a beginner and telling me the first 3 videos to make.",
+    "howto": [
+      "Open ChatGPT and paste the full prompt, filling in your real interests and skills — vague inputs give vague niches.",
+      "Check the top 3 niches in YouTube search yourself — if the 'weak competition' claim does not hold, drop the niche.",
+      "Ask ChatGPT to expand the winning niche into a 30-video content plan before you commit.",
+      "Validate the audience by finding one video over 1M views in the niche — no viral proof, no channel.",
+      "Start with the 3 first videos ChatGPT suggested, then measure which format gets the best retention."
+    ],
+    "tips": [
+      "A sport you actually enjoy beats a sport with a bigger audience — you will quit a boring niche in 30 days no matter the views.",
+      "Faceless filmability is the real filter — if a sport needs you on camera to work, it is not a faceless niche."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "niche-discovery",
+      "sports",
+      "chatgpt"
+    ],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "before-after-hook-pack-gemini",
+    "title": "Before/After Hook Pack — Gemini Prompt for Transformation Shorts on TikTok & YouTube",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "Transformation is the most clickable format on Shorts — a messy room to a dream room, a blank page to a portrait — but only if the hook promises the change in the first second. This Gemini prompt writes 30 before/after hooks for your niche.",
+    "prompt": "Act as a viral Shorts copywriter. My niche is: [YOUR NICHE, e.g. room makeovers, art, fitness, cooking]. My transformation is: [BEFORE STATE] to [AFTER STATE]. Write me 30 before/after video hooks — each hook must be ONE short sentence under 10 words that promises a visible transformation and creates a curiosity gap. Split them into 3 groups of 10: (1) shock hooks — the before looks impossible to fix, (2) time hooks — the change happens fast or against a deadline, (3) secret hooks — one hidden trick causes the whole change. For each hook add: the exact on-screen text for the first frame, the best 3-second opening shot, and a one-line reason it stops the scroll. Rules: no clickbait that the video cannot deliver, no 'you won't believe' phrasing, every hook must name the transformation. End by ranking the top 5 hooks and telling me which one to film first.",
+    "howto": [
+      "Open Gemini and paste the full prompt, filling in your niche and your exact before and after states.",
+      "Film the top-ranked hook first — test one hook per video, never two in the same Short.",
+      "Put the hook's on-screen text on the first frame exactly as Gemini wrote it.",
+      "Measure the first 3 seconds' retention — a hook that holds 70%+ is a winner worth repeating in new videos.",
+      "Ask Gemini to write 10 more variations of your winning hook style for the next batch."
+    ],
+    "tips": [
+      "The before must look genuinely bad — if the before already looks good, there is no transformation to watch.",
+      "Show the after for one full second at the end, frozen — the rewatch comes from viewers pausing on the result."
+    ],
+    "tags": [
+      "creator-niche",
+      "tiktok",
+      "youtube",
+      "hooks",
+      "transformation"
+    ],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "creator-collab-matchmaker-claude",
+    "title": "Creator Collab Matchmaker — Claude Prompt to Find Channels to Collaborate With in Any Niche",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "A good collab doubles your audience overnight — a bad one wastes a week. This Claude prompt finds channels your size, in your niche, with a shared audience, and writes the outreach message that actually gets answered.",
+    "prompt": "Act as a creator growth strategist. My channel is: [YOUR CHANNEL — niche, size, platform, average views]. My audience is: [YOUR AUDIENCE — age, interests, what they watch next]. Find me 10 collaboration partners who meet ALL of these tests: (1) same niche or a neighbouring niche my audience already watches, (2) similar size — between half my subscribers and double my subscribers, (3) actively posting — at least 2 videos in the last 30 days, (4) audience overlap — their viewers would genuinely enjoy my content. For each partner give: the channel name and size, why the audiences overlap, 3 collab formats that suit BOTH channels (not just mine), and what each side gains. Then write me 3 outreach messages — one short DM, one email, one comment — each under 80 words, specific to that partner, offering a clear idea instead of a vague 'let's collab'. End by ranking the 10 partners and telling me who to message first and why.",
+    "howto": [
+      "Open Claude and paste the full prompt, filling in your real channel size and average views — inflated numbers give useless partners.",
+      "Check the top 3 partners yourself — watch one video each and confirm the audience really overlaps.",
+      "Send the DM version first — short, specific, one idea — and wait 5 days before following up once.",
+      "Propose the collab format that helps THEM most — a partner who gains more says yes faster.",
+      "After the first collab, ask Claude to find 10 more partners one size bigger — collabs compound."
+    ],
+    "tips": [
+      "Never pitch a collab to a channel 10x your size first — start with your equals, then climb one rung at a time.",
+      "A specific idea beats a generic ask every time — 'let's collab' gets ignored, 'your walrus vs my penguin' gets answered."
+    ],
+    "tags": [
+      "creator-niche",
+      "youtube",
+      "collaboration",
+      "growth",
+      "claude"
+    ],
+    "trending": false,
+    "popularity": 86
   }
-
 ];
 
 if (typeof module !== "undefined") {
