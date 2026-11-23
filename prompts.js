@@ -18264,7 +18264,97 @@ const PROMPTS = [
     ],
     "trending": false,
     "popularity": 86
-  }
+  },
+  {
+  "id": "niche-2026-11-23-ai-nostalgia-old-time-know-how",
+  "title": "AI Nostalgia & Old-Time Know-How (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Nostalgia is the strongest emotion on YouTube — “how did they live without it?” is a question every viewer asks themselves, and a forgotten skill shown step by step is satisfying to watch to the end. ViralDNA’s November 2026 audit of 36 new channels found nostalgia & old-time know-how a whole winning group — 5 new channels averaging 35,992 views per video — inside history & documentaries, the biggest faceless group of all. Is niche ki videos 52.3M/41.7M/33.9M/25.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-nostalgia-old-time-know-how.jpg",
+  "prompt": "Cinematic AI video, [DURATION: 8-15 minutes long-form or 30-60 second Shorts], vertical 9:16 for Shorts or 16:9 for long-form: how people lived before modern technology — [TOPIC: how a farmhouse stayed warm without heating / how butter was made before fridges / how a blacksmith forged a tool from scrap iron / how a general store ran without electricity], [SCENE 1: the old-time world in full detail — the workshop, the kitchen, the farmhouse], [SCENE 2: the forgotten skill step by step — hands doing the work, the tools, the rhythm], [SCENE 3: the satisfying result — the finished tool, the warm meal, the working machine], [NARRATION: warm storyteller voice, one simple idea per scene, present tense], [STYLE: warm nostalgic golden-hour light, rich saturated colours, cinematic, photorealistic, vintage film feel], end with “Would you survive one day in [YEAR]?”, no watermark",
+  "howto": [
+    "Pick one forgotten skill with a visible result — if the viewer cannot SEE the skill working, do not pick it; the hands doing the work are the hook.",
+    "Show the skill in 3 beats — the old world, the hands at work, the finished result — one location, one hero, one action per shot.",
+    "End every video asking “Would you survive one day in [YEAR]?” — the comments answer with their own stories and the algorithm reads that as engagement."
+  ],
+  "tips": [
+    "Hook rule: open on the hands already working — the forge already glowing, the churn already turning — YouTube decides retention in the first 10 seconds, so no intro.",
+    "Title trick: “How People Survived [X] Before [MODERN THING]” — the before/after gap is the click; the year in the title doubles the curiosity.",
+    "Series it: “Life Before [THING] #7” numbering makes viewers hunt for earlier episodes — a numbered series is a subscribe machine."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "nostalgia",
+    "history",
+    "documentary"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+  {
+  "id": "niche-2026-11-23-ai-smart-crow-videos",
+  "title": "AI Smart Crow Videos (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A crow outsmarting a problem is the perfect 10-second story — a hook, a clever twist and a payoff, with a character viewers instantly love. The November 2026 “Facebook Viral Niches 2026” tutorial puts ultra-realistic smart crow videos at the top of its list with 76M+ views, and the format’s golden rule is simple: one real-looking crow, one clever trick, one satisfying ending. Is niche ki videos 76.4M/58.9M/44.2M/31.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-smart-crow-videos.jpg",
+  "prompt": "Photorealistic AI video, [DURATION: 10-15 seconds], vertical 9:16: ONE glossy black crow with an iridescent blue-purple sheen does a clever human-like activity in a real background — [ACTIVITY: drops pebbles into a bottle to raise the water / lifts a gate latch with its beak / picks up a shiny coin from the street / helps a kitten reach food], [HOOK (first 2 seconds): the crow faces a clear need — thirsty, hungry, curious, something shiny], [CLEVER ACTION: the crow solves it using ONLY its beak, feet, hopping or short flights — like a real intelligent crow], [PAYOFF: the clever solution works and the crow looks proud], [STYLE: PHOTOREALISTIC, NOT cartoon, NOT CGI-looking, shot on a real DSLR, natural colours, individual feathers visible], no human hands, no clothes, no talking, no smiling with teeth, no watermark",
+  "howto": [
+    "Pick one clever crow trick per video — one need, one solution, one payoff — if the crow needs human hands to do it, the idea is wrong.",
+    "Keep the SAME crow in every video — same glossy black feathers, same blue-purple sheen, same intelligent eyes — a recurring character is a follow machine.",
+    "Post the trick as a Reel with the caption “Smartest bird on the internet?” — the debate in the comments is free reach."
+  ],
+  "tips": [
+    "Hook rule: open on the crow already mid-trick — the pebble already dropping, the latch already lifting — Facebook decides reach in the first scroll-past, so the first frame must be the crow, not a title card.",
+    "Caption trick: ask “Is this crow smarter than you?” — challenge captions get comments, and comments are the algorithm’s favourite fuel.",
+    "Realism lock: photorealistic only — the moment the crow looks cartoonish, viewers scroll past; the “is this real?” debate is half the views."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "animals",
+    "crow",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+  {
+  "id": "niche-2026-11-23-ai-dramatized-history-reels",
+  "title": "AI Dramatized History Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "History painted like art stops the scroll twice — once for the beauty, once for the story — and a 20-second dramatized moment is the most saveable format on Reels. blackdark.club’s November 2026 guide lists dramatized history as the #1 fastest-growing faceless niche, and its reference account @null.histories grew to 995K followers on realistic oil-painted history alone. Is niche ki videos 178.6K/146.3K/121.8K/96.4K views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-dramatized-history-reels.jpg",
+  "prompt": "Cinematic AI video, [DURATION: 15-30 seconds], vertical 9:16: one dramatized moment from history, painted like a living oil painting — [MOMENT: a Roman soldier’s last stand at dusk / an Egyptian queen before her temple / a knight riding into a storm / a Viking on a longship at sunset], [SHOT 1: the hero in full detail — armour, jewellery, cloak, weather], [SHOT 2: the turning point — the charge, the decision, the storm breaking], [SHOT 3: the final image frozen like a painting — the moment history remembers], [NARRATION: deep calm voice, one line per shot, or no voice at all with epic music], [STYLE: realistic oil painting, dramatic golden light, rich saturated colours, slow motion, museum-quality historical drama], end with the year on screen, no watermark",
+  "howto": [
+    "Pick one moment history remembers — a last stand, a coronation, a storm — if the moment needs three sentences to explain, pick a simpler one.",
+    "Keep the oil-painting style identical in every Reel — same painterly texture, same golden light — a consistent look is what turns scrollers into followers.",
+    "End every Reel with the year on screen — “ROME, 44 BC” — the date is the save trigger: viewers save it to look it up later."
+  ],
+  "tips": [
+    "Hook rule: open on the most dramatic painted frame — the soldier at dusk, the queen in gold — Instagram decides reach in the first scroll-past, so no setup shot.",
+    "Caption trick: one line of the real story in the caption — “He knew he would not survive the night. He charged anyway.” — a story in the caption gets saved.",
+    "Series it: “History in Oil #12” numbering makes viewers hunt for earlier moments — a numbered series is a follow machine."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "history",
+    "oil-painting",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 90
+}
 ];
 
 if (typeof module !== "undefined") {
