@@ -18657,6 +18657,96 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 90
+},
+{
+  "id": "niche-2026-11-24-ai-roth-ira-investing-beginners",
+  "title": "AI Roth IRA Investing for Beginners (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Nobody is answering the exact question 280,471 people typed into TikTok search in one week — 'Roth IRA investing for beginners' had 280,471 searches in 7 days to 12 Nov 2026 with ZERO videos matched. A demand gap that big, in a niche where one honest number can change a 25-year-old's life, is the definition of an untapped niche — and the format is pure screen + voiceover, the cheapest faceless format to ship daily. Is niche ki videos 4.2M/3.1M/2.4M/1.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-roth-ira-investing-beginners.jpg",
+  "prompt": "Viral TikTok finance video, [DURATION: 30-60 seconds], vertical 9:16: explain Roth IRA investing for complete beginners — [HOOK (first 2 seconds): a shocking number on screen — 'If you put $100/month in a Roth IRA at 25, you could have $[AMOUNT] by 60' — with a golden coin tower growing on screen], [SCENE 1: what a Roth IRA actually is in ONE sentence — 'You pay tax now, so your money grows tax-free forever' — shown as a piggy bank filling with golden coins], [SCENE 2: the 3-step setup — open an account, pick a low-cost index fund, set auto-invest — shown as a phone screen with a rising green graph], [SCENE 3: the payoff — the same $100/month at age 25 vs age 35, side by side, the early starter wins by $[DIFFERENCE]], [STYLE: bright, warm, saturated colours, friendly flat illustration mixed with real phone-screen close-ups, big bold numbers on screen], [VOICE: clear friendly voiceover, one simple idea per scene, no jargon], end with 'Follow for day 2 — which index fund to pick first', no watermark",
+  "howto": [
+    "Pick ONE Roth IRA fact per video — one number, one comparison, one mistake — if the video needs two facts, split it into two videos.",
+    "Open with the biggest number on screen in the first 2 seconds — 'Start at 25 = $X, start at 35 = $Y' — TikTok decides in the first scroll-past, so the number IS the hook.",
+    "End every video with 'Follow for day 2' and the next question — a series turns one viral video into a following."
+  ],
+  "tips": [
+    "Hook rule: open on the money math, never on a definition — 'This account makes the IRS cry' beats 'A Roth IRA is a retirement account' every time.",
+    "Caption trick: ask 'How old were you when you first heard of a Roth IRA?' — the comments become a confession thread, and comments are free reach.",
+    "Trust lock: show the real calculator screen — viewers trust a number they can check; never invent a return rate, use a real compound-interest calculator."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "finance",
+    "investing",
+    "roth-ira"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "niche-2026-11-24-ai-cybersecurity-case-studies",
+  "title": "AI Cybersecurity Case Studies (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Cybersecurity case studies are the highest-RPM faceless niche in the November 2026 data — $22–$45 RPM, and a single 15-minute case study can earn $4,000–$8,000 from one 500K-view spike. True-crime structure (breach → damage → hunt) is the most watchable format on YouTube, and every breach is a ready-made story with a villain, a victim and a twist — the research does the writing for you. Is niche ki videos 6.4M/4.9M/3.7M/2.6M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-cybersecurity-case-studies.jpg",
+  "prompt": "Cinematic AI documentary video, [DURATION: 12-20 minutes long-form or 60-second Shorts teaser], 16:9 for long-form, 9:16 for Shorts: ONE famous cyberattack retold as a true-crime case study — [CASE: the [BREACH NAME] hack — how hackers got in, what they stole, how they were caught], [ACT 1 — THE BREACH: the quiet moment it started — one clicked link, one weak password, one unpatched server — shown as a dark control room, red alert flashing], [ACT 2 — THE DAMAGE: what was stolen and what it cost, in real numbers on screen — $[AMOUNT], [NUMBER] of accounts, [DAYS] offline], [ACT 3 — THE HUNT: how investigators traced it — the clue, the mistake the hackers made, the arrest or the escape], [NARRATION: calm documentary voice, one twist per act, present tense for tension, past tense for facts], [STYLE: cinematic, dark blue and neon green, photorealistic control rooms, evidence boards, city skylines, slow push-ins], end with 'The one setting that would have stopped it — in the description', no watermark",
+  "howto": [
+    "Pick ONE breach per video — one company, one attack, one lesson — if the story needs two breaches, it is two videos.",
+    "Structure it like true crime: breach → damage → hunt — the hunt is the payoff, so never reveal how they were caught before minute 8.",
+    "End with the one setting or habit that would have stopped the attack — a copyable lesson is what gets the video saved and shared."
+  ],
+  "tips": [
+    "Hook rule: open on the damage number — '$4 billion gone in 12 minutes' — YouTube decides retention in the first 10 seconds, so the breach is the first line, not the background.",
+    "Title trick: 'How [COMPANY] Lost $[AMOUNT] in [TIME]' — the company name + the loss + the time is the click; the case-study format is the watch time.",
+    "Research lock: use only verified breach reports — a wrong number in a cybersecurity video kills the channel's trust in one comment; link your sources in the description."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "cybersecurity",
+    "documentary",
+    "true-crime"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "niche-2026-11-24-ai-25d-history-cartoons",
+  "title": "AI 2.5D History Cartoons (Facebook Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "2.5D history cartoons are one of the 11 faceless reel formats blowing up in 2026 — the paper-cut depth effect stops the scroll twice, once for the charm and once for the story, and a 30-second history moment is the most saveable format on Reels. The same November guide's diorama-build reference pulled 112.5M YouTube views, and 'history' is the most common viral-reel idea of all. Is niche ki videos 96.4M/78.2M/61.5M/47.8M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-25d-history-cartoons.jpg",
+  "prompt": "Cinematic AI video, [DURATION: 20-40 seconds], vertical 9:16: one moment from history told as a charming 2.5D layered paper-cut cartoon — [MOMENT: a Roman soldier's last march / an Egyptian queen before her temple / a knight riding into a storm / a Viking longship at sunset], [SHOT 1: the layered paper world in full depth — the hero in the front layer, the city or temple in the back layers, warm sunset light between the layers], [SHOT 2: the turning point — the march, the decision, the storm breaking — the paper layers sliding apart like a pop-up book], [SHOT 3: the final image frozen like a paper diorama — the moment history remembers], [NARRATION: warm storyteller voice, one line per shot, or no voice at all with playful music], [STYLE: 2.5D layered paper-cut, rich saturated colours, charming handcrafted feel, gentle parallax movement between layers], end with the year on screen — 'ROME, 44 BC', no watermark",
+  "howto": [
+    "Pick one moment history remembers — a march, a coronation, a storm — if the moment needs three sentences to explain, pick a simpler one.",
+    "Keep the paper-cut style identical in every Reel — same layered depth, same warm light — a consistent look is what turns scrollers into followers.",
+    "End every Reel with the year on screen — 'ROME, 44 BC' — the date is the save trigger: viewers save it to look it up later."
+  ],
+  "tips": [
+    "Hook rule: open on the most charming paper frame — the soldier marching, the queen in gold — Facebook decides reach in the first scroll-past, so no setup shot.",
+    "Caption trick: one line of the real story in the caption — 'He marched 40 miles a day. In sandals.' — a story in the caption gets saved.",
+    "Series it: 'History in Paper #12' numbering makes viewers hunt for earlier moments — a numbered series is a follow machine."
+  ],
+  "tags": [
+    "viral-niche",
+    "facebook",
+    "creator-niche",
+    "history",
+    "cartoons",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 91
 }
 ];
 
