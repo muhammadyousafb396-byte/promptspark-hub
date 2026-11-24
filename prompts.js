@@ -18354,6 +18354,309 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 90
+},
+{
+  "id": "tiny-lighthouse-keeper-storm-veo3",
+  "title": "The Tiny Lighthouse Keeper's Stormy Night — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "A lighthouse the size of a thimble, a keeper the size of a thumb, and the biggest storm of the century — tiny-world videos are the cosiest corner of faceless YouTube, and this stormy-night prompt gives the format real drama.",
+  "prompt": "Cinematic vertical video, 9:16, miniature world style. A tiny lighthouse keeper no taller than a thumb stands on the balcony of a miniature lighthouse built on a rock the size of a teacup, waves crashing around it in the dark. Rain lashes the tiny glass lamp room, lightning flashes far away, and the little keeper in a yellow raincoat turns the great lamp by hand, cranking a tiny brass wheel, the beam sweeping across giant waves. Camera: slow push-in from a wide shot of the stormy sea to a close-up of the keeper's determined face, rain drops the size of marbles sliding down the glass. Warm golden light from the lamp against deep blue storm tones, water splashing in dramatic slow motion, sound of wind and waves, the lamp's beam cutting through the rain. Mood: brave, cosy, epic in miniature. No dialogue, no text on screen.",
+  "howto": [
+    "Paste the prompt into Veo 3 and generate in 9:16 — the vertical frame is what Shorts viewers scroll into.",
+    "Generate the storm twice and keep the take where the lamp beam is brightest — the beam is the money shot.",
+    "Add a low wind-and-waves ambience track under it — tiny-world videos live or die on sound.",
+    "Cut the best 8 seconds as the Short, then loop the full 30 seconds for a second upload the next day.",
+    "Title it around the storm, not the lighthouse — 'The Smallest Keeper vs The Biggest Storm' beats a plain description."
+  ],
+  "tips": [
+    "One brave action per clip — the keeper cranking the lamp IS the story; don't add a second plot.",
+    "Warm lamp light against cold blue storm is the contrast that stops thumbs — keep the palette two-tone."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "veo3",
+    "tiny-world",
+    "faceless",
+    "shorts"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "cat-cafe-cats-serve-customers-veo3",
+  "title": "A Cat Café Where the Cats Serve the Customers — Veo 3 Prompt for Viral TikTok Story Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "The cats run the café, the humans are the guests, and the service is terrible in the funniest way possible. Role-reversal animal videos are TikTok's most reliable comedy format — this one writes itself.",
+  "prompt": "Playful vertical video, 9:16, Pixar-style 3D animation. Inside a cosy cat café, fluffy cats in tiny aprons run the whole shop: one orange tabby cat carefully pours a latte with both paws, a grey cat in a bow tie carries a tiny tray of cakes to a table of smiling humans, and a grumpy white cat at the counter slowly pushes a croissant off the edge with one paw while staring at the customer. Sunlight through the window, steam curling from the cups, a chalkboard menu that reads 'MEOW MENU' in cute letters. Camera: quick cuts between the three cats, ending on a close-up of the grumpy cat's unimpressed face. Bright warm colours, soft depth of field, gentle café music, cats purring. Mood: charming, funny, heart-melting. No dialogue, no text on screen except the chalkboard.",
+  "howto": [
+    "Generate in Veo 3 at 9:16 and ask for the three-cat sequence — one cat per beat keeps the joke clear.",
+    "Keep the grumpy cat's croissant push as the final shot — the last 2 seconds are what viewers comment on.",
+    "Add soft café ambience and a purr track — the sound makes the scene feel real.",
+    "Post as a 3-part series: the latte, the tray, the croissant — each part earns its own comments.",
+    "Pin a comment asking 'Which cat would you hire?' — replies push the video to new viewers."
+  ],
+  "tips": [
+    "One visual gag per cat — three small jokes land harder than one big one.",
+    "The grumpy cat is the star — give the funniest job to the funniest face."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "veo3",
+    "cats",
+    "comedy",
+    "story"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "grumpy-penguin-ice-cream-truck-kling",
+  "title": "A Grumpy Penguin Runs a Tiny Ice Cream Truck — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "A penguin selling ice cream in the Antarctic should be the easiest job in the world — unless the penguin hates customers. Grumpy-animal-run-a-shop videos are a proven TikTok comedy engine, and the penguin is the grumpiest of them all.",
+  "prompt": "Funny vertical video, 9:16, smooth 3D animation, Kling motion style. A chubby grumpy penguin in a tiny pink apron runs a pastel ice cream truck parked on a sparkling snowfield. A cheerful seal customer points at the menu; the penguin sighs, slowly scoops a perfect swirl of mint ice cream, hands it over with an exaggerated eye-roll, and the seal claps its flippers in delight. Snowflakes drift, the truck's little bell jingles, colourful cones stacked in a row, steam from a hot chocolate cup in the penguin's other flipper. Camera: medium shot of the truck, push-in on the penguin's deadpan face at the hand-off, then a wide shot of the happy seal waddling away. Bright pastel colours against white snow, playful bouncy music, a tiny 'ding' when the cone is handed over. Mood: deadpan comedy, adorable. No dialogue, no text on screen.",
+  "howto": [
+    "Run the prompt in Kling in 9:16 — Kling's smooth motion suits the penguin's waddle and the slow scoop.",
+    "Generate the hand-off moment twice and keep the take with the clearest eye-roll — the face sells the joke.",
+    "Add a tiny bell 'ding' right at the cone hand-off — one sound effect timed to the punchline doubles the laugh.",
+    "Post the first 8 seconds as the hook clip, then the full 20 seconds as the follow-up the next day.",
+    "Caption it with the penguin's attitude — 'He hates his job. He loves the ice cream.' — attitude captions get saves."
+  ],
+  "tips": [
+    "Deadpan beats hyper — the penguin must look bored while everything around him is joyful.",
+    "One customer, one cone, one joke — a second customer would dilute the punchline."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "kling",
+    "penguin",
+    "comedy",
+    "animals"
+  ],
+  "trending": true,
+  "popularity": 87
+},
+{
+  "id": "train-forgotten-stations-sora",
+  "title": "The Train That Only Stops at Forgotten Stations — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "A midnight train, a ticket to nowhere, and stations that don't exist on any map — mystery-train stories are the faceless YouTube niche with the highest watch time, because viewers stay to see where the train stops next.",
+  "prompt": "Atmospheric cinematic video, 16:9, film grain, muted teal and amber palette. A vintage steam train glides through fog at midnight, its warm windows glowing, stopping at a tiny abandoned station covered in ivy where a single lantern still burns. A lone passenger in a long coat steps onto the empty platform, looks at a timetable with no times on it, and the train pulls away into the mist without a sound. Camera: slow tracking shot alongside the train, then a still wide shot of the empty platform as the fog closes in, then a close-up of the lantern flame flickering. Distant train whistle, soft fog, the crunch of gravel under one footstep. Mood: eerie, beautiful, full of questions. No dialogue, no text on screen.",
+  "howto": [
+    "Generate in Sora at 16:9 — the wide frame and fog need room to breathe.",
+    "Ask for the three-shot sequence: train arriving, passenger stepping off, fog closing in — mystery needs a beginning, a middle and an unanswered end.",
+    "Add a distant train whistle and near-silence under it — quiet makes mystery videos feel expensive.",
+    "Use it as the opening 30 seconds of a faceless mystery video, then narrate the story over the remaining shots.",
+    "End every video on an unanswered question — 'Where does the train go next?' — questions in the last line earn comments."
+  ],
+  "tips": [
+    "Never explain the mystery on screen — the unanswered question is the whole reason viewers subscribe.",
+    "One lantern, one passenger, one empty platform — emptiness is what makes it eerie."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "sora",
+    "mystery",
+    "faceless",
+    "cinematic"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "paper-dragon-neon-city-runway",
+  "title": "A Paper Dragon Flies Over a Neon City — Runway Prompt for Viral Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Intermediate",
+  "desc": "A dragon folded from a single sheet of paper, soaring between neon towers — paper-craft fantasy is Instagram's most saveable visual style, because every frame looks like art worth keeping.",
+  "prompt": "Dreamlike vertical video, 9:16, Runway Gen-4 style, stop-motion paper-craft look. A beautiful origami dragon folded from shimmering gold paper soars between towering neon skyscrapers at dusk, its paper wings rippling in the wind, tiny paper lanterns trailing behind it like a comet tail. Below, a rainy street reflects pink and blue neon, and paper birds fold themselves out of shop awnings and join the flight. Camera: sweeping follow shot behind the dragon, then a low-angle shot looking up as it banks between two towers, wings catching the neon light. Rich magenta, cyan and gold palette, gentle rain, soft synth music, the rustle of paper in the wind. Mood: magical, cinematic, awe-inspiring. No dialogue, no text on screen.",
+  "howto": [
+    "Generate in Runway at 9:16 with the paper-craft style locked in the first line — style drift kills paper videos.",
+    "Ask for the follow shot first — the dragon banking between towers is the thumbnail frame.",
+    "Add soft rain ambience and a slow synth pad — the sound should feel like floating.",
+    "Post the best 10 seconds as the Reel, and save the full flight as a 30-second version for the next day.",
+    "Use the dragon frame as the cover — a gold dragon over neon stops the scroll before the video even plays."
+  ],
+  "tips": [
+    "Keep the palette to three colours — gold, magenta, cyan — so every frame looks designed, not random.",
+    "The paper birds joining the flight are the share moment — one surprising detail beats ten pretty ones."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "runway",
+    "paper-craft",
+    "fantasy",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "molten-gold-pour-art-flow",
+  "title": "Molten Gold Pour Art Timelapse — Google Flow Prompt for Satisfying Facebook Reels",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "Liquid gold poured in slow motion never stops being satisfying — and satisfying pour videos are Facebook Reels' most looped format. This prompt turns a simple pour into a glowing piece of art.",
+  "prompt": "Satisfying vertical video, 9:16, ultra-detailed macro cinematography, Google Flow style. A slow stream of molten gold pours from a small ceramic crucible onto a dark slate surface, spreading into a glowing golden river that branches into delicate fern-like patterns as it cools. Tiny sparks rise, the gold's surface ripples like liquid mirror, and the edges crystallise into fine golden lace. Camera: extreme close-up macro shot, slow push-in as the pour spreads, then a top-down shot of the finished golden pattern glowing against the black slate. Deep black background, brilliant gold highlights, soft warm glow, the faint hiss of cooling metal, no music — just the pour. Mood: hypnotic, luxurious, deeply satisfying. No dialogue, no text on screen.",
+  "howto": [
+    "Generate in Google Flow at 9:16 — Flow's macro detail makes the gold's ripples look real.",
+    "Ask for the top-down final pattern shot as a separate generation — the finished golden lace is the loop point.",
+    "Keep the audio to the natural hiss only — satisfying videos lose their magic under loud music.",
+    "Loop the last 3 seconds into the first frame so the Reel plays seamlessly on repeat — loops are Facebook's favourite metric.",
+    "Caption it with one line — 'Gold, poured like water.' — short captions let the video do the talking."
+  ],
+  "tips": [
+    "Black background is non-negotiable — gold only glows against darkness.",
+    "The pattern at the end is the payoff — viewers watch the whole pour just to see what it becomes."
+  ],
+  "tags": [
+    "creator-niche",
+    "facebook",
+    "google-flow",
+    "satisfying",
+    "gold",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "enchanted-forest-library-midjourney",
+  "title": "Enchanted Forest Library Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A library grown inside a hollow tree, where the books glow and fireflies are the reading lamps — magical library art is the most saved illustration style on art pages, because every reader wants a library like this.",
+  "prompt": "Enchanted forest library illustration, magical storybook style, soft painterly texture --ar 4:5 --v 6.1 --style raw. Inside a giant hollow tree, tall wooden bookshelves curve around the trunk, their books glowing softly in gold and teal, a spiral staircase of carved roots winding upward, fireflies drifting like tiny lanterns between the shelves, a small reading chair with a red cushion and an open glowing book on a mossy side table, mushrooms with warm light growing along the roots, soft green and gold light filtering through the canopy above. Rich emerald, gold and warm brown palette, gentle glow, dreamy atmosphere, no people, no text.",
+  "howto": [
+    "Paste the prompt into Midjourney and run 4 variations — pick the one where the glowing books and the fireflies both read clearly.",
+    "Re-roll the same prompt with --chaos 10 for a wilder, more magical version and post it as the second image in the carousel.",
+    "Upscale the winner and add a soft vignette — the vignette pulls the eye to the glowing reading chair.",
+    "Post as a 4-image carousel: the whole library, a close-up of the glowing books, the root staircase, the fireflies.",
+    "Caption it with a question — 'Which glowing book would you open first?' — questions turn saves into comments."
+  ],
+  "tips": [
+    "The glowing books are the save trigger — light inside books makes a pretty picture feel magical.",
+    "Keep the palette forest-only — emerald, gold, warm brown — one world per image keeps the feed cohesive."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "midjourney",
+    "fantasy",
+    "library",
+    "illustration"
+  ],
+  "trending": false,
+  "popularity": 85
+},
+{
+  "id": "faceless-niche-validator-chatgpt",
+  "title": "Faceless Channel Idea Validator — ChatGPT Prompt to Test Any Niche Before You Start",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Most faceless channels fail because the niche was never tested — this ChatGPT prompt stress-tests any channel idea against demand, competition, monetisation and your own stamina before you waste a month on it.",
+  "prompt": "Act as a ruthless YouTube niche analyst. I am considering starting a faceless channel in this niche: [YOUR NICHE IDEA — e.g. 'tiny-world animal stories for TikTok and YouTube Shorts']. Score it 1-10 on each of these 6 tests and give me a PASS or FAIL verdict overall: (1) DEMAND — are people actively searching for this? Give me 10 real search phrases viewers type. (2) COMPETITION — name 5 existing channels in this niche, their subscriber counts, and the gap they leave open. (3) CONTENT SUPPLY — can I make 100 videos in this niche without repeating myself? List 30 video ideas. (4) MONETISATION — how does this niche actually earn money (ads, affiliates, sponsors, products)? Estimate RPM honestly. (5) SPEED — can I make one video per day with free AI tools? List the exact tools and the time per video. (6) STAMINA — will I still enjoy this niche at video 100? Name the 3 ways creators burn out in this niche and how to avoid them. End with a one-line verdict: START IT, FIX IT FIRST (and say what to fix), or DROP IT — and if DROP IT, suggest 3 neighbouring niches that pass all 6 tests.",
+  "howto": [
+    "Paste the prompt into ChatGPT and fill in your real niche idea — vague ideas get vague verdicts.",
+    "Check the 5 competitor channels it names yourself — if they don't exist, re-run with 'only name channels you can verify'.",
+    "Take the 30 video ideas and sort them into your first month — if you can't fill 30 days, the niche is too narrow.",
+    "If the verdict is FIX IT FIRST, apply the fix and re-run the validator before recording anything.",
+    "Save the verdict — run the same prompt again in 3 months and compare scores as your channel grows."
+  ],
+  "tips": [
+    "A FAIL verdict saves you a month — celebrate it, don't argue with it.",
+    "The stamina test matters most — a niche you love at video 100 beats a trendy niche you quit at video 12."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "chatgpt",
+    "niche-discovery",
+    "faceless",
+    "strategy"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "viral-shorts-calendar-gemini",
+  "title": "30-Day Viral Shorts Calendar Maker — Gemini Prompt for TikTok & YouTube Shorts Planning",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Posting daily is easy — posting daily with a plan is what grows a channel. This Gemini prompt builds a full 30-day Shorts calendar matched to your niche, your audience's habits and the trends of the week.",
+  "prompt": "Act as a short-form content planner. My channel: [YOUR NICHE — e.g. 'funny animal stories'], platform: [TikTok AND/OR YouTube Shorts], audience: [WHO WATCHES — age, interests, when they scroll]. Build me a 30-day posting calendar with ONE video per day. For each day give: the video idea in one line, the hook (the first 3 seconds, word for word), the format (story, list, reaction, challenge, before/after), the best time to post, and one trend or sound to ride that day. Mix the 30 days like this: 10 story videos, 6 list videos, 6 reaction videos, 4 challenges, 4 before/after videos. Make days 1-10 easy wins that build confidence, days 11-20 experiments that test new formats, and days 21-30 the best ideas saved for when the algorithm knows me. End with a weekly rhythm summary: which 2 days are for filming, which day is for batching hooks, and what to do on a day when a video flops.",
+  "howto": [
+    "Paste the prompt into Gemini with your real niche and audience — generic inputs give a generic calendar.",
+    "Film the first 10 days in one batching session — a calendar only works if the videos exist before the week starts.",
+    "Post at the times Gemini suggests for 2 weeks, then shift any slot that underperforms by 1 hour and test again.",
+    "When a format flops twice, swap it for the next idea in the same format family — don't abandon the calendar, repair it.",
+    "At day 30, paste your actual view counts back into Gemini and ask for the next 30 days based on what really worked."
+  ],
+  "tips": [
+    "The hook is the whole calendar — if the first 3 seconds are weak, the posting time won't save it.",
+    "Batch hooks separately from filming — writing 30 hooks in one sitting makes them sharper than writing one a day."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "youtube",
+    "gemini",
+    "shorts",
+    "planning",
+    "calendar"
+  ],
+  "trending": false,
+  "popularity": 87
+},
+{
+  "id": "hook-analyzer-first-3-seconds-claude",
+  "title": "Hook Analyzer — Claude Prompt to Fix Why Your First 3 Seconds Fail",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Viewers decide in 3 seconds — and most creators never find out why theirs fail. This Claude prompt tears apart your opening line by line, names the exact moment viewers leave, and rewrites the hook until it holds.",
+  "prompt": "Act as a ruthless retention analyst for short-form video. Here is my video's opening: [PASTE YOUR FIRST 15 SECONDS — the exact script or a transcript of what happens on screen, second by second]. Analyse it like this: (1) SECOND-BY-SECOND — for each of the first 5 seconds, say what the viewer sees, what they feel, and whether they stay or swipe. (2) THE SWIPE MOMENT — name the exact second most viewers leave and the exact reason (boring visual, slow start, no promise, confusing, no stakes). (3) THE MISSING PROMISE — what payoff should the viewer expect by second 3 that my opening never promises? (4) REWRITES — give me 5 new hooks for the SAME video: one that opens on the ending, one that asks a question, one that makes a bold claim, one that shows the most shocking frame first, one that starts mid-action. Each hook must be under 10 words and work with the footage I already have. (5) THE FIX — tell me the ONE change to make first, the one change that would add the most watch time for the least work.",
+  "howto": [
+    "Paste your real opening transcript into Claude — describe what is on screen second by second, not just the script.",
+    "Run the analysis on your 3 worst-performing videos first — patterns across 3 videos reveal your real habit.",
+    "Test the 5 rewritten hooks as 5 separate uploads of the same footage — the winner tells you your channel's hook style.",
+    "Apply the ONE fix Claude names before anything else — the highest-leverage change beats a full re-edit.",
+    "Re-run the analyzer on every new video's opening before you post — 2 minutes of analysis saves a dead upload."
+  ],
+  "tips": [
+    "If Claude can't find a swipe moment, your opening is probably fine — the problem is later in the video.",
+    "A hook that opens on the ending feels like cheating, but it is the highest-retention pattern on Shorts — test it first."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "claude",
+    "hooks",
+    "retention",
+    "growth"
+  ],
+  "trending": true,
+  "popularity": 90
 }
 ];
 
