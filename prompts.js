@@ -19047,6 +19047,96 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 92
+},
+{
+  "id": "niche-2026-11-25-ai-home-organization-declutter-reels",
+  "title": "AI Home Organization & Declutter Reels (Instagram Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Home Organization & Decluttering is the #3 faceless Instagram niche of 2026 (faceless.my) — and saves are one of Instagram's clearest distribution signals, so a Reel people save to copy later travels further than one they just like. A messy-to-tidy transformation is the most saveable format on Reels: one space, one reveal, one system to copy. Is niche ki videos 86.4M/64.2M/51.7M/38.9M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-home-organization-declutter-reels.jpg",
+  "prompt": "Viral Instagram Reels video, [DURATION: 15-30 seconds], vertical 9:16: one satisfying home organization transformation per Reel — [SPACE: pantry / closet / desk drawer / bathroom shelf], [SHOT 1 — THE MESS (first 2 seconds): the chaotic before — overflowing jars, tangled clothes, junk drawer — shot tight and colourful so the mess itself is watchable], [SHOT 2 — THE MAGIC: hands-only tidying in fast motion — colour-coded jars sliding into place, clothes folding themselves into rainbow rows, labels appearing — one smooth satisfying move per second], [SHOT 3 — THE REVEAL: the finished space held for 3 full seconds, golden light, everything in its place], [STYLE: bright, warm, saturated colours, crisp clean light, hands-only, no face, ASMR tidying sounds under a calm voiceover or trending audio], [ON-SCREEN TEXT: one line only — 'Pantry, but make it rainbow 🌈' style — the transformation is the caption], end with the space perfectly still, no watermark",
+  "howto": [
+    "Pick ONE space per Reel — one pantry, one drawer, one shelf — if the transformation needs two rooms, it is two Reels.",
+    "Shoot the mess first and the reveal last — the before/after gap IS the hook; open on the messiest 2 seconds you have, never on a tidy shelf.",
+    "End every Reel with the finished space held still for 3 seconds — that is the save moment: viewers save it to copy it later."
+  ],
+  "tips": [
+    "Hook rule: open on the mess, not the method — a chaotic drawer in the first frame stops the scroll; a tidy shelf never does.",
+    "Caption trick: name the exact system — 'The 5-minute pantry reset' — a named system gets saved; a pretty shelf just gets liked.",
+    "Series it: 'Declutter Day #7' numbering turns one Reel into a habit viewers follow — and a numbered series is a follow machine."
+  ],
+  "tags": [
+    "viral-niche",
+    "instagram",
+    "creator-niche",
+    "organization",
+    "declutter",
+    "reels"
+  ],
+  "trending": true,
+  "popularity": 92
+},
+{
+  "id": "niche-2026-11-25-ai-city-date-ideas-things-to-do",
+  "title": "AI City Date Ideas & Things To Do (TikTok Niche)",
+  "category": "Viral Niches",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Nobody is answering the exact question 230,976 people typed into TikTok search in one week — 'things to do in nyc with gf' had 230,976 searches in 7 days to 12 Nov 2026 with only 132 videos matched. A date plan is the most saveable content on TikTok because viewers genuinely plan to use it — and they send it to the person they want to take, so every view can become a second view for free. Is niche ki videos 18.6M/14.3M/11.2M/8.7M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-city-date-ideas-things-to-do.jpg",
+  "prompt": "Viral TikTok video, [DURATION: 30-60 seconds], vertical 9:16: one perfect date plan in [CITY] per video — [PLAN: rooftop cafe at sunset / hidden bookshop cafe / rowboat on the park lake / night food market crawl], [SHOT 1 — THE HOOK (first 2 seconds): the single most romantic frame — skyline glowing orange, fairy lights, steam rising from the food stall — with the plan's name on screen: 'The $20 date that feels like $200'], [SHOT 2 — THE PLAN: 3 stops in 3 shots — where to meet, what to order, where to walk after — one line of voiceover per stop, prices on screen], [SHOT 3 — THE MOMENT: the payoff image — the couple silhouetted against the skyline, the shared dessert, the last golden-hour shot], [STYLE: warm, dreamy, saturated golden-hour colours, cinematic slow push-ins, soft romantic music under a friendly voiceover], [ON-SCREEN TEXT: the 3 stops + the total cost, nothing else], end with 'Save this for your next date night', no watermark",
+  "howto": [
+    "Pick ONE city + ONE date plan per video — 'things to do in NYC with your girlfriend' beats 'date ideas' every time because TikTok search rewards the exact phrase people type.",
+    "Lead with the most romantic frame and the total cost — 'The $20 date that feels like $200' — price + romance is the hook; a generic sunset is not.",
+    "End with 'Save this for your next date night' — a date plan is the most saveable content on TikTok because the viewer genuinely plans to use it."
+  ],
+  "tips": [
+    "Hook rule: open on the payoff image — the skyline, the fairy lights — TikTok decides in the first scroll-past, so the prettiest frame goes first, not last.",
+    "Caption trick: ask 'Who are you taking here?' and tag your city — the comments become tag-a-friend chains, and tags are free reach.",
+    "Search lock: use the exact typed phrase in your title and caption — 'things to do in [city] with [gf/bf/friends]' — TikTok search matches typed words, and this phrase had 230,976 searches in 7 days with only 132 videos answering it."
+  ],
+  "tags": [
+    "viral-niche",
+    "tiktok",
+    "creator-niche",
+    "date-ideas",
+    "travel",
+    "city-guide"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "niche-2026-11-25-ai-two-minute-animated-short-films",
+  "title": "AI Two-Minute Animated Short Films (YouTube Niche)",
+  "category": "Viral Niches",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A 2.5-minute animated short from a channel with only ~2,600 subscribers hit ~315,000 views in 3 weeks — about 2,100x its usual (drawnfilms.com, 4 Nov 2026) — and a 10-minute 'What if you…' story from a channel under a month old passed 1M views in two days. A complete story in 2 minutes gives the brain what it craves most — closure — and the twist at 1:45 makes viewers rewatch and comment. Is niche ki videos 42.8M/31.6M/24.5M/18.2M views tak gayi hain.",
+  "image": "images/niches/niche-grid-ai-two-minute-animated-short-films.jpg",
+  "prompt": "Cinematic AI animated short film, [DURATION: 2-3 minutes], 16:9 for YouTube (9:16 cut for Shorts): ONE complete story with a beginning, a twist and a payoff — [STORY: a tiny robot and a girl on a rooftop / a paper boat sailing over a glowing city / an old lighthouse keeper and a giant whale / a little fox in a red scarf in the snow], [ACT 1 — THE WORLD (0:00-0:40): the hero and their small world, one visual detail that makes viewers care — the robot's blinking light, the fox's red scarf], [ACT 2 — THE PROBLEM (0:40-1:30): one obstacle, one choice — the boat is sinking, the lighthouse light is dying, the fox is lost — tension rising, music swelling], [ACT 3 — THE TWIST (1:30-2:00): the payoff nobody saw coming — the whale was the keeper's old friend, the robot was the girl's lost toy, the scarf was a gift], [STYLE: rich saturated cinematic 3D animation, warm golden light, expressive characters, no dialogue needed — music and faces tell the story], [NARRATION: none, or one calm line at the end — 'Some friends find you twice'], end on the final image held for 5 seconds, no watermark",
+  "howto": [
+    "Pick ONE story with ONE twist per film — a robot, a boat, a fox — if the story needs two twists, it is two films.",
+    "Give the hero one visual detail viewers remember — a red scarf, a blinking light — a detail is what makes a 2-minute character feel real.",
+    "End on the twist image held for 5 seconds — the final frame is the thumbnail, the comment bait and the rewatch trigger all at once."
+  ],
+  "tips": [
+    "Hook rule: open on the most emotional frame — the girl and the robot under the stars, the fox alone in the snow — YouTube decides retention in the first 10 seconds, so the feeling comes before the plot.",
+    "Title trick: 'The [HERO] Who [DID THE IMPOSSIBLE THING]' — 'The Robot Who Waited 100 Years' — a tiny hero + an impossible act is the click; the twist is the watch time.",
+    "Shorts cut: post the same film as a 60-second Shorts cut with the twist intact — the Shorts funnel feeds the long-form film, and one film becomes two uploads."
+  ],
+  "tags": [
+    "viral-niche",
+    "youtube",
+    "creator-niche",
+    "short-films",
+    "animation",
+    "storytelling"
+  ],
+  "trending": true,
+  "popularity": 90
 }
 ];
 
