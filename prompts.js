@@ -18747,6 +18747,306 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 91
+},
+{
+  "id": "last-video-rental-store-midnight-veo3",
+  "title": "The Last Video Rental Store at Midnight — Veo 3 Prompt for Faceless YouTube Nostalgia Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "One last video rental store, still open at midnight, its neon sign buzzing over rows of VHS tapes — nostalgia channels are YouTube's quietest goldmine, and this prompt turns a forgotten place into a story viewers can't scroll past.",
+  "prompt": "Cinematic video, 16:9, nostalgic film look with soft grain. The last video rental store on earth, open at midnight: a flickering neon sign that reads 'RENTALS' in pink and blue, rows of VHS tapes glowing under warm fluorescent light, a dusty popcorn machine humming in the corner. A lone customer in a denim jacket walks slowly down the aisle, running a finger along the spines, and pulls out a tape with a faded cover — the label reads 'THE LAST MOVIE'. Camera: slow dolly down the aisle, then a close-up of the tape sliding out of its case, dust motes dancing in the light beam. Warm amber and teal palette, gentle film grain, soft hum of the old fridge, a distant synthwave tune from a crackling speaker. Mood: wistful, cosy, a little magical. No dialogue, no text on screen except the neon sign.",
+  "howto": [
+    "Paste the prompt into Veo 3 and generate in 16:9 — the wide frame sells the long aisle.",
+    "Generate the aisle walk twice and keep the take where the neon sign flickers brightest — the flicker is the hook frame.",
+    "Add a soft synthwave track under it — nostalgia videos live or die on the music.",
+    "Cut the best 12 seconds as a Short, then post the full 30-second version as a long-form teaser.",
+    "Title it around the last-of-its-kind angle — 'The Last Video Store on Earth' beats a plain description."
+  ],
+  "tips": [
+    "One small action per clip — pulling the tape IS the story; don't add a second plot.",
+    "Warm neon against cool midnight blue is the contrast that stops thumbs — keep the palette two-tone."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "veo3",
+    "nostalgia",
+    "faceless",
+    "story"
+  ],
+  "trending": true,
+  "popularity": 89
+},
+{
+  "id": "tiny-sushi-chefs-dragon-roll-veo3",
+  "title": "Tiny Sushi Chefs Roll a Giant Dragon Roll — Veo 3 Prompt for Viral TikTok Food Niches",
+  "category": "Video Prompts",
+  "tool": "Veo 3",
+  "difficulty": "Beginner",
+  "desc": "Chefs the size of thimbles roll a sushi roll the size of a sofa — tiny-world food videos are TikTok's most saveable format, and this dragon roll gives the format a show-stopping centrepiece.",
+  "prompt": "Playful vertical video, 9:16, miniature world style, ultra detailed. On a giant bamboo sushi mat, three tiny sushi chefs in white hats and aprons roll an enormous dragon roll together: one chef the size of a thumb spreads glistening rice with a tiny spatula, another places slices of bright orange salmon in a perfect row, and the third — standing on a stool — drizzles golden sauce in a zigzag while a tiny avocado dragon sculpture watches from the side. Steam curls up, soy sauce glistens in a tiny dish, chopsticks the size of pencils lean against a ginger mountain. Camera: slow push-in from a wide shot of the whole mat to a close-up of the sauce drizzle, then a top-down shot of the finished roll being sliced. Bright fresh colours, warm kitchen light, soft depth of field, gentle sizzle and chopping sounds. Mood: delightful, mouth-watering, magical. No dialogue, no text on screen.",
+  "howto": [
+    "Paste the prompt into Veo 3 and generate in 9:16 — the vertical frame is what food viewers scroll into.",
+    "Generate the sauce drizzle twice and keep the take where the zigzag is cleanest — the drizzle is the money shot.",
+    "Add soft kitchen ambience and a gentle sizzle track — tiny-world food videos live or die on sound.",
+    "Cut the best 8 seconds as the Short, then loop the full 30 seconds for a second upload the next day.",
+    "Title it around the scale, not the food — 'The Smallest Chefs, The Biggest Sushi Roll' beats a plain description."
+  ],
+  "tips": [
+    "One chef, one job per beat — three small actions land harder than one big one.",
+    "Bright salmon orange against dark green seaweed is the contrast that stops thumbs — keep the palette fresh."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "veo3",
+    "tiny-world",
+    "food",
+    "story"
+  ],
+  "trending": true,
+  "popularity": 91
+},
+{
+  "id": "grumpy-octopus-bookshop-kling",
+  "title": "A Grumpy Octopus Runs a Tiny Bookshop — Kling Prompt for Viral TikTok Comedy Niches",
+  "category": "Video Prompts",
+  "tool": "Kling",
+  "difficulty": "Beginner",
+  "desc": "Eight arms, zero patience, and a bookshop full of customers who keep asking for recommendations — grumpy-animal comedy is TikTok's most reliable laugh format, and an octopus bookseller gives it eight times the jokes.",
+  "prompt": "Playful vertical video, 9:16, Pixar-style 3D animation. Inside a cosy bookshop with warm wooden shelves, a grumpy purple octopus in tiny round glasses runs the till: two arms count coins, two arms stamp books, two arms shelve novels, one arm holds a steaming cup of tea, and the last arm slowly pushes a customer's phone off the counter while staring at them. A tiny bell dings as a reader walks in, the octopus sighs, and all eight arms freeze mid-task. Sunlight through the shop window, dust motes in the light, a chalkboard that reads 'NO TALKING. READING ONLY.' in cute letters. Camera: quick cuts between the arms at work, ending on a close-up of the octopus's unimpressed face. Bright warm colours, soft depth of field, gentle page-turning sounds. Mood: charming, funny, heart-melting. No dialogue, no text on screen except the chalkboard.",
+  "howto": [
+    "Generate in Kling at 9:16 and ask for the eight-arm sequence — one arm per beat keeps the joke clear.",
+    "Keep the phone-push as the final shot — the last 2 seconds are what viewers comment on.",
+    "Add soft page-turning ambience and a tiny bell ding — the sound makes the scene feel real.",
+    "Post as a 3-part series: the till, the shelves, the phone — each part earns its own comments.",
+    "Pin a comment asking 'Which arm would you hire?' — replies push the video to new viewers."
+  ],
+  "tips": [
+    "One visual gag per arm — eight small jokes land harder than one big one.",
+    "The grumpy face is the star — give the funniest job to the funniest expression."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "kling",
+    "comedy",
+    "animals",
+    "story"
+  ],
+  "trending": true,
+  "popularity": 90
+},
+{
+  "id": "house-grows-new-room-winter-sora",
+  "title": "The House That Grows a New Room Every Winter — Sora Prompt for Faceless YouTube Mystery Niches",
+  "category": "Video Prompts",
+  "tool": "Sora",
+  "difficulty": "Intermediate",
+  "desc": "Every winter, the old house on the hill grows one more room — a mystery hook that turns a single Sora clip into a series viewers have to follow, and mystery series are the fastest way a faceless channel builds returning viewers.",
+  "prompt": "Cinematic video, 16:9, moody winter mystery. A lonely two-storey house on a snowy hill at dusk, warm light in every window, smoke curling from the chimney. Snow falls in slow spirals. The camera drifts closer — and a new room is growing out of the side of the house like a branch: wooden walls sliding into place, a window blooming open, a tiny balcony unfolding, a warm lamp flickering on inside as if the house is welcoming someone home. Inside the new room, a rocking chair rocks by itself, a kettle steams on a stove, a bookshelf fills itself one book at a time. Camera: slow aerial orbit around the house, then a push through the new window into the warm room. Deep blue snow tones against golden window light, soft snowfall sound, a distant music-box melody. Mood: eerie, cosy, impossible. No dialogue, no text on screen.",
+  "howto": [
+    "Paste the prompt into Sora and generate in 16:9 — the wide frame sells the lonely hill.",
+    "Generate the room-growth twice and keep the take where the window blooms open last — the bloom is the reveal.",
+    "Add a soft music-box melody under it — mystery videos live or die on the sound.",
+    "Post as episode one of a series: 'Room 1' this week, 'Room 2' next week — the series is the follow machine.",
+    "Title it as a question — 'Why Does This House Grow a Room Every Winter?' beats a plain description."
+  ],
+  "tips": [
+    "One impossible event per clip — the growing room IS the story; don't add a second mystery.",
+    "Warm window light against cold blue snow is the contrast that stops thumbs — keep the palette two-tone."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "sora",
+    "mystery",
+    "faceless",
+    "series"
+  ],
+  "trending": false,
+  "popularity": 84
+},
+{
+  "id": "felt-world-stop-motion-friends-runway",
+  "title": "Felt-World Stop-Motion Friends — Runway Prompt for Cozy Instagram Reels Niches",
+  "category": "Video Prompts",
+  "tool": "Runway",
+  "difficulty": "Beginner",
+  "desc": "A whole village sewn from felt — soft stitched animals, wobbly felt trees, a wool sun that bobs on a string — handmade stop-motion is Instagram's cosiest aesthetic, and this prompt gives it a world viewers want to move into.",
+  "prompt": "Charming stop-motion style video, 9:16, handmade felt world. A tiny felt fox with a stitched smile and a button nose walks through a village sewn entirely from coloured felt: lumpy felt cottages with yarn chimneys, a felt oak tree with pom-pom leaves, a wool sun bobbing gently on a string overhead. The fox stops at a felt bakery, where a stitched hedgehog hands over a tiny felt loaf, and the two friends share it on a checkered picnic blanket while a felt bird with a yarn tail sings from the tree. Camera: gentle handheld wobble like real stop-motion, quick cuts between the fox, the bakery and the picnic, ending on a close-up of the two friends sharing the loaf. Soft pastel colours, warm afternoon light, visible stitching and fabric texture, gentle folk guitar. Mood: warm, handmade, heart-melting. No dialogue, no text on screen.",
+  "howto": [
+    "Paste the prompt into Runway and generate in 9:16 — the vertical frame is what Reels viewers scroll into.",
+    "Generate the picnic twice and keep the take where the felt bird sings — the bird is the charm shot.",
+    "Add a soft folk guitar track — handmade videos live or die on the music.",
+    "Post as a series with the same two friends — 'Felt Friends #1' numbering turns viewers into followers.",
+    "Pin a comment asking 'Who should the fox visit next?' — replies become your next episode ideas."
+  ],
+  "tips": [
+    "Keep the stitching visible — the handmade texture IS the aesthetic; don't smooth it away.",
+    "Two friends, one small kindness — a tiny story lands harder than a big adventure."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "runway",
+    "stop-motion",
+    "cozy",
+    "reels"
+  ],
+  "trending": false,
+  "popularity": 82
+},
+{
+  "id": "popping-boba-tea-macro-flow",
+  "title": "Popping Boba Tea Macro — Google Flow Prompt for Satisfying TikTok Niches",
+  "category": "Video Prompts",
+  "tool": "Google Flow",
+  "difficulty": "Beginner",
+  "desc": "A single boba pearl, popping in slow motion, its syrup bursting like a tiny firework — satisfying macro videos are TikTok's most rewatchable format, and this one turns a bubble tea into a 10-second loop nobody can look away from.",
+  "prompt": "Hypnotic macro video, 9:16, extreme close-up. A tall glass of milky bubble tea, condensation beading on the glass, a fat straw diving in. One glossy brown boba pearl is lifted on the straw and pops in slow motion — its syrup bursting outward in a golden starburst, droplets catching the light like tiny jewels, the milky tea swirling around it in slow ribbons. More pearls rise and pop in rhythm, each burst a little firework, the tea turning into a swirling galaxy of gold and cream. Camera: locked macro shot, then a slow pull-back to reveal the whole glass glowing in warm light. Rich amber and cream palette, crisp detail on every droplet, soft popping sounds in rhythm with a gentle lo-fi beat. Mood: satisfying, dreamy, delicious. No dialogue, no text on screen.",
+  "howto": [
+    "Paste the prompt into Google Flow and generate in 9:16 — the vertical macro frame is what TikTok viewers loop.",
+    "Generate the pop twice and keep the take where the starburst is sharpest — the burst is the money shot.",
+    "Add soft popping sounds in rhythm with a lo-fi beat — satisfying videos live or die on the sound.",
+    "Loop the best 6 seconds seamlessly — a perfect loop doubles the watch time.",
+    "Title it around the pop, not the drink — 'The Most Satisfying Pop on TikTok' beats a plain description."
+  ],
+  "tips": [
+    "One pop per beat — let each burst breathe before the next one.",
+    "Golden syrup against milky cream is the contrast that stops thumbs — keep the palette rich and warm."
+  ],
+  "tags": [
+    "creator-niche",
+    "tiktok",
+    "google-flow",
+    "satisfying",
+    "macro",
+    "food"
+  ],
+  "trending": true,
+  "popularity": 88
+},
+{
+  "id": "mountain-observatory-illustration-midjourney",
+  "title": "Dreamy Mountain Observatory Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+  "category": "Image Prompts",
+  "tool": "Midjourney",
+  "difficulty": "Beginner",
+  "desc": "A little observatory on a mountain peak, its dome open to a sky full of stars — dreamy illustrated art packs are the most saveable posts on Instagram and Facebook, and this one gives art pages a whole series in a single prompt.",
+  "prompt": "Dreamy storybook illustration, a tiny observatory with a copper dome perched on a snowy mountain peak above the clouds, its telescope pointing at a swirling galaxy of stars, a little astronomer in a red scarf standing on the balcony waving at a shooting star, warm golden light spilling from the observatory windows onto the snow, deep indigo night sky, soft watercolour texture, gentle glow, whimsical, highly detailed, storybook style --ar 4:5 --v 6 --style raw",
+  "howto": [
+    "Paste the prompt into Midjourney and generate in 4:5 — the portrait frame fills the feed.",
+    "Generate four variations, then re-roll the dome, the astronomer, the sky and the snow as separate images — one pack, four posts.",
+    "Upscale the best one and add a soft vignette — the glow is what gets the image saved.",
+    "Post one image a day for four days with a one-line caption about stargazing — the series builds the page.",
+    "Pin a comment asking 'What would you look at first through this telescope?' — replies push the post to new viewers."
+  ],
+  "tips": [
+    "Keep the astronomer's red scarf in every image — one repeating detail makes the pack feel like a series.",
+    "Warm window light against deep indigo sky is the contrast that stops thumbs — keep the palette two-tone."
+  ],
+  "tags": [
+    "creator-niche",
+    "instagram",
+    "facebook",
+    "midjourney",
+    "illustration",
+    "art"
+  ],
+  "trending": false,
+  "popularity": 80
+},
+{
+  "id": "faceless-channel-launch-checklist-chatgpt",
+  "title": "Faceless Channel Launch Checklist — ChatGPT Prompt to Plan Your First 30 Videos in One Sitting",
+  "category": "Text Prompts",
+  "tool": "ChatGPT",
+  "difficulty": "Intermediate",
+  "desc": "Most faceless channels die at video 7 because nobody planned past video 3 — this prompt turns ChatGPT into your launch producer, mapping your first 30 videos, your posting rhythm and your first milestone before you ever hit record.",
+  "prompt": "You are a faceless-channel launch producer who has launched 50+ profitable channels. I want to start a faceless channel in the niche [YOUR NICHE, e.g. 'tiny-world food videos for TikTok'] on the platform [PLATFORM, e.g. 'YouTube Shorts']. My tools are [YOUR TOOLS, e.g. 'Veo 3 and CapCut'], I can post [POSTING FREQUENCY, e.g. '3 videos a week'], and I have [TIME PER WEEK, e.g. '10 hours']. Give me: (1) a 30-video launch checklist, each video with a working title, a one-line hook, and the exact AI tool to make it — grouped into 6 five-video series so viewers binge; (2) a posting calendar for the first 30 days with the best time to post on my platform; (3) the 5 numbers I must track every week and the target for each at day 30; (4) the 3 mistakes that kill faceless channels in the first month and how to avoid each one; (5) my first milestone — the exact subscriber and view count that tells me the channel is working, and what to do on the day I hit it. Keep every title under 10 words and every hook under 15 words.",
+  "howto": [
+    "Open ChatGPT and paste the prompt, filling in your niche, platform, tools, frequency and weekly hours first.",
+    "Read the 30-video list and delete any title you would not click yourself — a launch list only works if every title earns its place.",
+    "Copy the 6 series into a spreadsheet, one series per tab, and schedule the first series before making video 1.",
+    "Re-run the prompt monthly with your real numbers filled in — the checklist gets smarter as your channel grows.",
+    "Share the milestone section with a creator friend — accountability doubles the chance you hit day 30."
+  ],
+  "tips": [
+    "Series beat singles — 6 five-video series turn 30 uploads into 6 bingeable stories, and bingeing is what the algorithm rewards.",
+    "Your first milestone is a decision point, not a celebration — know in advance what you will do the day you hit it."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "chatgpt",
+    "faceless",
+    "launch"
+  ],
+  "trending": true,
+  "popularity": 93
+},
+{
+  "id": "shorts-series-naming-machine-gemini",
+  "title": "Shorts Series Naming Machine — Gemini Prompt to Name Your Series So Viewers Come Back for Episode 2",
+  "category": "Text Prompts",
+  "tool": "Gemini",
+  "difficulty": "Beginner",
+  "desc": "Nobody comes back for 'Part 2' — they come back for a series name they can remember and search. This prompt turns Gemini into your series-naming machine, giving you names that make episode 1 a promise and episode 10 a habit.",
+  "prompt": "You are a YouTube and TikTok series-naming expert who has named 200+ viral Shorts series. My channel is about [YOUR NICHE, e.g. 'tiny-world food videos'], my format is [FORMAT, e.g. '30-second miniature cooking videos'], and my audience is [AUDIENCE, e.g. 'cozy-food lovers aged 18-35']. Give me: (1) 15 series names, each 2-4 words, each with a one-line reason it makes viewers return — at least 5 must include a number or a day ('Day 12', '#7') so viewers can follow along; (2) for my favourite 3 names, write the exact on-screen title card text for episode 1, episode 5 and episode 10 so the numbering builds anticipation; (3) the 5 naming mistakes that make a series forgettable, with a bad example and a fixed version for each; (4) a 10-episode arc for my best name — one sentence per episode showing how the story escalates so viewers must see the next one. Every name must work spoken aloud in under 3 seconds.",
+  "howto": [
+    "Open Gemini and paste the prompt, filling in your niche, format and audience first.",
+    "Say the 15 names out loud and keep only the ones you can remember after one hearing — a series name lives in the viewer's memory, not on the screen.",
+    "Test your favourite 3 names as video titles for one week each — the name with the best returning-viewer rate wins.",
+    "Lock the winner into your title cards and your bio — the same name everywhere is what turns viewers into subscribers.",
+    "Re-run the prompt when you start a second series — one channel can run 2-3 named series at once."
+  ],
+  "tips": [
+    "A number in the name is a free follow — 'Day 12' makes a new viewer hunt for Day 1.",
+    "Name the series, not the video — 'The Tiny Kitchen' outlives any single recipe and carries the whole channel."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "tiktok",
+    "gemini",
+    "shorts",
+    "series"
+  ],
+  "trending": false,
+  "popularity": 86
+},
+{
+  "id": "channel-growth-audit-claude",
+  "title": "Channel Growth Audit — Claude Prompt to Diagnose Why Your Channel Stopped Growing",
+  "category": "Text Prompts",
+  "tool": "Claude",
+  "difficulty": "Advanced",
+  "desc": "Views flat, subs stalled, and you have no idea why — this prompt turns Claude into your channel doctor, reading your last 30 videos like a medical chart and prescribing the exact fix instead of another generic 'post more' tip.",
+  "prompt": "You are a YouTube and TikTok growth consultant who has revived 100+ stalled channels. Here is my channel: niche [YOUR NICHE], platform [PLATFORM], [SUBSCRIBER COUNT] subscribers, posting [FREQUENCY]. My last 30 videos: [PASTE YOUR TITLES + VIEWS + PUBLISH DATES, e.g. 'Tiny Sushi Chefs — 12K views — Nov 3' — one line per video]. My best video ever got [BEST VIEW COUNT] views, my worst recent video got [WORST VIEW COUNT]. Diagnose me like a doctor: (1) the ONE bottleneck most likely choking my growth — hook, title, thumbnail, topic, consistency or audience mismatch — with the evidence from my own numbers; (2) the 3 videos in my list that prove the diagnosis, and the 3 that contradict it; (3) a 14-day prescription — exactly what to change, in what order, with the metric that tells me each change worked; (4) the 5 titles I should make next, each fixing the bottleneck; (5) the one thing I must STOP doing this week, even if it feels productive. Be brutally honest — no generic advice, every claim tied to a number I gave you.",
+  "howto": [
+    "Open Claude and paste the prompt, filling in your niche, platform, subs, frequency and your last 30 videos first.",
+    "Be honest with the numbers — a wrong view count gives you a wrong diagnosis.",
+    "Read the bottleneck first and argue with it — if you disagree, ask Claude to prove it from your data before you act.",
+    "Run the 14-day prescription exactly as written — changing the order changes the result.",
+    "Re-run the audit every 30 days with fresh numbers — a channel that audits monthly never stalls for long."
+  ],
+  "tips": [
+    "One bottleneck, not five — a channel with five problems usually has one problem wearing five disguises.",
+    "Your worst video is the diagnosis — the video that flopped tells you more than the one that went viral."
+  ],
+  "tags": [
+    "creator-niche",
+    "youtube",
+    "claude",
+    "growth",
+    "audit",
+    "strategy"
+  ],
+  "trending": true,
+  "popularity": 92
 }
 ];
 
