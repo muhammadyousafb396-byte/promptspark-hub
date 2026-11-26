@@ -19367,7 +19367,98 @@ const PROMPTS = [
     "tags": ["creator-niche", "claude", "strategy", "youtube", "instagram"],
     "trending": true,
     "popularity": 88
-  }
+  },
+  {
+    "id": "niche-2026-11-26-ai-grandma-lost-recipes",
+    "title": "AI Grandma's Lost Recipes (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Grandma's lost recipes are the most shareable cooking content on Facebook — a grandma BBQ drumsticks video passed 60M views, Italian nonnas in their 80s pull millions per video, and Grandma Sherry's bannock hit 1.3M+ views on her way to her own TV show. The recipe card is the hook and the grandchild filming is the heart — viewers comment 'my grandma made that' before they even finish watching. Is niche ki videos 60.4M/48.2M/37.6M/29.1M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-grandma-lost-recipes.jpg",
+    "prompt": "Viral Facebook Reels video, [DURATION: 30-60 seconds], vertical 9:16: one lost family recipe per Reel — [RECIPE: grandma's poppy seed chicken casserole / the bannock she made every Sunday / slow-cooked pork roast from the handwritten card / BBQ drumsticks on the old grill], [SHOT 1 — THE CARD (first 2 seconds): the weathered handwritten recipe card fills the frame, faded ink, a coffee stain — 'Recipe from 1962' on screen], [SHOT 2 — THE HANDS: grandma's hands cooking, grandchild filming — flour dusting, the pot bubbling, the secret ingredient added with a wink], [SHOT 3 — THE TASTE: the first bite, the grandchild's eyes widening, the whole family reaching in], [STYLE: warm golden-hour kitchen light, saturated homely colours, gentle handheld feel, soft acoustic music under warm voiceover], [ON-SCREEN TEXT: the recipe name + 'My grandma made this' — nothing else], end with the recipe card held up to camera, no watermark",
+    "howto": [
+      "Pick ONE handwritten recipe per Reel — one card, one dish, one story; if the recipe needs two dishes, it is two Reels.",
+      "Open on the recipe card itself, not the cooking — the faded handwriting IS the hook; viewers stop to read a card from 1962.",
+      "Film the grandchild's reaction to the first bite last — the taste face is the payoff, and the recipe card held up at the end is the save moment."
+    ],
+    "tips": [
+      "Hook rule: the recipe card fills the first frame — a weathered handwritten card stops the scroll; a pot on a stove never does.",
+      "Caption trick: ask 'Did your grandma make this too?' — it turns every comment into a memory, and memory comments are the longest threads on Facebook.",
+      "Series it: 'Grandma's Lost Recipes #12' numbering turns one Reel into a family archive viewers follow — and the card at the end of every Reel is the reason to save it."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "grandma-recipes",
+      "cooking",
+      "family"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-2026-11-26-ai-macro-what-if-reels",
+    "title": "AI Macro What-If Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Zack D. Films proved the format — macro what-ifs turn one impossible scale fact into a Reel you cannot scroll past: a grain of sand as a universe, a drop of water as an ocean. The macro reference post hit 11.1M Instagram views (medium.com, Nov 2026), and the format's power is the brain's scale shock — you have to watch to the end to believe the size. Is niche ki videos 11.1M/8.4M/6.7M/4.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-macro-what-if-reels.jpg",
+    "prompt": "Viral Instagram Reel, [DURATION: 15-30 seconds], vertical 9:16: one impossible scale fact per Reel — [FACT: a grain of sand contains a whole universe / a single water drop is an ocean / a bee the size of a building / a coin the size of a skyscraper], [SHOT 1 — THE HOOK (first 2 seconds): the impossible object filling the frame — the giant bee over the city street, the coin towering over the square — with the fact as one line of text: 'What if a grain of sand was a universe?'], [SHOT 2 — THE SCALE: slow zoom out revealing the tiny human next to the giant object — the comparison IS the video], [SHOT 3 — THE PAYOFF: the mind-blowing number on screen — 'A teaspoon of neutron star weighs a billion tons' style], [STYLE: hyper-detailed macro cinematic, dramatic light, saturated colours, slow cinematic push-ins, deep ambient sound], [ON-SCREEN TEXT: the fact + the number, nothing else], end with the object held in frame for 3 seconds, no watermark",
+    "howto": [
+      "Pick ONE impossible scale fact per Reel — one object, one comparison; if the fact needs two objects, it is two Reels.",
+      "Open on the impossible object filling the frame — the giant bee, the skyscraper coin — scale shock in the first 2 seconds is the whole hook.",
+      "End with the mind-blowing number held on screen for 3 seconds — that is the save moment: viewers save facts they want to repeat at dinner."
+    ],
+    "tips": [
+      "Hook rule: the comparison IS the video — always put a tiny human next to the giant object in shot 2; without the human, there is no scale, and without scale, there is no shock.",
+      "Caption trick: ask 'What should be giant next?' — the comments become a request list, and every request is your next Reel already written.",
+      "Series it: 'What If Wednesdays' — one macro what-if a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "what-if",
+      "macro",
+      "science"
+    ],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "niche-2026-11-26-ai-50-dollar-day-travel-challenge",
+    "title": "AI $50-a-Day Travel Challenge (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Budget breakdowns are the highest-view travel format on TikTok — #TravelTok has 200B+ views, and the '$50 around the world' Reel proved the formula: a Norway burger + taxi eats the whole $50, while in Vietnam the same $50 buys a motorbike, a massage, a seafood feast and coffee. The top '$50 for 24 hours' photo slideshow hit 5.8M plays. Price is the hook and the contrast is the comment bait — 'which country next?' Is niche ki videos 5.8M/4.2M/3.1M/2.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-50-dollar-day-travel-challenge.jpg",
+    "prompt": "Viral TikTok video, [DURATION: 30-60 seconds], vertical 9:16: one city, one $50, one day — [CITY: Tokyo / Seoul / Bangkok / Vietnam / Jakarta / Lisbon], [SHOT 1 — THE HOOK (first 2 seconds): the $50 bill on screen with the city glowing behind it — 'What does $50 actually buy in [CITY] for 24 hours?'], [SHOT 2 — THE SPEND: every purchase in order — breakfast, transport, one experience, dinner — price popping on screen with each item, running total ticking down], [SHOT 3 — THE VERDICT: the final frame — what is left over, or what ran out first — the cheap-city feast vs the expensive-city burger], [STYLE: bright, fast, saturated travel colours, quick cuts, upbeat music, energetic voiceover], [ON-SCREEN TEXT: each price + the running total, nothing else], end with 'Which country next? Comment it', no watermark",
+    "howto": [
+      "Pick ONE city + ONE $50 per video — 'What does $50 buy in Tokyo for 24 hours?' beats 'budget travel' every time because TikTok search rewards the exact phrase people type.",
+      "Show every price on screen with a running total ticking down — the countdown IS the tension; viewers stay to see if the money survives the day.",
+      "End with 'Which country next? Comment it' — the comments become your travel schedule, and every suggestion is a viewer who will come back to see their city."
+    ],
+    "tips": [
+      "Hook rule: the $50 bill + the city in the first frame — price + place is the click; a pretty skyline alone is not.",
+      "Caption trick: post the cheap city and the expensive city back to back — the contrast doubles the comments ('No way Vietnam is that cheap'), and contrast comments are free reach.",
+      "Search lock: use the exact typed phrase in your title and caption — 'things to do in [city]' / '$50 a day in [city]' — TikTok search matches typed words, and travel budget searches run into the hundreds of thousands per week."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "travel",
+      "budget-travel",
+      "challenge"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+
 ];
 
 if (typeof module !== "undefined") {
