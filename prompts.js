@@ -19137,7 +19137,237 @@ const PROMPTS = [
   ],
   "trending": true,
   "popularity": 90
-}
+},
+  {
+    "id": "giant-manta-ray-rooftop-city-veo3",
+    "title": "Giant Manta Ray Glides Over a Rooftop City — Veo 3 Prompt for Viral TikTok Fantasy Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A colossal manta ray swims slowly through the sky above a glowing rooftop city, its wings casting soft shadows over tiny lit windows — the impossible-scale fantasy clip that stops TikTok scrollers cold.",
+    "prompt": "Cinematic video of a giant manta ray gliding gracefully through the evening sky above a dense rooftop city, its enormous wings moving in slow, dreamlike waves, tiny glowing windows and rooftop gardens passing below, strings of warm fairy lights along the rooftops, a few birds scattering as the ray's shadow sweeps over them, deep blue twilight sky with soft pink clouds, the ray's belly catching the last golden sunlight, camera tracking smoothly alongside it in one long shot, awe and wonder mood, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the slow wing movement and the rooftop detail.",
+      "Set aspect ratio to 9:16 for TikTok and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one where the ray's wings move most smoothly.",
+      "Post with a caption like 'POV: the sky has an ocean now' and a fantasy-niche hashtag set."
+    ],
+    "tips": [
+      "Impossible scale is the hook — the bigger the creature and the smaller the city, the longer people watch.",
+      "Swap the manta ray for a whale, a turtle or a jellyfish to spin the same format into a series."
+    ],
+    "tags": ["creator-niche", "veo3", "fantasy", "tiktok", "viral-video"],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "firefly-lantern-parade-rice-terrace-veo3",
+    "title": "Firefly Lantern Parade Over a Rice Terrace — Veo 3 Prompt for Faceless YouTube Shorts Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Thousands of glowing fireflies rise like a lantern parade over flooded rice terraces at dusk, their light rippling in the water — a calm, magical Shorts scene built for faceless nature channels.",
+    "prompt": "Cinematic video of thousands of golden fireflies rising in a slow glowing parade over flooded rice terraces at dusk, their light reflecting and rippling in the mirror-still water between the terraces, a lone farmer's lantern glowing warm on a narrow path, mist drifting low over the fields, deep teal sky fading to amber at the horizon, fireflies drifting upward in gentle waves like floating lanterns, camera gliding forward low over the water in one smooth move, peaceful magical mood, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the firefly reflections in the water.",
+      "Set aspect ratio to 9:16 for YouTube Shorts and duration to 8 seconds.",
+      "Generate 2-3 variations and pick the one with the strongest glow on the water.",
+      "Add soft ambient music and post as part of a calm-nature Shorts series."
+    ],
+    "tips": [
+      "The reflection doubles the magic — always ask for water, glass or wet stone under glowing subjects.",
+      "Post at dusk in your audience's timezone; calm nature clips perform best in evening scrolls."
+    ],
+    "tags": ["creator-niche", "veo3", "nature", "youtube", "shorts"],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "grumpy-badger-dumpling-stall-kling",
+    "title": "Grumpy Badger Runs a Tiny Dumpling Stall — Kling Prompt for Viral TikTok Comedy Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "A grumpy badger in a tiny apron runs a steaming dumpling stall, glaring at customers while folding dumplings at lightning speed — the next episode of the grumpy-animal comedy format that owns TikTok.",
+    "prompt": "Funny cinematic video of a grumpy badger wearing a tiny white apron and chef's hat, running a tiny dumpling stall in a night market, steam rising from bamboo baskets, the badger folding dumplings at lightning speed with tiny paws while glaring suspiciously at a long queue of eager animal customers, a mouse customer nervously holding coins, warm lantern light, colorful market stalls in the background, camera slowly pushing in on the badger's unimpressed face, comedic timing, expressive animal face, photorealistic, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Kling and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the badger's glare and the dumpling-folding speed.",
+      "Set aspect ratio to 9:16 for TikTok and duration to 5-10 seconds.",
+      "Generate 2-3 variations and keep the one with the funniest badger expression.",
+      "Caption it like a grumpy shopkeeper and ask viewers what the badger should sell next."
+    ],
+    "tips": [
+      "The grumpy face IS the brand — every grumpy-animal episode should open on the glare, not the stall.",
+      "Keep the queue of animals different each episode so viewers spot new characters and comment."
+    ],
+    "tags": ["creator-niche", "kling", "comedy", "tiktok", "animals"],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "apartment-windows-every-story-sora",
+    "title": "The Apartment Building Where Every Window Tells a Story — Sora Prompt for Faceless YouTube Story Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "One apartment building at night, every window glowing with a different tiny life — a chef, a dancer, a painter, a stargazer — a faceless story format that turns one building into a hundred videos.",
+    "prompt": "Cinematic video of a tall old apartment building at night seen from across the street, every window glowing warm with a different tiny scene inside: one window shows a chef tossing a pan, another a dancer spinning, another a painter at an easel, another an old man with a telescope on the roof, rain lightly falling, street lamp glow on wet pavement, a cat watching from a ground-floor window, camera slowly rising up the building facade in one smooth move, each window a small story, cozy mysterious mood, photorealistic, ultra detailed, 16:9, no text, no watermark",
+    "howto": [
+      "Open Sora and start a new text-to-video generation.",
+      "Paste the full prompt above — keep at least four different window scenes.",
+      "Set aspect ratio to 16:9 for YouTube and duration to 10 seconds.",
+      "Generate 2-3 variations and keep the one where the window scenes read most clearly.",
+      "Turn each window into its own follow-up video and link them as a series playlist."
+    ],
+    "tips": [
+      "One building, endless episodes — viewers return to see which window opens next.",
+      "Name the building in your channel lore so fans feel they live there too."
+    ],
+    "tags": ["creator-niche", "sora", "storytelling", "youtube", "faceless"],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "paper-dinosaur-pop-up-theatre-runway",
+    "title": "Paper Dinosaur Pop-Up Theatre Comes Alive — Runway Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "A paper theatre book opens and tiny paper dinosaurs step out, stomping across the page as paper trees pop up around them — a handmade stop-motion style loop that owns Instagram art Reels.",
+    "prompt": "Playful video of an open pop-up theatre book on a wooden table, a tiny paper T-Rex unfolding itself from the page and stomping across a paper jungle as paper ferns and volcanoes pop up around it, a paper pterodactyl flapping across the top of the frame, warm desk-lamp light, soft paper shadows, a child's hand turning the page at the end to reveal a new paper scene, camera locked in a gentle top-down view with a slow push-in, charming handmade craft mood, crisp paper texture, ultra detailed, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Runway and start a new text-to-video generation.",
+      "Paste the full prompt above — keep the pop-up motion and the paper texture.",
+      "Set aspect ratio to 9:16 for Instagram Reels and duration to 5-10 seconds.",
+      "Generate 2-3 variations and keep the one where the T-Rex unfolds most cleanly.",
+      "Post as the first act of a paper-theatre series and ask viewers which dinosaur stars next."
+    ],
+    "tips": [
+      "Paper texture sells the craft — ask for crisp edges and soft shadows in every paper prompt.",
+      "The page-turn at the end is your loop hook: end where the next scene begins."
+    ],
+    "tags": ["creator-niche", "runway", "art", "instagram", "reels"],
+    "trending": false,
+    "popularity": 84
+  },
+  {
+    "id": "molten-glass-seahorse-flow",
+    "title": "Molten Glass Seahorse Sculpting Macro — Google Flow Prompt for Satisfying Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A glowing blob of molten glass is sculpted into a delicate seahorse, curling tail and all, in one hypnotic macro shot — the satisfying-craft format Facebook Reels viewers watch to the last second.",
+    "prompt": "Hypnotic macro video of a master glassblower sculpting a glowing orange blob of molten glass into a delicate seahorse, the glass curling into a perfect spiral tail, tiny fins taking shape with a flick of the tools, sparks of light dancing in the dark workshop, the seahorse cooling from bright orange to deep teal blue as it hardens, camera locked in tight macro with a slow orbit around the sculpture, deeply satisfying craft mood, ultra detailed glass texture, vertical 9:16, no text, no watermark",
+    "howto": [
+      "Open Google Flow and start a new video generation.",
+      "Paste the full prompt above — keep the colour change from orange to teal.",
+      "Set aspect ratio to 9:16 for Facebook Reels and duration to 8 seconds.",
+      "Generate 2-3 variations and keep the one with the clearest seahorse shape.",
+      "Post with a caption asking what animal the glassblower should sculpt next."
+    ],
+    "tips": [
+      "The colour change is the payoff — always give a satisfying clip a visible transformation.",
+      "One animal per video turns a single craft prompt into a 30-part series."
+    ],
+    "tags": ["creator-niche", "google-flow", "satisfying", "facebook", "reels"],
+    "trending": false,
+    "popularity": 85
+  },
+  {
+    "id": "floating-bookshop-illustration-midjourney",
+    "title": "Dreamy Floating Bookshop Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "A tiny bookshop floating on a cloud, windows glowing, books flying out like birds — a dreamy illustration pack for cozy art pages that turns one prompt into a week of posts.",
+    "prompt": "Dreamy storybook illustration of a tiny floating bookshop drifting on a soft pink cloud at sunset, warm golden windows glowing, books flying out of the door like a flock of birds, a small ladder hanging down to a tiny garden below, stars beginning to appear in a lavender sky, a cat asleep on the cloud's edge, whimsical cozy fantasy style, soft painterly texture, rich warm colors, ultra detailed, 4:5 portrait composition, no text, no watermark --ar 4:5 --v 6.1",
+    "howto": [
+      "Open Midjourney and start a new image generation.",
+      "Paste the full prompt above, keeping the --ar 4:5 flag for portrait posts.",
+      "Generate 4 variations and pick the one with the warmest glowing windows.",
+      "Upscale your favourite and post it as a carousel cover, then vary the shop for a series.",
+      "Reuse the pack across Instagram and Facebook with different captions per platform."
+    ],
+    "tips": [
+      "Change only the shop's theme — bakery, flower shop, toy shop — and one prompt becomes ten posts.",
+      "Golden windows are the warmth cue: keep them in every variation or the image goes cold."
+    ],
+    "tags": ["creator-niche", "midjourney", "illustration", "instagram", "facebook"],
+    "trending": false,
+    "popularity": 83
+  },
+  {
+    "id": "micro-community-niche-finder-chatgpt",
+    "title": "Micro-Community Niche Finder — ChatGPT Prompt to Find Creator Niches Inside Small Online Groups",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Intermediate",
+    "desc": "Find creator niches hiding inside tiny Reddit, Discord and Facebook groups — small passionate communities with almost no competition and audiences who actually buy.",
+    "prompt": "You are a niche-research strategist for faceless YouTube and TikTok creators. I want you to find 10 UNDERSERVED creator niches hiding inside small online micro-communities. Step 1: list 10 micro-communities (subreddits under 50k members, Discord servers, or Facebook groups) where people are deeply passionate about a narrow hobby, craft, job or problem. Step 2: for each community, name the niche a faceless channel could own, the exact audience pain or curiosity it serves, and 3 video ideas that would feel native to that community. Step 3: score each niche 1-10 on competition (lower is better), audience passion, and monetization potential (digital products, affiliates, sponsors). Step 4: rank the 10 niches and tell me the single best one to launch first, with a 30-day content plan of 12 video titles. Rules: no niches with more than 5 established channels, no generic niches like fitness or finance, and every video idea must be filmable without showing a face. My interests: [YOUR INTERESTS]. My platform: [YOUTUBE OR TIKTOK].",
+    "howto": [
+      "Open ChatGPT and start a new chat.",
+      "Paste the full prompt above and fill in your interests and platform.",
+      "Read the ranked list and check the top 3 communities yourself for real activity.",
+      "Pick the niche with the best passion score, not just the lowest competition.",
+      "Run the 30-day plan for the winning niche before testing a second one."
+    ],
+    "tips": [
+      "Small communities beat big trends — 5,000 obsessed members outperform 5 million casual viewers.",
+      "Re-run this prompt quarterly; micro-communities grow fast and early movers win them."
+    ],
+    "tags": ["creator-niche", "chatgpt", "niche-discovery", "youtube", "tiktok"],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "audience-qa-video-machine-gemini",
+    "title": "Audience Q&A Video Idea Machine — Gemini Prompt to Turn Viewer Questions Into Viral Shorts",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "Turn your comments section into an endless Shorts machine — feed Gemini your audience's questions and get a ranked Q&A video plan for YouTube, TikTok, Facebook and Instagram.",
+    "prompt": "You are a Shorts strategist for a faceless creator channel. I will paste 20 real questions from my comments section. Your job: turn them into a viral Q&A video plan. Step 1: group the questions into 5 themes and name each theme. Step 2: for each theme, write 3 Shorts ideas (under 60 seconds) with a hook in the first 3 seconds, the exact answer structure, and a closing line that invites the next question. Step 3: rank all 15 ideas by viral potential for [PLATFORM: YouTube Shorts / TikTok / Facebook Reels / Instagram Reels], scoring hook strength, shareability and comment-bait power. Step 4: give me a 2-week posting calendar using the top 10 ideas, one per day, with the best posting time for my audience in [TIMEZONE]. Rules: hooks must be curiosity gaps, not summaries; answers must be specific, not generic; every video must end with a question that earns a comment. Here are my 20 audience questions: [PASTE QUESTIONS].",
+    "howto": [
+      "Open Gemini and start a new chat.",
+      "Paste the full prompt above with 20 real questions from your comments.",
+      "Fill in your platform and timezone before sending.",
+      "Film the top 10 ranked ideas first — the ranking is the schedule.",
+      "Reply to every new question with 'answering this in tomorrow's video' to keep the loop alive."
+    ],
+    "tips": [
+      "Q&A Shorts compound: each answer earns the next question, so the content never runs out.",
+      "Always show the original comment on screen — viewers love seeing their own question answered."
+    ],
+    "tags": ["creator-niche", "gemini", "shorts", "youtube", "tiktok"],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "niche-authority-map-claude",
+    "title": "Niche Authority Map — Claude Prompt to Own One Topic in 90 Days",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "Stop posting random videos — map every subtopic in your niche, find the gaps your rivals ignore, and own the whole topic in 90 days with a Claude-built authority plan.",
+    "prompt": "You are a content strategist who builds authority maps for faceless YouTube and TikTok creators. My niche is [NICHE] and my platform is [YOUTUBE / TIKTOK / FACEBOOK / INSTAGRAM]. Build me a Niche Authority Map. Step 1: break my niche into 8 subtopics and list 5 questions viewers ask in each — 40 questions total. Step 2: for each subtopic, name the top 3 channels already covering it and the one angle they all ignore. Step 3: mark the 10 questions with the weakest existing answers — those are my quick wins. Step 4: design a 90-day authority plan: 36 video titles (3 per week) ordered so each video links to the next, starting with the quick wins and ending with the hardest, most authoritative video in the niche. Step 5: for each of the 36 titles, write the hook (first 5 seconds), the one thing the viewer learns, and the next video to watch. Rules: every title must be searchable (include the keyword viewers actually type), no two titles may cover the same question, and the final video must be the definitive guide to the niche.",
+    "howto": [
+      "Open Claude and start a new chat.",
+      "Paste the full prompt above with your niche and platform filled in.",
+      "Verify the 10 quick-win questions yourself — search them and confirm weak answers.",
+      "Publish the 36 videos in order; the linking is what builds authority, not volume.",
+      "After day 90, re-run the prompt for the next subtopic layer."
+    ],
+    "tips": [
+      "Authority is a map, not a pile — 36 linked videos beat 100 random uploads.",
+      "The ignored angle is your moat: if all three rivals skip it, that is where you start."
+    ],
+    "tags": ["creator-niche", "claude", "strategy", "youtube", "instagram"],
+    "trending": true,
+    "popularity": 88
+  }
 ];
 
 if (typeof module !== "undefined") {
