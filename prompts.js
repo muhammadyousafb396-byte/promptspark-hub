@@ -19459,6 +19459,236 @@ const PROMPTS = [
     "popularity": 90
   },
 
+  {
+    "id": "light-train-desert-night-veo3",
+    "title": "A Train Made of Light Crosses the Desert at Night — Veo 3 Prompt for Viral YouTube Shorts",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Intermediate",
+    "desc": "A glowing train of pure light glides across a dark desert under a river of stars — the kind of impossible, beautiful shot that stops the scroll and racks up shares on YouTube Shorts and TikTok.",
+    "prompt": "Cinematic wide shot of a train made entirely of glowing golden light gliding across a vast desert at night, its windows blazing like lanterns, light spilling onto the sand dunes in long ribbons, a river of stars overhead, the Milky Way reflected in a distant salt flat, slow tracking shot keeping pace with the train, the light train casting long soft shadows, faint sparks trailing from its wheels, deep blue night sky, warm gold against cool indigo, photorealistic, ultra detailed, 16:9, no people, no text",
+    "howto": [
+      "Open Veo 3 and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 16:9 and duration to 8 seconds.",
+      "Generate 3 versions and keep the one with the strongest light spill on the sand.",
+      "Add a dreamy ambient track and post as a Short with a hook like 'A train that only runs at midnight.'"
+    ],
+    "tips": [
+      "The gold-on-indigo contrast is the whole hook — if the desert looks grey, add 'warm golden light' twice.",
+      "Loop the clip forward and back for a 16-second Short with zero extra generation."
+    ],
+    "tags": ["creator-niche", "veo 3", "fantasy", "youtube", "tiktok"],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "tiny-archaeologists-giant-teacup-veo3",
+    "title": "Tiny Archaeologists Excavate a Giant Teacup — Veo 3 Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A team of tiny archaeologists in hard hats excavates a giant teacup buried in a garden — the miniature-world formula TikTok loves, with a fresh archaeology twist nobody has used yet.",
+    "prompt": "Playful cinematic scene of a team of tiny archaeologists in yellow hard hats excavating a giant ornate teacup buried in a backyard garden, one tiny worker brushing dust off the porcelain rim with a miniature brush, another measuring the handle with a tiny tape, a third waving a small red flag, the teacup towering like a ruin, soft morning light, dew on the grass, shallow depth of field, the tiny team in sharp focus against the huge teacup, warm cheerful colors, whimsical and heartwarming, photorealistic miniature world, 9:16, no text",
+    "howto": [
+      "Open Veo 3 and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 for TikTok and Shorts.",
+      "Generate twice — keep the version where the tiny brush worker is clearly visible.",
+      "Caption it 'Archaeologists found something BIG in the garden...' and let curiosity do the work."
+    ],
+    "tips": [
+      "Swap the teacup for a thimble, a spoon or a pocket watch to spin a whole series from one prompt.",
+      "The red flag is the thumbnail moment — screenshot the frame where it waves highest."
+    ],
+    "tags": ["creator-niche", "veo 3", "miniature", "tiktok", "youtube"],
+    "trending": false,
+    "popularity": 86
+  },
+  {
+    "id": "one-legged-robot-learns-dance-kling",
+    "title": "A One-Legged Robot Learns to Dance — Kling Prompt for Viral TikTok Comedy Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "A clumsy one-legged robot tries to learn ballet in a dusty workshop — wobbles, spins, crashes, then nails the final move. Comedy plus a comeback is TikTok's favorite recipe.",
+    "prompt": "Funny heartwarming clip of a small one-legged robot learning to dance ballet in a dusty workshop, the robot wobbling on its single wheel-foot, arms flailing for balance, spinning too fast and crashing gently into a pile of pillows, then slowly rising, finding its rhythm and nailing a perfect graceful pirouette, sunlight streaming through a cracked window, tools and gears scattered around, expressive blinking robot eyes, slapstick timing with a triumphant ending, warm colors, cinematic, 9:16, no text",
+    "howto": [
+      "Open Kling and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 10 seconds.",
+      "Generate 2-3 versions and keep the one with the best crash-then-recovery beat.",
+      "Post with a caption like 'He fell 47 times. The 48th changed everything.'"
+    ],
+    "tips": [
+      "The comeback is the share trigger — make sure the final pirouette is clearly the best moment.",
+      "Reuse the same robot character for a series: cooking, painting, learning to swim."
+    ],
+    "tags": ["creator-niche", "kling", "comedy", "tiktok", "instagram"],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "library-only-opens-when-it-rains-sora",
+    "title": "The Library That Only Opens When It Rains — Sora Prompt for Faceless YouTube Story Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "A hidden library appears only on rainy nights, its shelves glowing with books that write themselves — a cozy mystery opener built to launch a whole faceless story channel.",
+    "prompt": "Cozy mystery cinematic scene: a hidden library that only appears when it rains, rain streaking the tall arched windows, warm golden lamps glowing over endless wooden shelves, books floating gently off the shelves and writing themselves in glowing ink, a brass ladder sliding along the shelves on its own, dust motes dancing in the lamplight, the smell of old paper and rain, slow camera drift down the central aisle, deep greens and warm golds, storybook atmosphere, photorealistic, 16:9, no people, no text",
+    "howto": [
+      "Open Sora and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 16:9 and duration to 10 seconds.",
+      "Generate the aisle drift twice and keep the version with the clearest floating-book moment.",
+      "Voice it over as episode 1 of a mystery series — end every episode on the library's next secret."
+    ],
+    "tips": [
+      "Rain on the windows is the mood — if Sora drops it, add 'rain streaking the windows' at the start of the prompt.",
+      "One library, endless episodes: each book that writes itself is the next story."
+    ],
+    "tags": ["creator-niche", "sora", "mystery", "youtube", "facebook"],
+    "trending": false,
+    "popularity": 84
+  },
+  {
+    "id": "embroidered-garden-comes-alive-runway",
+    "title": "An Embroidered Garden Comes Alive — Runway Prompt for Viral Instagram Art Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Intermediate",
+    "desc": "A stitched garden on an embroidery hoop blooms into motion — thread flowers unfurl, a needle bee buzzes past, and the whole hoop becomes a living world. Craft meets magic for art Reels.",
+    "prompt": "Mesmerizing loop of an embroidery hoop holding a stitched garden that comes alive, thread flowers slowly unfurling petal by petal, a tiny embroidered bee buzzing from bloom to bloom on a visible thread path, green thread vines creeping across the linen, a stitched sun rising in the corner of the hoop, the needle resting at the edge glinting in warm light, soft linen texture, pastel thread colors, gentle stop-motion feel, top-down view, 9:16, no text",
+    "howto": [
+      "Open Runway and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 6 seconds for a perfect loop.",
+      "Generate 2 versions and keep the one where the bee's thread path is visible.",
+      "Post as a Reel with craft and art hashtags — the hoop frame makes it instantly recognizable."
+    ],
+    "tips": [
+      "The visible thread path is the magic detail — without it the bee just floats.",
+      "Swap the garden for an embroidered ocean, forest or city to build a craft series."
+    ],
+    "tags": ["creator-niche", "runway", "art", "instagram", "facebook"],
+    "trending": false,
+    "popularity": 82
+  },
+  {
+    "id": "iridescent-soap-film-macro-flow",
+    "title": "Iridescent Soap Film Macro — Google Flow Prompt for Satisfying TikTok Niches",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "A soap film swirls with rainbow oil-slick colors, then pops in slow motion — a 6-second satisfying macro that TikTok's algorithm loves to push to the For You page.",
+    "prompt": "Hypnotic extreme macro of an iridescent soap film stretched across a wire ring, rainbow oil-slick colors swirling and rippling in slow motion, the film shimmering through violet, teal, gold and magenta, tiny bubbles drifting across the surface, the film thinning at the center until it pops in a delicate burst of droplets, black background for maximum color contrast, ultra sharp macro detail, satisfying and calming, 9:16, no text",
+    "howto": [
+      "Open Google Flow and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 6-8 seconds.",
+      "Generate until the pop lands in the final second — that is the rewatch trigger.",
+      "Post with satisfying and ASMR hashtags; the black background makes it pop in the feed."
+    ],
+    "tips": [
+      "The black background is non-negotiable — on white the colors wash out and the scroll stops.",
+      "Chain three color variants in one video for a 20-second satisfying compilation."
+    ],
+    "tags": ["creator-niche", "google flow", "satisfying", "tiktok", "instagram"],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "vintage-space-tourism-posters-midjourney",
+    "title": "Vintage Space Tourism Poster Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Beginner",
+    "desc": "Retro 1950s travel posters for imaginary space destinations — Mars beach resorts, Saturn ring cruises, lunar hotels. Nostalgia plus space is a proven viral combo for art pages.",
+    "prompt": "Vintage 1950s travel poster advertising a luxury holiday on Mars, art deco style, a glamorous couple in retro spacesuits sipping drinks on a red Martian beach under two moons, bold retro typography space at the top, saturated sunset orange and teal palette, screen-print texture, dramatic perspective, highly detailed, poster art, --ar 4:5 --style raw",
+    "howto": [
+      "Open Midjourney and start a new image generation.",
+      "Paste the full prompt above, keeping the --ar 4:5 flag for portrait posters.",
+      "Generate 4 versions and pick the one with the cleanest poster composition.",
+      "Swap 'Mars' and 'Martian beach' for Saturn's rings, a lunar hotel or a Venus cloud city to build the full pack.",
+      "Post as a carousel — one destination per slide — with a caption asking followers which trip they would book."
+    ],
+    "tips": [
+      "The empty typography space at the top is what makes it look like a real poster — keep it in the prompt.",
+      "A 4-destination carousel outperforms single posters because followers swipe to compare."
+    ],
+    "tags": ["creator-niche", "midjourney", "retro", "instagram", "facebook"],
+    "trending": false,
+    "popularity": 83
+  },
+  {
+    "id": "offline-hobby-niche-finder-chatgpt",
+    "title": "Offline Hobby Niche Finder — ChatGPT Prompt to Find Screen-Free Creator Niches",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "Everyone chases the same online niches — this prompt finds screen-free hobbies (whittling, foraging, bookbinding) with hungry audiences and almost no competition on YouTube, TikTok, Facebook and Instagram.",
+    "prompt": "You are a niche researcher who finds underserved creator niches for YouTube, TikTok, Facebook and Instagram. Find me 10 screen-free offline hobby niches — hobbies people do with their hands, outdoors or at a workbench, NOT on a screen — that have a real audience but fewer than 20 active faceless channels. For each niche, give me: the niche name, the exact search phrase viewers type, why it is underserved, the top 3 channels already in it and what they miss, 5 video ideas with searchable titles, and a difficulty score from 1-10. Rules: no gaming, no AI tools, no crypto, no make-money-online. Rank the 10 by opportunity score (audience size divided by competition), and tell me which one I should launch first and why.",
+    "howto": [
+      "Open ChatGPT and start a new chat.",
+      "Paste the full prompt above exactly as written.",
+      "Take the top-ranked niche and verify it yourself — search its phrase on YouTube and count the real competition.",
+      "Pick the 5 video ideas and script the first one before moving to niche number two.",
+      "Re-run the prompt every quarter — offline hobbies trend in waves."
+    ],
+    "tips": [
+      "The 'fewer than 20 active channels' rule is what keeps you out of saturated niches — do not skip it.",
+      "Offline hobbies film beautifully with a phone and natural light — zero gear needed to start."
+    ],
+    "tags": ["creator-niche", "chatgpt", "niche discovery", "youtube", "tiktok"],
+    "trending": true,
+    "popularity": 87
+  },
+  {
+    "id": "comment-to-series-planner-gemini",
+    "title": "Comment-to-Series Planner — Gemini Prompt to Turn One Comment Into a 10-Part Viral Series",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Intermediate",
+    "desc": "Your best content ideas are hiding in your comments — this prompt turns a single viewer comment into a 10-part series for YouTube, TikTok, Facebook and Instagram, with hooks and titles ready to film.",
+    "prompt": "You are a viral series strategist for YouTube Shorts, TikTok and Instagram Reels creators. Here is a real comment from one of my videos: [PASTE THE COMMENT]. Turn this one comment into a 10-part video series. Step 1: extract the hidden question, complaint or curiosity inside the comment. Step 2: design 10 episodes that answer it piece by piece, each episode 30-60 seconds, each ending on a cliffhanger that makes viewers come back for the next one. Step 3: for each episode write the searchable title, the hook (first 3 seconds), the one thing the viewer learns, and the exact call to action that sends them to the next episode. Step 4: give me the series name, the posting order, and the best platform to launch it on (YouTube, TikTok, Facebook or Instagram) with one reason why. Rules: every episode must stand alone for new viewers AND reward returning viewers, and episode 10 must answer the original comment directly and tag the commenter.",
+    "howto": [
+      "Open Gemini and start a new chat.",
+      "Paste the full prompt above with a real comment from your channel pasted in.",
+      "Pick the series name and check it is not already taken on your platform.",
+      "Film episodes 1-3 before posting episode 1 — a series dies when episode 2 is late.",
+      "Reply to the original comment with the episode 1 link so the commenter becomes your first promoter."
+    ],
+    "tips": [
+      "The best comments are complaints and corrections — they carry the most energy for a series.",
+      "Tagging the commenter in episode 10 turns one viewer into a loyal fan who shares everything."
+    ],
+    "tags": ["creator-niche", "gemini", "series", "tiktok", "youtube"],
+    "trending": false,
+    "popularity": 85
+  },
+  {
+    "id": "sponsorship-rate-card-builder-claude",
+    "title": "Sponsorship Rate Card Builder — Claude Prompt to Price Brand Deals in Any Niche",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Advanced",
+    "desc": "Stop guessing what to charge brands — this prompt builds a full sponsorship rate card from your real numbers, with negotiation scripts for YouTube, TikTok, Facebook and Instagram deals.",
+    "prompt": "You are a creator-economy pricing consultant who builds sponsorship rate cards for small and mid-size creators. My channel is in the [NICHE] niche, on [YOUTUBE / TIKTOK / FACEBOOK / INSTAGRAM], with [SUBSCRIBER COUNT] followers, [AVERAGE VIEWS] average views per video, [AVERAGE ENGAGEMENT RATE] engagement rate, and [AUDIENCE COUNTRIES]. Build me a complete sponsorship rate card. Step 1: calculate my fair price for a dedicated video, a 60-second integration, a Short/Reel, a story post and a pinned comment, using current 2026 creator-economy rates for my niche. Step 2: give me three tiers (starter, standard, premium) with exactly what the brand gets in each. Step 3: write a negotiation script for when a brand offers half my rate, and one for when a brand offers free product only. Step 4: list 5 red flags that mean I should walk away from a deal. Step 5: tell me the one number I should never reveal in a negotiation and why. Rules: every price must be justified by my actual views and engagement, not by follower count, and all prices must be in USD.",
+    "howto": [
+      "Open Claude and start a new chat.",
+      "Paste the full prompt above with your real channel numbers filled in.",
+      "Sanity-check the prices against two creators in your niche who share rates publicly.",
+      "Save the rate card as a one-page PDF and send it the moment a brand asks 'what are your rates?'",
+      "Re-run the prompt every time your average views double — your rate should move with them."
+    ],
+    "tips": [
+      "Engagement rate beats follower count in every negotiation — lead with it, never with subs.",
+      "The 'never reveal' number is your floor price — once a brand hears it, every offer lands on it."
+    ],
+    "tags": ["creator-niche", "claude", "monetization", "youtube", "instagram"],
+    "trending": true,
+    "popularity": 88
+  }
 ];
 
 if (typeof module !== "undefined") {
