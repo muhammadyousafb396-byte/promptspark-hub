@@ -19688,6 +19688,96 @@ const PROMPTS = [
     "tags": ["creator-niche", "claude", "monetization", "youtube", "instagram"],
     "trending": true,
     "popularity": 88
+  },
+  {
+    "id": "niche-2026-11-27-ai-fake-movie-trailers",
+    "title": "AI Fake Movie Trailers (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Fake AI movie trailers are the breakout format of November 2026 — TUPACABRA's 87-second 'NUREMBERG' trailer hit 29M views in 3 days from a Nov 13 post, and AI parody Shorts pulled 46M views in 9 days. One impossible premise, Hollywood-scale visuals, and the hook 'this movie doesn't exist' — viewers watch to the end just to prove it is fake. Is niche ki videos 29.4M/24.8M/18.6M/12.3M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-fake-movie-trailers.jpg",
+    "prompt": "Viral YouTube Shorts trailer video, [DURATION: 60-90 seconds], 16:9: a cinematic trailer for a movie that does not exist — [PREMISE: a 1561 battle where a giant mechanical war machine attacks a medieval city / astronauts find a glowing alien monolith on a purple desert planet / a dragon circles a floating castle above the clouds / a lone hero walks a flooded ruined city], [SHOT 1 — THE HOOK (first 3 seconds): the impossible image filling the frame — the war machine over the city, the monolith glowing — with the title card: '[MOVIE TITLE]' and 'This movie doesn't exist'], [SHOT 2 — THE ESCALATION: three quick cuts — the hero, the threat, the impossible moment — each bigger than the last], [SHOT 3 — THE PAYOFF: the money shot held for 3 seconds — the dragon's eye, the monolith opening, the city flooding], [STYLE: Hollywood blockbuster scale, dramatic orchestral swell, golden-hour and teal-orange grade, slow push-ins, epic wide shots], [ON-SCREEN TEXT: the movie title + a release date that will never come, nothing else], end with 'Would you watch this? Comment YES', no watermark",
+    "howto": [
+      "Pick ONE impossible premise per trailer — one movie, one idea; if the premise needs two movies, it is two trailers.",
+      "Open on the money shot in the first 3 seconds — the war machine, the monolith, the dragon — the impossible image IS the hook; a title card alone never stops the scroll.",
+      "End on the question 'Would you watch this? Comment YES' — the comment becomes a vote, and every vote is a viewer who wants part 2."
+    ],
+    "tips": [
+      "Hook rule: the title card must say 'This movie doesn't exist' — the disbelief is the click; viewers stay to prove it is fake.",
+      "Caption trick: post the trailer with a fake release date in the caption — 'Coming 2027' — the comments correcting you are free engagement.",
+      "Series it: 'Movies That Don't Exist #7' — one fake trailer a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "movie-trailers",
+      "ai-movies",
+      "veo 3"
+    ],
+    "trending": true,
+    "popularity": 94
+  },
+  {
+    "id": "niche-2026-11-27-ai-space-exploration-stories",
+    "title": "AI Space Exploration Stories (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Space exploration stories are Facebook's #3 faceless Reels niche for monetization (facelessgigs.com, 2026) — one real mission, one impossible moment, one number that sounds fake but is true. Meta paid creators nearly $3B in 2025, 60% via Reels, and space is the niche where 'this really happened' is the hook itself. Is niche ki videos 42.6M/31.8M/24.5M/17.9M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-space-exploration-stories.jpg",
+    "prompt": "Viral Facebook Reel, [DURATION: 30-60 seconds], vertical 9:16: one real space mission per Reel — [MISSION: the Mars rover landing / an astronaut's spacewalk rescue / a telescope's impossible discovery / the first Moon base sunrise], [SHOT 1 — THE HOOK (first 2 seconds): the impossible moment filling the frame — the rover on parachute over the red canyon, Earth glowing behind the astronaut — with one line of text: 'This really happened'], [SHOT 2 — THE DANGER: the moment it almost failed — the parachute, the tether, the signal lost — the tension IS the video], [SHOT 3 — THE PAYOFF: the success shot held for 3 seconds — the rover's first photo, the astronaut safe, the galaxy in full colour], [STYLE: cinematic space documentary, deep blacks, vivid blues and reds, slow majestic push-ins, swelling orchestral score, calm documentary voiceover], [ON-SCREEN TEXT: the mission name + the year + the one impossible number, nothing else], end with 'Which mission should be next? Comment it', no watermark",
+    "howto": [
+      "Pick ONE mission + ONE impossible moment per Reel — 'the rover landed on a parachute' beats 'space is amazing' every time because Facebook rewards the exact story people share.",
+      "Open on the danger, not the launch — the parachute opening over the canyon in the first 2 seconds is the hook; a rocket on a pad never stops the scroll.",
+      "End with the one impossible number held on screen for 3 seconds — '7 minutes of terror', '384,400 km from home' — that is the save moment: viewers save numbers they want to repeat."
+    ],
+    "tips": [
+      "Hook rule: 'This really happened' in the first frame — real beats fake; viewers stay because the impossible thing is true.",
+      "Caption trick: ask 'Would you go to Mars?' — the comments split into yes/no camps, and argument comments are the longest threads on Facebook.",
+      "Series it: 'Mission Mondays' — one mission a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "space",
+      "nasa",
+      "documentary"
+    ],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "niche-2026-11-27-ai-card-magic-reels",
+    "title": "AI Card Magic & Sleight-of-Hand Reels (Instagram Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Card magic is Instagram's sleeper viral format — a marked-deck trick Reel pulled 44M views (aubrium.com, Oct 2026 analysis of 240,000+ viral Reels), and tutorials are 27% of all faceless viral Reels. One trick, one impossible moment, hands-only — no face needed, and the 'no edits' debate in the comments does the distribution for you. Is niche ki videos 44.8M/36.2M/28.7M/19.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-card-magic-reels.jpg",
+    "prompt": "Viral Instagram Reel, [DURATION: 15-30 seconds], vertical 9:16: one impossible card trick per Reel — [TRICK: one card levitates from the fan / a card turns into a butterfly mid-air / the ace of spades glows and floats / the whole deck explodes into a tornado of cards], [SHOT 1 — THE HOOK (first 2 seconds): the impossible moment filling the frame — the levitating card, the butterfly mid-transformation — with one line of text: 'Watch the ace'], [SHOT 2 — THE BUILD: slow close-up of the hands — the fan, the shuffle, the moment before the magic — the tension IS the video], [SHOT 3 — THE REVEAL: the trick lands and holds for 3 seconds — the butterfly, the glowing ace, the card tornado — then a slow zoom on the magician's calm hands], [STYLE: dark stage background, golden dramatic light, saturated card colours, slow cinematic push-ins, a single piano note under the reveal], [ON-SCREEN TEXT: the trick name + 'no edits', nothing else], end with 'Which card should float next? Comment it', no watermark",
+    "howto": [
+      "Pick ONE trick per Reel — one card, one impossible moment; if the trick needs two reveals, it is two Reels.",
+      "Open on the impossible moment in the first 2 seconds — the levitating card, not the shuffle — the magic IS the hook; a deck on a table never stops the scroll.",
+      "End with the reveal held for 3 seconds — the butterfly, the glowing ace — that is the save moment: viewers save tricks they want to show their friends."
+    ],
+    "tips": [
+      "Hook rule: 'Watch the ace' in the first frame — one card, one instruction; the viewer's eyes lock on the ace and cannot leave until the trick lands.",
+      "Caption trick: write 'no edits' in the caption — the debate over real vs AI is the comment bait, and debate comments are free reach.",
+      "Series it: 'One Trick Tuesdays' — one card trick a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "instagram",
+      "creator-niche",
+      "card-magic",
+      "magic-tricks",
+      "close-up"
+    ],
+    "trending": true,
+    "popularity": 93
   }
 ];
 
