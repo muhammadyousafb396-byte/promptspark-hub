@@ -19778,6 +19778,236 @@ const PROMPTS = [
     ],
     "trending": true,
     "popularity": 93
+  },
+{
+    "id": "frozen-wave-surfers-glass-tunnel-veo3",
+    "title": "A Wave Frozen in Time — Surfers Inside a Glass Tunnel — Veo 3 Prompt for Viral TikTok & YouTube Shorts",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Intermediate",
+    "desc": "A giant ocean wave frozen mid-crash into a crystal tunnel, with surfers gliding through it in slow motion — the impossible-nature shot that makes viewers rewatch it three times before they share it.",
+    "prompt": "Cinematic slow-motion shot of a colossal ocean wave frozen mid-crash, its curl turned into a transparent glass tunnel, sunlight refracting through the water into rainbow shards, two surfers gliding inside the frozen tunnel on glowing surfboards, water droplets suspended in the air like diamonds, deep teal and aqua tones against warm golden sunlight, camera tracking smoothly alongside the surfers through the tunnel, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 8 seconds.",
+      "Generate 3 versions and keep the one where the light refraction through the wave is strongest.",
+      "Add a deep ocean ambience track and post as a Short with a hook like 'The wave stopped — the surfers didn't.'"
+    ],
+    "tips": [
+      "The rainbow refraction is the whole hook — if the wave looks plain blue, add 'sunlight refracting into rainbow shards' twice.",
+      "Cut the clip at the exact moment a surfer exits the tunnel for a perfect loop that viewers watch on repeat."
+    ],
+    "tags": ["creator-niche", "veo 3", "ocean", "tiktok", "youtube"],
+    "trending": true,
+    "popularity": 92
+  },
+  {
+    "id": "glassblower-phoenix-molten-glass-veo3",
+    "title": "Glassblower Shapes a Living Phoenix From Molten Glass — Veo 3 Prompt for Faceless YouTube Shorts",
+    "category": "Video Prompts",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "A master glassblower pulls a glowing phoenix out of molten glass — and it opens its wings. Craft content meets fantasy in the most watchable 8 seconds on YouTube Shorts.",
+    "prompt": "Cinematic close-up of a master glassblower in a dark workshop shaping a phoenix from glowing molten orange glass, the bird slowly spreading wings of liquid fire as the artisan turns the blowpipe, sparks drifting upward like fireflies, the phoenix's glass feathers catching the furnace light in gold and crimson, shallow depth of field, slow push-in on the glowing bird, warm amber against deep shadow, photorealistic, ultra detailed, 9:16 vertical, no text, no watermark",
+    "howto": [
+      "Open Veo 3 and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 8 seconds.",
+      "Generate 3 versions and keep the one where the phoenix wings are most clearly defined.",
+      "Add a soft crackling-fire sound bed and post as a Short with a hook like 'He blew glass — and it flew away.'"
+    ],
+    "tips": [
+      "Warm amber against deep shadow is the money contrast — if the workshop looks flat, add 'deep shadow background' to the prompt.",
+      "Hold the final frame of the phoenix with wings open for 2 seconds at the end — that is the screenshot viewers share."
+    ],
+    "tags": ["creator-niche", "veo 3", "craft", "fantasy", "youtube"],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "lost-balloon-city-journey-kling",
+    "title": "A Lost Balloon's Journey Across a City at Dawn — Kling Prompt for Viral TikTok Story Niches",
+    "category": "Video Prompts",
+    "tool": "Kling",
+    "difficulty": "Beginner",
+    "desc": "One red balloon escapes a child's hand and drifts over rooftops, rivers and morning markets — a wordless 8-second story that TikTok's story niche can't stop watching.",
+    "prompt": "A single bright red balloon drifts over a waking city at dawn, floating past sleepy rooftops, over a river bridge, through a morning market where vendors look up and smile, golden sunrise light washing the streets, the balloon's string trailing behind it like a ribbon, gentle camera following the balloon in one smooth continuous shot, warm and hopeful mood, cinematic, photorealistic, 9:16 vertical, no text, no watermark",
+    "howto": [
+      "Open Kling and start a new image-to-video or text-to-video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 5-10 seconds.",
+      "Generate 3 versions and keep the one where the balloon stays the clear hero of every frame.",
+      "Add a gentle piano track and post with a caption like 'Where do lost balloons go?' to drive comments."
+    ],
+    "tips": [
+      "One balloon, one colour — if Kling adds extra balloons, add 'a single red balloon, no other balloons' to the prompt.",
+      "The market-smile beat is the emotional payoff — keep the shot where vendors look up, it is what viewers remember."
+    ],
+    "tags": ["creator-niche", "kling", "story", "tiktok", "emotional"],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "watchmaker-repairs-time-sora",
+    "title": "The Watchmaker Who Repairs Time Itself — Sora Prompt for Faceless YouTube Story Niches",
+    "category": "Video Prompts",
+    "tool": "Sora",
+    "difficulty": "Intermediate",
+    "desc": "An old watchmaker opens a broken pocket watch — and the whole room rewinds. A faceless YouTube story opener with a hook nobody scrolls past.",
+    "prompt": "Cinematic scene inside a dusty old watchmaker's shop at midnight, an elderly watchmaker in an apron opens a broken golden pocket watch, and time itself rewinds around him — dust motes float backwards, a candle flame shrinks, clock hands spin in reverse, gears and springs float out of the watch and hang glowing in the air, warm lantern light against deep shadows, slow orbiting camera around the watchmaker, mysterious and magical mood, photorealistic, ultra detailed, 16:9, no text, no watermark",
+    "howto": [
+      "Open Sora and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 16:9 and duration to 10 seconds.",
+      "Generate 3 versions and keep the one where the rewinding motion reads clearly in the first 2 seconds.",
+      "Add a soft ticking clock sound bed and use it as the cold open of a faceless story video."
+    ],
+    "tips": [
+      "The rewind must be visible instantly — if the first frames look static, add 'dust motes float backwards' near the start of the prompt.",
+      "End the clip on the watchmaker's calm face, not the watch — the human beat is what makes viewers stay for the story."
+    ],
+    "tags": ["creator-niche", "sora", "story", "youtube", "fantasy"],
+    "trending": true,
+    "popularity": 91
+  },
+  {
+    "id": "vintage-typewriter-writes-story-runway",
+    "title": "A Vintage Typewriter Writes Its Own Story — Runway Prompt for Viral Instagram Reels Niches",
+    "category": "Video Prompts",
+    "tool": "Runway",
+    "difficulty": "Beginner",
+    "desc": "A vintage typewriter in an empty room types by itself — and the words lift off the page as tiny paper birds. The cozy-mystery Reel Instagram's art niche shares on sight.",
+    "prompt": "A vintage brass typewriter on a wooden desk in a sunlit attic types all by itself, its keys pressing down with no hands, each typed word lifting off the paper as a tiny origami bird that flutters up toward the window, dust motes glowing in golden afternoon light, paper birds circling the room in slow graceful loops, warm nostalgic mood, shallow depth of field, slow push-in on the typewriter, cinematic, photorealistic, 9:16 vertical, no text, no watermark",
+    "howto": [
+      "Open Runway and start a new text-to-video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 5-10 seconds.",
+      "Generate 3 versions and keep the one where the paper birds are clearly visible leaving the page.",
+      "Add a soft typewriter clack sound bed and post as a Reel with a hook like 'The typewriter finished the story itself.'"
+    ],
+    "tips": [
+      "The birds must read as birds, not blobs — if they blur, add 'tiny origami birds with clear folded wings' to the prompt.",
+      "Golden afternoon light is the whole cozy mood — if the room looks grey, add 'warm golden afternoon light' twice."
+    ],
+    "tags": ["creator-niche", "runway", "art", "instagram", "cozy"],
+    "trending": true,
+    "popularity": 88
+  },
+  {
+    "id": "dandelion-clock-galaxy-explosion-flow",
+    "title": "A Dandelion Clock Explodes Into a Galaxy — Google Flow Prompt for Satisfying TikTok & Facebook Reels",
+    "category": "Video Prompts",
+    "tool": "Google Flow",
+    "difficulty": "Beginner",
+    "desc": "One breath blows a dandelion apart — and every seed becomes a star. The satisfying macro loop that stops the scroll on TikTok and Facebook Reels.",
+    "prompt": "Extreme macro slow-motion shot of a single dandelion clock against a deep black background, a gentle breath of air hits it and the seeds explode outward in perfect slow motion, each seed glowing and transforming into a tiny star as it drifts, a miniature galaxy blooming where the flower was, soft white and gold light against pure black, hypnotic and satisfying, camera locked on the flower centre, cinematic, ultra detailed, 9:16 vertical, no text, no watermark",
+    "howto": [
+      "Open Google Flow and start a new video generation.",
+      "Paste the full prompt above into the prompt box.",
+      "Set aspect ratio to 9:16 and duration to 8 seconds.",
+      "Generate 3 versions and keep the one where the seed-to-star transformation is clearest.",
+      "Add a soft shimmering sound bed and post as a Reel with a hook like 'Blow on it — watch what happens.'"
+    ],
+    "tips": [
+      "Pure black background is non-negotiable — it makes the glowing seeds pop; if Flow adds a garden, add 'deep black background, no garden' to the prompt.",
+      "Loop the clip forward and back for a 16-second satisfying loop with zero extra generation."
+    ],
+    "tags": ["creator-niche", "google flow", "satisfying", "tiktok", "facebook"],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "art-deco-underwater-ballroom-midjourney",
+    "title": "Art Deco Underwater Ballroom Illustration Pack — Midjourney Prompt for Instagram & Facebook Art Pages",
+    "category": "Image Prompts",
+    "tool": "Midjourney",
+    "difficulty": "Intermediate",
+    "desc": "A grand Art Deco ballroom sunk beneath the sea, dancers in gold gowns waltzing with jellyfish light — the fantasy illustration pack Instagram art pages save and share.",
+    "prompt": "A grand Art Deco ballroom sunk beneath the ocean, elegant dancers in flowing gold gowns waltzing across a marble floor, glowing jellyfish drifting like chandeliers overhead, rays of teal sunlight streaming through tall arched windows, schools of tiny silver fish swirling like confetti, ornate geometric gold details on every wall, luxurious 1920s poster style, rich teal and gold palette, ultra detailed illustration, --ar 4:5 --style raw --v 6.1",
+    "howto": [
+      "Open Midjourney and paste the full prompt above into the imagine box.",
+      "Keep the --ar 4:5 ratio for Instagram and Facebook feeds.",
+      "Generate 4 variations and upscale the one with the strongest jellyfish-chandelier glow.",
+      "Remix the same prompt swapping 'ballroom' for 'library', 'theatre' or 'train station' for a matching pack of 4 images.",
+      "Post as a carousel with the caption 'Which room should sink next?' to drive saves and comments."
+    ],
+    "tips": [
+      "The teal-and-gold palette is the signature — if the image goes too blue, add 'rich gold details' to the prompt.",
+      "One hero dancer in the centre keeps the composition from getting busy — ask for 'one couple in the foreground' if the scene crowds."
+    ],
+    "tags": ["creator-niche", "midjourney", "art-deco", "instagram", "facebook"],
+    "trending": false,
+    "popularity": 87
+  },
+  {
+    "id": "silent-hobby-niche-finder-chatgpt",
+    "title": "Silent Hobby Niche Finder — ChatGPT Prompt to Find Quiet, Low-Competition Creator Niches",
+    "category": "Text Prompts",
+    "tool": "ChatGPT",
+    "difficulty": "Beginner",
+    "desc": "Some of the most profitable creator niches are the quiet ones — no shouting, no face, no trends. This ChatGPT prompt digs up silent hobbies with hungry audiences and almost no competition.",
+    "prompt": "Act as a niche-research strategist for faceless creators. Find me 10 'silent hobby' niches — quiet, calm hobbies people practise alone (like bookbinding, bonsai, lock-picking, calligraphy, model railways) that have a hungry audience on YouTube, TikTok, Facebook or Instagram but very few creators making content about them. For EACH niche give me: (1) the hobby and why it is 'silent' — no talking head needed, (2) proof of demand — 3 search phrases people actually type, (3) the competition level — how many channels under 10K subs cover it, (4) the easiest first video idea that needs zero filming skill, (5) how it can make money — ads, affiliates, digital products. Rank the 10 niches from lowest competition to highest, and flag the top 3 I should start this month.",
+    "howto": [
+      "Open ChatGPT and paste the full prompt above.",
+      "Answer its follow-up questions about your skills and budget honestly — a niche you can actually make content for beats a bigger one you cannot.",
+      "Take the top 3 flagged niches and search each one on YouTube — if the top 5 videos are all 2+ years old, the niche is genuinely underserved.",
+      "Pick ONE niche and make 5 videos before judging it — silent niches grow slow for 2 weeks, then compound.",
+      "Save the ranked list and re-run the prompt monthly — quiet hobbies trend in waves, and early beats loud."
+    ],
+    "tips": [
+      "Ask ChatGPT to compare two niches head-to-head when you are torn — 'Which has lower competition: bonsai or bookbinding?' forces a real answer, not a list.",
+      "The 'zero filming skill' first video is the test — if you cannot make video 1 this weekend, the niche is wrong for you."
+    ],
+    "tags": ["creator-niche", "chatgpt", "niche-discovery", "youtube", "tiktok"],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "reaction-video-angle-machine-gemini",
+    "title": "Reaction-Video Angle Machine — Gemini Prompt to Turn Any Clip Into a Viral Reaction Series",
+    "category": "Text Prompts",
+    "tool": "Gemini",
+    "difficulty": "Beginner",
+    "desc": "Reaction videos are TikTok and YouTube's easiest viral format — if the angle is fresh. This Gemini prompt turns any clip, trend or niche moment into 10 reaction angles nobody else is using.",
+    "prompt": "Act as a viral-format strategist for reaction channels on TikTok and YouTube Shorts. I will give you a clip, trend or niche moment. For it, generate 10 DIFFERENT reaction-video angles — not 'I watch this clip', but fresh formats like: the expert debunks it, the beginner tries it live, the grandma reacts, the silent stare-down, the 3-second pause challenge, the 'what they missed' breakdown. For EACH angle give me: (1) the angle name, (2) the exact first 3 seconds — what the viewer sees and hears, (3) the one line I say or the one expression I hold, (4) why this angle works for THIS clip, (5) the platform it fits best — TikTok, YouTube Shorts, Facebook Reels or Instagram. Then rank the 10 angles by viral potential and tell me which 3 to film first. My clip/trend is: [PASTE YOUR CLIP OR TREND HERE].",
+    "howto": [
+      "Open Gemini and paste the full prompt above, replacing the bracket with your clip or trend.",
+      "Film the top 3 ranked angles on the same clip — one clip, three videos, triple the chances.",
+      "Keep every reaction under 30 seconds — the angle must land before the viewer's thumb moves.",
+      "Post the best angle on TikTok first, then re-cut the other two for Shorts and Reels the same day.",
+      "Track which angle got the most watch time and re-run the prompt with that angle as your new default format."
+    ],
+    "tips": [
+      "The 'silent stare-down' and 'expert debunks' angles outperform plain watching by a mile — viewers stay to see WHEN you react, not IF.",
+      "Never react to a clip you have not watched twice — the best angle hides in the second viewing, usually in the last 3 seconds."
+    ],
+    "tags": ["creator-niche", "gemini", "reaction-videos", "tiktok", "youtube"],
+    "trending": true,
+    "popularity": 89
+  },
+  {
+    "id": "collab-matchmaker-map-claude",
+    "title": "Collab Matchmaker Map — Claude Prompt to Find Channels to Collab With in Any Niche",
+    "category": "Text Prompts",
+    "tool": "Claude",
+    "difficulty": "Intermediate",
+    "desc": "The fastest way to grow a small channel is borrowing someone else's audience — legally. This Claude prompt maps the perfect collab partners in your niche and writes the outreach for you.",
+    "prompt": "Act as a creator-growth strategist. My channel is about [YOUR NICHE] on [PLATFORM: YouTube / TikTok / Facebook / Instagram], with [YOUR SUBSCRIBER COUNT] subscribers. Find me 10 ideal collaboration partners: channels in my niche OR a neighbouring niche, with 0.5x to 3x my audience size, whose viewers would genuinely like my content. For EACH partner give me: (1) the channel name and why the audience overlap works, (2) the exact collab format — duet, joint video, shoutout swap, guest segment — and why that format fits both channels, (3) what I offer them — be specific, not 'exposure', (4) a short outreach message I can copy-paste, written in a friendly human tone, (5) the risk — what could go wrong and how to avoid it. Then rank the 10 partners by 'most likely to say yes' and give me a 30-day outreach schedule — 3 messages a week, in order.",
+    "howto": [
+      "Open Claude and paste the full prompt above, filling in your niche, platform and subscriber count.",
+      "Verify the top 3 partner channels exist and are still active — Claude's knowledge can be months out of date.",
+      "Send the outreach messages in the ranked order, 3 per week — never all 10 at once, or the replies blur together.",
+      "When someone says yes, propose the format Claude suggested but let them adjust it — a collab they co-own performs twice as well.",
+      "After each collab, re-run the prompt with your new subscriber count — your ideal partner size grows with you."
+    ],
+    "tips": [
+      "The 0.5x to 3x audience rule is the whole game — partners your own size say yes 10x more often than giants, and their audiences actually convert.",
+      "Lead every outreach message with what YOU offer them, never with your subscriber count — small channels that give first get replies first."
+    ],
+    "tags": ["creator-niche", "claude", "collaboration", "youtube", "instagram"],
+    "trending": false,
+    "popularity": 86
   }
 ];
 
