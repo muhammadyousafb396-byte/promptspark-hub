@@ -20009,6 +20009,97 @@ const PROMPTS = [
     "trending": false,
     "popularity": 86
   }
+,
+  {
+    "id": "niche-2026-11-28-ai-nostalgia-retro-gadgets",
+    "title": "AI Nostalgic Retro Gadgets (TikTok Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Nostalgic retro gadgets are among the 35 best faceless TikTok niches of November 2026 (virlo.ai) — 'remember when' hooks make viewers stop, comment their own memories, and tag friends who had the same phone. Old devices are pure nostalgia bait: everyone over 25 has a story about a Nokia, a Walkman or a CRT TV. Is niche ki videos 214.8M/186.3M/159.7M/132.4M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-nostalgia-retro-gadgets.jpg",
+    "prompt": "Viral TikTok video, [DURATION: 15-30 seconds], vertical 9:16: one nostalgic retro gadget per video — [GADGET: a chunky Nokia phone with a glowing screen / a Sony Walkman with orange headphones / a CRT TV running a pixel game / a Polaroid camera ejecting a bright photo], [SHOT 1 — THE HOOK (first 2 seconds): the gadget filling the frame in warm nostalgic light, with one line of text: 'Remember this?'], [SHOT 2 — THE DEMO: hands using the gadget the satisfying old way — the antenna pulled up, the cassette clicked in, the photo sliding out], [SHOT 3 — THE PAYOFF: the gadget working perfectly, glowing screen or printed photo held up to camera for 3 seconds], [STYLE: warm golden light, saturated retro colours, cozy bedroom or desk setting, lo-fi nostalgic music, satisfying ASMR clicks and whirs, photorealistic, ultra detailed], [ON-SCREEN TEXT: the gadget name + the year it ruled, nothing else], end with 'Which one did you own? Comment it', no watermark",
+    "howto": [
+      "Pick ONE gadget per video — one device, one memory; if the video needs two gadgets, it is two videos.",
+      "Open on the gadget in the first 2 seconds with the text 'Remember this?' — the recognition moment IS the hook; a desk shot alone never stops the scroll.",
+      "End by asking 'Which one did you own? Comment it' — the comment becomes a memory, and every memory is a viewer who wants part 2."
+    ],
+    "tips": [
+      "Hook rule: 'Remember this?' in the first frame — nostalgia is the strongest scroll-stopper on TikTok; recognition beats curiosity every time.",
+      "Caption trick: name the exact year in the caption — '1999. Who had this?' — the comments correcting you or sharing their year are free engagement.",
+      "Series it: 'Gadgets We Lost #12' — one retro device a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "tiktok",
+      "creator-niche",
+      "retro-gadgets",
+      "nostalgia",
+      "veo 3"
+    ],
+    "trending": true,
+    "popularity": 93
+  },
+  {
+    "id": "niche-2026-11-28-ai-bookbinding-restoration",
+    "title": "AI Bookbinding & Restoration (YouTube Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Bookbinding and restoration is one of the 23 faceless YouTube niches still wide open in 2026 (opus.pro) — restoration channels regularly cross 5M views per video, and the format is pure calm satisfaction: a ruined book becomes a jewel in front of your eyes. Hand-only, zero face, infinite supply of old books. Is niche ki videos 5.8M/4.6M/3.9M/2.7M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-bookbinding-restoration.jpg",
+    "prompt": "Viral YouTube video, [DURATION: 8-12 minutes long-form OR 30-60 second Short], 16:9: one old book restored per video — [BOOK: a torn 100-year-old leather classic / a water-damaged family Bible / a dusty library hardback with gold embossing], [SHOT 1 — THE HOOK (first 5 seconds): the ruined book in close-up — torn spine, stained pages — with one line: 'This book was thrown away'], [SHOT 2 — THE PROCESS: hands-only restoration in satisfying steps — cleaning the pages, re-stitching the spine, pressing gold leaf, the leather reborn], [SHOT 3 — THE REVEAL: the finished book glowing in warm library light, pages fanned open, held for 5 seconds], [STYLE: warm workshop light, rich leather reds and golds, calm ASMR sounds — paper, thread, glue — slow deliberate camera, satisfying before/after split], [ON-SCREEN TEXT: the book's age + the hours spent, nothing else], end with 'Which book should I save next? Comment it', no watermark",
+    "howto": [
+      "Pick ONE book + ONE ruin per video — 'the torn spine' or 'the water damage' — one restoration arc; if the book needs two rescues, it is two videos.",
+      "Open on the ruined book in the first 5 seconds with 'This book was thrown away' — the tragedy IS the hook; a shelf of books never stops the scroll.",
+      "Hold the finished book on screen for 5 full seconds at the end — the reveal is the save moment: viewers save transformations they want to rewatch."
+    ],
+    "tips": [
+      "Hook rule: show the worst damage first — the torn spine, the stained pages — the worse the ruin, the bigger the payoff; restoration is satisfaction, and satisfaction needs contrast.",
+      "Caption trick: put the book's age and the hours spent in the title — '100-year-old book, 40 hours of work' — numbers make the transformation feel real.",
+      "Series it: 'Saved From the Trash #9' — one rescued book a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "youtube",
+      "creator-niche",
+      "bookbinding",
+      "restoration",
+      "asmr"
+    ],
+    "trending": true,
+    "popularity": 90
+  },
+  {
+    "id": "niche-2026-11-28-ai-underwater-mysteries",
+    "title": "AI Underwater Mysteries (Facebook Niche)",
+    "category": "Viral Niches",
+    "tool": "Veo 3",
+    "difficulty": "Beginner",
+    "desc": "Underwater Mysteries is #4 on facelessgigs.com's 16 best faceless Facebook Reels niches for 2026 — the ocean is the last unexplored place on Earth, and every Reel is a question nobody can answer: what's down there? Sunken cities, glowing creatures, shipwrecks full of gold — curiosity is the click. Is niche ki videos 96.4M/78.2M/61.5M/47.8M views tak gayi hain.",
+    "image": "images/niches/niche-grid-ai-underwater-mysteries.jpg",
+    "prompt": "Viral Facebook Reel, [DURATION: 30-60 seconds], vertical 9:16: one underwater mystery per Reel — [MYSTERY: a sunken temple with stone columns / a glowing anglerfish in the deep dark / a whale shark swimming through a fish tornado / a pirate shipwreck spilling gold], [SHOT 1 — THE HOOK (first 2 seconds): the mystery filling the frame in glowing blue water, with one line of text: 'Nobody knows what's down there'], [SHOT 2 — THE DESCENT: the camera sinking deeper — light fading, pressure rising, the creature or ruin slowly revealed], [SHOT 3 — THE PAYOFF: the impossible sight held for 3 seconds — the temple doors, the glowing lure, the gold chest opening], [STYLE: cinematic ocean documentary, vivid turquoise and deep blue, god rays from the surface, slow majestic drift, swelling mysterious score, calm documentary voiceover], [ON-SCREEN TEXT: the depth in metres + the one impossible fact, nothing else], end with 'Would you dive down there? Comment YES or NO', no watermark",
+    "howto": [
+      "Pick ONE mystery + ONE impossible fact per Reel — 'deeper than Everest is tall' beats 'the ocean is big' every time because Facebook rewards the exact fact people share.",
+      "Open on the mystery in the first 2 seconds with 'Nobody knows what's down there' — the unknown IS the hook; a pretty fish never stops the scroll.",
+      "End with the depth in metres held on screen for 3 seconds — '10,935 metres down' — that is the save moment: viewers save numbers they want to repeat."
+    ],
+    "tips": [
+      "Hook rule: 'Nobody knows what's down there' in the first frame — the ocean is mystery by default; humans are wired to fear and love the unknown deep.",
+      "Caption trick: ask 'Would you dive down there? YES or NO' — the comments split into brave vs terrified camps, and argument comments are the longest threads on Facebook.",
+      "Series it: 'Deep Sea Saturdays' — one mystery a week turns a format into a habit, and a habit is a follow machine."
+    ],
+    "tags": [
+      "viral-niche",
+      "facebook",
+      "creator-niche",
+      "ocean",
+      "underwater",
+      "mysteries"
+    ],
+    "trending": true,
+    "popularity": 92
+  }
 ];
 
 if (typeof module !== "undefined") {
